@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sometimes system adminstrator, student or part-time idiot. I'm managing some organisations as well as some static web-frontends over here. 
+I've just graduated and currently on my way to the TU Munich. I'm currently rebuilding static web frontends as well as some different other projects I'm interested in.
 
 twh-net GbR: [@twh-net](https://github.com/twh-net)
 
