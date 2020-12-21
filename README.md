@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I've just graduated and currently on my way to the TU Munich. I'm currently rebuilding static web frontends as well as some different other projects I'm interested in.
+I have just graduated and am now studying at the Augsburg University of Applied Sciences. I am currently rebuilding static web front ends as well as some other projects that I am interested in.
 
 twh-net GbR: [@twh-net](https://github.com/twh-net)
 
