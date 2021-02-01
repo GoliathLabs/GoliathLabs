@@ -12,3 +12,6 @@ In the meantime, I look forward to contributing to many open source projects! �
 - My web presence <a href="https://www.xdfr.de">xdfr.de</a> or <a href="https://www.twh-net.de">twh-net.de</a> 📹
 - Sharing opinions on <a href="https://twitter.com/officialfelixx">@officialfelixx</a> 🏓
 - Contact me via <a href="mailto:contact@xdfr.de">eMail</a> 💼
+
+## Some stats:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goliathlabs)](https://github.com/anuraghazra/github-readme-stats)
