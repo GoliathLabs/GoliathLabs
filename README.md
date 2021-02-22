@@ -1,17 +1,42 @@
-### Hi there 👋
+## Bio
 
-I have just graduated and am now studying at the Augsburg University of Applied Sciences. I am currently rebuilding static web front ends as well as some other projects that I am interested in.
+Hello, my name is Felix and I am a computer science student at the [Augsburg University of Applied Sciences](https://www.hs-augsburg.de/en/). I always try to learn new things and expand my current knowledge.
+I also write my own blog posts. Take a [look](https://blog.xdfr.de).
 
-twh-net GbR: [@twh-net](https://github.com/twh-net)
+## Skills
 
-XDFR Alliance: [@XDFRAlliance](https://github.com/XtremeDisastrousFileRecovery)
+UNIX system administration; Container orchestration and networking; programming
 
-In the meantime, I look forward to contributing to many open source projects! ✨
+## Languages
 
-## Find me around the web 🌎:
-- My web presence <a href="https://www.xdfr.de">xdfr.de</a> or <a href="https://www.twh-net.de">twh-net.de</a> 📹
-- Sharing opinions on <a href="https://twitter.com/officialfelixx">@officialfelixx</a> 🏓
-- Contact me via <a href="mailto:contact@xdfr.de">eMail</a> 💼
+Little to moderate experience with:
+- Java
+- Python
 
-## Some stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goliathlabs)](https://github.com/anuraghazra/github-readme-stats)
+
+## Unixes
+
+I feel confident in administrating & using:
+- Arch Linux
+- Debian / Ubuntu
+- CentOS / Fedora
+
+Little to moderate experience with:
+- Alpine Linux
+- CentOS / Fedora
+- Clear Linux
+- Container Linux
+
+## Contact
+
+[See my homepage](https://www.xdfr.de)
+
+## Some graph
+
+![mystats](https://github-readme-stats.vercel.app/api?username=goliathlabs&disable_animations=true&count_private=true&theme=onedark&custom_title=Stats)
+
+_[The graph project used for the metrics](https://github.com/anuraghazra/github-readme-stats)_
+
+## Public projects
+
+See pinned repositories.
