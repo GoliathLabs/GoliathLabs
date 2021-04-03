@@ -29,7 +29,7 @@ Little to moderate experience with:
 
 ## Contact
 
-[See my homepage](https://www.xdfr.de)
+git(at)xdfr(dot)de
 
 ## Some graph
 
