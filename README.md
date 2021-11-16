@@ -19,7 +19,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2021.11.1-next1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2021.11.1-next1), 1 week ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2021.11.1-next1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2021.11.1-next1), 2 weeks ago) - Freifunk München specific Gluon configuration
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.2.0](https://github.com/tarampampam/error-pages/releases/tag/v2.2.0), 1 month ago) - :construction: Server error pages in the docker image
 - [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) ([v0.0.2](https://github.com/awlx/snmp-to-influx-python/releases/tag/v0.0.2), 1 month ago) - 
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.0.7](https://github.com/freifunkMUC/wgkex/releases/tag/v0.0.7), 2 months ago) - 
@@ -35,7 +35,7 @@
 - [Removed: Old gateway-status html page &amp; projekktor JS files](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/291) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
 - [Added: Archer C25 v1](https://github.com/freifunkMUC/site-ffm/pull/164) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 week ago)
 - [Added: server redirect to legacy devices post](https://github.com/freifunkMUC/ffmuc-salt-public/pull/72) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
-- [Updated: jquery &amp; replaces projekktor](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/287) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
+- [Updated: jquery &amp; replaces projekktor](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/287) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
 - [Added: dependabot](https://github.com/freifunkMUC/meshviewer/pull/6) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (2 weeks ago)
 - [Added: dependabot.yml](https://github.com/freifunkMUC/wg-access-server/pull/14) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [Added: Dependabot config](https://github.com/Monogramm/autodiscover-email-settings/pull/17) on [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) (2 weeks ago)
@@ -43,7 +43,7 @@
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/69863960a08efeb03ad576ccaf93d880) (today)
+- [](https://gist.github.com/69863960a08efeb03ad576ccaf93d880) (1 day ago)
 
 #### ⭐ Recent Stars
 
