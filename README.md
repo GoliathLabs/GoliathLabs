@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json. (today)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - :construction: Server error pages in the docker image (4 weeks ago)
@@ -11,7 +12,6 @@
 - [teknowledgist/Chocolatey-packages](https://github.com/teknowledgist/Chocolatey-packages) - Packages for chocolatey.org (1 month ago)
 - [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) -  (1 month ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (3 months ago)
-- [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) - GitHub Action for running salt-lint as part of your workflows! (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -24,6 +24,7 @@
 - [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) ([v0.0.2](https://github.com/awlx/snmp-to-influx-python/releases/tag/v0.0.2), 1 month ago) - 
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.0.7](https://github.com/freifunkMUC/wgkex/releases/tag/v0.0.7), 2 months ago) - 
 - [jwestp/docker-supertuxkart](https://github.com/jwestp/docker-supertuxkart) ([1.1.2](https://github.com/jwestp/docker-supertuxkart/releases/tag/1.1.2), 5 months ago) - Docker image for deploying a SuperTuxKart server
+- [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.4.1](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.4.1), 8 months ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
 - [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) ([v0.0.2](https://github.com/roaldnefs/salt-lint-action/releases/tag/v0.0.2), 1 year ago) - GitHub Action for running salt-lint as part of your workflows!
 - [freifunk-berlin/firmware](https://github.com/freifunk-berlin/firmware) ([v1.0.6](https://github.com/freifunk-berlin/firmware/releases/tag/v1.0.6), 1 year ago) - Build system for Berlin firmware
 - [teknowledgist/Chocolatey-packages](https://github.com/teknowledgist/Chocolatey-packages) ([v1.0](https://github.com/teknowledgist/Chocolatey-packages/releases/tag/v1.0), 4 years ago) - Packages for chocolatey.org
