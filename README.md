@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices (today)
 
 #### 👯 Check out some of my recent followers
 
