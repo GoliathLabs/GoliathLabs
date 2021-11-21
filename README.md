@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json. (3 days ago)
+- [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json. (4 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - :construction: Server error pages in the docker image (1 month ago)
@@ -30,7 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added: dependabot.yml](https://github.com/kereis/traefik-certs-dumper/pull/46) on [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) (1 week ago)
+- [Added: dependabot.yml](https://github.com/kereis/traefik-certs-dumper/pull/46) on [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) (2 weeks ago)
 - [Logo](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/292) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
 - [Removed: Old gateway-status html page &amp; projekktor JS files](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/291) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
 - [Added: Archer C25 v1](https://github.com/freifunkMUC/site-ffm/pull/164) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (2 weeks ago)
@@ -43,11 +43,11 @@
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/69863960a08efeb03ad576ccaf93d880) (5 days ago)
+- [](https://gist.github.com/69863960a08efeb03ad576ccaf93d880) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices (2 days ago)
+- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
