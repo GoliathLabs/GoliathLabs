@@ -43,7 +43,7 @@
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/69863960a08efeb03ad576ccaf93d880) (6 days ago)
+- [My Keybase proof](https://gist.github.com/69863960a08efeb03ad576ccaf93d880) (6 days ago)
 
 #### ⭐ Recent Stars
 
