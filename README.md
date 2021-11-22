@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json. (4 days ago)
+- [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json. (5 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - :construction: Server error pages in the docker image (1 month ago)
@@ -36,18 +36,18 @@
 - [Added: Archer C25 v1](https://github.com/freifunkMUC/site-ffm/pull/164) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (2 weeks ago)
 - [Added: server redirect to legacy devices post](https://github.com/freifunkMUC/ffmuc-salt-public/pull/72) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 weeks ago)
 - [Updated: jquery &amp; replaces projekktor](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/287) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
-- [Added: dependabot](https://github.com/freifunkMUC/meshviewer/pull/6) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (2 weeks ago)
-- [Added: dependabot.yml](https://github.com/freifunkMUC/wg-access-server/pull/14) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
-- [Added: Dependabot config](https://github.com/Monogramm/autodiscover-email-settings/pull/17) on [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) (2 weeks ago)
+- [Added: dependabot](https://github.com/freifunkMUC/meshviewer/pull/6) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (3 weeks ago)
+- [Added: dependabot.yml](https://github.com/freifunkMUC/wg-access-server/pull/14) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
+- [Added: Dependabot config](https://github.com/Monogramm/autodiscover-email-settings/pull/17) on [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) (3 weeks ago)
 - [Add archer c25 v1](https://github.com/freifunk-gluon/gluon/pull/2331) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
-- [My Keybase proof](https://gist.github.com/69863960a08efeb03ad576ccaf93d880) (6 days ago)
+- [My Keybase proof](https://gist.github.com/69863960a08efeb03ad576ccaf93d880) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices (3 days ago)
+- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
