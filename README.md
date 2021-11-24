@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json. (6 days ago)
+- [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json. (1 week ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - :construction: Server error pages in the docker image (1 month ago)
@@ -10,7 +10,7 @@
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 month ago)
 - [psi-4ward/hello-world-container](https://github.com/psi-4ward/hello-world-container) - Minimal Alpine PHP7 Hello-World Container (1 month ago)
 - [teknowledgist/Chocolatey-packages](https://github.com/teknowledgist/Chocolatey-packages) - Packages for chocolatey.org (1 month ago)
-- [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) -  (1 month ago)
+- [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) -  (2 months ago)
 - [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) - GitHub Action for running salt-lint as part of your workflows! (3 months ago)
 
 #### 🌱 My latest projects
@@ -30,8 +30,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added: Dependabot config &amp; gitleaks gh-action](https://github.com/phpipam-docker/phpipam-docker/pull/14) on [phpipam-docker/phpipam-docker](https://github.com/phpipam-docker/phpipam-docker) (today)
-- [Updated: Dockerfile &amp; gh-actions](https://github.com/robbertkl/docker-ipv6nat/pull/73) on [robbertkl/docker-ipv6nat](https://github.com/robbertkl/docker-ipv6nat) (today)
+- [Added: Dependabot config &amp; gitleaks gh-action](https://github.com/phpipam-docker/phpipam-docker/pull/14) on [phpipam-docker/phpipam-docker](https://github.com/phpipam-docker/phpipam-docker) (1 day ago)
+- [Updated: Dockerfile &amp; gh-actions](https://github.com/robbertkl/docker-ipv6nat/pull/73) on [robbertkl/docker-ipv6nat](https://github.com/robbertkl/docker-ipv6nat) (1 day ago)
 - [Added: dependabot.yml](https://github.com/kereis/traefik-certs-dumper/pull/46) on [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) (2 weeks ago)
 - [Logo](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/292) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
 - [Removed: Old gateway-status html page &amp; projekktor JS files](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/291) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices (5 days ago)
+- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
