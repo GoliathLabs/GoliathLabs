@@ -4,7 +4,7 @@
 
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json. (1 week ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (3 weeks ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - :construction: Server error pages in the docker image (1 month ago)
 - [StiviiK/oidc-forward-auth](https://github.com/StiviiK/oidc-forward-auth) - OpenID Connect ForwardAuth for containo.us Traefik 🔐 (1 month ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 month ago)
@@ -30,13 +30,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added: Dependabot config &amp; gitleaks gh-action](https://github.com/phpipam-docker/phpipam-docker/pull/14) on [phpipam-docker/phpipam-docker](https://github.com/phpipam-docker/phpipam-docker) (1 day ago)
-- [Updated: Dockerfile &amp; gh-actions](https://github.com/robbertkl/docker-ipv6nat/pull/73) on [robbertkl/docker-ipv6nat](https://github.com/robbertkl/docker-ipv6nat) (1 day ago)
+- [Added: Dependabot config &amp; gitleaks gh-action](https://github.com/phpipam-docker/phpipam-docker/pull/14) on [phpipam-docker/phpipam-docker](https://github.com/phpipam-docker/phpipam-docker) (2 days ago)
+- [Updated: Dockerfile &amp; gh-actions](https://github.com/robbertkl/docker-ipv6nat/pull/73) on [robbertkl/docker-ipv6nat](https://github.com/robbertkl/docker-ipv6nat) (2 days ago)
 - [Added: dependabot.yml](https://github.com/kereis/traefik-certs-dumper/pull/46) on [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) (2 weeks ago)
 - [Logo](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/292) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
 - [Removed: Old gateway-status html page &amp; projekktor JS files](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/291) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
 - [Added: Archer C25 v1](https://github.com/freifunkMUC/site-ffm/pull/164) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (2 weeks ago)
-- [Added: server redirect to legacy devices post](https://github.com/freifunkMUC/ffmuc-salt-public/pull/72) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 weeks ago)
+- [Added: server redirect to legacy devices post](https://github.com/freifunkMUC/ffmuc-salt-public/pull/72) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 weeks ago)
 - [Updated: jquery &amp; replaces projekktor](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/287) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 weeks ago)
 - [Added: dependabot](https://github.com/freifunkMUC/meshviewer/pull/6) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (3 weeks ago)
 - [Added: dependabot.yml](https://github.com/freifunkMUC/wg-access-server/pull/14) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices (6 days ago)
+- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
