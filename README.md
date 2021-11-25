@@ -30,6 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added: Dependabot, workflows](https://github.com/awlx/salt-master-docker/pull/1) on [awlx/salt-master-docker](https://github.com/awlx/salt-master-docker) (today)
 - [Added: Dependabot, workflows](https://github.com/awlx/samba-timemachine/pull/11) on [awlx/samba-timemachine](https://github.com/awlx/samba-timemachine) (today)
 - [Added: Dependabot, proper workflows](https://github.com/awlx/snmp-to-influx-python/pull/5) on [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) (today)
 - [Added: Dependabot.yml](https://github.com/jacobalberty/unifi-docker/pull/484) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (today)
@@ -39,7 +40,6 @@
 - [Logo](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/292) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
 - [Removed: Old gateway-status html page &amp; projekktor JS files](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/291) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
 - [Added: Archer C25 v1](https://github.com/freifunkMUC/site-ffm/pull/164) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (2 weeks ago)
-- [Added: server redirect to legacy devices post](https://github.com/freifunkMUC/ffmuc-salt-public/pull/72) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
