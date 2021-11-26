@@ -31,7 +31,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Added stale GitHub action](https://github.com/jacobalberty/unifi-docker/pull/487) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (today)
-- [Added: bug.yml Issue template](https://github.com/jacobalberty/unifi-docker/pull/486) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (today)
+- [[TASK] Add proper issue &amp; PR template](https://github.com/jacobalberty/unifi-docker/pull/486) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (today)
 - [Added: bug.yml Issue template](https://github.com/GoliathLabs/unifi-docker/pull/2) on [GoliathLabs/unifi-docker](https://github.com/GoliathLabs/unifi-docker) (today)
 - [Added: Dependabot, workflows](https://github.com/awlx/salt-master-docker/pull/1) on [awlx/salt-master-docker](https://github.com/awlx/salt-master-docker) (1 day ago)
 - [Added: Dependabot, workflows](https://github.com/awlx/samba-timemachine/pull/11) on [awlx/samba-timemachine](https://github.com/awlx/samba-timemachine) (1 day ago)
