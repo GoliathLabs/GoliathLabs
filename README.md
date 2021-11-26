@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [phpipam-docker/phpipam-docker](https://github.com/phpipam-docker/phpipam-docker) -  (today)
+- [phpipam-docker/phpipam-docker](https://github.com/phpipam-docker/phpipam-docker) -  (1 day ago)
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json. (1 week ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (3 weeks ago)
@@ -30,16 +30,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added: Dependabot, workflows](https://github.com/awlx/salt-master-docker/pull/1) on [awlx/salt-master-docker](https://github.com/awlx/salt-master-docker) (today)
-- [Added: Dependabot, workflows](https://github.com/awlx/samba-timemachine/pull/11) on [awlx/samba-timemachine](https://github.com/awlx/samba-timemachine) (today)
-- [Added: Dependabot, proper workflows](https://github.com/awlx/snmp-to-influx-python/pull/5) on [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) (today)
-- [Added: Dependabot.yml](https://github.com/jacobalberty/unifi-docker/pull/484) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (today)
-- [Added: Dependabot config &amp; gitleaks gh-action](https://github.com/phpipam-docker/phpipam-docker/pull/14) on [phpipam-docker/phpipam-docker](https://github.com/phpipam-docker/phpipam-docker) (2 days ago)
-- [Updated: Dockerfile &amp; gh-actions](https://github.com/robbertkl/docker-ipv6nat/pull/73) on [robbertkl/docker-ipv6nat](https://github.com/robbertkl/docker-ipv6nat) (2 days ago)
+- [Added: Dependabot, workflows](https://github.com/awlx/salt-master-docker/pull/1) on [awlx/salt-master-docker](https://github.com/awlx/salt-master-docker) (1 day ago)
+- [Added: Dependabot, workflows](https://github.com/awlx/samba-timemachine/pull/11) on [awlx/samba-timemachine](https://github.com/awlx/samba-timemachine) (1 day ago)
+- [Added: Dependabot, proper workflows](https://github.com/awlx/snmp-to-influx-python/pull/5) on [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) (1 day ago)
+- [Added: Dependabot.yml](https://github.com/jacobalberty/unifi-docker/pull/484) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (1 day ago)
+- [Added: Dependabot config &amp; gitleaks gh-action](https://github.com/phpipam-docker/phpipam-docker/pull/14) on [phpipam-docker/phpipam-docker](https://github.com/phpipam-docker/phpipam-docker) (3 days ago)
+- [Updated: Dockerfile &amp; gh-actions](https://github.com/robbertkl/docker-ipv6nat/pull/73) on [robbertkl/docker-ipv6nat](https://github.com/robbertkl/docker-ipv6nat) (3 days ago)
 - [Added: dependabot.yml](https://github.com/kereis/traefik-certs-dumper/pull/46) on [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) (2 weeks ago)
 - [Logo](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/292) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
 - [Removed: Old gateway-status html page &amp; projekktor JS files](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/291) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
-- [Added: Archer C25 v1](https://github.com/freifunkMUC/site-ffm/pull/164) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (2 weeks ago)
+- [Added: Archer C25 v1](https://github.com/freifunkMUC/site-ffm/pull/164) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
