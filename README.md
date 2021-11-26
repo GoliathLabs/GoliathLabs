@@ -30,6 +30,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added: Dependabot.yml config](https://github.com/freifunk-gluon/gluon/pull/2335) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (today)
+- [Added: Stale GitHub Action](https://github.com/freifunk-gluon/gluon/pull/2334) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (today)
 - [Added stale GitHub action](https://github.com/jacobalberty/unifi-docker/pull/487) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (today)
 - [[TASK] Add proper issue &amp; PR template](https://github.com/jacobalberty/unifi-docker/pull/486) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (today)
 - [Added: bug.yml Issue template](https://github.com/GoliathLabs/unifi-docker/pull/2) on [GoliathLabs/unifi-docker](https://github.com/GoliathLabs/unifi-docker) (today)
@@ -38,8 +40,6 @@
 - [Added: Dependabot, proper workflows](https://github.com/awlx/snmp-to-influx-python/pull/5) on [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) (1 day ago)
 - [Added: Dependabot.yml](https://github.com/jacobalberty/unifi-docker/pull/484) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (1 day ago)
 - [Added: Dependabot config &amp; gitleaks gh-action](https://github.com/phpipam-docker/phpipam-docker/pull/14) on [phpipam-docker/phpipam-docker](https://github.com/phpipam-docker/phpipam-docker) (3 days ago)
-- [Updated: Dockerfile &amp; gh-actions](https://github.com/robbertkl/docker-ipv6nat/pull/73) on [robbertkl/docker-ipv6nat](https://github.com/robbertkl/docker-ipv6nat) (3 days ago)
-- [Added: dependabot.yml](https://github.com/kereis/traefik-certs-dumper/pull/46) on [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
