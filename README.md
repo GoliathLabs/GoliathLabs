@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (5 days ago)
-- [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) -  (6 days ago)
-- [phpipam-docker/phpipam-docker](https://github.com/phpipam-docker/phpipam-docker) -  (6 days ago)
+- [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (6 days ago)
+- [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) -  (1 week ago)
+- [phpipam-docker/phpipam-docker](https://github.com/phpipam-docker/phpipam-docker) -  (1 week ago)
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json. (2 weeks ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 weeks ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (3 weeks ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (4 weeks ago)
 - [StiviiK/oidc-forward-auth](https://github.com/StiviiK/oidc-forward-auth) - OpenID Connect ForwardAuth for containo.us Traefik 🔐 (1 month ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - :construction: Server error pages in the docker image (1 month ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 month ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2021.11.1-next1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2021.11.1-next1), 4 weeks ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2021.11.1-next1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2021.11.1-next1), 1 month ago) - Freifunk München specific Gluon configuration
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.2.0](https://github.com/tarampampam/error-pages/releases/tag/v2.2.0), 1 month ago) - :construction: Server error pages in the docker image
 - [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) ([v0.0.2](https://github.com/awlx/snmp-to-influx-python/releases/tag/v0.0.2), 2 months ago) - 
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.0.7](https://github.com/freifunkMUC/wgkex/releases/tag/v0.0.7), 2 months ago) - 
@@ -30,15 +30,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added: Dependabot.yml config](https://github.com/freifunk-gluon/gluon/pull/2335) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (5 days ago)
-- [Added: Stale GitHub Action](https://github.com/freifunk-gluon/gluon/pull/2334) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (5 days ago)
-- [Added stale GitHub action](https://github.com/jacobalberty/unifi-docker/pull/487) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (5 days ago)
-- [[TASK] Add proper issue &amp; PR template](https://github.com/jacobalberty/unifi-docker/pull/486) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (5 days ago)
-- [Added: bug.yml Issue template](https://github.com/GoliathLabs/unifi-docker/pull/2) on [GoliathLabs/unifi-docker](https://github.com/GoliathLabs/unifi-docker) (5 days ago)
-- [Added: Dependabot, workflows](https://github.com/awlx/salt-master-docker/pull/1) on [awlx/salt-master-docker](https://github.com/awlx/salt-master-docker) (6 days ago)
-- [Added: Dependabot, workflows](https://github.com/awlx/samba-timemachine/pull/11) on [awlx/samba-timemachine](https://github.com/awlx/samba-timemachine) (6 days ago)
-- [Added: Dependabot, proper workflows](https://github.com/awlx/snmp-to-influx-python/pull/5) on [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) (6 days ago)
-- [Added: Dependabot.yml](https://github.com/jacobalberty/unifi-docker/pull/484) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (6 days ago)
+- [Added: Dependabot.yml config](https://github.com/freifunk-gluon/gluon/pull/2335) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (6 days ago)
+- [Added: Stale GitHub Action](https://github.com/freifunk-gluon/gluon/pull/2334) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (6 days ago)
+- [Added stale GitHub action](https://github.com/jacobalberty/unifi-docker/pull/487) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (6 days ago)
+- [[TASK] Add proper issue &amp; PR template](https://github.com/jacobalberty/unifi-docker/pull/486) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (6 days ago)
+- [Added: bug.yml Issue template](https://github.com/GoliathLabs/unifi-docker/pull/2) on [GoliathLabs/unifi-docker](https://github.com/GoliathLabs/unifi-docker) (6 days ago)
+- [Added: Dependabot, workflows](https://github.com/awlx/salt-master-docker/pull/1) on [awlx/salt-master-docker](https://github.com/awlx/salt-master-docker) (1 week ago)
+- [Added: Dependabot, workflows](https://github.com/awlx/samba-timemachine/pull/11) on [awlx/samba-timemachine](https://github.com/awlx/samba-timemachine) (1 week ago)
+- [Added: Dependabot, proper workflows](https://github.com/awlx/snmp-to-influx-python/pull/5) on [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) (1 week ago)
+- [Added: Dependabot.yml](https://github.com/jacobalberty/unifi-docker/pull/484) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (1 week ago)
 - [Added: Dependabot config &amp; gitleaks gh-action](https://github.com/phpipam-docker/phpipam-docker/pull/14) on [phpipam-docker/phpipam-docker](https://github.com/phpipam-docker/phpipam-docker) (1 week ago)
 
 #### 📓 Gists I wrote
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices (1 week ago)
+- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
