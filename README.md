@@ -51,11 +51,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [bcavileer](https://github.com/bcavileer)
 - [lntgn](https://github.com/lntgn)
 - [jwestp](https://github.com/jwestp)
 - [codebling](https://github.com/codebling)
 - [22slin22](https://github.com/22slin22)
-- [TriedAngle](https://github.com/TriedAngle)
 
 #### 💬 Feedback
 
