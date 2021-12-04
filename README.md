@@ -6,8 +6,8 @@
 - [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) -  (1 week ago)
 - [phpipam-docker/phpipam-docker](https://github.com/phpipam-docker/phpipam-docker) -  (1 week ago)
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json. (2 weeks ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 weeks ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (4 weeks ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (4 weeks ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
 - [StiviiK/oidc-forward-auth](https://github.com/StiviiK/oidc-forward-auth) - OpenID Connect ForwardAuth for containo.us Traefik 🔐 (1 month ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - :construction: Server error pages in the docker image (1 month ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 month ago)
@@ -30,7 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added: Dependabot.yml](https://github.com/dani-garcia/vaultwarden/pull/2127) on [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) (today)
+- [Added: Dependabot.yml](https://github.com/dani-garcia/vaultwarden/pull/2127) on [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) (1 day ago)
 - [Added: Dependabot.yml config](https://github.com/freifunk-gluon/gluon/pull/2335) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 week ago)
 - [Added: Stale GitHub Action](https://github.com/freifunk-gluon/gluon/pull/2334) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 week ago)
 - [Added stale GitHub action](https://github.com/jacobalberty/unifi-docker/pull/487) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (1 week ago)
