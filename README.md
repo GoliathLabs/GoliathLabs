@@ -30,6 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[TASK] Updated the workflows](https://github.com/jacobalberty/unifi-docker/pull/490) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (today)
 - [Added docker to dependabot.yml config](https://github.com/docker-mailserver/docker-mailserver/pull/2316) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (today)
 - [Added: Dependabot.yml](https://github.com/dani-garcia/vaultwarden/pull/2127) on [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) (4 days ago)
 - [Added: Dependabot.yml config](https://github.com/freifunk-gluon/gluon/pull/2335) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 week ago)
@@ -39,7 +40,6 @@
 - [Added: Dependabot, workflows](https://github.com/awlx/salt-master-docker/pull/1) on [awlx/salt-master-docker](https://github.com/awlx/salt-master-docker) (1 week ago)
 - [Added: Dependabot, workflows](https://github.com/awlx/samba-timemachine/pull/11) on [awlx/samba-timemachine](https://github.com/awlx/samba-timemachine) (1 week ago)
 - [Added: Dependabot, proper workflows](https://github.com/awlx/snmp-to-influx-python/pull/5) on [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) (1 week ago)
-- [Added: Dependabot.yml](https://github.com/jacobalberty/unifi-docker/pull/484) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (1 week ago)
 
 #### 📓 Gists I wrote
 
