@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (1 week ago)
-- [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) -  (1 week ago)
-- [phpipam-docker/phpipam-docker](https://github.com/phpipam-docker/phpipam-docker) -  (1 week ago)
+- [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) -  (2 weeks ago)
+- [phpipam-docker/phpipam-docker](https://github.com/phpipam-docker/phpipam-docker) -  (2 weeks ago)
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json. (3 weeks ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 month ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
@@ -18,28 +18,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2021.12.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2021.12.1), 2 days ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2021.12.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2021.12.1), 3 days ago) - Freifunk München specific Gluon configuration
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.2.0](https://github.com/tarampampam/error-pages/releases/tag/v2.2.0), 1 month ago) - :construction: Server error pages in the docker image
 - [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) ([v0.0.2](https://github.com/awlx/snmp-to-influx-python/releases/tag/v0.0.2), 2 months ago) - 
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.0.7](https://github.com/freifunkMUC/wgkex/releases/tag/v0.0.7), 2 months ago) - 
 - [jwestp/docker-supertuxkart](https://github.com/jwestp/docker-supertuxkart) ([1.1.2](https://github.com/jwestp/docker-supertuxkart/releases/tag/1.1.2), 5 months ago) - Docker image for deploying a SuperTuxKart server
-- [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.4.1](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.4.1), 8 months ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
+- [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.4.1](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.4.1), 9 months ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
 - [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) ([v0.0.2](https://github.com/roaldnefs/salt-lint-action/releases/tag/v0.0.2), 1 year ago) - GitHub Action for running salt-lint as part of your workflows!
 - [freifunk-berlin/firmware](https://github.com/freifunk-berlin/firmware) ([v1.0.6](https://github.com/freifunk-berlin/firmware/releases/tag/v1.0.6), 2 years ago) - Build system for Berlin firmware
 - [teknowledgist/Chocolatey-packages](https://github.com/teknowledgist/Chocolatey-packages) ([v1.0](https://github.com/teknowledgist/Chocolatey-packages/releases/tag/v1.0), 4 years ago) - Packages for chocolatey.org
 
 #### 🔨 My recent Pull Requests
 
-- [[TASK] Updated the workflows](https://github.com/jacobalberty/unifi-docker/pull/490) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (1 day ago)
-- [Added docker to dependabot.yml config](https://github.com/docker-mailserver/docker-mailserver/pull/2316) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (1 day ago)
-- [Added: Dependabot.yml](https://github.com/dani-garcia/vaultwarden/pull/2127) on [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) (5 days ago)
+- [[TASK] Updated the workflows](https://github.com/jacobalberty/unifi-docker/pull/490) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (2 days ago)
+- [Added docker to dependabot.yml config](https://github.com/docker-mailserver/docker-mailserver/pull/2316) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (2 days ago)
+- [Added: Dependabot.yml](https://github.com/dani-garcia/vaultwarden/pull/2127) on [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) (6 days ago)
 - [Added: Dependabot.yml config](https://github.com/freifunk-gluon/gluon/pull/2335) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 week ago)
 - [Added: Stale GitHub Action](https://github.com/freifunk-gluon/gluon/pull/2334) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 week ago)
 - [Added stale GitHub action](https://github.com/jacobalberty/unifi-docker/pull/487) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (1 week ago)
 - [[TASK] Add proper issue &amp; PR template](https://github.com/jacobalberty/unifi-docker/pull/486) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (1 week ago)
-- [Added: Dependabot, workflows](https://github.com/awlx/salt-master-docker/pull/1) on [awlx/salt-master-docker](https://github.com/awlx/salt-master-docker) (1 week ago)
-- [Added: Dependabot, workflows](https://github.com/awlx/samba-timemachine/pull/11) on [awlx/samba-timemachine](https://github.com/awlx/samba-timemachine) (1 week ago)
-- [Added: Dependabot, proper workflows](https://github.com/awlx/snmp-to-influx-python/pull/5) on [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) (1 week ago)
+- [Added: Dependabot, workflows](https://github.com/awlx/salt-master-docker/pull/1) on [awlx/salt-master-docker](https://github.com/awlx/salt-master-docker) (2 weeks ago)
+- [Added: Dependabot, workflows](https://github.com/awlx/samba-timemachine/pull/11) on [awlx/samba-timemachine](https://github.com/awlx/samba-timemachine) (2 weeks ago)
+- [Added: Dependabot, proper workflows](https://github.com/awlx/snmp-to-influx-python/pull/5) on [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices (2 weeks ago)
+- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
