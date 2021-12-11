@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (today)
 - [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) - LDAP directory connector for vaultwarden (1 day ago)
 - [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (4 days ago)
 - [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) -  (2 weeks ago)
@@ -11,7 +12,6 @@
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - :construction: Server error pages in the docker image (1 month ago)
 - [StiviiK/oidc-forward-auth](https://github.com/StiviiK/oidc-forward-auth) - OpenID Connect ForwardAuth for containo.us Traefik 🔐 (1 month ago)
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -19,6 +19,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2021.12.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2021.12.1), 5 days ago) - Freifunk München specific Gluon configuration
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v10.3.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v10.3.0), 1 week ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.2.0](https://github.com/tarampampam/error-pages/releases/tag/v2.2.0), 1 month ago) - :construction: Server error pages in the docker image
 - [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) ([v0.0.2](https://github.com/awlx/snmp-to-influx-python/releases/tag/v0.0.2), 2 months ago) - 
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.0.7](https://github.com/freifunkMUC/wgkex/releases/tag/v0.0.7), 3 months ago) - 
@@ -27,7 +28,6 @@
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.4.1](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.4.1), 9 months ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
 - [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) ([v0.0.2](https://github.com/roaldnefs/salt-lint-action/releases/tag/v0.0.2), 1 year ago) - GitHub Action for running salt-lint as part of your workflows!
 - [freifunk-berlin/firmware](https://github.com/freifunk-berlin/firmware) ([v1.0.6](https://github.com/freifunk-berlin/firmware/releases/tag/v1.0.6), 2 years ago) - Build system for Berlin firmware
-- [teknowledgist/Chocolatey-packages](https://github.com/teknowledgist/Chocolatey-packages) ([v1.0](https://github.com/teknowledgist/Chocolatey-packages/releases/tag/v1.0), 4 years ago) - Packages for chocolatey.org
 
 #### 🔨 My recent Pull Requests
 
