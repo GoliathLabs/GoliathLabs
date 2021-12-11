@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: bump alpine 3.10 to 3.15](https://github.com/ldez/traefik-certs-dumper/pull/172) on [ldez/traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper) (today)
 - [Add: docker &amp; gh-actions to dependabot](https://github.com/ldez/traefik-certs-dumper/pull/171) on [ldez/traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper) (today)
 - [Dockerfile](https://github.com/ViViDboarder/vaultwarden_ldap/pull/50) on [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) (1 day ago)
 - [Add thegoliath to autoupdater pubkeys](https://github.com/freifunkMUC/site-ffm/pull/166) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 day ago)
@@ -40,7 +41,6 @@
 - [[TASK] Updated the workflows](https://github.com/jacobalberty/unifi-docker/pull/490) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (4 days ago)
 - [Added docker to dependabot.yml config](https://github.com/docker-mailserver/docker-mailserver/pull/2316) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (4 days ago)
 - [Added: Dependabot.yml](https://github.com/dani-garcia/vaultwarden/pull/2127) on [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) (1 week ago)
-- [Added: Dependabot.yml config](https://github.com/freifunk-gluon/gluon/pull/2335) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
