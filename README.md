@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 day ago)
-- [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) - LDAP directory connector for vaultwarden (2 days ago)
-- [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (5 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 day ago)
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (2 days ago)
+- [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) - LDAP directory connector for vaultwarden (3 days ago)
+- [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (6 days ago)
 - [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) -  (2 weeks ago)
 - [phpipam-docker/phpipam-docker](https://github.com/phpipam-docker/phpipam-docker) -  (2 weeks ago)
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json. (3 weeks ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2021.12.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2021.12.1), 6 days ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2021.12.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2021.12.1), 1 week ago) - Freifunk München specific Gluon configuration
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v10.3.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v10.3.0), 2 weeks ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.2.0](https://github.com/tarampampam/error-pages/releases/tag/v2.2.0), 1 month ago) - :construction: Server error pages in the docker image
 - [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) ([v0.0.2](https://github.com/awlx/snmp-to-influx-python/releases/tag/v0.0.2), 2 months ago) - 
@@ -31,24 +31,24 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: bump alpine 3.10 to 3.15](https://github.com/ldez/traefik-certs-dumper/pull/172) on [ldez/traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper) (1 day ago)
-- [Add: docker &amp; gh-actions to dependabot](https://github.com/ldez/traefik-certs-dumper/pull/171) on [ldez/traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper) (1 day ago)
-- [Dockerfile](https://github.com/ViViDboarder/vaultwarden_ldap/pull/50) on [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) (2 days ago)
-- [Add thegoliath to autoupdater pubkeys](https://github.com/freifunkMUC/site-ffm/pull/166) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (2 days ago)
-- [Dependabot](https://github.com/GoliathLabs/vaultwarden_ldap/pull/1) on [GoliathLabs/vaultwarden_ldap](https://github.com/GoliathLabs/vaultwarden_ldap) (2 days ago)
-- [Added: dependabot.yml](https://github.com/ViViDboarder/vaultwarden_ldap/pull/42) on [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) (2 days ago)
-- [Updated: image tags](https://github.com/freifunkMUC/wg-access-server/pull/37) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
-- [[TASK] Updated the workflows](https://github.com/jacobalberty/unifi-docker/pull/490) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (5 days ago)
-- [Added docker to dependabot.yml config](https://github.com/docker-mailserver/docker-mailserver/pull/2316) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (5 days ago)
+- [chore: bump alpine 3.10 to 3.15](https://github.com/ldez/traefik-certs-dumper/pull/172) on [ldez/traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper) (2 days ago)
+- [Add: docker &amp; gh-actions to dependabot](https://github.com/ldez/traefik-certs-dumper/pull/171) on [ldez/traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper) (2 days ago)
+- [Dockerfile](https://github.com/ViViDboarder/vaultwarden_ldap/pull/50) on [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) (3 days ago)
+- [Add thegoliath to autoupdater pubkeys](https://github.com/freifunkMUC/site-ffm/pull/166) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (3 days ago)
+- [Dependabot](https://github.com/GoliathLabs/vaultwarden_ldap/pull/1) on [GoliathLabs/vaultwarden_ldap](https://github.com/GoliathLabs/vaultwarden_ldap) (3 days ago)
+- [Added: dependabot.yml](https://github.com/ViViDboarder/vaultwarden_ldap/pull/42) on [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) (3 days ago)
+- [Updated: image tags](https://github.com/freifunkMUC/wg-access-server/pull/37) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
+- [[TASK] Updated the workflows](https://github.com/jacobalberty/unifi-docker/pull/490) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (6 days ago)
+- [Added docker to dependabot.yml config](https://github.com/docker-mailserver/docker-mailserver/pull/2316) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (6 days ago)
 - [Added: Dependabot.yml](https://github.com/dani-garcia/vaultwarden/pull/2127) on [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [My Keybase proof](https://gist.github.com/69863960a08efeb03ad576ccaf93d880) (3 weeks ago)
+- [My Keybase proof](https://gist.github.com/69863960a08efeb03ad576ccaf93d880) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (2 days ago)
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (3 days ago)
 - [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
