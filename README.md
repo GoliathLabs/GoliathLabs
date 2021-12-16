@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[Feature] Added: Dependabot](https://github.com/Mailu/Mailu/pull/2087) on [Mailu/Mailu](https://github.com/Mailu/Mailu) (today)
 - [Added: More opencontainers-lables](https://github.com/itzg/docker-minecraft-server/pull/1205) on [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) (1 day ago)
 - [Added: Dependabot &amp; updated circleci orb](https://github.com/itzg/easy-add/pull/6) on [itzg/easy-add](https://github.com/itzg/easy-add) (1 day ago)
 - [chore: bump alpine 3.10 to 3.15](https://github.com/ldez/traefik-certs-dumper/pull/172) on [ldez/traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper) (5 days ago)
@@ -40,7 +41,6 @@
 - [Dependabot](https://github.com/GoliathLabs/vaultwarden_ldap/pull/1) on [GoliathLabs/vaultwarden_ldap](https://github.com/GoliathLabs/vaultwarden_ldap) (6 days ago)
 - [Added: dependabot.yml](https://github.com/ViViDboarder/vaultwarden_ldap/pull/42) on [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) (6 days ago)
 - [Updated: image tags](https://github.com/freifunkMUC/wg-access-server/pull/37) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
-- [[TASK] Updated the workflows](https://github.com/jacobalberty/unifi-docker/pull/490) on [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) (1 week ago)
 
 #### 📓 Gists I wrote
 
