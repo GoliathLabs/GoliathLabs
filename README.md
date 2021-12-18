@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added: Dependabot.yml config](https://github.com/42wim/matterbridge/pull/1663) on [42wim/matterbridge](https://github.com/42wim/matterbridge) (today)
 - [[Feature] Added: Dependabot](https://github.com/Mailu/Mailu/pull/2087) on [Mailu/Mailu](https://github.com/Mailu/Mailu) (2 days ago)
 - [Added: More opencontainers-lables](https://github.com/itzg/docker-minecraft-server/pull/1205) on [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) (3 days ago)
 - [Added: Dependabot &amp; updated circleci orb](https://github.com/itzg/easy-add/pull/6) on [itzg/easy-add](https://github.com/itzg/easy-add) (3 days ago)
@@ -40,7 +41,6 @@
 - [Add thegoliath to autoupdater pubkeys](https://github.com/freifunkMUC/site-ffm/pull/166) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 week ago)
 - [Dependabot](https://github.com/GoliathLabs/vaultwarden_ldap/pull/1) on [GoliathLabs/vaultwarden_ldap](https://github.com/GoliathLabs/vaultwarden_ldap) (1 week ago)
 - [Added: dependabot.yml](https://github.com/ViViDboarder/vaultwarden_ldap/pull/42) on [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) (1 week ago)
-- [Updated: image tags](https://github.com/freifunkMUC/wg-access-server/pull/37) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 
 #### 📓 Gists I wrote
 
