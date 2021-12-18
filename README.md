@@ -31,6 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: dependabot.yml](https://github.com/byro/byro/pull/226) on [byro/byro](https://github.com/byro/byro) (today)
+- [Added: Dependabot.yml](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/294) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
 - [Added: Dependabot.yml config](https://github.com/42wim/matterbridge/pull/1663) on [42wim/matterbridge](https://github.com/42wim/matterbridge) (today)
 - [[Feature] Added: Dependabot](https://github.com/Mailu/Mailu/pull/2087) on [Mailu/Mailu](https://github.com/Mailu/Mailu) (2 days ago)
 - [Added: More opencontainers-lables](https://github.com/itzg/docker-minecraft-server/pull/1205) on [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) (3 days ago)
@@ -39,8 +41,6 @@
 - [Add: docker &amp; gh-actions to dependabot](https://github.com/ldez/traefik-certs-dumper/pull/171) on [ldez/traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper) (1 week ago)
 - [Dockerfile](https://github.com/ViViDboarder/vaultwarden_ldap/pull/50) on [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) (1 week ago)
 - [Add thegoliath to autoupdater pubkeys](https://github.com/freifunkMUC/site-ffm/pull/166) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 week ago)
-- [Dependabot](https://github.com/GoliathLabs/vaultwarden_ldap/pull/1) on [GoliathLabs/vaultwarden_ldap](https://github.com/GoliathLabs/vaultwarden_ldap) (1 week ago)
-- [Added: dependabot.yml](https://github.com/ViViDboarder/vaultwarden_ldap/pull/42) on [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) (1 week ago)
 
 #### 📓 Gists I wrote
 
