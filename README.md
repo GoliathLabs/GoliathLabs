@@ -3,15 +3,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
+- [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (today)
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!) (1 day ago)
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (2 days ago)
-- [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (2 days ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (3 days ago)
 - [itzg/easy-add](https://github.com/itzg/easy-add) - A utility for easily adding a file from a downloaded archive during Docker builds (5 days ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 week ago)
 - [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) - LDAP directory connector for vaultwarden (1 week ago)
 - [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (1 week ago)
-- [phpipam-docker/phpipam-docker](https://github.com/phpipam-docker/phpipam-docker) -  (3 weeks ago)
+- [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
