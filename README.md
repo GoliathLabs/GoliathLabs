@@ -31,6 +31,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: gh-actions &amp; docker-compose](https://github.com/byro/byro/pull/230) on [byro/byro](https://github.com/byro/byro) (today)
+- [Added: Dependabot.yml](https://github.com/ViViDboarder/docker-restic-cron/pull/1) on [ViViDboarder/docker-restic-cron](https://github.com/ViViDboarder/docker-restic-cron) (today)
+- [Added: Dependabot.yml](https://github.com/ViViDboarder/docker-duplicity-cron/pull/9) on [ViViDboarder/docker-duplicity-cron](https://github.com/ViViDboarder/docker-duplicity-cron) (today)
 - [Updated: dependabot.yml](https://github.com/byro/byro/pull/226) on [byro/byro](https://github.com/byro/byro) (2 days ago)
 - [Added: Dependabot.yml](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/294) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 days ago)
 - [Added: Dependabot.yml config](https://github.com/42wim/matterbridge/pull/1663) on [42wim/matterbridge](https://github.com/42wim/matterbridge) (2 days ago)
@@ -38,9 +41,6 @@
 - [Added: More opencontainers-lables](https://github.com/itzg/docker-minecraft-server/pull/1205) on [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) (5 days ago)
 - [Added: Dependabot &amp; updated circleci orb](https://github.com/itzg/easy-add/pull/6) on [itzg/easy-add](https://github.com/itzg/easy-add) (5 days ago)
 - [chore: bump alpine 3.10 to 3.15](https://github.com/ldez/traefik-certs-dumper/pull/172) on [ldez/traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper) (1 week ago)
-- [Add: docker &amp; gh-actions to dependabot](https://github.com/ldez/traefik-certs-dumper/pull/171) on [ldez/traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper) (1 week ago)
-- [Dockerfile](https://github.com/ViViDboarder/vaultwarden_ldap/pull/50) on [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) (1 week ago)
-- [Add thegoliath to autoupdater pubkeys](https://github.com/freifunkMUC/site-ffm/pull/166) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 week ago)
 
 #### 📓 Gists I wrote
 
