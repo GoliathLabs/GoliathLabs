@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: python-version to be parsed correctly](https://github.com/byro/byro/pull/231) on [byro/byro](https://github.com/byro/byro) (today)
 - [Updated: gh-actions &amp; docker-compose](https://github.com/byro/byro/pull/230) on [byro/byro](https://github.com/byro/byro) (1 day ago)
 - [Added: Dependabot.yml](https://github.com/ViViDboarder/docker-restic-cron/pull/1) on [ViViDboarder/docker-restic-cron](https://github.com/ViViDboarder/docker-restic-cron) (1 day ago)
 - [Added: Dependabot.yml](https://github.com/ViViDboarder/docker-duplicity-cron/pull/9) on [ViViDboarder/docker-duplicity-cron](https://github.com/ViViDboarder/docker-duplicity-cron) (1 day ago)
@@ -40,7 +41,6 @@
 - [[Feature] Added: Dependabot](https://github.com/Mailu/Mailu/pull/2087) on [Mailu/Mailu](https://github.com/Mailu/Mailu) (5 days ago)
 - [Added: More opencontainers-lables](https://github.com/itzg/docker-minecraft-server/pull/1205) on [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) (6 days ago)
 - [Added: Dependabot &amp; updated circleci orb](https://github.com/itzg/easy-add/pull/6) on [itzg/easy-add](https://github.com/itzg/easy-add) (6 days ago)
-- [chore: bump alpine 3.10 to 3.15](https://github.com/ldez/traefik-certs-dumper/pull/172) on [ldez/traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper) (1 week ago)
 
 #### 📓 Gists I wrote
 
