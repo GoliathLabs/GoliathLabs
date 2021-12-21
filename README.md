@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (today)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 day ago)
-- [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (1 day ago)
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!) (2 days ago)
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (3 days ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (4 days ago)
@@ -31,6 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: mysql-client to mariadb-client](https://github.com/byro/byro/pull/233) on [byro/byro](https://github.com/byro/byro) (today)
+- [Updated Docs URLs](https://github.com/byro/byro/pull/232) on [byro/byro](https://github.com/byro/byro) (today)
 - [Updated: python-version to be parsed correctly](https://github.com/byro/byro/pull/231) on [byro/byro](https://github.com/byro/byro) (today)
 - [Updated: gh-actions &amp; docker-compose](https://github.com/byro/byro/pull/230) on [byro/byro](https://github.com/byro/byro) (1 day ago)
 - [Added: Dependabot.yml](https://github.com/ViViDboarder/docker-restic-cron/pull/1) on [ViViDboarder/docker-restic-cron](https://github.com/ViViDboarder/docker-restic-cron) (1 day ago)
@@ -39,8 +41,6 @@
 - [Added: Dependabot.yml](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/294) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 days ago)
 - [Added: Dependabot.yml config](https://github.com/42wim/matterbridge/pull/1663) on [42wim/matterbridge](https://github.com/42wim/matterbridge) (3 days ago)
 - [[Feature] Added: Dependabot](https://github.com/Mailu/Mailu/pull/2087) on [Mailu/Mailu](https://github.com/Mailu/Mailu) (5 days ago)
-- [Added: More opencontainers-lables](https://github.com/itzg/docker-minecraft-server/pull/1205) on [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) (6 days ago)
-- [Added: Dependabot &amp; updated circleci orb](https://github.com/itzg/easy-add/pull/6) on [itzg/easy-add](https://github.com/itzg/easy-add) (6 days ago)
 
 #### 📓 Gists I wrote
 
