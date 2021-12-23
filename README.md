@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: assets &amp; configuration](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/298) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
 - [Updated: mysql-client to mariadb-client](https://github.com/byro/byro/pull/233) on [byro/byro](https://github.com/byro/byro) (2 days ago)
 - [Updated Docs URLs](https://github.com/byro/byro/pull/232) on [byro/byro](https://github.com/byro/byro) (2 days ago)
 - [Updated: python-version to be parsed correctly](https://github.com/byro/byro/pull/231) on [byro/byro](https://github.com/byro/byro) (2 days ago)
@@ -40,7 +41,6 @@
 - [Updated: dependabot.yml](https://github.com/byro/byro/pull/226) on [byro/byro](https://github.com/byro/byro) (5 days ago)
 - [Added: Dependabot.yml](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/294) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (5 days ago)
 - [Added: Dependabot.yml config](https://github.com/42wim/matterbridge/pull/1663) on [42wim/matterbridge](https://github.com/42wim/matterbridge) (5 days ago)
-- [[Feature] Added: Dependabot](https://github.com/Mailu/Mailu/pull/2087) on [Mailu/Mailu](https://github.com/Mailu/Mailu) (1 week ago)
 
 #### 📓 Gists I wrote
 
