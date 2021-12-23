@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v10.4.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v10.4.0), today) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2021.12.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2021.12.1), 2 weeks ago) - Freifunk München specific Gluon configuration
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v10.3.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v10.3.0), 3 weeks ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.23.2](https://github.com/42wim/matterbridge/releases/tag/v1.23.2), 1 month ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.2.0](https://github.com/tarampampam/error-pages/releases/tag/v2.2.0), 2 months ago) - :construction: Server error pages in the docker image
 - [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) ([v0.0.2](https://github.com/awlx/snmp-to-influx-python/releases/tag/v0.0.2), 2 months ago) - 
