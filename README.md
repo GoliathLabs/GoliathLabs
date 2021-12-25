@@ -2,23 +2,23 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (3 days ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (4 days ago)
-- [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!) (5 days ago)
-- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (6 days ago)
+- [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (4 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (5 days ago)
+- [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!) (6 days ago)
+- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (1 week ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 week ago)
 - [itzg/easy-add](https://github.com/itzg/easy-add) - A utility for easily adding a file from a downloaded archive during Docker builds (1 week ago)
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 week ago)
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (2 weeks ago)
 - [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) - LDAP directory connector for vaultwarden (2 weeks ago)
 - [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (2 weeks ago)
-- [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) -  (4 weeks ago)
+- [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) -  (1 month ago)
 
 #### 🌱 My latest projects
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v10.4.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v10.4.0), 1 day ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v10.4.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v10.4.0), 2 days ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2021.12.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2021.12.1), 2 weeks ago) - Freifunk München specific Gluon configuration
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.23.2](https://github.com/42wim/matterbridge/releases/tag/v1.23.2), 1 month ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.2.0](https://github.com/tarampampam/error-pages/releases/tag/v2.2.0), 2 months ago) - :construction: Server error pages in the docker image
@@ -31,16 +31,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Updated: assets &amp; configuration](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/298) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 day ago)
-- [Updated: mysql-client to mariadb-client](https://github.com/byro/byro/pull/233) on [byro/byro](https://github.com/byro/byro) (3 days ago)
-- [Updated Docs URLs](https://github.com/byro/byro/pull/232) on [byro/byro](https://github.com/byro/byro) (3 days ago)
-- [Updated: python-version to be parsed correctly](https://github.com/byro/byro/pull/231) on [byro/byro](https://github.com/byro/byro) (3 days ago)
-- [Updated: gh-actions &amp; docker-compose](https://github.com/byro/byro/pull/230) on [byro/byro](https://github.com/byro/byro) (4 days ago)
-- [Added: Dependabot.yml](https://github.com/ViViDboarder/docker-restic-cron/pull/1) on [ViViDboarder/docker-restic-cron](https://github.com/ViViDboarder/docker-restic-cron) (4 days ago)
-- [Added: Dependabot.yml](https://github.com/ViViDboarder/docker-duplicity-cron/pull/9) on [ViViDboarder/docker-duplicity-cron](https://github.com/ViViDboarder/docker-duplicity-cron) (4 days ago)
-- [Updated: dependabot.yml](https://github.com/byro/byro/pull/226) on [byro/byro](https://github.com/byro/byro) (6 days ago)
-- [Added: Dependabot.yml](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/294) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (6 days ago)
-- [Added: Dependabot.yml config](https://github.com/42wim/matterbridge/pull/1663) on [42wim/matterbridge](https://github.com/42wim/matterbridge) (6 days ago)
+- [Updated: assets &amp; configuration](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/298) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 days ago)
+- [Updated: mysql-client to mariadb-client](https://github.com/byro/byro/pull/233) on [byro/byro](https://github.com/byro/byro) (4 days ago)
+- [Updated Docs URLs](https://github.com/byro/byro/pull/232) on [byro/byro](https://github.com/byro/byro) (4 days ago)
+- [Updated: python-version to be parsed correctly](https://github.com/byro/byro/pull/231) on [byro/byro](https://github.com/byro/byro) (4 days ago)
+- [Updated: gh-actions &amp; docker-compose](https://github.com/byro/byro/pull/230) on [byro/byro](https://github.com/byro/byro) (5 days ago)
+- [Added: Dependabot.yml](https://github.com/ViViDboarder/docker-restic-cron/pull/1) on [ViViDboarder/docker-restic-cron](https://github.com/ViViDboarder/docker-restic-cron) (5 days ago)
+- [Added: Dependabot.yml](https://github.com/ViViDboarder/docker-duplicity-cron/pull/9) on [ViViDboarder/docker-duplicity-cron](https://github.com/ViViDboarder/docker-duplicity-cron) (5 days ago)
+- [Updated: dependabot.yml](https://github.com/byro/byro/pull/226) on [byro/byro](https://github.com/byro/byro) (1 week ago)
+- [Added: Dependabot.yml](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/294) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
+- [Added: Dependabot.yml config](https://github.com/42wim/matterbridge/pull/1663) on [42wim/matterbridge](https://github.com/42wim/matterbridge) (1 week ago)
 
 #### 📓 Gists I wrote
 
