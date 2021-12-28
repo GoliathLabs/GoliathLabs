@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (1 week ago)
 - [ViViDboarder/docker-duplicity-cron](https://github.com/ViViDboarder/docker-duplicity-cron) - Use Docker to automate backups to a variety of destinations supported by Duplicity (1 week ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 - [ViViDboarder/docker-restic-cron](https://github.com/ViViDboarder/docker-restic-cron) - Automated Restic backups from Docker (1 week ago)
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!) (1 week ago)
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (1 week ago)
