@@ -31,6 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: wgkex config; linter should be happy now](https://github.com/freifunkMUC/ffmuc-salt-public/pull/74) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [Added: architecture to the apt sources](https://github.com/freifunkMUC/ffmuc-salt-public/pull/73) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Updated: assets &amp; configuration](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/298) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (6 days ago)
 - [Updated: mysql-client to mariadb-client](https://github.com/byro/byro/pull/233) on [byro/byro](https://github.com/byro/byro) (1 week ago)
 - [Updated Docs URLs](https://github.com/byro/byro/pull/232) on [byro/byro](https://github.com/byro/byro) (1 week ago)
@@ -39,8 +41,6 @@
 - [Added: Dependabot.yml](https://github.com/ViViDboarder/docker-restic-cron/pull/1) on [ViViDboarder/docker-restic-cron](https://github.com/ViViDboarder/docker-restic-cron) (1 week ago)
 - [Added: Dependabot.yml](https://github.com/ViViDboarder/docker-duplicity-cron/pull/9) on [ViViDboarder/docker-duplicity-cron](https://github.com/ViViDboarder/docker-duplicity-cron) (1 week ago)
 - [Updated: dependabot.yml](https://github.com/byro/byro/pull/226) on [byro/byro](https://github.com/byro/byro) (1 week ago)
-- [Added: Dependabot.yml](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/294) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
-- [Added: Dependabot.yml config](https://github.com/42wim/matterbridge/pull/1663) on [42wim/matterbridge](https://github.com/42wim/matterbridge) (1 week ago)
 
 #### 📓 Gists I wrote
 
