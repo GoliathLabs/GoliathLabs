@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: Mautrix Telegram to v0.11.0 &amp; alpine 3.15](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1507) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
 - [[TASK] Merger](https://github.com/GoliathLabs/meshviewer/pull/1) on [GoliathLabs/meshviewer](https://github.com/GoliathLabs/meshviewer) (6 days ago)
 - [Updated: wgkex config; linter should be happy now](https://github.com/freifunkMUC/ffmuc-salt-public/pull/74) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (6 days ago)
 - [Added: architecture to the apt sources](https://github.com/freifunkMUC/ffmuc-salt-public/pull/73) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (6 days ago)
@@ -40,7 +41,6 @@
 - [Updated: python-version to be parsed correctly](https://github.com/byro/byro/pull/231) on [byro/byro](https://github.com/byro/byro) (2 weeks ago)
 - [Updated: gh-actions &amp; docker-compose](https://github.com/byro/byro/pull/230) on [byro/byro](https://github.com/byro/byro) (2 weeks ago)
 - [Added: Dependabot.yml](https://github.com/ViViDboarder/docker-restic-cron/pull/1) on [ViViDboarder/docker-restic-cron](https://github.com/ViViDboarder/docker-restic-cron) (2 weeks ago)
-- [Added: Dependabot.yml](https://github.com/ViViDboarder/docker-duplicity-cron/pull/9) on [ViViDboarder/docker-duplicity-cron](https://github.com/ViViDboarder/docker-duplicity-cron) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
