@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: Name of image](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/300) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
 - [Updated: Mautrix Telegram to v0.11.0 &amp; alpine 3.15](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1507) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
 - [[TASK] Merger](https://github.com/GoliathLabs/meshviewer/pull/1) on [GoliathLabs/meshviewer](https://github.com/GoliathLabs/meshviewer) (1 week ago)
 - [Updated: wgkex config; linter should be happy now](https://github.com/freifunkMUC/ffmuc-salt-public/pull/74) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
@@ -40,7 +41,6 @@
 - [Updated Docs URLs](https://github.com/byro/byro/pull/232) on [byro/byro](https://github.com/byro/byro) (2 weeks ago)
 - [Updated: python-version to be parsed correctly](https://github.com/byro/byro/pull/231) on [byro/byro](https://github.com/byro/byro) (2 weeks ago)
 - [Updated: gh-actions &amp; docker-compose](https://github.com/byro/byro/pull/230) on [byro/byro](https://github.com/byro/byro) (2 weeks ago)
-- [Added: Dependabot.yml](https://github.com/ViViDboarder/docker-restic-cron/pull/1) on [ViViDboarder/docker-restic-cron](https://github.com/ViViDboarder/docker-restic-cron) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
