@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (today)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (3 weeks ago)
@@ -11,7 +12,6 @@
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (4 weeks ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (4 weeks ago)
 - [itzg/easy-add](https://github.com/itzg/easy-add) - A utility for easily adding a file from a downloaded archive during Docker builds (1 month ago)
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -31,16 +31,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: slack to 1.10.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1553) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: registration to v0.9.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1552) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: node-exporter to v1.3.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1551) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: sygnal to v0.11.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1550) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: beeper-linkedin to v0.5.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1549) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: webhooks image tag to v1.0.3-01](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1548) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: version to stable-6726-2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1547) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: ddclient to v3.9.1-ls76](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1546) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
 - [Updated: Name of image](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/300) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
 - [Updated: Mautrix Telegram to v0.11.0 &amp; alpine 3.15](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1507) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 week ago)
-- [[TASK] Merger](https://github.com/GoliathLabs/meshviewer/pull/1) on [GoliathLabs/meshviewer](https://github.com/GoliathLabs/meshviewer) (2 weeks ago)
-- [Updated: wgkex config; linter should be happy now](https://github.com/freifunkMUC/ffmuc-salt-public/pull/74) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 weeks ago)
-- [Added: architecture to the apt sources](https://github.com/freifunkMUC/ffmuc-salt-public/pull/73) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 weeks ago)
-- [Updated: assets &amp; configuration](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/298) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 weeks ago)
-- [Updated: mysql-client to mariadb-client](https://github.com/byro/byro/pull/233) on [byro/byro](https://github.com/byro/byro) (3 weeks ago)
-- [Updated Docs URLs](https://github.com/byro/byro/pull/232) on [byro/byro](https://github.com/byro/byro) (3 weeks ago)
-- [Updated: python-version to be parsed correctly](https://github.com/byro/byro/pull/231) on [byro/byro](https://github.com/byro/byro) (3 weeks ago)
-- [Updated: gh-actions &amp; docker-compose](https://github.com/byro/byro/pull/230) on [byro/byro](https://github.com/byro/byro) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
