@@ -4,6 +4,7 @@
 
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (today)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
+- [awlx/unifi_respondd](https://github.com/awlx/unifi_respondd) -  (today)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (3 weeks ago)
 - [ViViDboarder/docker-duplicity-cron](https://github.com/ViViDboarder/docker-duplicity-cron) - Use Docker to automate backups to a variety of destinations supported by Duplicity (3 weeks ago)
@@ -11,13 +12,13 @@
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!) (4 weeks ago)
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (4 weeks ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 month ago)
-- [itzg/easy-add](https://github.com/itzg/easy-add) - A utility for easily adding a file from a downloaded archive during Docker builds (1 month ago)
 
 #### 🌱 My latest projects
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [awlx/unifi_respondd](https://github.com/awlx/unifi_respondd) ([v0.0.7](https://github.com/awlx/unifi_respondd/releases/tag/v0.0.7), today) - 
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.3.0](https://github.com/tarampampam/error-pages/releases/tag/v2.3.0), 1 week ago) - :construction: Server error pages in the docker image
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.5.0](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.5.0), 2 weeks ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v10.4.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v10.4.0), 3 weeks ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
@@ -27,10 +28,11 @@
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.0.7](https://github.com/freifunkMUC/wgkex/releases/tag/v0.0.7), 4 months ago) - 
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2021.1.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2021.1.1), 5 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [jwestp/docker-supertuxkart](https://github.com/jwestp/docker-supertuxkart) ([1.1.2](https://github.com/jwestp/docker-supertuxkart/releases/tag/1.1.2), 7 months ago) - Docker image for deploying a SuperTuxKart server
-- [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) ([v0.4.0](https://github.com/ViViDboarder/vaultwarden_ldap/releases/tag/v0.4.0), 8 months ago) - LDAP directory connector for vaultwarden
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: docker-compose from v2.2.2 to v2.2.3](https://github.com/freifunkMUC/ffmuc-salt-public/pull/75) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [Updated: telegram to v0.11.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1557) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
 - [Added Instagram version tag instead of latest](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1555) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
 - [Added version tagging for the dependencies](https://github.com/awlx/unifi_respondd/pull/26) on [awlx/unifi_respondd](https://github.com/awlx/unifi_respondd) (today)
 - [Updated: slack to 1.10.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1553) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
@@ -39,8 +41,6 @@
 - [Updated: sygnal to v0.11.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1550) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
 - [Updated: beeper-linkedin to v0.5.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1549) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
 - [Updated: webhooks image tag to v1.0.3-01](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1548) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
-- [Updated: version to stable-6726-2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1547) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
-- [Updated: ddclient to v3.9.1-ls76](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1546) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
 
 #### 📓 Gists I wrote
 
