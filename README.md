@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (1 day ago)
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (today)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (3 weeks ago)
-- [ViViDboarder/docker-restic-cron](https://github.com/ViViDboarder/docker-restic-cron) - Automated Restic backups from Docker (3 weeks ago)
 - [ViViDboarder/docker-duplicity-cron](https://github.com/ViViDboarder/docker-duplicity-cron) - Use Docker to automate backups to a variety of destinations supported by Duplicity (3 weeks ago)
+- [ViViDboarder/docker-restic-cron](https://github.com/ViViDboarder/docker-restic-cron) - Automated Restic backups from Docker (3 weeks ago)
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!) (4 weeks ago)
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (4 weeks ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 month ago)
@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added Instagram version tag instead of latest](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1555) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
 - [Added version tagging for the dependencies](https://github.com/awlx/unifi_respondd/pull/26) on [awlx/unifi_respondd](https://github.com/awlx/unifi_respondd) (today)
 - [Updated: slack to 1.10.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1553) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
 - [Updated: registration to v0.9.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1552) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
@@ -40,7 +41,6 @@
 - [Updated: webhooks image tag to v1.0.3-01](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1548) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
 - [Updated: version to stable-6726-2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1547) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
 - [Updated: ddclient to v3.9.1-ls76](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1546) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
-- [Updated: Name of image](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/300) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
 
 #### 📓 Gists I wrote
 
