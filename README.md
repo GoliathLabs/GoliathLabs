@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added version tagging for the dependencies](https://github.com/awlx/unifi_respondd/pull/26) on [awlx/unifi_respondd](https://github.com/awlx/unifi_respondd) (today)
 - [Updated: slack to 1.10.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1553) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
 - [Updated: registration to v0.9.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1552) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
 - [Updated: node-exporter to v1.3.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1551) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
@@ -40,7 +41,6 @@
 - [Updated: version to stable-6726-2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1547) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
 - [Updated: ddclient to v3.9.1-ls76](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1546) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
 - [Updated: Name of image](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/300) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
-- [Updated: Mautrix Telegram to v0.11.0 &amp; alpine 3.15](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1507) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 week ago)
 
 #### 📓 Gists I wrote
 
