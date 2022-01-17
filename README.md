@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (1 day ago)
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (today)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 day ago)
 - [awlx/unifi_respondd](https://github.com/awlx/unifi_respondd) -  (1 day ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
@@ -31,6 +31,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: mautrix-twitter to v0.1.3](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1560) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Added: mautrix-whatsapp v0.2.3 tag](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1559) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Added: mautrix-signal 0.2.2 &amp; signald 0.16.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1558) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
 - [Updated: docker-compose from v2.2.2 to v2.2.3](https://github.com/freifunkMUC/ffmuc-salt-public/pull/75) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [Updated: telegram to v0.11.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1557) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
 - [Added Instagram version tag instead of latest](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1555) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
@@ -38,9 +41,6 @@
 - [Updated: slack to 1.10.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1553) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 days ago)
 - [Updated: registration to v0.9.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1552) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 days ago)
 - [Updated: node-exporter to v1.3.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1551) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 days ago)
-- [Updated: sygnal to v0.11.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1550) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 days ago)
-- [Updated: beeper-linkedin to v0.5.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1549) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 days ago)
-- [Updated: webhooks image tag to v1.0.3-01](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1548) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 days ago)
 
 #### 📓 Gists I wrote
 
