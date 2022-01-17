@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: Certbot to v1.22.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1561) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
 - [Updated: mautrix-twitter to v0.1.3](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1560) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
 - [Added: mautrix-whatsapp v0.2.3 tag](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1559) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
 - [Added: mautrix-signal 0.2.2 &amp; signald 0.16.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1558) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
@@ -40,7 +41,6 @@
 - [Added version tagging for the dependencies](https://github.com/awlx/unifi_respondd/pull/26) on [awlx/unifi_respondd](https://github.com/awlx/unifi_respondd) (1 day ago)
 - [Updated: slack to 1.10.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1553) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 days ago)
 - [Updated: registration to v0.9.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1552) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 days ago)
-- [Updated: node-exporter to v1.3.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1551) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 days ago)
 
 #### 📓 Gists I wrote
 
