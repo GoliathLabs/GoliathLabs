@@ -18,6 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) ([v0.6.2](https://github.com/ViViDboarder/vaultwarden_ldap/releases/tag/v0.6.2), today) - LDAP directory connector for vaultwarden
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) ([v0.0.7](https://github.com/freifunkMUC/unifi_respondd/releases/tag/v0.0.7), 4 days ago) - 
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.3.0](https://github.com/tarampampam/error-pages/releases/tag/v2.3.0), 2 weeks ago) - :construction: Server error pages in the docker image
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.5.0](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.5.0), 3 weeks ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
@@ -27,7 +28,6 @@
 - [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) ([v0.0.2](https://github.com/awlx/snmp-to-influx-python/releases/tag/v0.0.2), 3 months ago) - 
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.0.7](https://github.com/freifunkMUC/wgkex/releases/tag/v0.0.7), 4 months ago) - 
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2021.1.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2021.1.1), 5 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
-- [jwestp/docker-supertuxkart](https://github.com/jwestp/docker-supertuxkart) ([1.1.2](https://github.com/jwestp/docker-supertuxkart/releases/tag/1.1.2), 7 months ago) - Docker image for deploying a SuperTuxKart server
 
 #### 🔨 My recent Pull Requests
 
