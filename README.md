@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (today)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (3 days ago)
-- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (3 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (4 days ago)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (4 days ago)
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (1 month ago)
@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: prom-postgres-exporter to v0.10.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1571) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
 - [Updated: element-web to v1.9.9](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1562) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (3 days ago)
 - [Updated: Certbot to v1.22.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1561) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (3 days ago)
 - [Updated: mautrix-twitter to v0.1.3](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1560) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (3 days ago)
@@ -40,7 +41,6 @@
 - [Updated: telegram to v0.11.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1557) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (4 days ago)
 - [Added Instagram version tag instead of latest](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1555) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (4 days ago)
 - [Added version tagging for the dependencies](https://github.com/freifunkMUC/unifi_respondd/pull/26) on [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) (4 days ago)
-- [Updated: slack to 1.10.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1553) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (5 days ago)
 
 #### 📓 Gists I wrote
 
