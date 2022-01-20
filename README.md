@@ -48,8 +48,6 @@
 
 #### ⭐ Recent Stars
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 month ago)
-- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
