@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (today)
 
 #### 👯 Check out some of my recent followers
 
