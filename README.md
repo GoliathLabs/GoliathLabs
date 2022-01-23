@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices (today)
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (2 days ago)
 
 #### 👯 Check out some of my recent followers
