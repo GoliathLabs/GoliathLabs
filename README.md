@@ -31,6 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: Changelog to reflect the latest changes](https://github.com/freifunkMUC/wg-access-server/pull/63) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Added: A few things we&#39;ve done](https://github.com/freifunkMUC/wg-access-server/pull/62) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Updated: prom-postgres-exporter to v0.10.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1571) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (3 days ago)
 - [Updated: element-web to v1.9.9](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1562) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (6 days ago)
 - [Updated: Certbot to v1.22.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1561) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (6 days ago)
@@ -39,8 +41,6 @@
 - [Added: mautrix-signal 0.2.2 &amp; signald 0.16.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1558) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (6 days ago)
 - [Updated: docker-compose from v2.2.2 to v2.2.3](https://github.com/freifunkMUC/ffmuc-salt-public/pull/75) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
 - [Updated: telegram to v0.11.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1557) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 week ago)
-- [Added Instagram version tag instead of latest](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1555) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 week ago)
-- [Added version tagging for the dependencies](https://github.com/freifunkMUC/unifi_respondd/pull/26) on [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) (1 week ago)
 
 #### 📓 Gists I wrote
 
