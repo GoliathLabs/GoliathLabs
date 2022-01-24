@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Now using the metadata action for tags &amp; labels](https://github.com/freifunkMUC/wg-access-server/pull/70) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Updated: Changelog to reflect the latest changes](https://github.com/freifunkMUC/wg-access-server/pull/63) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [Added: A few things we&#39;ve done](https://github.com/freifunkMUC/wg-access-server/pull/62) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [Updated: prom-postgres-exporter to v0.10.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1571) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (4 days ago)
@@ -40,7 +41,6 @@
 - [Added: mautrix-whatsapp v0.2.3 tag](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1559) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 week ago)
 - [Added: mautrix-signal 0.2.2 &amp; signald 0.16.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1558) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 week ago)
 - [Updated: docker-compose from v2.2.2 to v2.2.3](https://github.com/freifunkMUC/ffmuc-salt-public/pull/75) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
-- [Updated: telegram to v0.11.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1557) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 week ago)
 
 #### 📓 Gists I wrote
 
