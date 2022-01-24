@@ -31,6 +31,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create go.yml](https://github.com/freifunkMUC/pg-events/pull/2) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (today)
+- [Create dependabot.yml](https://github.com/freifunkMUC/pg-events/pull/1) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (today)
+- [Create dependabot.yml](https://github.com/Place1/pg-events/pull/1) on [Place1/pg-events](https://github.com/Place1/pg-events) (today)
 - [Merge upstream into our fork](https://github.com/freifunkMUC/ext-respondd/pull/6) on [freifunkMUC/ext-respondd](https://github.com/freifunkMUC/ext-respondd) (today)
 - [Now using the metadata action for tags &amp; labels](https://github.com/freifunkMUC/wg-access-server/pull/70) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Updated: Changelog to reflect the latest changes](https://github.com/freifunkMUC/wg-access-server/pull/63) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
@@ -38,9 +41,6 @@
 - [Updated: prom-postgres-exporter to v0.10.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1571) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (4 days ago)
 - [Updated: element-web to v1.9.9](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1562) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 week ago)
 - [Updated: Certbot to v1.22.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1561) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 week ago)
-- [Updated: mautrix-twitter to v0.1.3](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1560) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 week ago)
-- [Added: mautrix-whatsapp v0.2.3 tag](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1559) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 week ago)
-- [Added: mautrix-signal 0.2.2 &amp; signald 0.16.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1558) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 week ago)
 
 #### 📓 Gists I wrote
 
