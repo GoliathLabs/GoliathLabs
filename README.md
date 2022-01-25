@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create dependabot.yml](https://github.com/mahdyar/ansi-html-community/pull/1) on [mahdyar/ansi-html-community](https://github.com/mahdyar/ansi-html-community) (today)
 - [Create dependabot.yml](https://github.com/eteu-technologies/near-api-go/pull/8) on [eteu-technologies/near-api-go](https://github.com/eteu-technologies/near-api-go) (today)
 - [Added: Docker Build &amp; Push action](https://github.com/byro/byro/pull/241) on [byro/byro](https://github.com/byro/byro) (today)
 - [Run black to make tests happy again](https://github.com/byro/byro/pull/240) on [byro/byro](https://github.com/byro/byro) (today)
@@ -40,7 +41,6 @@
 - [Create go.yml](https://github.com/freifunkMUC/pg-events/pull/2) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (1 day ago)
 - [Create dependabot.yml](https://github.com/freifunkMUC/pg-events/pull/1) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (1 day ago)
 - [Create dependabot.yml](https://github.com/Place1/pg-events/pull/1) on [Place1/pg-events](https://github.com/Place1/pg-events) (1 day ago)
-- [Merge upstream into our fork](https://github.com/freifunkMUC/ext-respondd/pull/6) on [freifunkMUC/ext-respondd](https://github.com/freifunkMUC/ext-respondd) (1 day ago)
 
 #### 📓 Gists I wrote
 
