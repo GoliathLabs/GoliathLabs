@@ -31,6 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added dependabot &amp; go workflow](https://github.com/freifunkMUC/wg-embed/pull/4) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (today)
+- [Added: Dependabot &amp; go test workflow](https://github.com/Place1/wg-embed/pull/2) on [Place1/wg-embed](https://github.com/Place1/wg-embed) (today)
 - [Create go.yml](https://github.com/freifunkMUC/pg-events/pull/2) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (1 day ago)
 - [Create dependabot.yml](https://github.com/freifunkMUC/pg-events/pull/1) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (1 day ago)
 - [Create dependabot.yml](https://github.com/Place1/pg-events/pull/1) on [Place1/pg-events](https://github.com/Place1/pg-events) (1 day ago)
@@ -39,8 +41,6 @@
 - [Updated: Changelog to reflect the latest changes](https://github.com/freifunkMUC/wg-access-server/pull/63) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
 - [Added: A few things we&#39;ve done](https://github.com/freifunkMUC/wg-access-server/pull/62) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
 - [Updated: prom-postgres-exporter to v0.10.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1571) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (5 days ago)
-- [Updated: element-web to v1.9.9](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1562) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 week ago)
-- [Updated: Certbot to v1.22.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1561) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 week ago)
 
 #### 📓 Gists I wrote
 
