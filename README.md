@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (today)
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (5 days ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (1 week ago)
-- [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (1 month ago)
 - [ViViDboarder/docker-duplicity-cron](https://github.com/ViViDboarder/docker-duplicity-cron) - Use Docker to automate backups to a variety of destinations supported by Duplicity (1 month ago)
 - [ViViDboarder/docker-restic-cron](https://github.com/ViViDboarder/docker-restic-cron) - Automated Restic backups from Docker (1 month ago)
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!) (1 month ago)
@@ -31,6 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Run black to make tests happy again](https://github.com/byro/byro/pull/240) on [byro/byro](https://github.com/byro/byro) (today)
+- [Run black](https://github.com/byro/byro/pull/239) on [byro/byro](https://github.com/byro/byro) (today)
 - [Added dependabot &amp; go workflow](https://github.com/freifunkMUC/wg-embed/pull/4) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (today)
 - [Added: Dependabot &amp; go test workflow](https://github.com/Place1/wg-embed/pull/2) on [Place1/wg-embed](https://github.com/Place1/wg-embed) (today)
 - [Create go.yml](https://github.com/freifunkMUC/pg-events/pull/2) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (1 day ago)
@@ -39,8 +41,6 @@
 - [Merge upstream into our fork](https://github.com/freifunkMUC/ext-respondd/pull/6) on [freifunkMUC/ext-respondd](https://github.com/freifunkMUC/ext-respondd) (1 day ago)
 - [Now using the metadata action for tags &amp; labels](https://github.com/freifunkMUC/wg-access-server/pull/70) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [Updated: Changelog to reflect the latest changes](https://github.com/freifunkMUC/wg-access-server/pull/63) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
-- [Added: A few things we&#39;ve done](https://github.com/freifunkMUC/wg-access-server/pull/62) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
-- [Updated: prom-postgres-exporter to v0.10.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1571) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (5 days ago)
 
 #### 📓 Gists I wrote
 
