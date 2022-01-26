@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add dependabot config](https://github.com/ajbura/cinny/pull/260) on [ajbura/cinny](https://github.com/ajbura/cinny) (today)
 - [Updated: Helm chart to v0.5.1 and fixed wrong repo url](https://github.com/freifunkMUC/wg-access-server/pull/78) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Create dependabot.yml](https://github.com/mahdyar/ansi-html-community/pull/1) on [mahdyar/ansi-html-community](https://github.com/mahdyar/ansi-html-community) (1 day ago)
 - [Create dependabot.yml](https://github.com/eteu-technologies/near-api-go/pull/8) on [eteu-technologies/near-api-go](https://github.com/eteu-technologies/near-api-go) (1 day ago)
@@ -40,7 +41,6 @@
 - [Added dependabot &amp; go workflow](https://github.com/freifunkMUC/wg-embed/pull/4) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (1 day ago)
 - [Added: Dependabot &amp; go test workflow](https://github.com/Place1/wg-embed/pull/2) on [Place1/wg-embed](https://github.com/Place1/wg-embed) (1 day ago)
 - [Create go.yml](https://github.com/freifunkMUC/pg-events/pull/2) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (2 days ago)
-- [Create dependabot.yml](https://github.com/freifunkMUC/pg-events/pull/1) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client (today)
 - [acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion) - Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... (today)
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (1 day ago)
 - [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices (3 days ago)
