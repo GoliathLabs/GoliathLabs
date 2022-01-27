@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [offdroid/swmn](https://github.com/offdroid/swmn) - Certificate management server with api and web UI (today)
 - [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) - :whale: :wrench: Provides Autodiscover capabilities for IMAP/POP/SMTP/LDAP services on Microsoft Outlook/Apple Mail and Autoconfig capabilities for Thunderbird (1 day ago)
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client (1 day ago)
 - [acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion) - Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... (1 day ago)
