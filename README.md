@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.4.0](https://github.com/tarampampam/error-pages/releases/tag/v2.4.0), today) - :construction: Server error pages in the docker image
 - [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) ([v0.6.2](https://github.com/ViViDboarder/vaultwarden_ldap/releases/tag/v0.6.2), 1 week ago) - LDAP directory connector for vaultwarden
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) ([v0.0.7](https://github.com/freifunkMUC/unifi_respondd/releases/tag/v0.0.7), 1 week ago) - 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.3.0](https://github.com/tarampampam/error-pages/releases/tag/v2.3.0), 3 weeks ago) - :construction: Server error pages in the docker image
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.5.0](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.5.0), 1 month ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v10.4.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v10.4.0), 1 month ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2021.12.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2021.12.1), 1 month ago) - Freifunk München specific Gluon configuration
