@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Set node to a more fine-grained version](https://github.com/freifunkMUC/wg-access-server/pull/85) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Remove: Obsolete docker-containers section](https://github.com/freifunkMUC/ffmuc-salt-public/pull/78) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
 - [Add docker &amp; npm ecosystem to dependabot](https://github.com/ether/etherpad-lite/pull/5367) on [ether/etherpad-lite](https://github.com/ether/etherpad-lite) (4 days ago)
 - [Add dependabot config](https://github.com/ajbura/cinny/pull/260) on [ajbura/cinny](https://github.com/ajbura/cinny) (4 days ago)
@@ -40,7 +41,6 @@
 - [Added: Docker Build &amp; Push action](https://github.com/byro/byro/pull/241) on [byro/byro](https://github.com/byro/byro) (5 days ago)
 - [Run black to make tests happy again](https://github.com/byro/byro/pull/240) on [byro/byro](https://github.com/byro/byro) (5 days ago)
 - [Run black](https://github.com/byro/byro/pull/239) on [byro/byro](https://github.com/byro/byro) (5 days ago)
-- [Added dependabot &amp; go workflow](https://github.com/freifunkMUC/wg-embed/pull/4) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (5 days ago)
 
 #### 📓 Gists I wrote
 
