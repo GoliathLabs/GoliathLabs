@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (today)
 - [offdroid/swmn](https://github.com/offdroid/swmn) - Certificate management server with api and web UI (4 days ago)
 - [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) - :whale: :wrench: Provides Autodiscover capabilities for IMAP/POP/SMTP/LDAP services on Microsoft Outlook/Apple Mail and Autoconfig capabilities for Thunderbird (5 days ago)
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client (5 days ago)
