@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improved error handling for GitLab &amp; OIDC login](https://github.com/freifunkMUC/wg-access-server/pull/88) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [changed the &#34;is connected&#34; time to 3 minutes](https://github.com/freifunkMUC/wg-access-server/pull/87) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [changed the &#34;is connected&#34; time to 3 minutes](https://github.com/Place1/wg-access-server/pull/169) on [Place1/wg-access-server](https://github.com/Place1/wg-access-server) (1 day ago)
 - [44 fix routing rules](https://github.com/freifunkMUC/wg-access-server/pull/86) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
@@ -40,7 +41,6 @@
 - [Add docker &amp; npm ecosystem to dependabot](https://github.com/ether/etherpad-lite/pull/5367) on [ether/etherpad-lite](https://github.com/ether/etherpad-lite) (5 days ago)
 - [Add dependabot config](https://github.com/ajbura/cinny/pull/260) on [ajbura/cinny](https://github.com/ajbura/cinny) (5 days ago)
 - [Updated: Helm chart to v0.5.1 and fixed wrong repo url](https://github.com/freifunkMUC/wg-access-server/pull/78) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 days ago)
-- [Create dependabot.yml](https://github.com/mahdyar/ansi-html-community/pull/1) on [mahdyar/ansi-html-community](https://github.com/mahdyar/ansi-html-community) (6 days ago)
 
 #### 📓 Gists I wrote
 
