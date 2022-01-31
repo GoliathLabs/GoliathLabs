@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.4.0](https://github.com/tarampampam/error-pages/releases/tag/v2.4.0), 3 days ago) - :construction: Server error pages in the docker image
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.5.0](https://github.com/tarampampam/error-pages/releases/tag/v2.5.0), today) - :construction: Server error pages in the docker image
 - [ajbura/cinny](https://github.com/ajbura/cinny) ([v1.7.0](https://github.com/ajbura/cinny/releases/tag/v1.7.0), 5 days ago) - Yet another matrix client
 - [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) ([v0.6.2](https://github.com/ViViDboarder/vaultwarden_ldap/releases/tag/v0.6.2), 1 week ago) - LDAP directory connector for vaultwarden
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) ([v0.0.7](https://github.com/freifunkMUC/unifi_respondd/releases/tag/v0.0.7), 2 weeks ago) - 
