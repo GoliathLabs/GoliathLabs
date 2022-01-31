@@ -59,11 +59,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [octycs](https://github.com/octycs)
 - [bcavileer](https://github.com/bcavileer)
 - [lntgn](https://github.com/lntgn)
 - [jwestp](https://github.com/jwestp)
 - [codebling](https://github.com/codebling)
-- [22slin22](https://github.com/22slin22)
 
 #### 💬 Feedback
 
