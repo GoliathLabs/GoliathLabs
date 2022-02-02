@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Set black to python2 compatible version](https://github.com/freifunkMUC/ffmuc-salt-public/pull/79) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Improved error handling for GitLab &amp; OIDC login](https://github.com/freifunkMUC/wg-access-server/pull/88) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
 - [changed the &#34;is connected&#34; time to 3 minutes](https://github.com/freifunkMUC/wg-access-server/pull/87) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
 - [changed the &#34;is connected&#34; time to 3 minutes](https://github.com/Place1/wg-access-server/pull/169) on [Place1/wg-access-server](https://github.com/Place1/wg-access-server) (3 days ago)
@@ -40,7 +41,6 @@
 - [Remove: Obsolete docker-containers section](https://github.com/freifunkMUC/ffmuc-salt-public/pull/78) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (5 days ago)
 - [Add docker &amp; npm ecosystem to dependabot](https://github.com/ether/etherpad-lite/pull/5367) on [ether/etherpad-lite](https://github.com/ether/etherpad-lite) (1 week ago)
 - [Add dependabot config](https://github.com/ajbura/cinny/pull/260) on [ajbura/cinny](https://github.com/ajbura/cinny) (1 week ago)
-- [Updated: Helm chart to v0.5.1 and fixed wrong repo url](https://github.com/freifunkMUC/wg-access-server/pull/78) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 
 #### 📓 Gists I wrote
 
