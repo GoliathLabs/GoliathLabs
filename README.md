@@ -59,11 +59,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [DerHoffmann](https://github.com/DerHoffmann)
 - [octycs](https://github.com/octycs)
 - [bcavileer](https://github.com/bcavileer)
 - [lntgn](https://github.com/lntgn)
 - [jwestp](https://github.com/jwestp)
-- [codebling](https://github.com/codebling)
 
 #### 💬 Feedback
 
