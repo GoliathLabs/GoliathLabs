@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added: Strong admin password generation to default README](https://github.com/freifunkMUC/wg-access-server/pull/99) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Set black to python2 compatible version](https://github.com/freifunkMUC/ffmuc-salt-public/pull/79) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [Improved error handling for GitLab &amp; OIDC login](https://github.com/freifunkMUC/wg-access-server/pull/88) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
 - [changed the &#34;is connected&#34; time to 3 minutes](https://github.com/freifunkMUC/wg-access-server/pull/87) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
@@ -40,7 +41,6 @@
 - [Set node to a more fine-grained version](https://github.com/freifunkMUC/wg-access-server/pull/85) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
 - [Remove: Obsolete docker-containers section](https://github.com/freifunkMUC/ffmuc-salt-public/pull/78) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (6 days ago)
 - [Add docker &amp; npm ecosystem to dependabot](https://github.com/ether/etherpad-lite/pull/5367) on [ether/etherpad-lite](https://github.com/ether/etherpad-lite) (1 week ago)
-- [Add dependabot config](https://github.com/ajbura/cinny/pull/260) on [ajbura/cinny](https://github.com/ajbura/cinny) (1 week ago)
 
 #### 📓 Gists I wrote
 
