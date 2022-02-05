@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (today)
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client (6 days ago)
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor. (1 week ago)
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (1 week ago)
-- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (2 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (2 weeks ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
@@ -31,16 +31,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: prometheus to v.2.33.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1604) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: nginx to 1.21.6-alpine](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1603) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: jitsi to stable-6865](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1602) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: grafana to 8.3.4](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1601) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: ddclient to v3.9.1-ls77](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1600) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: Dendrite to v0.6.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1599) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: Heisenbridge to 1.10.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1598) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
 - [Added: Strong admin password generation to default README](https://github.com/freifunkMUC/wg-access-server/pull/99) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
 - [Set black to python2 compatible version](https://github.com/freifunkMUC/ffmuc-salt-public/pull/79) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 days ago)
 - [Improved error handling for GitLab &amp; OIDC login](https://github.com/freifunkMUC/wg-access-server/pull/88) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 days ago)
-- [changed the &#34;is connected&#34; time to 3 minutes](https://github.com/freifunkMUC/wg-access-server/pull/87) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
-- [changed the &#34;is connected&#34; time to 3 minutes](https://github.com/Place1/wg-access-server/pull/169) on [Place1/wg-access-server](https://github.com/Place1/wg-access-server) (6 days ago)
-- [44 fix routing rules](https://github.com/freifunkMUC/wg-access-server/pull/86) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
-- [Added: Dependabot &amp; Dockerfile image tags](https://github.com/vector-im/hydrogen-web/pull/652) on [vector-im/hydrogen-web](https://github.com/vector-im/hydrogen-web) (6 days ago)
-- [Set node to a more fine-grained version](https://github.com/freifunkMUC/wg-access-server/pull/85) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
-- [Remove: Obsolete docker-containers section](https://github.com/freifunkMUC/ffmuc-salt-public/pull/78) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
-- [Add docker &amp; npm ecosystem to dependabot](https://github.com/ether/etherpad-lite/pull/5367) on [ether/etherpad-lite](https://github.com/ether/etherpad-lite) (1 week ago)
 
 #### 📓 Gists I wrote
 
