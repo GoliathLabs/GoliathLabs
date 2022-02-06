@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated a few vulnerable dependencies](https://github.com/freifunkMUC/meshviewer/pull/27) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (today)
 - [Dockerfile &amp; few updates](https://github.com/freifunkMUC/meshviewer/pull/25) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (1 day ago)
 - [Updated: prometheus to v.2.33.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1604) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
 - [Updated: nginx to 1.21.6-alpine](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1603) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
@@ -40,7 +41,6 @@
 - [Updated: Dendrite to v0.6.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1599) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
 - [Updated: Heisenbridge to 1.10.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1598) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
 - [Added: Strong admin password generation to default README](https://github.com/freifunkMUC/wg-access-server/pull/99) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
-- [Set black to python2 compatible version](https://github.com/freifunkMUC/ffmuc-salt-public/pull/79) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 days ago)
 
 #### 📓 Gists I wrote
 
