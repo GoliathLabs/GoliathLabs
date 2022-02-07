@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (1 day ago)
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (2 days ago)
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client (1 week ago)
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor. (1 week ago)
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (1 week ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (3 weeks ago)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (3 weeks ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 weeks ago)
 - [ViViDboarder/docker-restic-cron](https://github.com/ViViDboarder/docker-restic-cron) - Automated Restic backups from Docker (1 month ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.2.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.2.1), 2 days ago) - Freifunk München specific Gluon configuration
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.6.0](https://github.com/tarampampam/error-pages/releases/tag/v2.6.0), 5 days ago) - :construction: Server error pages in the docker image
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.2.1-next2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.2.1-next2), today) - Freifunk München specific Gluon configuration
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.6.0](https://github.com/tarampampam/error-pages/releases/tag/v2.6.0), 6 days ago) - :construction: Server error pages in the docker image
 - [ajbura/cinny](https://github.com/ajbura/cinny) ([v1.7.0](https://github.com/ajbura/cinny/releases/tag/v1.7.0), 1 week ago) - Yet another matrix client
 - [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) ([v0.6.2](https://github.com/ViViDboarder/vaultwarden_ldap/releases/tag/v0.6.2), 2 weeks ago) - LDAP directory connector for vaultwarden
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) ([v0.0.7](https://github.com/freifunkMUC/unifi_respondd/releases/tag/v0.0.7), 3 weeks ago) - 
@@ -31,16 +31,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Updated a few vulnerable dependencies](https://github.com/freifunkMUC/meshviewer/pull/27) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (today)
-- [Dockerfile &amp; few updates](https://github.com/freifunkMUC/meshviewer/pull/25) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (1 day ago)
-- [Updated: prometheus to v.2.33.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1604) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
-- [Updated: nginx to 1.21.6-alpine](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1603) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
-- [Updated: jitsi to stable-6865](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1602) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
-- [Updated: grafana to 8.3.4](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1601) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
-- [Updated: ddclient to v3.9.1-ls77](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1600) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
-- [Updated: Dendrite to v0.6.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1599) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
-- [Updated: Heisenbridge to 1.10.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1598) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
-- [Added: Strong admin password generation to default README](https://github.com/freifunkMUC/wg-access-server/pull/99) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
+- [Updated a few vulnerable dependencies](https://github.com/freifunkMUC/meshviewer/pull/27) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (1 day ago)
+- [Dockerfile &amp; few updates](https://github.com/freifunkMUC/meshviewer/pull/25) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (2 days ago)
+- [Updated: prometheus to v.2.33.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1604) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 days ago)
+- [Updated: nginx to 1.21.6-alpine](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1603) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 days ago)
+- [Updated: jitsi to stable-6865](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1602) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 days ago)
+- [Updated: grafana to 8.3.4](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1601) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 days ago)
+- [Updated: ddclient to v3.9.1-ls77](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1600) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 days ago)
+- [Updated: Dendrite to v0.6.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1599) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 days ago)
+- [Updated: Heisenbridge to 1.10.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1598) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 days ago)
+- [Added: Strong admin password generation to default README](https://github.com/freifunkMUC/wg-access-server/pull/99) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
 
 #### 📓 Gists I wrote
 
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (6 days ago)
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (1 week ago)
 - [offdroid/swmn](https://github.com/offdroid/swmn) - Certificate management server with api and web UI (1 week ago)
 - [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) - :whale: :wrench: Provides Autodiscover capabilities for IMAP/POP/SMTP/LDAP services on Microsoft Outlook/Apple Mail and Autoconfig capabilities for Thunderbird (1 week ago)
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client (1 week ago)
