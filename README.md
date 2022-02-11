@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (5 days ago)
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (6 days ago)
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client (1 week ago)
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor. (2 weeks ago)
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (2 weeks ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.24.0](https://github.com/42wim/matterbridge/releases/tag/v1.24.0), 3 days ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.2.1-next2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.2.1-next2), 3 days ago) - Freifunk München specific Gluon configuration
+- [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.24.0](https://github.com/42wim/matterbridge/releases/tag/v1.24.0), 4 days ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.2.1-next2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.2.1-next2), 4 days ago) - Freifunk München specific Gluon configuration
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.6.0](https://github.com/tarampampam/error-pages/releases/tag/v2.6.0), 1 week ago) - :construction: Server error pages in the docker image
 - [ajbura/cinny](https://github.com/ajbura/cinny) ([v1.7.0](https://github.com/ajbura/cinny/releases/tag/v1.7.0), 2 weeks ago) - Yet another matrix client
 - [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) ([v0.6.2](https://github.com/ViViDboarder/vaultwarden_ldap/releases/tag/v0.6.2), 3 weeks ago) - LDAP directory connector for vaultwarden
@@ -31,15 +31,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Updated a few vulnerable dependencies](https://github.com/freifunkMUC/meshviewer/pull/27) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (4 days ago)
-- [Dockerfile &amp; few updates](https://github.com/freifunkMUC/meshviewer/pull/25) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (5 days ago)
-- [Updated: prometheus to v.2.33.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1604) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (5 days ago)
-- [Updated: nginx to 1.21.6-alpine](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1603) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (5 days ago)
-- [Updated: jitsi to stable-6865](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1602) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (5 days ago)
-- [Updated: grafana to 8.3.4](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1601) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (5 days ago)
-- [Updated: ddclient to v3.9.1-ls77](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1600) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (5 days ago)
-- [Updated: Dendrite to v0.6.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1599) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (5 days ago)
-- [Updated: Heisenbridge to 1.10.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1598) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (5 days ago)
+- [Updated a few vulnerable dependencies](https://github.com/freifunkMUC/meshviewer/pull/27) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (5 days ago)
+- [Dockerfile &amp; few updates](https://github.com/freifunkMUC/meshviewer/pull/25) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (6 days ago)
+- [Updated: prometheus to v.2.33.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1604) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (6 days ago)
+- [Updated: nginx to 1.21.6-alpine](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1603) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (6 days ago)
+- [Updated: jitsi to stable-6865](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1602) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (6 days ago)
+- [Updated: grafana to 8.3.4](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1601) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (6 days ago)
+- [Updated: ddclient to v3.9.1-ls77](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1600) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (6 days ago)
+- [Updated: Dendrite to v0.6.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1599) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (6 days ago)
+- [Updated: Heisenbridge to 1.10.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1598) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (6 days ago)
 - [Added: Strong admin password generation to default README](https://github.com/freifunkMUC/wg-access-server/pull/99) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 
 #### 📓 Gists I wrote
@@ -55,7 +55,7 @@
 - [acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion) - Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... (2 weeks ago)
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (2 weeks ago)
 - [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a web ui for connecting devices (2 weeks ago)
-- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (2 weeks ago)
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
