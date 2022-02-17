@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 days ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (1 week ago)
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client (2 weeks ago)
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor. (3 weeks ago)
@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added semicolon](https://github.com/freifunkMUC/ffmuc-salt-public/pull/83) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Added: Fnmuc.net.conf vhost nginx](https://github.com/freifunkMUC/ffmuc-salt-public/pull/80) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
 - [Updated a few vulnerable dependencies](https://github.com/freifunkMUC/meshviewer/pull/27) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (1 week ago)
 - [Dockerfile &amp; few updates](https://github.com/freifunkMUC/meshviewer/pull/25) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (1 week ago)
@@ -40,7 +41,6 @@
 - [Updated: grafana to 8.3.4](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1601) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 week ago)
 - [Updated: ddclient to v3.9.1-ls77](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1600) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 week ago)
 - [Updated: Dendrite to v0.6.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1599) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 week ago)
-- [Updated: Heisenbridge to 1.10.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1598) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 week ago)
 
 #### 📓 Gists I wrote
 
