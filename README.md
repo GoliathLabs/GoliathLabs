@@ -31,6 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added: dependabot config](https://github.com/Chatmosphere/chatmosphere-app/pull/161) on [Chatmosphere/chatmosphere-app](https://github.com/Chatmosphere/chatmosphere-app) (today)
+- [Added: dependabot config](https://github.com/GoliathLabs/chatmosphere-app/pull/1) on [GoliathLabs/chatmosphere-app](https://github.com/GoliathLabs/chatmosphere-app) (today)
 - [Added semicolon](https://github.com/freifunkMUC/ffmuc-salt-public/pull/83) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
 - [Added: Fnmuc.net.conf vhost nginx](https://github.com/freifunkMUC/ffmuc-salt-public/pull/80) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 days ago)
 - [Updated a few vulnerable dependencies](https://github.com/freifunkMUC/meshviewer/pull/27) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (1 week ago)
@@ -39,8 +41,6 @@
 - [Updated: nginx to 1.21.6-alpine](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1603) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
 - [Updated: jitsi to stable-6865](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1602) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
 - [Updated: grafana to 8.3.4](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1601) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
-- [Updated: ddclient to v3.9.1-ls77](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1600) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
-- [Updated: Dendrite to v0.6.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1599) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
