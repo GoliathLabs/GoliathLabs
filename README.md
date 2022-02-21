@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (3 days ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (4 days ago)
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (2 weeks ago)
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client (3 weeks ago)
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor. (3 weeks ago)
@@ -18,23 +18,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.24.0](https://github.com/42wim/matterbridge/releases/tag/v1.24.0), 1 week ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.2.1-next2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.2.1-next2), 1 week ago) - Freifunk München specific Gluon configuration
+- [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.24.0](https://github.com/42wim/matterbridge/releases/tag/v1.24.0), 2 weeks ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.2.1-next2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.2.1-next2), 2 weeks ago) - Freifunk München specific Gluon configuration
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.6.0](https://github.com/tarampampam/error-pages/releases/tag/v2.6.0), 2 weeks ago) - :construction: Server error pages in the docker image
 - [ajbura/cinny](https://github.com/ajbura/cinny) ([v1.7.0](https://github.com/ajbura/cinny/releases/tag/v1.7.0), 3 weeks ago) - Yet another matrix client
 - [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) ([v0.6.2](https://github.com/ViViDboarder/vaultwarden_ldap/releases/tag/v0.6.2), 1 month ago) - LDAP directory connector for vaultwarden
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) ([v0.0.7](https://github.com/freifunkMUC/unifi_respondd/releases/tag/v0.0.7), 1 month ago) - 
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.5.0](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.5.0), 1 month ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v10.4.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v10.4.0), 1 month ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v10.4.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v10.4.0), 2 months ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) ([1.8.16](https://github.com/ether/etherpad-lite/releases/tag/1.8.16), 2 months ago) - Etherpad: A modern really-real-time collaborative document editor.
 - [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) ([v0.0.2](https://github.com/awlx/snmp-to-influx-python/releases/tag/v0.0.2), 4 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Added: dependabot config](https://github.com/Chatmosphere/chatmosphere-app/pull/161) on [Chatmosphere/chatmosphere-app](https://github.com/Chatmosphere/chatmosphere-app) (1 day ago)
-- [Added: dependabot config](https://github.com/GoliathLabs/chatmosphere-app/pull/1) on [GoliathLabs/chatmosphere-app](https://github.com/GoliathLabs/chatmosphere-app) (1 day ago)
-- [Added semicolon](https://github.com/freifunkMUC/ffmuc-salt-public/pull/83) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 days ago)
-- [Added: Fnmuc.net.conf vhost nginx](https://github.com/freifunkMUC/ffmuc-salt-public/pull/80) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (5 days ago)
+- [Added: dependabot config](https://github.com/Chatmosphere/chatmosphere-app/pull/161) on [Chatmosphere/chatmosphere-app](https://github.com/Chatmosphere/chatmosphere-app) (2 days ago)
+- [Added: dependabot config](https://github.com/GoliathLabs/chatmosphere-app/pull/1) on [GoliathLabs/chatmosphere-app](https://github.com/GoliathLabs/chatmosphere-app) (2 days ago)
+- [Added semicolon](https://github.com/freifunkMUC/ffmuc-salt-public/pull/83) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 days ago)
+- [Added: Fnmuc.net.conf vhost nginx](https://github.com/freifunkMUC/ffmuc-salt-public/pull/80) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (6 days ago)
 - [Updated a few vulnerable dependencies](https://github.com/freifunkMUC/meshviewer/pull/27) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (2 weeks ago)
 - [Dockerfile &amp; few updates](https://github.com/freifunkMUC/meshviewer/pull/25) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (2 weeks ago)
 - [Updated: prometheus to v.2.33.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1604) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (2 weeks ago)
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (3 weeks ago)
 - [offdroid/swmn](https://github.com/offdroid/swmn) - Certificate management server with api and web UI (3 weeks ago)
 - [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) - :whale: :wrench: Provides Autodiscover capabilities for IMAP/POP/SMTP/LDAP services on Microsoft Outlook/Apple Mail and Autoconfig capabilities for Thunderbird (3 weeks ago)
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client (3 weeks ago)
