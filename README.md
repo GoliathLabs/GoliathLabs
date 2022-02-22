@@ -31,16 +31,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: jitsi to stable-6865](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1651) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: synapse-admin to 0.8.5](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1650) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: prometheus to v2.33.3](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1649) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: certbot to v1.23.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1648) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: grafana to 8.4.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1647) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: ddclient to v3.9.1-ls79](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1646) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: mautrix-telegram to v0.11.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1645) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: mautrix-signal to v0.2.3](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1644) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
 - [Added: dependabot config](https://github.com/Chatmosphere/chatmosphere-app/pull/161) on [Chatmosphere/chatmosphere-app](https://github.com/Chatmosphere/chatmosphere-app) (3 days ago)
 - [Added: dependabot config](https://github.com/GoliathLabs/chatmosphere-app/pull/1) on [GoliathLabs/chatmosphere-app](https://github.com/GoliathLabs/chatmosphere-app) (3 days ago)
-- [Added semicolon](https://github.com/freifunkMUC/ffmuc-salt-public/pull/83) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (5 days ago)
-- [Added: Fnmuc.net.conf vhost nginx](https://github.com/freifunkMUC/ffmuc-salt-public/pull/80) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
-- [Updated a few vulnerable dependencies](https://github.com/freifunkMUC/meshviewer/pull/27) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (2 weeks ago)
-- [Dockerfile &amp; few updates](https://github.com/freifunkMUC/meshviewer/pull/25) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (2 weeks ago)
-- [Updated: prometheus to v.2.33.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1604) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
-- [Updated: nginx to 1.21.6-alpine](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1603) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
-- [Updated: jitsi to stable-6865](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1602) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
-- [Updated: grafana to 8.3.4](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1601) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
