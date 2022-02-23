@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.7.0](https://github.com/tarampampam/error-pages/releases/tag/v2.7.0), today) - :construction: Server error pages in the docker image
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.24.0](https://github.com/42wim/matterbridge/releases/tag/v1.24.0), 2 weeks ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.2.1-next2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.2.1-next2), 2 weeks ago) - Freifunk München specific Gluon configuration
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.6.0](https://github.com/tarampampam/error-pages/releases/tag/v2.6.0), 3 weeks ago) - :construction: Server error pages in the docker image
 - [ajbura/cinny](https://github.com/ajbura/cinny) ([v1.7.0](https://github.com/ajbura/cinny/releases/tag/v1.7.0), 4 weeks ago) - Yet another matrix client
 - [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) ([v0.6.2](https://github.com/ViViDboarder/vaultwarden_ldap/releases/tag/v0.6.2), 1 month ago) - LDAP directory connector for vaultwarden
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) ([v0.0.7](https://github.com/freifunkMUC/unifi_respondd/releases/tag/v0.0.7), 1 month ago) - 
