@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added: docker-compose examples](https://github.com/nttgin/BGPalerter/pull/774) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (today)
 - [Updated: diun to 4.21.0](https://github.com/freifunkMUC/ffmuc-salt-public/pull/84) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Updated: jitsi to stable-6865](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1651) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
 - [Updated: synapse-admin to 0.8.5](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1650) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
@@ -40,7 +41,6 @@
 - [Updated: ddclient to v3.9.1-ls79](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1646) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
 - [Updated: mautrix-telegram to v0.11.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1645) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
 - [Updated: mautrix-signal to v0.2.3](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1644) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 day ago)
-- [Added: dependabot config](https://github.com/Chatmosphere/chatmosphere-app/pull/161) on [Chatmosphere/chatmosphere-app](https://github.com/Chatmosphere/chatmosphere-app) (4 days ago)
 
 #### 📓 Gists I wrote
 
