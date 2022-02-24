@@ -18,6 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) ([1.8.17](https://github.com/ether/etherpad-lite/releases/tag/1.8.17), today) - Etherpad: A modern really-real-time collaborative document editor.
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.7.0](https://github.com/tarampampam/error-pages/releases/tag/v2.7.0), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.24.0](https://github.com/42wim/matterbridge/releases/tag/v1.24.0), 2 weeks ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.2.1-next2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.2.1-next2), 2 weeks ago) - Freifunk München specific Gluon configuration
@@ -26,7 +27,6 @@
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) ([v0.0.7](https://github.com/freifunkMUC/unifi_respondd/releases/tag/v0.0.7), 1 month ago) - 
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.5.0](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.5.0), 1 month ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v10.4.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v10.4.0), 2 months ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
-- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) ([1.8.16](https://github.com/ether/etherpad-lite/releases/tag/1.8.16), 2 months ago) - Etherpad: A modern really-real-time collaborative document editor.
 - [awlx/snmp-to-influx-python](https://github.com/awlx/snmp-to-influx-python) ([v0.0.2](https://github.com/awlx/snmp-to-influx-python/releases/tag/v0.0.2), 4 months ago) - 
 
 #### 🔨 My recent Pull Requests
