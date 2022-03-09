@@ -18,12 +18,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ajbura/cinny](https://github.com/ajbura/cinny) ([v1.8.0](https://github.com/ajbura/cinny/releases/tag/v1.8.0), today) - Yet another matrix client
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v10.5.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v10.5.0), 6 days ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [ajbura/cinny](https://github.com/ajbura/cinny) ([v1.8.0](https://github.com/ajbura/cinny/releases/tag/v1.8.0), 1 day ago) - Yet another matrix client
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v10.5.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v10.5.0), 1 week ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) ([1.8.17](https://github.com/ether/etherpad-lite/releases/tag/1.8.17), 1 week ago) - Etherpad: A modern really-real-time collaborative document editor.
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.7.0](https://github.com/tarampampam/error-pages/releases/tag/v2.7.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image
-- [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.24.0](https://github.com/42wim/matterbridge/releases/tag/v1.24.0), 4 weeks ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.2.1-next2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.2.1-next2), 4 weeks ago) - Freifunk München specific Gluon configuration
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.7.0](https://github.com/tarampampam/error-pages/releases/tag/v2.7.0), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image
+- [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.24.0](https://github.com/42wim/matterbridge/releases/tag/v1.24.0), 1 month ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.2.1-next2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.2.1-next2), 1 month ago) - Freifunk München specific Gluon configuration
 - [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) ([v0.6.2](https://github.com/ViViDboarder/vaultwarden_ldap/releases/tag/v0.6.2), 1 month ago) - LDAP directory connector for vaultwarden
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) ([v0.0.7](https://github.com/freifunkMUC/unifi_respondd/releases/tag/v0.0.7), 1 month ago) - 
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.5.0](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.5.0), 2 months ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
@@ -31,10 +31,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added: Dependabot configuration](https://github.com/ajayyy/SponsorBlock/pull/1215) on [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) (4 days ago)
-- [Add: Freie Netze München e.V.](https://github.com/nttgin/BGPalerter/pull/779) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (5 days ago)
-- [Added: docker-compose examples](https://github.com/nttgin/BGPalerter/pull/774) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (1 week ago)
-- [Updated: diun to 4.21.0](https://github.com/freifunkMUC/ffmuc-salt-public/pull/84) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
+- [Added: Dependabot configuration](https://github.com/ajayyy/SponsorBlock/pull/1215) on [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) (5 days ago)
+- [Add: Freie Netze München e.V.](https://github.com/nttgin/BGPalerter/pull/779) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (6 days ago)
+- [Added: docker-compose examples](https://github.com/nttgin/BGPalerter/pull/774) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (2 weeks ago)
+- [Updated: diun to 4.21.0](https://github.com/freifunkMUC/ffmuc-salt-public/pull/84) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 weeks ago)
 - [Updated: jitsi to stable-6865](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1651) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
 - [Updated: synapse-admin to 0.8.5](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1650) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
 - [Updated: prometheus to v2.33.3](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1649) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
