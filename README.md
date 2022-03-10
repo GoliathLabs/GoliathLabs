@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added: Mergeable configuration](https://github.com/freifunkMUC/wg-access-server/pull/132) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Added: GitHub Action to check for typos in our code](https://github.com/freifunkMUC/wg-access-server/pull/131) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [Added: Dependabot configuration](https://github.com/ajayyy/SponsorBlock/pull/1215) on [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) (6 days ago)
 - [Add: Freie Netze München e.V.](https://github.com/nttgin/BGPalerter/pull/779) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (1 week ago)
@@ -40,7 +41,6 @@
 - [Updated: synapse-admin to 0.8.5](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1650) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
 - [Updated: prometheus to v2.33.3](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1649) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
 - [Updated: certbot to v1.23.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1648) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
-- [Updated: grafana to 8.4.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1647) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
