@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ajbura/cinny](https://github.com/ajbura/cinny) ([v1.8.0](https://github.com/ajbura/cinny/releases/tag/v1.8.0), 3 days ago) - Yet another matrix client
+- [ajbura/cinny](https://github.com/ajbura/cinny) ([v1.8.0](https://github.com/ajbura/cinny/releases/tag/v1.8.0), 4 days ago) - Yet another matrix client
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v10.5.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v10.5.0), 1 week ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) ([1.8.17](https://github.com/ether/etherpad-lite/releases/tag/1.8.17), 2 weeks ago) - Etherpad: A modern really-real-time collaborative document editor.
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.7.0](https://github.com/tarampampam/error-pages/releases/tag/v2.7.0), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image
@@ -31,8 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added: Mergeable configuration](https://github.com/freifunkMUC/wg-access-server/pull/132) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [Added: GitHub Action to check for typos in our code](https://github.com/freifunkMUC/wg-access-server/pull/131) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [Added: Mergeable configuration](https://github.com/freifunkMUC/wg-access-server/pull/132) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [Added: GitHub Action to check for typos in our code](https://github.com/freifunkMUC/wg-access-server/pull/131) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
 - [Added: Dependabot configuration](https://github.com/ajayyy/SponsorBlock/pull/1215) on [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) (1 week ago)
 - [Add: Freie Netze München e.V.](https://github.com/nttgin/BGPalerter/pull/779) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (1 week ago)
 - [Added: docker-compose examples](https://github.com/nttgin/BGPalerter/pull/774) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (2 weeks ago)
