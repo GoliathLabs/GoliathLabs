@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added: Ukraine article](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/308) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
 - [Added: Mergeable configuration](https://github.com/freifunkMUC/wg-access-server/pull/132) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
 - [Added: GitHub Action to check for typos in our code](https://github.com/freifunkMUC/wg-access-server/pull/131) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 days ago)
 - [Added: Dependabot configuration](https://github.com/ajayyy/SponsorBlock/pull/1215) on [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) (1 week ago)
@@ -40,7 +41,6 @@
 - [Updated: jitsi to stable-6865](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1651) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
 - [Updated: synapse-admin to 0.8.5](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1650) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
 - [Updated: prometheus to v2.33.3](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1649) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
-- [Updated: certbot to v1.23.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1648) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
