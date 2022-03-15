@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ajbura/cinny](https://github.com/ajbura/cinny) ([v1.8.0](https://github.com/ajbura/cinny/releases/tag/v1.8.0), 1 week ago) - Yet another matrix client
+- [ajbura/cinny](https://github.com/ajbura/cinny) ([v1.8.1](https://github.com/ajbura/cinny/releases/tag/v1.8.1), today) - Yet another matrix client
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v10.5.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v10.5.0), 1 week ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) ([1.8.17](https://github.com/ether/etherpad-lite/releases/tag/1.8.17), 2 weeks ago) - Etherpad: A modern really-real-time collaborative document editor.
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.7.0](https://github.com/tarampampam/error-pages/releases/tag/v2.7.0), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image
