@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 day ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 days ago)
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (3 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (3 weeks ago)
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client (1 month ago)
@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ajbura/cinny](https://github.com/ajbura/cinny) ([v1.8.1](https://github.com/ajbura/cinny/releases/tag/v1.8.1), today) - Yet another matrix client
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v10.5.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v10.5.0), 1 week ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [ajbura/cinny](https://github.com/ajbura/cinny) ([v1.8.1](https://github.com/ajbura/cinny/releases/tag/v1.8.1), 1 day ago) - Yet another matrix client
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v10.5.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v10.5.0), 2 weeks ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) ([1.8.17](https://github.com/ether/etherpad-lite/releases/tag/1.8.17), 2 weeks ago) - Etherpad: A modern really-real-time collaborative document editor.
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.7.0](https://github.com/tarampampam/error-pages/releases/tag/v2.7.0), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.7.0](https://github.com/tarampampam/error-pages/releases/tag/v2.7.0), 3 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.24.0](https://github.com/42wim/matterbridge/releases/tag/v1.24.0), 1 month ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.2.1-next2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.2.1-next2), 1 month ago) - Freifunk München specific Gluon configuration
 - [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) ([v0.6.2](https://github.com/ViViDboarder/vaultwarden_ldap/releases/tag/v0.6.2), 1 month ago) - LDAP directory connector for vaultwarden
@@ -31,16 +31,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Updated: wording](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/312) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 day ago)
-- [Added: proper formatting](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/311) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 day ago)
-- [Fixed: Kontaktmöglichkeiten](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/310) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 day ago)
-- [Added: Ukraine article](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/308) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 day ago)
-- [Added: Mergeable configuration](https://github.com/freifunkMUC/wg-access-server/pull/132) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 days ago)
-- [Added: GitHub Action to check for typos in our code](https://github.com/freifunkMUC/wg-access-server/pull/131) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
+- [Updated: wording](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/312) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 days ago)
+- [Added: proper formatting](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/311) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 days ago)
+- [Fixed: Kontaktmöglichkeiten](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/310) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 days ago)
+- [Added: Ukraine article](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/308) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 days ago)
+- [Added: Mergeable configuration](https://github.com/freifunkMUC/wg-access-server/pull/132) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
+- [Added: GitHub Action to check for typos in our code](https://github.com/freifunkMUC/wg-access-server/pull/131) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [Added: Dependabot configuration](https://github.com/ajayyy/SponsorBlock/pull/1215) on [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) (1 week ago)
 - [Add: Freie Netze München e.V.](https://github.com/nttgin/BGPalerter/pull/779) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (1 week ago)
-- [Added: docker-compose examples](https://github.com/nttgin/BGPalerter/pull/774) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (2 weeks ago)
-- [Updated: diun to 4.21.0](https://github.com/freifunkMUC/ffmuc-salt-public/pull/84) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 weeks ago)
+- [Added: docker-compose examples](https://github.com/nttgin/BGPalerter/pull/774) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (3 weeks ago)
+- [Updated: diun to 4.21.0](https://github.com/freifunkMUC/ffmuc-salt-public/pull/84) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
