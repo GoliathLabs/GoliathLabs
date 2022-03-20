@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 days ago)
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (3 weeks ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client (1 month ago)
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor. (1 month ago)
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (1 month ago)
@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Make salt-linter happy again](https://github.com/freifunkMUC/ffmuc-salt-public/pull/87) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Updated: wording](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/312) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (6 days ago)
 - [Added: proper formatting](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/311) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (6 days ago)
 - [Fixed: Kontaktmöglichkeiten](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/310) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (6 days ago)
@@ -40,7 +41,6 @@
 - [Added: Dependabot configuration](https://github.com/ajayyy/SponsorBlock/pull/1215) on [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) (2 weeks ago)
 - [Add: Freie Netze München e.V.](https://github.com/nttgin/BGPalerter/pull/779) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (2 weeks ago)
 - [Added: docker-compose examples](https://github.com/nttgin/BGPalerter/pull/774) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (3 weeks ago)
-- [Updated: diun to 4.21.0](https://github.com/freifunkMUC/ffmuc-salt-public/pull/84) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
