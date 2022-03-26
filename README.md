@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: matrix-googlechat to v0.3.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1715) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
 - [Added: FAQ Ukrainehilfe](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/317) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 day ago)
 - [Make salt-linter happy again](https://github.com/freifunkMUC/ffmuc-salt-public/pull/87) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (6 days ago)
 - [Updated: wording](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/312) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
@@ -40,7 +41,6 @@
 - [Added: Mergeable configuration](https://github.com/freifunkMUC/wg-access-server/pull/132) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [Added: GitHub Action to check for typos in our code](https://github.com/freifunkMUC/wg-access-server/pull/131) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [Added: Dependabot configuration](https://github.com/ajayyy/SponsorBlock/pull/1215) on [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) (3 weeks ago)
-- [Add: Freie Netze München e.V.](https://github.com/nttgin/BGPalerter/pull/779) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
