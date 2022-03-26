@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: A few things to the most current state](https://github.com/freifunkMUC/freifunk.net-API/pull/16) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (today)
 - [Change type from xml to rss](https://github.com/freifunkMUC/freifunk.net-API/pull/15) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (today)
 - [Updated: matrix-googlechat to v0.3.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1715) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
 - [Added: FAQ Ukrainehilfe](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/317) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 day ago)
@@ -40,7 +41,6 @@
 - [Fixed: Kontaktmöglichkeiten](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/310) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
 - [Added: Ukraine article](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/308) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
 - [Added: Mergeable configuration](https://github.com/freifunkMUC/wg-access-server/pull/132) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
-- [Added: GitHub Action to check for typos in our code](https://github.com/freifunkMUC/wg-access-server/pull/131) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
