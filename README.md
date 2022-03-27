@@ -10,8 +10,8 @@
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor. (1 month ago)
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (2 months ago)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (2 months ago)
-- [ViViDboarder/docker-restic-cron](https://github.com/ViViDboarder/docker-restic-cron) - Automated Restic backups from Docker (3 months ago)
 - [ViViDboarder/docker-duplicity-cron](https://github.com/ViViDboarder/docker-duplicity-cron) - Use Docker to automate backups to a variety of destinations supported by Duplicity (3 months ago)
+- [ViViDboarder/docker-restic-cron](https://github.com/ViViDboarder/docker-restic-cron) - Automated Restic backups from Docker (3 months ago)
 
 #### 🌱 My latest projects
 
