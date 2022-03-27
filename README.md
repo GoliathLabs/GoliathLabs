@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added: templates](https://github.com/freifunkMUC/.github/pull/1) on [freifunkMUC/.github](https://github.com/freifunkMUC/.github) (today)
 - [Fixed JSON so action will eventually run](https://github.com/freifunkMUC/freifunk.net-API/pull/17) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (today)
 - [Updated: A few things to the most current state](https://github.com/freifunkMUC/freifunk.net-API/pull/16) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (1 day ago)
 - [Change type from xml to rss](https://github.com/freifunkMUC/freifunk.net-API/pull/15) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (1 day ago)
@@ -40,7 +41,6 @@
 - [Updated: wording](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/312) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
 - [Added: proper formatting](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/311) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
 - [Fixed: Kontaktmöglichkeiten](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/310) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
-- [Added: Ukraine article](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/308) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
 
 #### 📓 Gists I wrote
 
