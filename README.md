@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.25.0](https://github.com/42wim/matterbridge/releases/tag/v1.25.0), today) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) ([v0.0.8](https://github.com/freifunkMUC/unifi_respondd/releases/tag/v0.0.8), 3 days ago) - 
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.2.1-next3](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.2.1-next3), 3 days ago) - Freifunk München specific Gluon configuration
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.12.1](https://github.com/tarampampam/error-pages/releases/tag/v2.12.1), 4 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
-- [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.24.1](https://github.com/42wim/matterbridge/releases/tag/v1.24.1), 2 weeks ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [ajbura/cinny](https://github.com/ajbura/cinny) ([v1.8.2](https://github.com/ajbura/cinny/releases/tag/v1.8.2), 2 weeks ago) - Yet another matrix client
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v10.5.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v10.5.0), 1 month ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) ([1.8.17](https://github.com/ether/etherpad-lite/releases/tag/1.8.17), 1 month ago) - Etherpad: A modern really-real-time collaborative document editor.
