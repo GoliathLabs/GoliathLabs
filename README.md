@@ -31,6 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: docker-compose to v2.4.1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/91) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [Updated: default_qdisc to fq](https://github.com/freifunkMUC/ffmuc-salt-public/pull/90) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Changed feed type to atom &amp; added our services](https://github.com/freifunkMUC/freifunk.net-API/pull/18) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (1 week ago)
 - [Removed: Obsolete NanoStations](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/318) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
 - [Added: templates](https://github.com/freifunkMUC/.github/pull/1) on [freifunkMUC/.github](https://github.com/freifunkMUC/.github) (2 weeks ago)
@@ -39,8 +41,6 @@
 - [Change type from xml to rss](https://github.com/freifunkMUC/freifunk.net-API/pull/15) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (2 weeks ago)
 - [Updated: matrix-googlechat to v0.3.1](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1715) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
 - [Added: FAQ Ukrainehilfe](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/317) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
-- [Make salt-linter happy again](https://github.com/freifunkMUC/ffmuc-salt-public/pull/87) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 weeks ago)
-- [Updated: wording](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/312) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
