@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.2.1-next4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.2.1-next4), 4 days ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.2.1-next4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.2.1-next4), 5 days ago) - Freifunk München specific Gluon configuration
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.25.0](https://github.com/42wim/matterbridge/releases/tag/v1.25.0), 1 week ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) ([v0.0.8](https://github.com/freifunkMUC/unifi_respondd/releases/tag/v0.0.8), 1 week ago) - 
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.12.1](https://github.com/tarampampam/error-pages/releases/tag/v2.12.1), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
@@ -31,8 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Updated: docker-compose to v2.4.1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/91) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [Updated: default_qdisc to fq](https://github.com/freifunkMUC/ffmuc-salt-public/pull/90) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [Updated: docker-compose to v2.4.1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/91) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [Updated: default_qdisc to fq](https://github.com/freifunkMUC/ffmuc-salt-public/pull/90) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [Changed feed type to atom &amp; added our services](https://github.com/freifunkMUC/freifunk.net-API/pull/18) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (1 week ago)
 - [Removed: Obsolete NanoStations](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/318) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
 - [Added: templates](https://github.com/freifunkMUC/.github/pull/1) on [freifunkMUC/.github](https://github.com/freifunkMUC/.github) (2 weeks ago)
