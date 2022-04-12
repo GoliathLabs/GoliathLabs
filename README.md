@@ -73,3 +73,5 @@ Say Hello, I don't bite!
 
 - Twitter: https://twitter.com/officialfelixx
 - Blog: https://blog.morphnet.work
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=GoliathLabs&show_icons=true&hide_border=true&layout=compact&theme=chartreuse-dark&hide_rank=true&include_all_commits=true&bg_color=0d1117" />
