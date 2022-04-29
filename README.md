@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (1 week ago)
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (3 weeks ago)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (4 weeks ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (4 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client (2 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.0.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.0.0), 1 day ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.0.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.0.0), 2 days ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.2.1-next5](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.2.1-next5), 1 week ago) - Freifunk München specific Gluon configuration
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.13.0](https://github.com/tarampampam/error-pages/releases/tag/v2.13.0), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.25.0](https://github.com/42wim/matterbridge/releases/tag/v1.25.0), 3 weeks ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
@@ -35,7 +35,7 @@
 - [Revert &#34;Bump golang from 1.18.0-alpine to 1.18.1-alpine&#34;](https://github.com/freifunkMUC/wg-access-server/pull/163) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [Updated: docker-compose to v2.4.1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/91) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 weeks ago)
 - [Updated: default_qdisc to fq](https://github.com/freifunkMUC/ffmuc-salt-public/pull/90) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 weeks ago)
-- [Changed feed type to atom &amp; added our services](https://github.com/freifunkMUC/freifunk.net-API/pull/18) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (3 weeks ago)
+- [Changed feed type to atom &amp; added our services](https://github.com/freifunkMUC/freifunk.net-API/pull/18) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (4 weeks ago)
 - [Removed: Obsolete NanoStations](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/318) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (4 weeks ago)
 - [Added: templates](https://github.com/freifunkMUC/.github/pull/1) on [freifunkMUC/.github](https://github.com/freifunkMUC/.github) (1 month ago)
 - [Fixed JSON so action will eventually run](https://github.com/freifunkMUC/freifunk.net-API/pull/17) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (1 month ago)
