@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (1 week ago)
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (4 weeks ago)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 month ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 month ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client (3 months ago)
@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.0.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.0.0), 3 days ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.0.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.0.0), 4 days ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.2.1-next5](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.2.1-next5), 1 week ago) - Freifunk München specific Gluon configuration
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.13.0](https://github.com/tarampampam/error-pages/releases/tag/v2.13.0), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
-- [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.25.0](https://github.com/42wim/matterbridge/releases/tag/v1.25.0), 3 weeks ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+- [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.25.0](https://github.com/42wim/matterbridge/releases/tag/v1.25.0), 4 weeks ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) ([v0.0.8](https://github.com/freifunkMUC/unifi_respondd/releases/tag/v0.0.8), 1 month ago) - 
 - [ajbura/cinny](https://github.com/ajbura/cinny) ([v1.8.2](https://github.com/ajbura/cinny/releases/tag/v1.8.2), 1 month ago) - Yet another matrix client
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) ([1.8.17](https://github.com/ether/etherpad-lite/releases/tag/1.8.17), 2 months ago) - Etherpad: A modern really-real-time collaborative document editor.
@@ -33,9 +33,9 @@
 
 - [Updated: mautrix-signal to v0.3.0 &amp; signald to 0.18.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1775) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 week ago)
 - [Revert &#34;Bump golang from 1.18.0-alpine to 1.18.1-alpine&#34;](https://github.com/freifunkMUC/wg-access-server/pull/163) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
-- [Updated: docker-compose to v2.4.1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/91) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 weeks ago)
-- [Updated: default_qdisc to fq](https://github.com/freifunkMUC/ffmuc-salt-public/pull/90) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 weeks ago)
-- [Changed feed type to atom &amp; added our services](https://github.com/freifunkMUC/freifunk.net-API/pull/18) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (4 weeks ago)
+- [Updated: docker-compose to v2.4.1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/91) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 weeks ago)
+- [Updated: default_qdisc to fq](https://github.com/freifunkMUC/ffmuc-salt-public/pull/90) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 weeks ago)
+- [Changed feed type to atom &amp; added our services](https://github.com/freifunkMUC/freifunk.net-API/pull/18) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (1 month ago)
 - [Removed: Obsolete NanoStations](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/318) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 month ago)
 - [Added: templates](https://github.com/freifunkMUC/.github/pull/1) on [freifunkMUC/.github](https://github.com/freifunkMUC/.github) (1 month ago)
 - [Fixed JSON so action will eventually run](https://github.com/freifunkMUC/freifunk.net-API/pull/17) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (1 month ago)
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (2 months ago)
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (3 months ago)
 - [offdroid/swmn](https://github.com/offdroid/swmn) - Certificate management server with api and web UI (3 months ago)
 - [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) - :whale: :wrench: Provides Autodiscover capabilities for IMAP/POP/SMTP/LDAP services on Microsoft Outlook/Apple Mail and Autoconfig capabilities for Thunderbird (3 months ago)
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client (3 months ago)
