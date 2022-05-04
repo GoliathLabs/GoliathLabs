@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (1 week ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 month ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: Links](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/329) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
 - [Ankündigung Sicherheitsupdate](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/328) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
 - [Updated: mautrix-signal to v0.3.0 &amp; signald to 0.18.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1775) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (1 week ago)
 - [Revert &#34;Bump golang from 1.18.0-alpine to 1.18.1-alpine&#34;](https://github.com/freifunkMUC/wg-access-server/pull/163) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
@@ -40,7 +41,6 @@
 - [Removed: Obsolete NanoStations](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/318) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 month ago)
 - [Added: templates](https://github.com/freifunkMUC/.github/pull/1) on [freifunkMUC/.github](https://github.com/freifunkMUC/.github) (1 month ago)
 - [Fixed JSON so action will eventually run](https://github.com/freifunkMUC/freifunk.net-API/pull/17) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (1 month ago)
-- [Updated: A few things to the most current state](https://github.com/freifunkMUC/freifunk.net-API/pull/16) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (1 month ago)
 
 #### 📓 Gists I wrote
 
