@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.2-next3](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.2-next3), today) - Freifunk München specific Gluon configuration
 - [ajbura/cinny](https://github.com/ajbura/cinny) ([v2.0.0](https://github.com/ajbura/cinny/releases/tag/v2.0.0), 1 day ago) - Yet another matrix client
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.15.0](https://github.com/tarampampam/error-pages/releases/tag/v2.15.0), 2 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.2-next2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.2-next2), 3 days ago) - Freifunk München specific Gluon configuration
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) ([1.8.18](https://github.com/ether/etherpad-lite/releases/tag/1.8.18), 4 days ago) - Etherpad: A modern really-real-time collaborative document editor.
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2021.1.2](https://github.com/freifunk-gluon/gluon/releases/tag/v2021.1.2), 4 days ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.0.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.0.0), 1 week ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
