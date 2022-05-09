@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added: augsburg.freifunk.net](https://github.com/freifunkMUC/ffmuc-salt-public/pull/96) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Remove respondd-module-airtime](https://github.com/FreifunkErfurt/site-ffef/pull/32) on [FreifunkErfurt/site-ffef](https://github.com/FreifunkErfurt/site-ffef) (1 day ago)
 - [Updated a few components and added a site feed](https://github.com/FreifunkErfurt/site-ffef/pull/31) on [FreifunkErfurt/site-ffef](https://github.com/FreifunkErfurt/site-ffef) (1 day ago)
 - [Updated: Cryptpad config](https://github.com/freifunkMUC/ffmuc-salt-public/pull/95) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
@@ -40,7 +41,6 @@
 - [Revert &#34;Bump golang from 1.18.0-alpine to 1.18.1-alpine&#34;](https://github.com/freifunkMUC/wg-access-server/pull/163) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [Updated: docker-compose to v2.4.1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/91) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 weeks ago)
 - [Updated: default_qdisc to fq](https://github.com/freifunkMUC/ffmuc-salt-public/pull/90) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 weeks ago)
-- [Changed feed type to atom &amp; added our services](https://github.com/freifunkMUC/freifunk.net-API/pull/18) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (1 month ago)
 
 #### 📓 Gists I wrote
 
