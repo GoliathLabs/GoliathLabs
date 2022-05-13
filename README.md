@@ -39,7 +39,7 @@
 - [Ankündigung Sicherheitsupdate](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/328) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
 - [Updated: mautrix-signal to v0.3.0 &amp; signald to 0.18.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1775) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (3 weeks ago)
 - [Revert &#34;Bump golang from 1.18.0-alpine to 1.18.1-alpine&#34;](https://github.com/freifunkMUC/wg-access-server/pull/163) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
-- [Updated: docker-compose to v2.4.1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/91) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 month ago)
+- [Updated: docker-compose to v2.5.0](https://github.com/freifunkMUC/ffmuc-salt-public/pull/91) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 month ago)
 - [Updated: default_qdisc to fq](https://github.com/freifunkMUC/ffmuc-salt-public/pull/90) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 month ago)
 
 #### 📓 Gists I wrote
