@@ -11,16 +11,16 @@
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client (3 months ago)
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor. (3 months ago)
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (3 months ago)
-- [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (3 months ago)
+- [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (4 months ago)
 
 #### 🌱 My latest projects
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [ajbura/cinny](https://github.com/ajbura/cinny) ([v2.0.3](https://github.com/ajbura/cinny/releases/tag/v2.0.3), today) - Yet another matrix client
-- [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.25.1](https://github.com/42wim/matterbridge/releases/tag/v1.25.1), 6 days ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.2-next3](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.2-next3), 6 days ago) - Freifunk München specific Gluon configuration
+- [ajbura/cinny](https://github.com/ajbura/cinny) ([v2.0.3](https://github.com/ajbura/cinny/releases/tag/v2.0.3), 1 day ago) - Yet another matrix client
+- [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.25.1](https://github.com/42wim/matterbridge/releases/tag/v1.25.1), 1 week ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.2-next3](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.2-next3), 1 week ago) - Freifunk München specific Gluon configuration
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.15.0](https://github.com/tarampampam/error-pages/releases/tag/v2.15.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) ([1.8.18](https://github.com/ether/etherpad-lite/releases/tag/1.8.18), 1 week ago) - Etherpad: A modern really-real-time collaborative document editor.
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2021.1.2](https://github.com/freifunk-gluon/gluon/releases/tag/v2021.1.2), 1 week ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
@@ -31,9 +31,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Updated to latest API version](https://github.com/ffac/api-file/pull/12) on [ffac/api-file](https://github.com/ffac/api-file) (1 day ago)
-- [Updated: site configuration](https://github.com/ffslfl/site-slfl/pull/35) on [ffslfl/site-slfl](https://github.com/ffslfl/site-slfl) (1 day ago)
-- [Added: augsburg.freifunk.net](https://github.com/freifunkMUC/ffmuc-salt-public/pull/96) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (6 days ago)
+- [Updated to latest API version](https://github.com/ffac/api-file/pull/12) on [ffac/api-file](https://github.com/ffac/api-file) (2 days ago)
+- [Updated: site configuration](https://github.com/ffslfl/site-slfl/pull/35) on [ffslfl/site-slfl](https://github.com/ffslfl/site-slfl) (2 days ago)
+- [Added: augsburg.freifunk.net](https://github.com/freifunkMUC/ffmuc-salt-public/pull/96) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
 - [Remove respondd-module-airtime](https://github.com/FreifunkErfurt/site-ffef/pull/32) on [FreifunkErfurt/site-ffef](https://github.com/FreifunkErfurt/site-ffef) (1 week ago)
 - [Updated a few components and added a site feed](https://github.com/FreifunkErfurt/site-ffef/pull/31) on [FreifunkErfurt/site-ffef](https://github.com/FreifunkErfurt/site-ffef) (1 week ago)
 - [Updated: Cryptpad config](https://github.com/freifunkMUC/ffmuc-salt-public/pull/95) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
