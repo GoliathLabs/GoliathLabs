@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
 - [FreifunkErfurt/site-ffef](https://github.com/FreifunkErfurt/site-ffef) - Freifunk Erfurt specific Gluon configuration  (1 week ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 week ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ajbura/cinny](https://github.com/ajbura/cinny) ([v2.0.3](https://github.com/ajbura/cinny/releases/tag/v2.0.3), 1 day ago) - Yet another matrix client
+- [ajbura/cinny](https://github.com/ajbura/cinny) ([v2.0.3](https://github.com/ajbura/cinny/releases/tag/v2.0.3), 2 days ago) - Yet another matrix client
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.25.1](https://github.com/42wim/matterbridge/releases/tag/v1.25.1), 1 week ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.2-next3](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.2-next3), 1 week ago) - Freifunk München specific Gluon configuration
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.15.0](https://github.com/tarampampam/error-pages/releases/tag/v2.15.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
@@ -31,8 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Updated to latest API version](https://github.com/ffac/api-file/pull/12) on [ffac/api-file](https://github.com/ffac/api-file) (2 days ago)
-- [Updated: site configuration](https://github.com/ffslfl/site-slfl/pull/35) on [ffslfl/site-slfl](https://github.com/ffslfl/site-slfl) (2 days ago)
+- [Updated to latest API version](https://github.com/ffac/api-file/pull/12) on [ffac/api-file](https://github.com/ffac/api-file) (3 days ago)
+- [Updated: site configuration](https://github.com/ffslfl/site-slfl/pull/35) on [ffslfl/site-slfl](https://github.com/ffslfl/site-slfl) (3 days ago)
 - [Added: augsburg.freifunk.net](https://github.com/freifunkMUC/ffmuc-salt-public/pull/96) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
 - [Remove respondd-module-airtime](https://github.com/FreifunkErfurt/site-ffef/pull/32) on [FreifunkErfurt/site-ffef](https://github.com/FreifunkErfurt/site-ffef) (1 week ago)
 - [Updated a few components and added a site feed](https://github.com/FreifunkErfurt/site-ffef/pull/31) on [FreifunkErfurt/site-ffef](https://github.com/FreifunkErfurt/site-ffef) (1 week ago)
