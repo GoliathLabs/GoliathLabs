@@ -31,16 +31,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: ddclient to v3.9.1-ls89](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1843) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: hydrogen-web to v0.2.29](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1842) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: mautrix-twitter to v0.1.4](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1841) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: mautrix-googlechat to v0.3.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1840) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: mjolnir to v1.4.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1839) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Set version to v1.1.5](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1838) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
 - [Added: Uptime nginx directive](https://github.com/freifunkMUC/ffmuc-salt-public/pull/98) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
 - [Updated to latest API version](https://github.com/ffac/api-file/pull/12) on [ffac/api-file](https://github.com/ffac/api-file) (6 days ago)
 - [Updated: site configuration](https://github.com/ffslfl/site-slfl/pull/35) on [ffslfl/site-slfl](https://github.com/ffslfl/site-slfl) (6 days ago)
 - [Added: augsburg.freifunk.net](https://github.com/freifunkMUC/ffmuc-salt-public/pull/96) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
-- [Remove respondd-module-airtime](https://github.com/FreifunkErfurt/site-ffef/pull/32) on [FreifunkErfurt/site-ffef](https://github.com/FreifunkErfurt/site-ffef) (1 week ago)
-- [Updated a few components and added a site feed](https://github.com/FreifunkErfurt/site-ffef/pull/31) on [FreifunkErfurt/site-ffef](https://github.com/FreifunkErfurt/site-ffef) (1 week ago)
-- [Updated: Cryptpad config](https://github.com/freifunkMUC/ffmuc-salt-public/pull/95) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
-- [Updated: Links](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/329) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
-- [Ankündigung Sicherheitsupdate](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/328) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
-- [Updated: mautrix-signal to v0.3.0 &amp; signald to 0.18.0](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1775) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
