@@ -31,6 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: grafana to 8.5.3](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1845) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
+- [Updated: etherpad to 1.8.18](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1844) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
 - [Updated: ddclient to v3.9.1-ls89](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1843) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
 - [Updated: hydrogen-web to v0.2.29](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1842) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
 - [Updated: mautrix-twitter to v0.1.4](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1841) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
@@ -39,8 +41,6 @@
 - [Set version to v1.1.5](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1838) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (today)
 - [Added: Uptime nginx directive](https://github.com/freifunkMUC/ffmuc-salt-public/pull/98) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
 - [Updated to latest API version](https://github.com/ffac/api-file/pull/12) on [ffac/api-file](https://github.com/ffac/api-file) (6 days ago)
-- [Updated: site configuration](https://github.com/ffslfl/site-slfl/pull/35) on [ffslfl/site-slfl](https://github.com/ffslfl/site-slfl) (6 days ago)
-- [Added: augsburg.freifunk.net](https://github.com/freifunkMUC/ffmuc-salt-public/pull/96) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
 
 #### 📓 Gists I wrote
 
