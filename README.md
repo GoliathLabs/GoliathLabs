@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: meeting time](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/333) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
 - [Updated: grafana to 8.5.3](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1845) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (5 days ago)
 - [Updated: etherpad to 1.8.18](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1844) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (5 days ago)
 - [Updated: ddclient to v3.9.1-ls89](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1843) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (5 days ago)
@@ -40,7 +41,6 @@
 - [Updated: mjolnir to v1.4.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1839) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (5 days ago)
 - [Set version to v1.1.5](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1838) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (5 days ago)
 - [Added: Uptime nginx directive](https://github.com/freifunkMUC/ffmuc-salt-public/pull/98) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
-- [Updated to latest API version](https://github.com/ffac/api-file/pull/12) on [ffac/api-file](https://github.com/ffac/api-file) (1 week ago)
 
 #### 📓 Gists I wrote
 
