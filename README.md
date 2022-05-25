@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (5 days ago)
 - [MorphNetwork/infra](https://github.com/MorphNetwork/infra) -  (5 days ago)
 - [FreifunkErfurt/site-ffef](https://github.com/FreifunkErfurt/site-ffef) - Freifunk Erfurt specific Gluon configuration  (2 weeks ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (2 weeks ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 weeks ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 month ago)
 - [ajbura/cinny](https://github.com/ajbura/cinny) - Yet another matrix client (3 months ago)
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor. (3 months ago)
@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix typo](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/334) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
 - [Updated: meeting time](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/333) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
 - [Updated: grafana to 8.5.3](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1845) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (5 days ago)
 - [Updated: etherpad to 1.8.18](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1844) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (5 days ago)
@@ -40,7 +41,6 @@
 - [Updated: mautrix-googlechat to v0.3.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1840) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (5 days ago)
 - [Updated: mjolnir to v1.4.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1839) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (5 days ago)
 - [Set version to v1.1.5](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1838) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (5 days ago)
-- [Added: Uptime nginx directive](https://github.com/freifunkMUC/ffmuc-salt-public/pull/98) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
 
 #### 📓 Gists I wrote
 
