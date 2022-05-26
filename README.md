@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Delete the status.ffmuc.net configuration](https://github.com/freifunkMUC/ffmuc-salt-public/pull/104) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Fix typo](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/334) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 day ago)
 - [Updated: meeting time](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/333) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 day ago)
 - [Updated: grafana to 8.5.3](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1845) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (6 days ago)
@@ -40,7 +41,6 @@
 - [Updated: mautrix-twitter to v0.1.4](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1841) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (6 days ago)
 - [Updated: mautrix-googlechat to v0.3.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1840) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (6 days ago)
 - [Updated: mjolnir to v1.4.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1839) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (6 days ago)
-- [Set version to v1.1.5](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1838) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (6 days ago)
 
 #### 📓 Gists I wrote
 
