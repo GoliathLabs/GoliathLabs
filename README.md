@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (6 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (2 weeks ago)
 - [MorphNetwork/infra](https://github.com/MorphNetwork/infra) -  (2 weeks ago)
@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.16.0](https://github.com/tarampampam/error-pages/releases/tag/v2.16.0), 3 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.16.0](https://github.com/tarampampam/error-pages/releases/tag/v2.16.0), 4 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 - [ajbura/cinny](https://github.com/ajbura/cinny) ([v2.0.4](https://github.com/ajbura/cinny/releases/tag/v2.0.4), 1 week ago) - Yet another matrix client
-- [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.25.1](https://github.com/42wim/matterbridge/releases/tag/v1.25.1), 4 weeks ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.2-next3](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.2-next3), 4 weeks ago) - Freifunk München specific Gluon configuration
+- [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.25.1](https://github.com/42wim/matterbridge/releases/tag/v1.25.1), 1 month ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.2-next3](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.2-next3), 1 month ago) - Freifunk München specific Gluon configuration
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) ([1.8.18](https://github.com/ether/etherpad-lite/releases/tag/1.8.18), 1 month ago) - Etherpad: A modern really-real-time collaborative document editor.
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2021.1.2](https://github.com/freifunk-gluon/gluon/releases/tag/v2021.1.2), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.0.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.0.0), 1 month ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
@@ -32,8 +32,8 @@
 #### 🔨 My recent Pull Requests
 
 - [Delete the status.ffmuc.net configuration](https://github.com/freifunkMUC/ffmuc-salt-public/pull/104) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
-- [Fix typo](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/334) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
-- [Updated: meeting time](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/333) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
+- [Fix typo](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/334) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
+- [Updated: meeting time](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/333) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
 - [Updated: grafana to 8.5.3](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1845) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
 - [Updated: etherpad to 1.8.18](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1844) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
 - [Updated: ddclient to v3.9.1-ls89](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1843) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 weeks ago)
