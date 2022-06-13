@@ -44,7 +44,7 @@
 
 #### 📓 Gists I wrote
 
-- [My Keybase proof](https://gist.github.com/69863960a08efeb03ad576ccaf93d880) (6 months ago)
+- [My Keybase proof](https://gist.github.com/69863960a08efeb03ad576ccaf93d880) (7 months ago)
 
 #### ⭐ Recent Stars
 
