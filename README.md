@@ -4,8 +4,8 @@
 
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (3 weeks ago)
-- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (3 weeks ago)
-- [MorphNetwork/infra](https://github.com/MorphNetwork/infra) -  (3 weeks ago)
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (4 weeks ago)
+- [MorphNetwork/infra](https://github.com/MorphNetwork/infra) -  (4 weeks ago)
 - [FreifunkErfurt/site-ffef](https://github.com/FreifunkErfurt/site-ffef) - Freifunk Erfurt specific Gluon configuration  (1 month ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 month ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (2 months ago)
@@ -34,13 +34,13 @@
 - [Delete the status.ffmuc.net configuration](https://github.com/freifunkMUC/ffmuc-salt-public/pull/104) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 weeks ago)
 - [Fix typo](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/334) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 weeks ago)
 - [Updated: meeting time](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/333) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 weeks ago)
-- [Updated: grafana to 8.5.3](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1845) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (3 weeks ago)
-- [Updated: etherpad to 1.8.18](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1844) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (3 weeks ago)
-- [Updated: ddclient to v3.9.1-ls89](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1843) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (3 weeks ago)
-- [Updated: hydrogen-web to v0.2.29](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1842) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (3 weeks ago)
-- [Updated: mautrix-twitter to v0.1.4](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1841) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (3 weeks ago)
-- [Updated: mautrix-googlechat to v0.3.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1840) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (3 weeks ago)
-- [Updated: mjolnir to v1.4.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1839) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (3 weeks ago)
+- [Updated: grafana to 8.5.3](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1845) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (4 weeks ago)
+- [Updated: etherpad to 1.8.18](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1844) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (4 weeks ago)
+- [Updated: ddclient to v3.9.1-ls89](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1843) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (4 weeks ago)
+- [Updated: hydrogen-web to v0.2.29](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1842) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (4 weeks ago)
+- [Updated: mautrix-twitter to v0.1.4](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1841) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (4 weeks ago)
+- [Updated: mautrix-googlechat to v0.3.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1840) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (4 weeks ago)
+- [Updated: mjolnir to v1.4.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1839) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
