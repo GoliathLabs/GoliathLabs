@@ -18,13 +18,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.1.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.1.0), today) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.16.0](https://github.com/tarampampam/error-pages/releases/tag/v2.16.0), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.0.4](https://github.com/cinnyapp/cinny/releases/tag/v2.0.4), 3 weeks ago) - Yet another matrix client
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.25.1](https://github.com/42wim/matterbridge/releases/tag/v1.25.1), 1 month ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.2-next3](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.2-next3), 1 month ago) - Freifunk München specific Gluon configuration
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) ([1.8.18](https://github.com/ether/etherpad-lite/releases/tag/1.8.18), 1 month ago) - Etherpad: A modern really-real-time collaborative document editor.
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2021.1.2](https://github.com/freifunk-gluon/gluon/releases/tag/v2021.1.2), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.0.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.0.0), 1 month ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) ([v0.0.8](https://github.com/freifunkMUC/unifi_respondd/releases/tag/v0.0.8), 2 months ago) - 
 - [ViViDboarder/vaultwarden_ldap](https://github.com/ViViDboarder/vaultwarden_ldap) ([v0.6.2](https://github.com/ViViDboarder/vaultwarden_ldap/releases/tag/v0.6.2), 5 months ago) - LDAP directory connector for vaultwarden
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.5.0](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.5.0), 5 months ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
