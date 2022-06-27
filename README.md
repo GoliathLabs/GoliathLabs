@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.6.0](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.6.0), 1 day ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
-- [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.25.2](https://github.com/42wim/matterbridge/releases/tag/v1.25.2), 2 days ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.1.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.1.0), 4 days ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.6.0](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.6.0), 2 days ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
+- [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.25.2](https://github.com/42wim/matterbridge/releases/tag/v1.25.2), 3 days ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.1.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.1.0), 5 days ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.16.0](https://github.com/tarampampam/error-pages/releases/tag/v2.16.0), 3 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.0.4](https://github.com/cinnyapp/cinny/releases/tag/v2.0.4), 4 weeks ago) - Yet another matrix client
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.2-next3](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.2-next3), 1 month ago) - Freifunk München specific Gluon configuration
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [fttx/barcode-to-pc-server](https://github.com/fttx/barcode-to-pc-server) - Barcode to PC server (1 day ago)
+- [fttx/barcode-to-pc-server](https://github.com/fttx/barcode-to-pc-server) - Barcode to PC server (2 days ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (4 months ago)
 - [offdroid/swmn](https://github.com/offdroid/swmn) - Certificate management server with api and web UI (5 months ago)
 - [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) - :whale: :wrench: Provides Autodiscover capabilities for IMAP/POP/SMTP/LDAP services on Microsoft Outlook/Apple Mail and Autoconfig capabilities for Thunderbird (5 months ago)
