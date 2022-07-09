@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (2 weeks ago)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (3 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (1 month ago)
 - [MorphNetwork/infra](https://github.com/MorphNetwork/infra) -  (1 month ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.6.0](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.6.0), 1 week ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
+- [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.6.0](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.6.0), 2 weeks ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.25.2](https://github.com/42wim/matterbridge/releases/tag/v1.25.2), 2 weeks ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.1.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.1.0), 2 weeks ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.16.0](https://github.com/tarampampam/error-pages/releases/tag/v2.16.0), 1 month ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [fttx/barcode-to-pc-server](https://github.com/fttx/barcode-to-pc-server) - Barcode to PC server (1 week ago)
+- [fttx/barcode-to-pc-server](https://github.com/fttx/barcode-to-pc-server) - Barcode to PC server (2 weeks ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (5 months ago)
 - [offdroid/swmn](https://github.com/offdroid/swmn) - Certificate management server with api and web UI (5 months ago)
 - [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) - :whale: :wrench: Provides Autodiscover capabilities for IMAP/POP/SMTP/LDAP services on Microsoft Outlook/Apple Mail and Autoconfig capabilities for Thunderbird (5 months ago)
