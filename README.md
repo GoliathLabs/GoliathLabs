@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated Gitleaks Action repository as the LICENSE has changed](https://github.com/freifunkMUC/wg-access-server/pull/225) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Removed: Gitleaks action](https://github.com/freifunkMUC/wg-access-server/pull/224) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [Delete the status.ffmuc.net configuration](https://github.com/freifunkMUC/ffmuc-salt-public/pull/104) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 month ago)
 - [Fix typo](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/334) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 month ago)
@@ -40,7 +41,6 @@
 - [Updated: ddclient to v3.9.1-ls89](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1843) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 months ago)
 - [Updated: hydrogen-web to v0.2.29](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1842) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 months ago)
 - [Updated: mautrix-twitter to v0.1.4](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1841) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 months ago)
-- [Updated: mautrix-googlechat to v0.3.2](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1840) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 months ago)
 
 #### 📓 Gists I wrote
 
