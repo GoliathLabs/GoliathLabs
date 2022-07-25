@@ -31,6 +31,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added: strings.ToLower patch](https://github.com/krombel/conferencemapper/pull/4) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (today)
+- [Added: workflows](https://github.com/krombel/conferencemapper/pull/3) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (today)
+- [Updated: golang &amp; modules](https://github.com/krombel/conferencemapper/pull/2) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (today)
 - [Add `reject_unknown_client_hostname` to main.cf](https://github.com/docker-mailserver/docker-mailserver/pull/2691) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (1 day ago)
 - [Updated Gitleaks Action repository as the LICENSE has changed](https://github.com/freifunkMUC/wg-access-server/pull/225) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
 - [Removed: Gitleaks action](https://github.com/freifunkMUC/wg-access-server/pull/224) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
@@ -38,9 +41,6 @@
 - [Fix typo](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/334) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 months ago)
 - [Updated: meeting time](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/333) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 months ago)
 - [Updated: grafana to 8.5.3](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1845) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 months ago)
-- [Updated: etherpad to 1.8.18](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1844) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 months ago)
-- [Updated: ddclient to v3.9.1-ls89](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1843) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 months ago)
-- [Updated: hydrogen-web to v0.2.29](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1842) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 months ago)
 
 #### 📓 Gists I wrote
 
