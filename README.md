@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.17.0](https://github.com/tarampampam/error-pages/releases/tag/v2.17.0), today) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.6.0](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.6.0), 1 month ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.25.2](https://github.com/42wim/matterbridge/releases/tag/v1.25.2), 1 month ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.1.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.1.0), 1 month ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.16.0](https://github.com/tarampampam/error-pages/releases/tag/v2.16.0), 1 month ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.0.4](https://github.com/cinnyapp/cinny/releases/tag/v2.0.4), 1 month ago) - Yet another matrix client
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.2-next3](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.2-next3), 2 months ago) - Freifunk München specific Gluon configuration
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) ([1.8.18](https://github.com/ether/etherpad-lite/releases/tag/1.8.18), 2 months ago) - Etherpad: A modern really-real-time collaborative document editor.
