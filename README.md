@@ -31,6 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated container names as the naming scheme has changed](https://github.com/byro/byro/pull/283) on [byro/byro](https://github.com/byro/byro) (today)
+- [Updated: container names](https://github.com/GoliathLabs/byro/pull/1) on [GoliathLabs/byro](https://github.com/GoliathLabs/byro) (today)
 - [Added: strings.ToLower patch](https://github.com/krombel/conferencemapper/pull/4) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (1 day ago)
 - [Added: workflows](https://github.com/krombel/conferencemapper/pull/3) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (1 day ago)
 - [Updated: golang &amp; modules](https://github.com/krombel/conferencemapper/pull/2) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (1 day ago)
@@ -39,8 +41,6 @@
 - [Removed: Gitleaks action](https://github.com/freifunkMUC/wg-access-server/pull/224) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [Delete the status.ffmuc.net configuration](https://github.com/freifunkMUC/ffmuc-salt-public/pull/104) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 months ago)
 - [Fix typo](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/334) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 months ago)
-- [Updated: meeting time](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/333) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 months ago)
-- [Updated: grafana to 8.5.3](https://github.com/spantaleev/matrix-docker-ansible-deploy/pull/1845) on [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) (2 months ago)
 
 #### 📓 Gists I wrote
 
