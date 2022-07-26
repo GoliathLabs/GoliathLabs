@@ -31,6 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: docker-compose.yml](https://github.com/byro/byro/pull/284) on [byro/byro](https://github.com/byro/byro) (today)
+- [Updated: docker-compose.yml](https://github.com/GoliathLabs/byro/pull/2) on [GoliathLabs/byro](https://github.com/GoliathLabs/byro) (today)
 - [Updated container names as the naming scheme has changed](https://github.com/byro/byro/pull/283) on [byro/byro](https://github.com/byro/byro) (today)
 - [Updated: container names](https://github.com/GoliathLabs/byro/pull/1) on [GoliathLabs/byro](https://github.com/GoliathLabs/byro) (today)
 - [Added: strings.ToLower patch](https://github.com/krombel/conferencemapper/pull/4) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (1 day ago)
@@ -39,8 +41,6 @@
 - [Add `reject_unknown_client_hostname` to main.cf](https://github.com/docker-mailserver/docker-mailserver/pull/2691) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (2 days ago)
 - [Updated Gitleaks Action repository as the LICENSE has changed](https://github.com/freifunkMUC/wg-access-server/pull/225) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
 - [Removed: Gitleaks action](https://github.com/freifunkMUC/wg-access-server/pull/224) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
-- [Delete the status.ffmuc.net configuration](https://github.com/freifunkMUC/ffmuc-salt-public/pull/104) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 months ago)
-- [Fix typo](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/334) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 months ago)
 
 #### 📓 Gists I wrote
 
