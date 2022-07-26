@@ -10,7 +10,7 @@
 - [FreifunkErfurt/site-ffef](https://github.com/FreifunkErfurt/site-ffef) - Freifunk Erfurt specific Gluon configuration  (2 months ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (2 months ago)
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client (5 months ago)
-- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor. (5 months ago)
+- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor. (6 months ago)
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (6 months ago)
 
 #### 🌱 My latest projects
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.17.0](https://github.com/tarampampam/error-pages/releases/tag/v2.17.0), today) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.17.0](https://github.com/tarampampam/error-pages/releases/tag/v2.17.0), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.6.0](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.6.0), 1 month ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.25.2](https://github.com/42wim/matterbridge/releases/tag/v1.25.2), 1 month ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.1.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.1.0), 1 month ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
@@ -31,11 +31,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added: strings.ToLower patch](https://github.com/krombel/conferencemapper/pull/4) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (today)
-- [Added: workflows](https://github.com/krombel/conferencemapper/pull/3) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (today)
-- [Updated: golang &amp; modules](https://github.com/krombel/conferencemapper/pull/2) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (today)
-- [Add `reject_unknown_client_hostname` to main.cf](https://github.com/docker-mailserver/docker-mailserver/pull/2691) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (1 day ago)
-- [Updated Gitleaks Action repository as the LICENSE has changed](https://github.com/freifunkMUC/wg-access-server/pull/225) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [Added: strings.ToLower patch](https://github.com/krombel/conferencemapper/pull/4) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (1 day ago)
+- [Added: workflows](https://github.com/krombel/conferencemapper/pull/3) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (1 day ago)
+- [Updated: golang &amp; modules](https://github.com/krombel/conferencemapper/pull/2) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (1 day ago)
+- [Add `reject_unknown_client_hostname` to main.cf](https://github.com/docker-mailserver/docker-mailserver/pull/2691) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (2 days ago)
+- [Updated Gitleaks Action repository as the LICENSE has changed](https://github.com/freifunkMUC/wg-access-server/pull/225) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
 - [Removed: Gitleaks action](https://github.com/freifunkMUC/wg-access-server/pull/224) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [Delete the status.ffmuc.net configuration](https://github.com/freifunkMUC/ffmuc-salt-public/pull/104) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 months ago)
 - [Fix typo](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/334) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 months ago)
@@ -50,7 +50,7 @@
 
 - [fttx/barcode-to-pc-server](https://github.com/fttx/barcode-to-pc-server) - Barcode to PC server (1 month ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (5 months ago)
-- [offdroid/swmn](https://github.com/offdroid/swmn) - Certificate management server with api and web UI (5 months ago)
+- [offdroid/swmn](https://github.com/offdroid/swmn) - Certificate management server with api and web UI (6 months ago)
 - [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) - :whale: :wrench: Provides Autodiscover capabilities for IMAP/POP/SMTP/LDAP services on Microsoft Outlook/Apple Mail and Autoconfig capabilities for Thunderbird (6 months ago)
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client (6 months ago)
 - [acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion) - Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... (6 months ago)
