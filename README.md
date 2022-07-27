@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (1 day ago)
+- [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (today)
 - [krombel/conferencemapper](https://github.com/krombel/conferencemapper) -  (2 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 weeks ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 month ago)
