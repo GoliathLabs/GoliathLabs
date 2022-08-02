@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 day ago)
-- [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (5 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 day ago)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (2 days ago)
+- [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (6 days ago)
 - [krombel/conferencemapper](https://github.com/krombel/conferencemapper) -  (1 week ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 months ago)
 - [MorphNetwork/infra](https://github.com/MorphNetwork/infra) -  (2 months ago)
@@ -31,12 +31,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added: Communities](https://github.com/freifunkMUC/freifunk.net-API/pull/21) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (3 days ago)
-- [Updated workflows to fix the tests](https://github.com/byro/byro/pull/286) on [byro/byro](https://github.com/byro/byro) (5 days ago)
-- [Updated: docker-compose.yml](https://github.com/byro/byro/pull/284) on [byro/byro](https://github.com/byro/byro) (6 days ago)
-- [Updated: docker-compose.yml](https://github.com/GoliathLabs/byro/pull/2) on [GoliathLabs/byro](https://github.com/GoliathLabs/byro) (6 days ago)
-- [Updated container names as the naming scheme has changed](https://github.com/byro/byro/pull/283) on [byro/byro](https://github.com/byro/byro) (6 days ago)
-- [Updated: container names](https://github.com/GoliathLabs/byro/pull/1) on [GoliathLabs/byro](https://github.com/GoliathLabs/byro) (6 days ago)
+- [Added: Communities](https://github.com/freifunkMUC/freifunk.net-API/pull/21) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (4 days ago)
+- [Updated workflows to fix the tests](https://github.com/byro/byro/pull/286) on [byro/byro](https://github.com/byro/byro) (6 days ago)
+- [Updated: docker-compose.yml](https://github.com/byro/byro/pull/284) on [byro/byro](https://github.com/byro/byro) (1 week ago)
+- [Updated: docker-compose.yml](https://github.com/GoliathLabs/byro/pull/2) on [GoliathLabs/byro](https://github.com/GoliathLabs/byro) (1 week ago)
+- [Updated container names as the naming scheme has changed](https://github.com/byro/byro/pull/283) on [byro/byro](https://github.com/byro/byro) (1 week ago)
+- [Updated: container names](https://github.com/GoliathLabs/byro/pull/1) on [GoliathLabs/byro](https://github.com/GoliathLabs/byro) (1 week ago)
 - [Added: strings.ToLower patch](https://github.com/krombel/conferencemapper/pull/4) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (1 week ago)
 - [Added: workflows](https://github.com/krombel/conferencemapper/pull/3) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (1 week ago)
 - [Updated: golang &amp; modules](https://github.com/krombel/conferencemapper/pull/2) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (1 week ago)
