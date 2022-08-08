@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added: workflows to publish our own images](https://github.com/freifunkMUC/wgkex/pull/77) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (today)
 - [Added: Communities](https://github.com/freifunkMUC/freifunk.net-API/pull/21) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (1 week ago)
 - [Updated workflows to fix the tests](https://github.com/byro/byro/pull/286) on [byro/byro](https://github.com/byro/byro) (1 week ago)
 - [Updated: docker-compose.yml](https://github.com/byro/byro/pull/284) on [byro/byro](https://github.com/byro/byro) (1 week ago)
@@ -40,7 +41,6 @@
 - [Added: strings.ToLower patch](https://github.com/krombel/conferencemapper/pull/4) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (2 weeks ago)
 - [Added: workflows](https://github.com/krombel/conferencemapper/pull/3) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (2 weeks ago)
 - [Updated: golang &amp; modules](https://github.com/krombel/conferencemapper/pull/2) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (2 weeks ago)
-- [Add `reject_unknown_client_hostname` to main.cf](https://github.com/docker-mailserver/docker-mailserver/pull/2691) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
