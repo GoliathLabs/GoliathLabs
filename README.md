@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[TASK] Update dependencies](https://github.com/freifunk-ffm/meshviewer/pull/5) on [freifunk-ffm/meshviewer](https://github.com/freifunk-ffm/meshviewer) (today)
 - [Added: workflows to publish our own images](https://github.com/freifunkMUC/wgkex/pull/77) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (today)
 - [Added: Communities](https://github.com/freifunkMUC/freifunk.net-API/pull/21) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (1 week ago)
 - [Updated workflows to fix the tests](https://github.com/byro/byro/pull/286) on [byro/byro](https://github.com/byro/byro) (1 week ago)
@@ -40,7 +41,6 @@
 - [Updated: container names](https://github.com/GoliathLabs/byro/pull/1) on [GoliathLabs/byro](https://github.com/GoliathLabs/byro) (1 week ago)
 - [Added: strings.ToLower patch](https://github.com/krombel/conferencemapper/pull/4) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (2 weeks ago)
 - [Added: workflows](https://github.com/krombel/conferencemapper/pull/3) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (2 weeks ago)
-- [Updated: golang &amp; modules](https://github.com/krombel/conferencemapper/pull/2) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
