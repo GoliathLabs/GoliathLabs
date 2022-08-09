@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 day ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 week ago)
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (1 week ago)
 - [krombel/conferencemapper](https://github.com/krombel/conferencemapper) -  (2 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 months ago)
-- [MorphNetwork/infra](https://github.com/MorphNetwork/infra) -  (2 months ago)
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (2 months ago)
+- [MorphNetwork/infra](https://github.com/MorphNetwork/infra) -  (2 months ago)
 - [FreifunkErfurt/site-ffef](https://github.com/FreifunkErfurt/site-ffef) - Freifunk Erfurt specific Gluon configuration  (3 months ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (3 months ago)
-- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client (6 months ago)
 
 #### 🌱 My latest projects
 
