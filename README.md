@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.1.1](https://github.com/cinnyapp/cinny/releases/tag/v2.1.1), 4 days ago) - Yet another matrix client
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.1.2](https://github.com/cinnyapp/cinny/releases/tag/v2.1.2), today) - Yet another matrix client
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.17.0](https://github.com/tarampampam/error-pages/releases/tag/v2.17.0), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.6.0](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.6.0), 1 month ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.25.2](https://github.com/42wim/matterbridge/releases/tag/v1.25.2), 1 month ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
