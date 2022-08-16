@@ -31,6 +31,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: kafka to 3.2.1](https://github.com/nttgin/BGPalerter/pull/891) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (today)
+- [Added: gh-actions &amp; docker to dependabot](https://github.com/nttgin/BGPalerter/pull/890) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (today)
+- [Added: Dockerfile improvements](https://github.com/nttgin/BGPalerter/pull/889) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (today)
 - [Added two recommended flags &amp; bumped image tag](https://github.com/cinnyapp/cinny/pull/730) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (1 week ago)
 - [Update prod-deploy.yml](https://github.com/cinnyapp/cinny/pull/729) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (1 week ago)
 - [Changed: push branch to main](https://github.com/freifunkMUC/wgkex/pull/83) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 week ago)
@@ -38,9 +41,6 @@
 - [Added: workflows to publish our own images](https://github.com/freifunkMUC/wgkex/pull/77) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 week ago)
 - [Added: Communities](https://github.com/freifunkMUC/freifunk.net-API/pull/21) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (2 weeks ago)
 - [Updated workflows to fix the tests](https://github.com/byro/byro/pull/286) on [byro/byro](https://github.com/byro/byro) (2 weeks ago)
-- [Updated: docker-compose.yml](https://github.com/byro/byro/pull/284) on [byro/byro](https://github.com/byro/byro) (3 weeks ago)
-- [Updated container names as the naming scheme has changed](https://github.com/byro/byro/pull/283) on [byro/byro](https://github.com/byro/byro) (3 weeks ago)
-- [Added: strings.ToLower patch](https://github.com/krombel/conferencemapper/pull/4) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
