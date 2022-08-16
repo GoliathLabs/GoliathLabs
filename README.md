@@ -39,8 +39,8 @@
 - [Added: Communities](https://github.com/freifunkMUC/freifunk.net-API/pull/21) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (2 weeks ago)
 - [Updated workflows to fix the tests](https://github.com/byro/byro/pull/286) on [byro/byro](https://github.com/byro/byro) (2 weeks ago)
 - [Updated: docker-compose.yml](https://github.com/byro/byro/pull/284) on [byro/byro](https://github.com/byro/byro) (3 weeks ago)
-- [Updated: docker-compose.yml](https://github.com/GoliathLabs/byro/pull/2) on [GoliathLabs/byro](https://github.com/GoliathLabs/byro) (3 weeks ago)
 - [Updated container names as the naming scheme has changed](https://github.com/byro/byro/pull/283) on [byro/byro](https://github.com/byro/byro) (3 weeks ago)
+- [Added: strings.ToLower patch](https://github.com/krombel/conferencemapper/pull/4) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
