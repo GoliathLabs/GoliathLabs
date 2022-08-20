@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.18.0](https://github.com/tarampampam/error-pages/releases/tag/v2.18.0), today) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.18.0](https://github.com/tarampampam/error-pages/releases/tag/v2.18.0), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 - [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.30.1](https://github.com/nttgin/BGPalerter/releases/tag/v1.30.1), 1 week ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.1.2](https://github.com/cinnyapp/cinny/releases/tag/v2.1.2), 1 week ago) - Yet another matrix client
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.6.0](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.6.0), 1 month ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
@@ -31,9 +31,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Updated: kafka to 3.2.1](https://github.com/nttgin/BGPalerter/pull/891) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (3 days ago)
-- [Added: gh-actions &amp; docker to dependabot](https://github.com/nttgin/BGPalerter/pull/890) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (3 days ago)
-- [Added: Dockerfile improvements](https://github.com/nttgin/BGPalerter/pull/889) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (3 days ago)
+- [Updated: kafka to 3.2.1](https://github.com/nttgin/BGPalerter/pull/891) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (4 days ago)
+- [Added: gh-actions &amp; docker to dependabot](https://github.com/nttgin/BGPalerter/pull/890) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (4 days ago)
+- [Added: Dockerfile improvements](https://github.com/nttgin/BGPalerter/pull/889) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (4 days ago)
 - [Added two recommended flags &amp; bumped image tag](https://github.com/cinnyapp/cinny/pull/730) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (1 week ago)
 - [Update prod-deploy.yml](https://github.com/cinnyapp/cinny/pull/729) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (1 week ago)
 - [Changed: push branch to main](https://github.com/freifunkMUC/wgkex/pull/83) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 week ago)
