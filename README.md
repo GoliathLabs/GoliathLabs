@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 week ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 weeks ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (3 weeks ago)
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (3 weeks ago)
-- [krombel/conferencemapper](https://github.com/krombel/conferencemapper) -  (3 weeks ago)
+- [krombel/conferencemapper](https://github.com/krombel/conferencemapper) -  (4 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 months ago)
 - [MorphNetwork/infra](https://github.com/MorphNetwork/infra) -  (3 months ago)
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker (3 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.18.0](https://github.com/tarampampam/error-pages/releases/tag/v2.18.0), 2 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.18.0](https://github.com/tarampampam/error-pages/releases/tag/v2.18.0), 3 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 - [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.30.1](https://github.com/nttgin/BGPalerter/releases/tag/v1.30.1), 1 week ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.1.2](https://github.com/cinnyapp/cinny/releases/tag/v2.1.2), 1 week ago) - Yet another matrix client
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.6.0](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.6.0), 1 month ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
@@ -31,14 +31,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Updated: kafka to 3.2.1](https://github.com/nttgin/BGPalerter/pull/891) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (5 days ago)
-- [Added: gh-actions &amp; docker to dependabot](https://github.com/nttgin/BGPalerter/pull/890) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (5 days ago)
-- [Added: Dockerfile improvements](https://github.com/nttgin/BGPalerter/pull/889) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (5 days ago)
+- [Updated: kafka to 3.2.1](https://github.com/nttgin/BGPalerter/pull/891) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (6 days ago)
+- [Added: gh-actions &amp; docker to dependabot](https://github.com/nttgin/BGPalerter/pull/890) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (6 days ago)
+- [Added: Dockerfile improvements](https://github.com/nttgin/BGPalerter/pull/889) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (6 days ago)
 - [Added two recommended flags &amp; bumped image tag](https://github.com/cinnyapp/cinny/pull/730) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (1 week ago)
 - [Update prod-deploy.yml](https://github.com/cinnyapp/cinny/pull/729) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (1 week ago)
 - [Changed: push branch to main](https://github.com/freifunkMUC/wgkex/pull/83) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 week ago)
-- [[TASK] Update dependencies](https://github.com/freifunk-ffm/meshviewer/pull/5) on [freifunk-ffm/meshviewer](https://github.com/freifunk-ffm/meshviewer) (1 week ago)
-- [Added: workflows to publish our own images](https://github.com/freifunkMUC/wgkex/pull/77) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 week ago)
+- [[TASK] Update dependencies](https://github.com/freifunk-ffm/meshviewer/pull/5) on [freifunk-ffm/meshviewer](https://github.com/freifunk-ffm/meshviewer) (2 weeks ago)
+- [Added: workflows to publish our own images](https://github.com/freifunkMUC/wgkex/pull/77) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 weeks ago)
 - [Added: Communities](https://github.com/freifunkMUC/freifunk.net-API/pull/21) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (3 weeks ago)
 - [Updated workflows to fix the tests](https://github.com/byro/byro/pull/286) on [byro/byro](https://github.com/byro/byro) (3 weeks ago)
 
