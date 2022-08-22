@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added: proper versioing](https://github.com/freifunkMUC/wgkex/pull/86) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (today)
 - [Updated: kafka to 3.2.1](https://github.com/nttgin/BGPalerter/pull/891) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (6 days ago)
 - [Added: gh-actions &amp; docker to dependabot](https://github.com/nttgin/BGPalerter/pull/890) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (6 days ago)
 - [Added: Dockerfile improvements](https://github.com/nttgin/BGPalerter/pull/889) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (6 days ago)
@@ -40,7 +41,6 @@
 - [[TASK] Update dependencies](https://github.com/freifunk-ffm/meshviewer/pull/5) on [freifunk-ffm/meshviewer](https://github.com/freifunk-ffm/meshviewer) (2 weeks ago)
 - [Added: workflows to publish our own images](https://github.com/freifunkMUC/wgkex/pull/77) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 weeks ago)
 - [Added: Communities](https://github.com/freifunkMUC/freifunk.net-API/pull/21) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (3 weeks ago)
-- [Updated workflows to fix the tests](https://github.com/byro/byro/pull/286) on [byro/byro](https://github.com/byro/byro) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
