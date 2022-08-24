@@ -31,6 +31,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Introduce dependency/requirements versioning](https://github.com/freifunkMUC/wgkex/pull/88) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (today)
+- [Added: gha cache to prod-deploy.yml](https://github.com/cinnyapp/cinny/pull/789) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (today)
+- [Change npm ci flags](https://github.com/cinnyapp/cinny/pull/788) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (today)
 - [[Snyk] Upgrade react-router-dom from 5.3.0 to 5.3.3](https://github.com/freifunkMUC/wg-access-server/pull/241) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [Added: proper versioing](https://github.com/freifunkMUC/wgkex/pull/86) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 days ago)
 - [Updated: kafka to 3.2.1](https://github.com/nttgin/BGPalerter/pull/891) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (1 week ago)
@@ -38,9 +41,6 @@
 - [Added: Dockerfile improvements](https://github.com/nttgin/BGPalerter/pull/889) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (1 week ago)
 - [Added two recommended flags &amp; bumped image tag](https://github.com/cinnyapp/cinny/pull/730) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (2 weeks ago)
 - [Update prod-deploy.yml](https://github.com/cinnyapp/cinny/pull/729) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (2 weeks ago)
-- [Changed: push branch to main](https://github.com/freifunkMUC/wgkex/pull/83) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 weeks ago)
-- [[TASK] Update dependencies](https://github.com/freifunk-ffm/meshviewer/pull/5) on [freifunk-ffm/meshviewer](https://github.com/freifunk-ffm/meshviewer) (2 weeks ago)
-- [Added: workflows to publish our own images](https://github.com/freifunkMUC/wgkex/pull/77) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
