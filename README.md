@@ -5,7 +5,7 @@
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (2 weeks ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 weeks ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (3 weeks ago)
-- [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (4 weeks ago)
+- [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (1 month ago)
 - [krombel/conferencemapper](https://github.com/krombel/conferencemapper) -  (1 month ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (3 months ago)
 - [MorphNetwork/infra](https://github.com/MorphNetwork/infra) -  (3 months ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.18.0](https://github.com/tarampampam/error-pages/releases/tag/v2.18.0), 6 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
-- [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.30.1](https://github.com/nttgin/BGPalerter/releases/tag/v1.30.1), 1 week ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.18.0](https://github.com/tarampampam/error-pages/releases/tag/v2.18.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
+- [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.30.1](https://github.com/nttgin/BGPalerter/releases/tag/v1.30.1), 2 weeks ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.1.2](https://github.com/cinnyapp/cinny/releases/tag/v2.1.2), 2 weeks ago) - Yet another matrix client
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.6.0](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.6.0), 2 months ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.25.2](https://github.com/42wim/matterbridge/releases/tag/v1.25.2), 2 months ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
@@ -31,11 +31,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Introduce dependency/requirements versioning](https://github.com/freifunkMUC/wgkex/pull/88) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 day ago)
-- [Added: gha cache to prod-deploy.yml](https://github.com/cinnyapp/cinny/pull/789) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (1 day ago)
-- [Change npm ci flags](https://github.com/cinnyapp/cinny/pull/788) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (1 day ago)
-- [[Snyk] Upgrade react-router-dom from 5.3.0 to 5.3.3](https://github.com/freifunkMUC/wg-access-server/pull/241) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
-- [Added: proper versioing](https://github.com/freifunkMUC/wgkex/pull/86) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (3 days ago)
+- [Introduce dependency/requirements versioning](https://github.com/freifunkMUC/wgkex/pull/88) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 days ago)
+- [Added: gha cache to prod-deploy.yml](https://github.com/cinnyapp/cinny/pull/789) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (2 days ago)
+- [Change npm ci flags](https://github.com/cinnyapp/cinny/pull/788) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (2 days ago)
+- [[Snyk] Upgrade react-router-dom from 5.3.0 to 5.3.3](https://github.com/freifunkMUC/wg-access-server/pull/241) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
+- [Added: proper versioing](https://github.com/freifunkMUC/wgkex/pull/86) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (4 days ago)
 - [Updated: kafka to 3.2.1](https://github.com/nttgin/BGPalerter/pull/891) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (1 week ago)
 - [Added: gh-actions &amp; docker to dependabot](https://github.com/nttgin/BGPalerter/pull/890) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (1 week ago)
 - [Added: Dockerfile improvements](https://github.com/nttgin/BGPalerter/pull/889) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (1 week ago)
