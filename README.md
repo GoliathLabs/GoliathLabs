@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [go.mod upgrade to go 1.18](https://github.com/freifunkMUC/wg-embed/pull/14) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (today)
 - [Introduce dependency/requirements versioning](https://github.com/freifunkMUC/wgkex/pull/88) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 week ago)
 - [Added: gha cache to prod-deploy.yml](https://github.com/cinnyapp/cinny/pull/789) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (1 week ago)
 - [Change npm ci flags](https://github.com/cinnyapp/cinny/pull/788) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (1 week ago)
@@ -40,7 +41,6 @@
 - [Added: gh-actions &amp; docker to dependabot](https://github.com/nttgin/BGPalerter/pull/890) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (2 weeks ago)
 - [Added: Dockerfile improvements](https://github.com/nttgin/BGPalerter/pull/889) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (2 weeks ago)
 - [Added two recommended flags &amp; bumped image tag](https://github.com/cinnyapp/cinny/pull/730) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (3 weeks ago)
-- [Update prod-deploy.yml](https://github.com/cinnyapp/cinny/pull/729) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
