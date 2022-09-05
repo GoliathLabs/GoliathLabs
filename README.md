@@ -18,6 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1), today) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.1.3](https://github.com/cinnyapp/cinny/releases/tag/v2.1.3), 5 days ago) - Yet another matrix client
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.9.6](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.9.6), 1 week ago) - Helm Charts for wg-access-server
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.18.0](https://github.com/tarampampam/error-pages/releases/tag/v2.18.0), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
@@ -27,7 +28,6 @@
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.1.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.1.0), 2 months ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.2-next3](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.2-next3), 3 months ago) - Freifunk München specific Gluon configuration
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) ([1.8.18](https://github.com/ether/etherpad-lite/releases/tag/1.8.18), 4 months ago) - Etherpad: A modern really-real-time collaborative document editor.
-- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2021.1.2](https://github.com/freifunk-gluon/gluon/releases/tag/v2021.1.2), 4 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 
 #### 🔨 My recent Pull Requests
 
