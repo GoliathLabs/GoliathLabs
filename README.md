@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (today)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (3 days ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 month ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 month ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 month ago)
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (1 month ago)
 - [krombel/conferencemapper](https://github.com/krombel/conferencemapper) -  (1 month ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.9.7](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.9.7), today) - Helm Charts for wg-access-server
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.9.8](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.9.8), today) - Helm Charts for wg-access-server
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1), 3 days ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.1.3](https://github.com/cinnyapp/cinny/releases/tag/v2.1.3), 1 week ago) - Yet another matrix client
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.18.0](https://github.com/tarampampam/error-pages/releases/tag/v2.18.0), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: Recommended devices](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/340) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
 - [[TASK] Added Dependabot to check for dependency updates](https://github.com/ffrgb/meshviewer/pull/325) on [ffrgb/meshviewer](https://github.com/ffrgb/meshviewer) (2 days ago)
 - [go.mod upgrade to go 1.18](https://github.com/freifunkMUC/wg-embed/pull/14) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (6 days ago)
 - [Introduce dependency/requirements versioning](https://github.com/freifunkMUC/wgkex/pull/88) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 weeks ago)
@@ -40,7 +41,6 @@
 - [Added: proper versioing](https://github.com/freifunkMUC/wgkex/pull/86) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 weeks ago)
 - [Updated: kafka to 3.2.1](https://github.com/nttgin/BGPalerter/pull/891) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (3 weeks ago)
 - [Added: gh-actions &amp; docker to dependabot](https://github.com/nttgin/BGPalerter/pull/890) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (3 weeks ago)
-- [Added: Dockerfile improvements](https://github.com/nttgin/BGPalerter/pull/889) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
