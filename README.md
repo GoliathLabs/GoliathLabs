@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.2.0](https://github.com/cinnyapp/cinny/releases/tag/v2.2.0), today) - Yet another matrix client
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.9.8](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.9.8), 1 week ago) - Helm Charts for wg-access-server
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1), 1 week ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
-- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.1.3](https://github.com/cinnyapp/cinny/releases/tag/v2.1.3), 2 weeks ago) - Yet another matrix client
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.18.0](https://github.com/tarampampam/error-pages/releases/tag/v2.18.0), 4 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 - [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.30.1](https://github.com/nttgin/BGPalerter/releases/tag/v1.30.1), 1 month ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.6.0](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.6.0), 2 months ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
