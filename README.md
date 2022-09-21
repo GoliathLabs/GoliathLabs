@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.2-next4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.2-next4), today) - Freifunk München specific Gluon configuration
-- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.2.0](https://github.com/cinnyapp/cinny/releases/tag/v2.2.0), 3 days ago) - Yet another matrix client
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.2-next4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.2-next4), 1 day ago) - Freifunk München specific Gluon configuration
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.2.0](https://github.com/cinnyapp/cinny/releases/tag/v2.2.0), 4 days ago) - Yet another matrix client
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.9.8](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.9.8), 1 week ago) - Helm Charts for wg-access-server
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1), 2 weeks ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.18.0](https://github.com/tarampampam/error-pages/releases/tag/v2.18.0), 1 month ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
@@ -35,11 +35,11 @@
 - [Updated: Recommended devices](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/340) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
 - [[TASK] Added Dependabot to check for dependency updates](https://github.com/ffrgb/meshviewer/pull/325) on [ffrgb/meshviewer](https://github.com/ffrgb/meshviewer) (2 weeks ago)
 - [go.mod upgrade to go 1.18](https://github.com/freifunkMUC/wg-embed/pull/14) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (2 weeks ago)
-- [Introduce dependency/requirements versioning](https://github.com/freifunkMUC/wgkex/pull/88) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (3 weeks ago)
-- [Added: gha cache to prod-deploy.yml](https://github.com/cinnyapp/cinny/pull/789) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (3 weeks ago)
-- [Change npm ci flags](https://github.com/cinnyapp/cinny/pull/788) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (3 weeks ago)
+- [Introduce dependency/requirements versioning](https://github.com/freifunkMUC/wgkex/pull/88) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (4 weeks ago)
+- [Added: gha cache to prod-deploy.yml](https://github.com/cinnyapp/cinny/pull/789) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (4 weeks ago)
+- [Change npm ci flags](https://github.com/cinnyapp/cinny/pull/788) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (4 weeks ago)
 - [[Snyk] Upgrade react-router-dom from 5.3.0 to 5.3.3](https://github.com/freifunkMUC/wg-access-server/pull/241) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 weeks ago)
-- [Added: proper versioing](https://github.com/freifunkMUC/wgkex/pull/86) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (4 weeks ago)
+- [Added: proper versioing](https://github.com/freifunkMUC/wgkex/pull/86) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 month ago)
 - [Updated: kafka to 3.2.1](https://github.com/nttgin/BGPalerter/pull/891) on [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) (1 month ago)
 
 #### 📓 Gists I wrote
