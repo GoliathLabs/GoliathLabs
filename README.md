@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.2-next4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.2-next4), 3 days ago) - Freifunk München specific Gluon configuration
-- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.2.0](https://github.com/cinnyapp/cinny/releases/tag/v2.2.0), 6 days ago) - Yet another matrix client
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.2-next4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.2-next4), 4 days ago) - Freifunk München specific Gluon configuration
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.2.0](https://github.com/cinnyapp/cinny/releases/tag/v2.2.0), 1 week ago) - Yet another matrix client
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.9.8](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.9.8), 2 weeks ago) - Helm Charts for wg-access-server
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1), 2 weeks ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.18.0](https://github.com/tarampampam/error-pages/releases/tag/v2.18.0), 1 month ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
@@ -48,10 +48,10 @@
 
 #### ⭐ Recent Stars
 
-- [MarkWattTech/MarkWattTech-Tutorials](https://github.com/MarkWattTech/MarkWattTech-Tutorials) - A Collection of Code from Various MarkWattTech Videos (2 weeks ago)
+- [MarkWattTech/MarkWattTech-Tutorials](https://github.com/MarkWattTech/MarkWattTech-Tutorials) - A Collection of Code from Various MarkWattTech Videos (3 weeks ago)
 - [fttx/barcode-to-pc-server](https://github.com/fttx/barcode-to-pc-server) - Barcode to PC server (3 months ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (7 months ago)
-- [offdroid/swmn](https://github.com/offdroid/swmn) - Certificate management server with api and web UI (7 months ago)
+- [offdroid/swmn](https://github.com/offdroid/swmn) - Certificate management server with api and web UI (8 months ago)
 - [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) - :whale: :wrench: Provides Autodiscover capabilities for IMAP/POP/SMTP/LDAP services on Microsoft Outlook/Apple Mail and Autoconfig capabilities for Thunderbird (8 months ago)
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client (8 months ago)
 - [acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion) - Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... (8 months ago)
