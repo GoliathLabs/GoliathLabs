@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 week ago)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (2 weeks ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 weeks ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (2 weeks ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 month ago)
-- [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (1 month ago)
+- [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (2 months ago)
 - [krombel/conferencemapper](https://github.com/krombel/conferencemapper) -  (2 months ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (4 months ago)
 - [MorphNetwork/infra](https://github.com/MorphNetwork/infra) -  (4 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.2-next4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.2-next4), 4 days ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.2-next4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.2-next4), 5 days ago) - Freifunk München specific Gluon configuration
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.2.0](https://github.com/cinnyapp/cinny/releases/tag/v2.2.0), 1 week ago) - Yet another matrix client
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.9.8](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.9.8), 2 weeks ago) - Helm Charts for wg-access-server
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1), 2 weeks ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
