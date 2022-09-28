@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.2.1](https://github.com/cinnyapp/cinny/releases/tag/v2.2.1), today) - Yet another matrix client
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.2.2](https://github.com/cinnyapp/cinny/releases/tag/v2.2.2), today) - Yet another matrix client
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.2-next4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.2-next4), 1 week ago) - Freifunk München specific Gluon configuration
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.9.8](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.9.8), 2 weeks ago) - Helm Charts for wg-access-server
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1), 3 weeks ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
