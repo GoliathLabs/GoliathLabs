@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 days ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (3 weeks ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (3 weeks ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (4 weeks ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.2.2](https://github.com/cinnyapp/cinny/releases/tag/v2.2.2), 5 days ago) - Yet another matrix client
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.2-next4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.2-next4), 1 week ago) - Freifunk München specific Gluon configuration
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.2.2](https://github.com/cinnyapp/cinny/releases/tag/v2.2.2), 6 days ago) - Yet another matrix client
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.2-next4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.2-next4), 2 weeks ago) - Freifunk München specific Gluon configuration
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.9.8](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.9.8), 3 weeks ago) - Helm Charts for wg-access-server
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1), 4 weeks ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.18.0](https://github.com/tarampampam/error-pages/releases/tag/v2.18.0), 1 month ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
@@ -33,7 +33,7 @@
 
 - [Fix styling](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/341) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 weeks ago)
 - [Updated: Recommended devices](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/340) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 weeks ago)
-- [[TASK] Added Dependabot to check for dependency updates](https://github.com/ffrgb/meshviewer/pull/325) on [ffrgb/meshviewer](https://github.com/ffrgb/meshviewer) (3 weeks ago)
+- [[TASK] Added Dependabot to check for dependency updates](https://github.com/ffrgb/meshviewer/pull/325) on [ffrgb/meshviewer](https://github.com/ffrgb/meshviewer) (4 weeks ago)
 - [go.mod upgrade to go 1.18](https://github.com/freifunkMUC/wg-embed/pull/14) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (1 month ago)
 - [Introduce dependency/requirements versioning](https://github.com/freifunkMUC/wgkex/pull/88) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 month ago)
 - [Added: gha cache to prod-deploy.yml](https://github.com/cinnyapp/cinny/pull/789) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (1 month ago)
