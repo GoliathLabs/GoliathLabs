@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.2.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.2.0), today) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.10.2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.10.2), 4 days ago) - Freifunk München specific Gluon configuration
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.2.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.2.0), 1 day ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.10.2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.10.2), 5 days ago) - Freifunk München specific Gluon configuration
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.2.2](https://github.com/cinnyapp/cinny/releases/tag/v2.2.2), 2 weeks ago) - Yet another matrix client
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.9.8](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.9.8), 1 month ago) - Helm Charts for wg-access-server
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
