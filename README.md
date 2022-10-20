@@ -23,11 +23,11 @@
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.2.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.2.0), 1 week ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.2.2](https://github.com/cinnyapp/cinny/releases/tag/v2.2.2), 3 weeks ago) - Yet another matrix client
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.9.8](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.9.8), 1 month ago) - Helm Charts for wg-access-server
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.18.0](https://github.com/tarampampam/error-pages/releases/tag/v2.18.0), 2 months ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 - [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.30.1](https://github.com/nttgin/BGPalerter/releases/tag/v1.30.1), 2 months ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
 - [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) ([v1.6.0](https://github.com/kereis/traefik-certs-dumper/releases/tag/v1.6.0), 3 months ago) - Dumps Let&#39;s Encrypt certificates of a specified domain which Traefik stores in acme.json.
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.25.2](https://github.com/42wim/matterbridge/releases/tag/v1.25.2), 3 months ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) ([1.8.18](https://github.com/ether/etherpad-lite/releases/tag/1.8.18), 5 months ago) - Etherpad: A modern really-real-time collaborative document editor.
+- [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) ([v0.0.8](https://github.com/freifunkMUC/unifi_respondd/releases/tag/v0.0.8), 6 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
