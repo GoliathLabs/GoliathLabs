@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Revert &#34;Merge upstream release v2022.9.1&#34;](https://github.com/freifunkMUC/jitsi-meet-electron/pull/58) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (today)
 - [[Snyk] Upgrade react-router-dom from 5.3.3 to 5.3.4](https://github.com/freifunkMUC/wg-access-server/pull/261) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
 - [Fix styling](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/341) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 month ago)
 - [Updated: Recommended devices](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/340) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 month ago)
@@ -40,7 +41,6 @@
 - [Added: gha cache to prod-deploy.yml](https://github.com/cinnyapp/cinny/pull/789) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (2 months ago)
 - [Change npm ci flags](https://github.com/cinnyapp/cinny/pull/788) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (2 months ago)
 - [[Snyk] Upgrade react-router-dom from 5.3.0 to 5.3.3](https://github.com/freifunkMUC/wg-access-server/pull/241) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 months ago)
-- [Added: proper versioing](https://github.com/freifunkMUC/wgkex/pull/86) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 months ago)
 
 #### 📓 Gists I wrote
 
