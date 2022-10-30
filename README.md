@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.10.4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.10.4), 5 days ago) - Freifunk München specific Gluon configuration
-- [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.31.0](https://github.com/nttgin/BGPalerter/releases/tag/v1.31.0), 5 days ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.10.4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.10.4), 6 days ago) - Freifunk München specific Gluon configuration
+- [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.31.0](https://github.com/nttgin/BGPalerter/releases/tag/v1.31.0), 6 days ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1.1), 1 week ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.2.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.2.0), 2 weeks ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.2.2](https://github.com/cinnyapp/cinny/releases/tag/v2.2.2), 1 month ago) - Yet another matrix client
@@ -31,8 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Revert &#34;Merge upstream release v2022.9.1&#34;](https://github.com/freifunkMUC/jitsi-meet-electron/pull/58) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (2 days ago)
-- [[Snyk] Upgrade react-router-dom from 5.3.3 to 5.3.4](https://github.com/freifunkMUC/wg-access-server/pull/261) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 days ago)
+- [Revert &#34;Merge upstream release v2022.9.1&#34;](https://github.com/freifunkMUC/jitsi-meet-electron/pull/58) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (3 days ago)
+- [[Snyk] Upgrade react-router-dom from 5.3.3 to 5.3.4](https://github.com/freifunkMUC/wg-access-server/pull/261) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
 - [Fix styling](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/341) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 month ago)
 - [Updated: Recommended devices](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/340) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 month ago)
 - [[TASK] Added Dependabot to check for dependency updates](https://github.com/ffrgb/meshviewer/pull/325) on [ffrgb/meshviewer](https://github.com/ffrgb/meshviewer) (1 month ago)
