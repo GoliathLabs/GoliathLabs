@@ -7,7 +7,7 @@
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (2 months ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 months ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (2 months ago)
-- [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more. (2 months ago)
+- [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more. (3 months ago)
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (3 months ago)
 - [krombel/conferencemapper](https://github.com/krombel/conferencemapper) -  (3 months ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (4 months ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.10.4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.10.4), 2 weeks ago) - Freifunk München specific Gluon configuration
-- [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.31.0](https://github.com/nttgin/BGPalerter/releases/tag/v1.31.0), 2 weeks ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.10.4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.10.4), 3 weeks ago) - Freifunk München specific Gluon configuration
+- [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.31.0](https://github.com/nttgin/BGPalerter/releases/tag/v1.31.0), 3 weeks ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1.1), 3 weeks ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.2.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.2.0), 1 month ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.2.2](https://github.com/cinnyapp/cinny/releases/tag/v2.2.2), 1 month ago) - Yet another matrix client
@@ -32,7 +32,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Revert &#34;Merge upstream release v2022.9.1&#34;](https://github.com/freifunkMUC/jitsi-meet-electron/pull/58) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (2 weeks ago)
-- [[Snyk] Upgrade react-router-dom from 5.3.3 to 5.3.4](https://github.com/freifunkMUC/wg-access-server/pull/261) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
+- [[Snyk] Upgrade react-router-dom from 5.3.3 to 5.3.4](https://github.com/freifunkMUC/wg-access-server/pull/261) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [Fix styling](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/341) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 months ago)
 - [Updated: Recommended devices](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/340) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 months ago)
 - [[TASK] Added Dependabot to check for dependency updates](https://github.com/ffrgb/meshviewer/pull/325) on [ffrgb/meshviewer](https://github.com/ffrgb/meshviewer) (2 months ago)
