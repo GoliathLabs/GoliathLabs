@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (2 weeks ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (2 months ago)
@@ -11,7 +12,6 @@
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (3 months ago)
 - [krombel/conferencemapper](https://github.com/krombel/conferencemapper) -  (3 months ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (4 months ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -31,6 +31,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix apt repo key for graylog &amp; icinga](https://github.com/freifunkMUC/ffmuc-salt-public/pull/117) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [NGINX configuration fixes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/116) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [Fixes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/115) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Revert &#34;Merge upstream release v2022.9.1&#34;](https://github.com/freifunkMUC/jitsi-meet-electron/pull/58) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (3 weeks ago)
 - [[Snyk] Upgrade react-router-dom from 5.3.3 to 5.3.4](https://github.com/freifunkMUC/wg-access-server/pull/261) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [Fix styling](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/341) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 months ago)
@@ -38,9 +41,6 @@
 - [[TASK] Added Dependabot to check for dependency updates](https://github.com/ffrgb/meshviewer/pull/325) on [ffrgb/meshviewer](https://github.com/ffrgb/meshviewer) (2 months ago)
 - [go.mod upgrade to go 1.18](https://github.com/freifunkMUC/wg-embed/pull/14) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (2 months ago)
 - [Introduce dependency/requirements versioning](https://github.com/freifunkMUC/wgkex/pull/88) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 months ago)
-- [Added: gha cache to prod-deploy.yml](https://github.com/cinnyapp/cinny/pull/789) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (2 months ago)
-- [Change npm ci flags](https://github.com/cinnyapp/cinny/pull/788) on [cinnyapp/cinny](https://github.com/cinnyapp/cinny) (2 months ago)
-- [[Snyk] Upgrade react-router-dom from 5.3.0 to 5.3.3](https://github.com/freifunkMUC/wg-access-server/pull/241) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 months ago)
 
 #### 📓 Gists I wrote
 
