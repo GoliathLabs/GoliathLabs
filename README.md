@@ -22,7 +22,7 @@
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.10.5](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.10.5), 3 weeks ago) - Freifunk München specific Gluon configuration
 - [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.31.0](https://github.com/nttgin/BGPalerter/releases/tag/v1.31.0), 1 month ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1.1), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.2.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.2.0), 1 month ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.2.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.2.0), 2 months ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.2.2](https://github.com/cinnyapp/cinny/releases/tag/v2.2.2), 2 months ago) - Yet another matrix client
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) ([v1.25.2](https://github.com/42wim/matterbridge/releases/tag/v1.25.2), 5 months ago) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) ([1.8.18](https://github.com/ether/etherpad-lite/releases/tag/1.8.18), 7 months ago) - Etherpad: A modern really-real-time collaborative document editor.
@@ -31,7 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Wrong image tag used in docker-compose.yml](https://github.com/freifunkMUC/wgkex/pull/95) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 weeks ago)
+- [Wrong image tag used in docker-compose.yml](https://github.com/freifunkMUC/wgkex/pull/95) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (3 weeks ago)
 - [Fix apt repo key for graylog &amp; icinga](https://github.com/freifunkMUC/ffmuc-salt-public/pull/117) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 weeks ago)
 - [NGINX configuration fixes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/116) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 weeks ago)
 - [Fixes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/115) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 weeks ago)
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (today)
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 day ago)
 - [MarkWattTech/MarkWattTech-Tutorials](https://github.com/MarkWattTech/MarkWattTech-Tutorials) - A Collection of Code from Various MarkWattTech Videos (3 months ago)
 - [fttx/barcode-to-pc-server](https://github.com/fttx/barcode-to-pc-server) - Barcode to PC server (5 months ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (10 months ago)
