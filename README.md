@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.31.1](https://github.com/nttgin/BGPalerter/releases/tag/v1.31.1), 3 days ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.3.1](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.3.1), 5 days ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.31.1](https://github.com/nttgin/BGPalerter/releases/tag/v1.31.1), 4 days ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.3.1](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.3.1), 6 days ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.9.9](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.9.9), 1 month ago) - Helm Charts for wg-access-server
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.10.5](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.10.5), 1 month ago) - Freifunk München specific Gluon configuration
-- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.2.2](https://github.com/cinnyapp/cinny/releases/tag/v2.2.2), 2 months ago) - Yet another matrix client
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.2.2](https://github.com/cinnyapp/cinny/releases/tag/v2.2.2), 3 months ago) - Yet another matrix client
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) ([1.8.18](https://github.com/ether/etherpad-lite/releases/tag/1.8.18), 7 months ago) - Etherpad: A modern really-real-time collaborative document editor.
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) ([v0.0.8](https://github.com/freifunkMUC/unifi_respondd/releases/tag/v0.0.8), 9 months ago) - 
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.0.7](https://github.com/freifunkMUC/wgkex/releases/tag/v0.0.7), 1 year ago) - Project for easy key exchange between Wireguard Clients and Servers
@@ -49,7 +49,7 @@
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (2 weeks ago)
 - [MarkWattTech/MarkWattTech-Tutorials](https://github.com/MarkWattTech/MarkWattTech-Tutorials) - A Collection of Code from Various MarkWattTech Videos (3 months ago)
 - [fttx/barcode-to-pc-server](https://github.com/fttx/barcode-to-pc-server) - Barcode to PC server (6 months ago)
-- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (10 months ago)
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (11 months ago)
 - [offdroid/swmn](https://github.com/offdroid/swmn) - Certificate management server with api and web UI (11 months ago)
 - [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) - :whale: :wrench: Provides Autodiscover capabilities for IMAP/POP/SMTP/LDAP services on Microsoft Outlook/Apple Mail and Autoconfig capabilities for Thunderbird (11 months ago)
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client (11 months ago)
