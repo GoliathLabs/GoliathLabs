@@ -29,6 +29,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ramips-mt7621: Add Xiaomi Mi Router 3G](https://github.com/freifunk-gluon/gluon/pull/2738) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (today)
 - [Wrong image tag used in docker-compose.yml](https://github.com/freifunkMUC/wgkex/pull/95) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 month ago)
 - [Fix apt repo key for graylog &amp; icinga](https://github.com/freifunkMUC/ffmuc-salt-public/pull/117) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 month ago)
 - [NGINX configuration fixes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/116) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 month ago)
@@ -38,7 +39,6 @@
 - [Fix styling](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/341) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 months ago)
 - [Updated: Recommended devices](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/340) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 months ago)
 - [[TASK] Added Dependabot to check for dependency updates](https://github.com/ffrgb/meshviewer/pull/325) on [ffrgb/meshviewer](https://github.com/ffrgb/meshviewer) (3 months ago)
-- [go.mod upgrade to go 1.18](https://github.com/freifunkMUC/wg-embed/pull/14) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (3 months ago)
 
 #### 📓 Gists I wrote
 
