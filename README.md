@@ -10,7 +10,7 @@
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 month ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (4 months ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (4 months ago)
-- [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more. (4 months ago)
+- [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more. (5 months ago)
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (5 months ago)
 
 #### 🌱 My latest projects
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.31.2](https://github.com/nttgin/BGPalerter/releases/tag/v1.31.2), 3 days ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
+- [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.31.2](https://github.com/nttgin/BGPalerter/releases/tag/v1.31.2), 4 days ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.12.1-next](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.12.1-next), 1 week ago) - Freifunk München specific Gluon configuration
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.3.1](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.3.1), 3 weeks ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.9.9](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.9.9), 1 month ago) - Helm Charts for wg-access-server
