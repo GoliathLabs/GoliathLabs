@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.2.3](https://github.com/cinnyapp/cinny/releases/tag/v2.2.3), 4 days ago) - Yet another matrix client
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.10.5-next1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.10.5-next1), 5 days ago) - Freifunk München specific Gluon configuration
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.2.3](https://github.com/cinnyapp/cinny/releases/tag/v2.2.3), 5 days ago) - Yet another matrix client
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.10.5-next1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.10.5-next1), 6 days ago) - Freifunk München specific Gluon configuration
 - [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.31.2](https://github.com/nttgin/BGPalerter/releases/tag/v1.31.2), 1 week ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.3.1](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.3.1), 4 weeks ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.3.1](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.3.1), 1 month ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.9.9](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.9.9), 2 months ago) - Helm Charts for wg-access-server
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1.1), 3 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) ([1.8.18](https://github.com/ether/etherpad-lite/releases/tag/1.8.18), 8 months ago) - Etherpad: A modern really-real-time collaborative document editor.
@@ -30,7 +30,7 @@
 #### 🔨 My recent Pull Requests
 
 - [ramips-mt7621: Add Xiaomi Mi Router 3G](https://github.com/freifunk-gluon/gluon/pull/2738) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (3 weeks ago)
-- [Wrong image tag used in docker-compose.yml](https://github.com/freifunkMUC/wgkex/pull/95) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 month ago)
+- [Wrong image tag used in docker-compose.yml](https://github.com/freifunkMUC/wgkex/pull/95) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 months ago)
 - [Fix apt repo key for graylog &amp; icinga](https://github.com/freifunkMUC/ffmuc-salt-public/pull/117) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 months ago)
 - [NGINX configuration fixes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/116) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 months ago)
 - [Fixes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/115) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 months ago)
@@ -55,7 +55,7 @@
 - [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) - :whale: :wrench: Provides Autodiscover capabilities for IMAP/POP/SMTP/LDAP services on Microsoft Outlook/Apple Mail and Autoconfig capabilities for Thunderbird (11 months ago)
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client (11 months ago)
 - [acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion) - Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C... (11 months ago)
-- [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (11 months ago)
+- [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (1 year ago)
 
 #### 👯 Check out some of my recent followers
 
