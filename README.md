@@ -11,7 +11,7 @@
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (4 months ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (4 months ago)
 - [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more. (5 months ago)
-- [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (5 months ago)
+- [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@
 
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.2.3](https://github.com/cinnyapp/cinny/releases/tag/v2.2.3), 1 week ago) - Yet another matrix client
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.10.5-next1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.10.5-next1), 1 week ago) - Freifunk München specific Gluon configuration
-- [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.31.2](https://github.com/nttgin/BGPalerter/releases/tag/v1.31.2), 1 week ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
+- [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.31.2](https://github.com/nttgin/BGPalerter/releases/tag/v1.31.2), 2 weeks ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.3.1](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.3.1), 1 month ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.9.9](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.9.9), 2 months ago) - Helm Charts for wg-access-server
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1.1), 3 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [letsencrypt/website](https://github.com/letsencrypt/website) - Let&#39;s Encrypt Website and Documentation (2 weeks ago)
+- [letsencrypt/website](https://github.com/letsencrypt/website) - Let&#39;s Encrypt Website and Documentation (3 weeks ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 month ago)
 - [MarkWattTech/MarkWattTech-Tutorials](https://github.com/MarkWattTech/MarkWattTech-Tutorials) - A Collection of Code from Various MarkWattTech Videos (4 months ago)
 - [fttx/barcode-to-pc-server](https://github.com/fttx/barcode-to-pc-server) - Barcode to PC server (7 months ago)
