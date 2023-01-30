@@ -18,7 +18,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) ([v2.2.4](https://github.com/cinnyapp/cinny/releases/tag/v2.2.4), today) - Yet another matrix client
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1.2](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1.2), 1 day ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.10.5-next1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.10.5-next1), 2 weeks ago) - Freifunk München specific Gluon configuration
 - [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.31.2](https://github.com/nttgin/BGPalerter/releases/tag/v1.31.2), 3 weeks ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
