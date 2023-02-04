@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Point to Wiki page of FNMUC e.V.](https://github.com/freifunkMUC/ffmuc-salt-public/pull/118) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Update 2019-07-11-austausch-aelterer-geraete.markdown](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/347) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 days ago)
 - [Update freifunk.net.json](https://github.com/freifunkMUC/freifunk.net-API/pull/22) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (3 days ago)
 - [ramips-mt7621: Add Xiaomi Mi Router 3G](https://github.com/freifunk-gluon/gluon/pull/2738) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 month ago)
@@ -36,7 +37,6 @@
 - [Fixes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/115) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 months ago)
 - [Revert &#34;Merge upstream release v2022.9.1&#34;](https://github.com/freifunkMUC/jitsi-meet-electron/pull/58) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (3 months ago)
 - [[Snyk] Upgrade react-router-dom from 5.3.3 to 5.3.4](https://github.com/freifunkMUC/wg-access-server/pull/261) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 months ago)
-- [Fix styling](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/341) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (4 months ago)
 
 #### 📓 Gists I wrote
 
