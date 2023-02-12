@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 week ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 month ago)
@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Updated: repository URLs &amp; keys](https://github.com/freifunkMUC/ffmuc-salt-public/pull/120) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Make linters happy again](https://github.com/freifunkMUC/ffmuc-salt-public/pull/119) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (6 days ago)
 - [Point to Wiki page of FNMUC e.V.](https://github.com/freifunkMUC/ffmuc-salt-public/pull/118) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
 - [Update 2019-07-11-austausch-aelterer-geraete.markdown](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/347) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
@@ -36,7 +37,6 @@
 - [Fix apt repo key for graylog &amp; icinga](https://github.com/freifunkMUC/ffmuc-salt-public/pull/117) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 months ago)
 - [NGINX configuration fixes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/116) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 months ago)
 - [Fixes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/115) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 months ago)
-- [Revert &#34;Merge upstream release v2022.9.1&#34;](https://github.com/freifunkMUC/jitsi-meet-electron/pull/58) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (3 months ago)
 
 #### 📓 Gists I wrote
 
