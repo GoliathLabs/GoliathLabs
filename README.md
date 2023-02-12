@@ -18,12 +18,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.10.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.10.0), today) - Helm Charts for wg-access-server
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.0.8](https://github.com/freifunkMUC/wgkex/releases/tag/v0.0.8), today) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2023.1.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2023.1.1), 1 week ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1.2](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1.2), 2 weeks ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.31.2](https://github.com/nttgin/BGPalerter/releases/tag/v1.31.2), 1 month ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v11.3.1](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v11.3.1), 1 month ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.9.9](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.9.9), 2 months ago) - Helm Charts for wg-access-server
 
 #### 🔨 My recent Pull Requests
 
