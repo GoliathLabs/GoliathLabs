@@ -4,7 +4,7 @@
 
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 weeks ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (3 weeks ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 month ago)
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (1 month ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.10.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.10.1), 6 days ago) - Helm Charts for wg-access-server
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.10.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.10.1), 1 week ago) - Helm Charts for wg-access-server
 - [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.32.0](https://github.com/nttgin/BGPalerter/releases/tag/v1.32.0), 1 week ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.0.8](https://github.com/freifunkMUC/wgkex/releases/tag/v0.0.8), 1 week ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2023.1.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2023.1.1), 3 weeks ago) - Freifunk München specific Gluon configuration
@@ -31,7 +31,7 @@
 - [Updated: repository URLs &amp; keys](https://github.com/freifunkMUC/ffmuc-salt-public/pull/120) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
 - [Make linters happy again](https://github.com/freifunkMUC/ffmuc-salt-public/pull/119) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 weeks ago)
 - [Point to Wiki page of FNMUC e.V.](https://github.com/freifunkMUC/ffmuc-salt-public/pull/118) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 weeks ago)
-- [Update 2019-07-11-austausch-aelterer-geraete.markdown](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/347) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
+- [Update 2019-07-11-austausch-aelterer-geraete.markdown](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/347) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 weeks ago)
 - [Update freifunk.net.json](https://github.com/freifunkMUC/freifunk.net-API/pull/22) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (3 weeks ago)
 - [ramips-mt7621: Add Xiaomi Mi Router 3G](https://github.com/freifunk-gluon/gluon/pull/2738) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 month ago)
 - [Wrong image tag used in docker-compose.yml](https://github.com/freifunkMUC/wgkex/pull/95) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (3 months ago)
