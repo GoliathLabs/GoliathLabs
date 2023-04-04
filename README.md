@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2023.3.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2023.3.1), 4 weeks ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2023.3.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2023.3.1), 1 month ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1.3), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.10.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.10.1), 1 month ago) - Helm Charts for wg-access-server
 - [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.32.0](https://github.com/nttgin/BGPalerter/releases/tag/v1.32.0), 1 month ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
