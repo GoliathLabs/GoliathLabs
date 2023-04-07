@@ -30,7 +30,7 @@
 - [Update commit to include radv-filter patch](https://github.com/freifunkMUC/site-ffm/pull/232) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 month ago)
 - [Mastodon Paywall &amp; other fixes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/121) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 month ago)
 - [Updated: repository URLs &amp; keys](https://github.com/freifunkMUC/ffmuc-salt-public/pull/120) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 month ago)
-- [Make linters happy again](https://github.com/freifunkMUC/ffmuc-salt-public/pull/119) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 month ago)
+- [Make linters happy again](https://github.com/freifunkMUC/ffmuc-salt-public/pull/119) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 months ago)
 - [Point to Wiki page of FNMUC e.V.](https://github.com/freifunkMUC/ffmuc-salt-public/pull/118) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 months ago)
 - [Update 2019-07-11-austausch-aelterer-geraete.markdown](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/347) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 months ago)
 - [Update freifunk.net.json](https://github.com/freifunkMUC/freifunk.net-API/pull/22) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (2 months ago)
