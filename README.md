@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (today)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (today)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 day ago)
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 day ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 day ago)
 - [freifunkMUC/gluon-packages](https://github.com/freifunkMUC/gluon-packages) - custom ffmuc packages feed for gluon (1 month ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 month ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.11.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.11.0), today) - Helm Charts for wg-access-server
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.11.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.11.0), 1 day ago) - Helm Charts for wg-access-server
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2023.3.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2023.3.1), 1 month ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1.3), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.32.0](https://github.com/nttgin/BGPalerter/releases/tag/v1.32.0), 1 month ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
