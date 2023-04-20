@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: frame-ancestors header](https://github.com/freifunkMUC/ffmuc-salt-public/pull/123) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [[WIP] [FR] Implement initial support for shared mailboxes](https://github.com/docker-mailserver/docker-mailserver/pull/3239) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (1 week ago)
 - [Update commit to include radv-filter patch](https://github.com/freifunkMUC/site-ffm/pull/232) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 month ago)
 - [Mastodon Paywall &amp; other fixes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/121) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 months ago)
@@ -35,7 +36,6 @@
 - [Point to Wiki page of FNMUC e.V.](https://github.com/freifunkMUC/ffmuc-salt-public/pull/118) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 months ago)
 - [Update 2019-07-11-austausch-aelterer-geraete.markdown](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/347) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 months ago)
 - [Update freifunk.net.json](https://github.com/freifunkMUC/freifunk.net-API/pull/22) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (2 months ago)
-- [ramips-mt7621: Add Xiaomi Mi Router 3G](https://github.com/freifunk-gluon/gluon/pull/2738) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (3 months ago)
 
 #### 📓 Gists I wrote
 
