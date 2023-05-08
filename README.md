@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (4 days ago)
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (5 days ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 month ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 month ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 month ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v12.0.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v12.0.0), 3 weeks ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v12.0.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v12.0.0), 4 weeks ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.11.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.11.0), 1 month ago) - Helm Charts for wg-access-server
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2023.3.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2023.3.1), 2 months ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1.3), 2 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent Stars
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (4 weeks ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 month ago)
 - [grische/extremeflash](https://github.com/grische/extremeflash) -  (1 month ago)
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects. (2 months ago)
 - [letsencrypt/website](https://github.com/letsencrypt/website) - Let&#39;s Encrypt Website and Documentation (4 months ago)
