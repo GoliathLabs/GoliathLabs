@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v12.1.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v12.1.0), today) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1.4](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1.4), 1 day ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v12.0.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v12.0.0), 1 month ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.11.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.11.0), 1 month ago) - Helm Charts for wg-access-server
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2023.3.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2023.3.1), 2 months ago) - Freifunk München specific Gluon configuration
 - [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.32.0](https://github.com/nttgin/BGPalerter/releases/tag/v1.32.0), 2 months ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
