@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update requirements-docs.txt](https://github.com/freifunkMUC/wg-access-server/pull/384) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Update pymdown-extenstions to non-vuln version](https://github.com/freifunkMUC/wg-access-server/pull/383) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [feat: hedgedoc](https://github.com/freifunkMUC/ffmuc-salt-public/pull/124) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
 - [feat: frame-ancestors header](https://github.com/freifunkMUC/ffmuc-salt-public/pull/123) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 weeks ago)
@@ -35,7 +36,6 @@
 - [Mastodon Paywall &amp; other fixes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/121) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 months ago)
 - [Updated: repository URLs &amp; keys](https://github.com/freifunkMUC/ffmuc-salt-public/pull/120) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 months ago)
 - [Make linters happy again](https://github.com/freifunkMUC/ffmuc-salt-public/pull/119) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 months ago)
-- [Point to Wiki page of FNMUC e.V.](https://github.com/freifunkMUC/ffmuc-salt-public/pull/118) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 months ago)
 
 #### 📓 Gists I wrote
 
