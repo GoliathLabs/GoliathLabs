@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (3 days ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (4 days ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (4 weeks ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 month ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 months ago)
@@ -20,15 +20,15 @@
 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.0), 2 weeks ago) - Helm Charts for wg-access-server
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2023.5.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2023.5.1), 4 weeks ago) - Freifunk München specific Gluon configuration
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v12.1.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v12.1.0), 4 weeks ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v12.1.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v12.1.0), 1 month ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1.4](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1.4), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.32.0](https://github.com/nttgin/BGPalerter/releases/tag/v1.32.0), 3 months ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.0.8](https://github.com/freifunkMUC/wgkex/releases/tag/v0.0.8), 3 months ago) - Project for easy key exchange between Wireguard Clients and Servers
 
 #### 🔨 My recent Pull Requests
 
-- [Revert &#34;build(deps): bump alpine from 3.17.3 to 3.18.0&#34;](https://github.com/freifunkMUC/wg-access-server/pull/395) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
-- [[Snyk] Upgrade @mui/material from 5.12.3 to 5.13.0](https://github.com/freifunkMUC/wg-access-server/pull/394) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
+- [Revert &#34;build(deps): bump alpine from 3.17.3 to 3.18.0&#34;](https://github.com/freifunkMUC/wg-access-server/pull/395) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
+- [[Snyk] Upgrade @mui/material from 5.12.3 to 5.13.0](https://github.com/freifunkMUC/wg-access-server/pull/394) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [Update requirements-docs.txt](https://github.com/freifunkMUC/wg-access-server/pull/384) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [Update pymdown-extenstions to non-vuln version](https://github.com/freifunkMUC/wg-access-server/pull/383) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [feat: hedgedoc](https://github.com/freifunkMUC/ffmuc-salt-public/pull/124) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 weeks ago)
@@ -47,7 +47,7 @@
 - [grische/extremeflash](https://github.com/grische/extremeflash) -  (2 months ago)
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects. (3 months ago)
 - [letsencrypt/website](https://github.com/letsencrypt/website) - Let&#39;s Encrypt Website and Documentation (5 months ago)
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (5 months ago)
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (6 months ago)
 - [MarkWattTech/MarkWattTech-Tutorials](https://github.com/MarkWattTech/MarkWattTech-Tutorials) - A Collection of Code from Various MarkWattTech Videos (9 months ago)
 - [fttx/barcode-to-pc-server](https://github.com/fttx/barcode-to-pc-server) - Barcode to PC server (11 months ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (1 year ago)
