@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (6 days ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 month ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 months ago)
@@ -23,7 +23,7 @@
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v12.1.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v12.1.0), 1 month ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2022.1.4](https://github.com/freifunk-gluon/gluon/releases/tag/v2022.1.4), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [nttgin/BGPalerter](https://github.com/nttgin/BGPalerter) ([v1.32.0](https://github.com/nttgin/BGPalerter/releases/tag/v1.32.0), 3 months ago) - BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.0.8](https://github.com/freifunkMUC/wgkex/releases/tag/v0.0.8), 3 months ago) - Project for easy key exchange between Wireguard Clients and Servers
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.0.8](https://github.com/freifunkMUC/wgkex/releases/tag/v0.0.8), 4 months ago) - Project for easy key exchange between Wireguard Clients and Servers
 
 #### 🔨 My recent Pull Requests
 
@@ -35,7 +35,7 @@
 - [feat: frame-ancestors header](https://github.com/freifunkMUC/ffmuc-salt-public/pull/123) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 month ago)
 - [[WIP] [FR] Implement initial support for shared mailboxes](https://github.com/docker-mailserver/docker-mailserver/pull/3239) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (2 months ago)
 - [Update commit to include radv-filter patch](https://github.com/freifunkMUC/site-ffm/pull/232) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (3 months ago)
-- [Mastodon Paywall &amp; other fixes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/121) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 months ago)
+- [Mastodon Paywall &amp; other fixes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/121) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 months ago)
 
 #### 📓 Gists I wrote
 
