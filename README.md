@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (today)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 months ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 months ago)
@@ -32,7 +32,7 @@
 - [Update requirements-docs.txt](https://github.com/freifunkMUC/wg-access-server/pull/384) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [Update pymdown-extenstions to non-vuln version](https://github.com/freifunkMUC/wg-access-server/pull/383) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [feat: hedgedoc](https://github.com/freifunkMUC/ffmuc-salt-public/pull/124) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 month ago)
-- [feat: frame-ancestors header](https://github.com/freifunkMUC/ffmuc-salt-public/pull/123) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 month ago)
+- [feat: frame-ancestors header](https://github.com/freifunkMUC/ffmuc-salt-public/pull/123) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 months ago)
 - [[WIP] [FR] Implement initial support for shared mailboxes](https://github.com/docker-mailserver/docker-mailserver/pull/3239) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (2 months ago)
 - [Update commit to include radv-filter patch](https://github.com/freifunkMUC/site-ffm/pull/232) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (3 months ago)
 - [Mastodon Paywall &amp; other fixes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/121) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 months ago)
