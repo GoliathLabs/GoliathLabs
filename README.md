@@ -27,7 +27,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Snyk] Upgrade @mui/material from 5.13.3 to 5.13.4](https://github.com/freifunkMUC/wg-access-server/pull/399) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [[Snyk] Upgrade @emotion/react from 11.11.0 to 11.11.1](https://github.com/freifunkMUC/wg-access-server/pull/400) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [[Snyk] Upgrade @mui/material from 5.13.3 to 5.13.4](https://github.com/freifunkMUC/wg-access-server/pull/399) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
 - [Revert &#34;build(deps): bump alpine from 3.17.3 to 3.18.0&#34;](https://github.com/freifunkMUC/wg-access-server/pull/395) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [[Snyk] Upgrade @mui/material from 5.12.3 to 5.13.0](https://github.com/freifunkMUC/wg-access-server/pull/394) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [Update requirements-docs.txt](https://github.com/freifunkMUC/wg-access-server/pull/384) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
@@ -35,7 +36,6 @@
 - [feat: hedgedoc](https://github.com/freifunkMUC/ffmuc-salt-public/pull/124) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 month ago)
 - [feat: frame-ancestors header](https://github.com/freifunkMUC/ffmuc-salt-public/pull/123) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 months ago)
 - [[WIP] [FR] Implement initial support for shared mailboxes](https://github.com/docker-mailserver/docker-mailserver/pull/3239) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (2 months ago)
-- [Update commit to include radv-filter patch](https://github.com/freifunkMUC/site-ffm/pull/232) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (4 months ago)
 
 #### 📓 Gists I wrote
 
