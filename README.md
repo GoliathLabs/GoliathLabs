@@ -28,7 +28,7 @@
 #### 🔨 My recent Pull Requests
 
 - [[Snyk] Upgrade @emotion/react from 11.11.0 to 11.11.1](https://github.com/freifunkMUC/wg-access-server/pull/400) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
-- [[Snyk] Upgrade @mui/material from 5.13.3 to 5.13.4](https://github.com/freifunkMUC/wg-access-server/pull/399) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
+- [[Snyk] Upgrade @mui/material from 5.13.3 to 5.13.4](https://github.com/freifunkMUC/wg-access-server/pull/399) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [Revert &#34;build(deps): bump alpine from 3.17.3 to 3.18.0&#34;](https://github.com/freifunkMUC/wg-access-server/pull/395) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade @mui/material from 5.12.3 to 5.13.0](https://github.com/freifunkMUC/wg-access-server/pull/394) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [Update requirements-docs.txt](https://github.com/freifunkMUC/wg-access-server/pull/384) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
