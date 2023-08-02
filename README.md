@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 month ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 month ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 months ago)
@@ -27,14 +27,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Snyk] Upgrade mobx-utils from 6.0.6 to 6.0.7](https://github.com/freifunkMUC/wg-access-server/pull/433) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
-- [[Snyk] Upgrade @mui/material from 5.13.6 to 5.13.7](https://github.com/freifunkMUC/wg-access-server/pull/432) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
-- [[Snyk] Upgrade @mui/icons-material from 5.11.16 to 5.13.7](https://github.com/freifunkMUC/wg-access-server/pull/431) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
+- [[Snyk] Upgrade @mui/material from 5.13.7 to 5.14.0](https://github.com/freifunkMUC/wg-access-server/pull/444) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [[Snyk] Upgrade mobx-utils from 6.0.6 to 6.0.7](https://github.com/freifunkMUC/wg-access-server/pull/433) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
+- [[Snyk] Upgrade @mui/material from 5.13.6 to 5.13.7](https://github.com/freifunkMUC/wg-access-server/pull/432) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
+- [[Snyk] Upgrade @mui/icons-material from 5.11.16 to 5.13.7](https://github.com/freifunkMUC/wg-access-server/pull/431) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @emotion/react from 11.11.0 to 11.11.1](https://github.com/freifunkMUC/wg-access-server/pull/400) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade @mui/material from 5.13.3 to 5.13.4](https://github.com/freifunkMUC/wg-access-server/pull/399) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [Revert &#34;build(deps): bump alpine from 3.17.3 to 3.18.0&#34;](https://github.com/freifunkMUC/wg-access-server/pull/395) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 months ago)
 - [[Snyk] Upgrade @mui/material from 5.12.3 to 5.13.0](https://github.com/freifunkMUC/wg-access-server/pull/394) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 months ago)
-- [Update requirements-docs.txt](https://github.com/freifunkMUC/wg-access-server/pull/384) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 months ago)
 
 #### 📓 Gists I wrote
 
