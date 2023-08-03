@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[Snyk] Upgrade mobx from 6.9.0 to 6.9.1](https://github.com/freifunkMUC/wg-access-server/pull/445) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [[Snyk] Upgrade @mui/material from 5.13.7 to 5.14.0](https://github.com/freifunkMUC/wg-access-server/pull/444) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [[Snyk] Upgrade mobx-utils from 6.0.6 to 6.0.7](https://github.com/freifunkMUC/wg-access-server/pull/433) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 days ago)
 - [[Snyk] Upgrade @mui/material from 5.13.6 to 5.13.7](https://github.com/freifunkMUC/wg-access-server/pull/432) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
@@ -34,7 +35,6 @@
 - [[Snyk] Upgrade @emotion/react from 11.11.0 to 11.11.1](https://github.com/freifunkMUC/wg-access-server/pull/400) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade @mui/material from 5.13.3 to 5.13.4](https://github.com/freifunkMUC/wg-access-server/pull/399) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [Revert &#34;build(deps): bump alpine from 3.17.3 to 3.18.0&#34;](https://github.com/freifunkMUC/wg-access-server/pull/395) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 months ago)
-- [[Snyk] Upgrade @mui/material from 5.12.3 to 5.13.0](https://github.com/freifunkMUC/wg-access-server/pull/394) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 months ago)
 
 #### 📓 Gists I wrote
 
