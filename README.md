@@ -27,8 +27,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Snyk] Upgrade mobx from 6.9.0 to 6.9.1](https://github.com/freifunkMUC/wg-access-server/pull/445) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
-- [[Snyk] Upgrade @mui/material from 5.13.7 to 5.14.0](https://github.com/freifunkMUC/wg-access-server/pull/444) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
+- [[Snyk] Upgrade mobx from 6.9.0 to 6.9.1](https://github.com/freifunkMUC/wg-access-server/pull/445) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
+- [[Snyk] Upgrade @mui/material from 5.13.7 to 5.14.0](https://github.com/freifunkMUC/wg-access-server/pull/444) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
 - [[Snyk] Upgrade mobx-utils from 6.0.6 to 6.0.7](https://github.com/freifunkMUC/wg-access-server/pull/433) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @mui/material from 5.13.6 to 5.13.7](https://github.com/freifunkMUC/wg-access-server/pull/432) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @mui/icons-material from 5.11.16 to 5.13.7](https://github.com/freifunkMUC/wg-access-server/pull/431) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
@@ -42,7 +42,7 @@
 
 #### ⭐ Recent Stars
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 months ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (4 months ago)
 - [grische/extremeflash](https://github.com/grische/extremeflash) -  (4 months ago)
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects. (5 months ago)
 - [letsencrypt/website](https://github.com/letsencrypt/website) - Let&#39;s Encrypt Website and Documentation (7 months ago)
