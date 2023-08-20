@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2023.8.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2023.8.1), 1 day ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2023.8.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2023.8.1), today) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.1), 1 week ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.0), 2 months ago) - Helm Charts for wg-access-server
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v12.1.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v12.1.0), 3 months ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
