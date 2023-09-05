@@ -26,6 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[Snyk] Upgrade @mui/material from 5.13.7 to 5.14.5](https://github.com/freifunkMUC/wg-access-server/pull/460) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [feat: gh-actions &amp; updates](https://github.com/GoliathLabs/strichliste-docker/pull/1) on [GoliathLabs/strichliste-docker](https://github.com/GoliathLabs/strichliste-docker) (1 week ago)
 - [feat: gh-actions &amp; updates](https://github.com/strichliste/strichliste-docker/pull/10) on [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) (1 week ago)
 - [[Snyk] Upgrade mobx-utils from 6.0.7 to 6.0.8](https://github.com/freifunkMUC/wg-access-server/pull/449) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
@@ -35,7 +36,6 @@
 - [[Snyk] Upgrade @mui/material from 5.13.7 to 5.14.0](https://github.com/freifunkMUC/wg-access-server/pull/444) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade mobx-utils from 6.0.6 to 6.0.7](https://github.com/freifunkMUC/wg-access-server/pull/433) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade @mui/material from 5.13.6 to 5.13.7](https://github.com/freifunkMUC/wg-access-server/pull/432) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
-- [[Snyk] Upgrade @mui/icons-material from 5.11.16 to 5.13.7](https://github.com/freifunkMUC/wg-access-server/pull/431) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 
 #### 📓 Gists I wrote
 
