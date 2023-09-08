@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (2 days ago)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (3 days ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 months ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (2 months ago)
@@ -19,18 +19,18 @@
 #### 🔭 Latest releases I've contributed to
 
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2023.8.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2023.8.1), 2 weeks ago) - Freifunk München specific Gluon configuration
-- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.1), 4 weeks ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
+- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.1), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.0), 3 months ago) - Helm Charts for wg-access-server
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.0.8](https://github.com/freifunkMUC/wgkex/releases/tag/v0.0.8), 6 months ago) - Project for easy key exchange between Wireguard Clients and Servers
 
 #### 🔨 My recent Pull Requests
 
-- [[Snyk] Upgrade @mui/material from 5.13.7 to 5.14.5](https://github.com/freifunkMUC/wg-access-server/pull/460) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [[Snyk] Upgrade @mui/material from 5.13.7 to 5.14.5](https://github.com/freifunkMUC/wg-access-server/pull/460) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
 - [feat: gh-actions &amp; updates](https://github.com/GoliathLabs/strichliste-docker/pull/1) on [GoliathLabs/strichliste-docker](https://github.com/GoliathLabs/strichliste-docker) (1 week ago)
 - [feat: gh-actions &amp; updates](https://github.com/strichliste/strichliste-docker/pull/10) on [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) (1 week ago)
 - [[Snyk] Upgrade mobx-utils from 6.0.7 to 6.0.8](https://github.com/freifunkMUC/wg-access-server/pull/449) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
-- [[Snyk] Upgrade mobx from 6.9.1 to 6.10.0](https://github.com/freifunkMUC/wg-access-server/pull/448) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 weeks ago)
-- [[Snyk] Upgrade @mui/material from 5.13.7 to 5.14.1](https://github.com/freifunkMUC/wg-access-server/pull/447) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 weeks ago)
+- [[Snyk] Upgrade mobx from 6.9.1 to 6.10.0](https://github.com/freifunkMUC/wg-access-server/pull/448) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
+- [[Snyk] Upgrade @mui/material from 5.13.7 to 5.14.1](https://github.com/freifunkMUC/wg-access-server/pull/447) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade mobx from 6.9.0 to 6.9.1](https://github.com/freifunkMUC/wg-access-server/pull/445) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade @mui/material from 5.13.7 to 5.14.0](https://github.com/freifunkMUC/wg-access-server/pull/444) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade mobx-utils from 6.0.6 to 6.0.7](https://github.com/freifunkMUC/wg-access-server/pull/433) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
@@ -43,7 +43,7 @@
 #### ⭐ Recent Stars
 
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (5 months ago)
-- [grische/extremeflash](https://github.com/grische/extremeflash) -  (5 months ago)
+- [grische/extremeflash](https://github.com/grische/extremeflash) -  (6 months ago)
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects. (6 months ago)
 - [letsencrypt/website](https://github.com/letsencrypt/website) - Let&#39;s Encrypt Website and Documentation (8 months ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (9 months ago)
