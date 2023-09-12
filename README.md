@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (6 days ago)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 week ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 months ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (2 months ago)
@@ -24,7 +24,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Snyk] Upgrade @mui/material from 5.13.7 to 5.14.5](https://github.com/freifunkMUC/wg-access-server/pull/460) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
+- [[Snyk] Upgrade @mui/material from 5.13.7 to 5.14.5](https://github.com/freifunkMUC/wg-access-server/pull/460) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [feat: gh-actions &amp; updates](https://github.com/GoliathLabs/strichliste-docker/pull/1) on [GoliathLabs/strichliste-docker](https://github.com/GoliathLabs/strichliste-docker) (2 weeks ago)
 - [feat: gh-actions &amp; updates](https://github.com/strichliste/strichliste-docker/pull/10) on [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) (2 weeks ago)
 - [[Snyk] Upgrade mobx-utils from 6.0.7 to 6.0.8](https://github.com/freifunkMUC/wg-access-server/pull/449) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
