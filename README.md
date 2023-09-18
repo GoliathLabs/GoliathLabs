@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [freifunk-gluon/community-packages](https://github.com/freifunk-gluon/community-packages) -  (today)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (6 days ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 week ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 months ago)
@@ -17,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.0.9](https://github.com/freifunkMUC/wgkex/releases/tag/v0.0.9), today) - Project for easy key exchange between Wireguard Clients and Servers
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.1.0](https://github.com/freifunkMUC/wgkex/releases/tag/v0.1.0), today) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2023.8.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2023.8.1), 4 weeks ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.1), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.0), 3 months ago) - Helm Charts for wg-access-server
