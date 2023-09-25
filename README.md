@@ -25,6 +25,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [attempt to add support for archer c50 v6](https://github.com/GoliathLabs/openwrt/pull/1) on [GoliathLabs/openwrt](https://github.com/GoliathLabs/openwrt) (today)
 - [[Snyk] Upgrade mobx from 6.10.1 to 6.10.2](https://github.com/freifunkMUC/wg-access-server/pull/469) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
 - [[Snyk] Upgrade @mui/material from 5.14.6 to 5.14.7](https://github.com/freifunkMUC/wg-access-server/pull/468) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
 - [[Snyk] Upgrade mobx from 6.10.0 to 6.10.1](https://github.com/freifunkMUC/wg-access-server/pull/466) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
@@ -34,7 +35,6 @@
 - [[Snyk] Upgrade @mui/material from 5.13.7 to 5.14.5](https://github.com/freifunkMUC/wg-access-server/pull/460) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [feat: gh-actions &amp; updates](https://github.com/GoliathLabs/strichliste-docker/pull/1) on [GoliathLabs/strichliste-docker](https://github.com/GoliathLabs/strichliste-docker) (4 weeks ago)
 - [feat: gh-actions &amp; updates](https://github.com/strichliste/strichliste-docker/pull/10) on [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) (4 weeks ago)
-- [[Snyk] Upgrade mobx-utils from 6.0.7 to 6.0.8](https://github.com/freifunkMUC/wg-access-server/pull/449) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 
 #### 📓 Gists I wrote
 
