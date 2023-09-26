@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (1 day ago)
+- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (2 days ago)
 - [freifunk-gluon/community-packages](https://github.com/freifunk-gluon/community-packages) -  (1 week ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (2 weeks ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (3 weeks ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 months ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (3 months ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (5 months ago)
@@ -25,16 +25,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [attempt to add support for archer c50 v6](https://github.com/GoliathLabs/openwrt/pull/1) on [GoliathLabs/openwrt](https://github.com/GoliathLabs/openwrt) (today)
-- [[Snyk] Upgrade mobx from 6.10.1 to 6.10.2](https://github.com/freifunkMUC/wg-access-server/pull/469) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [[Snyk] Upgrade @mui/material from 5.14.6 to 5.14.7](https://github.com/freifunkMUC/wg-access-server/pull/468) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [[Snyk] Upgrade mobx from 6.10.0 to 6.10.1](https://github.com/freifunkMUC/wg-access-server/pull/466) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
+- [attempt to add support for archer c50 v6](https://github.com/GoliathLabs/openwrt/pull/1) on [GoliathLabs/openwrt](https://github.com/GoliathLabs/openwrt) (1 day ago)
+- [[Snyk] Upgrade mobx from 6.10.1 to 6.10.2](https://github.com/freifunkMUC/wg-access-server/pull/469) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 days ago)
+- [[Snyk] Upgrade @mui/material from 5.14.6 to 5.14.7](https://github.com/freifunkMUC/wg-access-server/pull/468) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 days ago)
+- [[Snyk] Upgrade mobx from 6.10.0 to 6.10.1](https://github.com/freifunkMUC/wg-access-server/pull/466) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @mui/material from 5.14.5 to 5.14.6](https://github.com/freifunkMUC/wg-access-server/pull/465) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @mui/icons-material from 5.14.3 to 5.14.6](https://github.com/freifunkMUC/wg-access-server/pull/464) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
-- [feat: gh actions; improved deployment &amp; update to latest version](https://github.com/strichliste/strichliste-docker/pull/11) on [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) (1 week ago)
-- [[Snyk] Upgrade @mui/material from 5.13.7 to 5.14.5](https://github.com/freifunkMUC/wg-access-server/pull/460) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
-- [feat: gh-actions &amp; updates](https://github.com/GoliathLabs/strichliste-docker/pull/1) on [GoliathLabs/strichliste-docker](https://github.com/GoliathLabs/strichliste-docker) (4 weeks ago)
-- [feat: gh-actions &amp; updates](https://github.com/strichliste/strichliste-docker/pull/10) on [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) (4 weeks ago)
+- [feat: gh actions; improved deployment &amp; update to latest version](https://github.com/strichliste/strichliste-docker/pull/11) on [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) (2 weeks ago)
+- [[Snyk] Upgrade @mui/material from 5.13.7 to 5.14.5](https://github.com/freifunkMUC/wg-access-server/pull/460) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
+- [feat: gh-actions &amp; updates](https://github.com/GoliathLabs/strichliste-docker/pull/1) on [GoliathLabs/strichliste-docker](https://github.com/GoliathLabs/strichliste-docker) (1 month ago)
+- [feat: gh-actions &amp; updates](https://github.com/strichliste/strichliste-docker/pull/10) on [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) (1 month ago)
 
 #### 📓 Gists I wrote
 
