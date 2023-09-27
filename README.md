@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (2 days ago)
+- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (3 days ago)
 - [freifunk-gluon/community-packages](https://github.com/freifunk-gluon/community-packages) -  (1 week ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (3 weeks ago)
@@ -25,9 +25,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Snyk] Upgrade @mui/material from 5.14.7 to 5.14.8](https://github.com/freifunkMUC/wg-access-server/pull/470) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [[Snyk] Upgrade mobx from 6.10.1 to 6.10.2](https://github.com/freifunkMUC/wg-access-server/pull/469) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 days ago)
-- [[Snyk] Upgrade @mui/material from 5.14.6 to 5.14.7](https://github.com/freifunkMUC/wg-access-server/pull/468) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 days ago)
+- [[Snyk] Upgrade @mui/material from 5.14.7 to 5.14.8](https://github.com/freifunkMUC/wg-access-server/pull/470) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [[Snyk] Upgrade mobx from 6.10.1 to 6.10.2](https://github.com/freifunkMUC/wg-access-server/pull/469) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
+- [[Snyk] Upgrade @mui/material from 5.14.6 to 5.14.7](https://github.com/freifunkMUC/wg-access-server/pull/468) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
 - [[Snyk] Upgrade mobx from 6.10.0 to 6.10.1](https://github.com/freifunkMUC/wg-access-server/pull/466) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @mui/material from 5.14.5 to 5.14.6](https://github.com/freifunkMUC/wg-access-server/pull/465) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @mui/icons-material from 5.14.3 to 5.14.6](https://github.com/freifunkMUC/wg-access-server/pull/464) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
