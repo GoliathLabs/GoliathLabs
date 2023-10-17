@@ -26,6 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[Snyk] Upgrade @mui/icons-material from 5.14.9 to 5.14.11](https://github.com/freifunkMUC/wg-access-server/pull/489) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [ramips-mt76x8: add support for TP-Link Archer C50 v6](https://github.com/freifunk-gluon/gluon/pull/3004) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (2 weeks ago)
 - [[Snyk] Upgrade @mui/material from 5.14.7 to 5.14.8](https://github.com/freifunkMUC/wg-access-server/pull/470) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [[Snyk] Upgrade mobx from 6.10.1 to 6.10.2](https://github.com/freifunkMUC/wg-access-server/pull/469) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
@@ -35,7 +36,6 @@
 - [[Snyk] Upgrade @mui/icons-material from 5.14.3 to 5.14.6](https://github.com/freifunkMUC/wg-access-server/pull/464) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [feat: gh actions; improved deployment &amp; update to latest version](https://github.com/strichliste/strichliste-docker/pull/11) on [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) (1 month ago)
 - [[Snyk] Upgrade @mui/material from 5.13.7 to 5.14.5](https://github.com/freifunkMUC/wg-access-server/pull/460) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
-- [feat: gh-actions &amp; updates](https://github.com/GoliathLabs/strichliste-docker/pull/1) on [GoliathLabs/strichliste-docker](https://github.com/GoliathLabs/strichliste-docker) (1 month ago)
 
 #### 📓 Gists I wrote
 
