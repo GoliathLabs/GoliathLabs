@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 weeks ago)
 - [GoliathLabs/ffmuc.net](https://github.com/GoliathLabs/ffmuc.net) -  (3 weeks ago)
-- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (4 weeks ago)
+- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (1 month ago)
 - [freifunk-gluon/community-packages](https://github.com/freifunk-gluon/community-packages) -  (1 month ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 month ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (3 months ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (4 months ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (6 months ago)
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (7 months ago)
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -19,16 +19,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.1.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.1.1), 1 week ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
+- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.1.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.1.1), 2 weeks ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.1), 2 weeks ago) - Helm Charts for wg-access-server
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.1.0](https://github.com/freifunkMUC/wgkex/releases/tag/v0.1.0), 1 month ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2023.8.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2023.8.1), 2 months ago) - Freifunk München specific Gluon configuration
 
 #### 🔨 My recent Pull Requests
 
-- [[Snyk] Upgrade @mui/icons-material from 5.14.9 to 5.14.11](https://github.com/freifunkMUC/wg-access-server/pull/489) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
+- [[Snyk] Upgrade @mui/icons-material from 5.14.9 to 5.14.11](https://github.com/freifunkMUC/wg-access-server/pull/489) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [ramips-mt76x8: add support for TP-Link Archer C50 v6](https://github.com/freifunk-gluon/gluon/pull/3004) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (3 weeks ago)
-- [[Snyk] Upgrade @mui/material from 5.14.7 to 5.14.8](https://github.com/freifunkMUC/wg-access-server/pull/470) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
+- [[Snyk] Upgrade @mui/material from 5.14.7 to 5.14.8](https://github.com/freifunkMUC/wg-access-server/pull/470) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 weeks ago)
 - [[Snyk] Upgrade mobx from 6.10.1 to 6.10.2](https://github.com/freifunkMUC/wg-access-server/pull/469) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade @mui/material from 5.14.6 to 5.14.7](https://github.com/freifunkMUC/wg-access-server/pull/468) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade mobx from 6.10.0 to 6.10.1](https://github.com/freifunkMUC/wg-access-server/pull/466) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
