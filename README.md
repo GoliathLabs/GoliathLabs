@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) - WIP Dockerfile (not yet recommended) (1 day ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (5 days ago)
+- [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) - WIP Dockerfile (not yet recommended) (2 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (6 days ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (3 weeks ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 month ago)
@@ -20,16 +20,16 @@
 #### 🔭 Latest releases I've contributed to
 
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.1.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.1.1), 1 week ago) - Project for easy key exchange between Wireguard Clients and Servers
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.4), 1 week ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2022.5.4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2022.5.4), 2 weeks ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.1.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.1.1), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.1), 1 month ago) - Helm Charts for wg-access-server
 - [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) ([v.1.6.2](https://github.com/strichliste/strichliste-docker/releases/tag/v.1.6.2), 4 years ago) - WIP Dockerfile (not yet recommended)
 
 #### 🔨 My recent Pull Requests
 
-- [[Snyk] Upgrade mobx from 6.10.2 to 6.11.0](https://github.com/freifunkMUC/wg-access-server/pull/517) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [[Snyk] Upgrade @mui/material from 5.14.13 to 5.14.17](https://github.com/freifunkMUC/wg-access-server/pull/506) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
-- [[Snyk] Upgrade react-router-dom from 6.16.0 to 6.17.0](https://github.com/freifunkMUC/wg-access-server/pull/503) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
+- [[Snyk] Upgrade mobx from 6.10.2 to 6.11.0](https://github.com/freifunkMUC/wg-access-server/pull/517) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [[Snyk] Upgrade @mui/material from 5.14.13 to 5.14.17](https://github.com/freifunkMUC/wg-access-server/pull/506) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
+- [[Snyk] Upgrade react-router-dom from 6.16.0 to 6.17.0](https://github.com/freifunkMUC/wg-access-server/pull/503) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 weeks ago)
 - [[Snyk] Upgrade @mui/material from 5.14.8 to 5.14.13](https://github.com/freifunkMUC/wg-access-server/pull/502) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 weeks ago)
 - [[Snyk] Upgrade @mui/icons-material from 5.14.9 to 5.14.11](https://github.com/freifunkMUC/wg-access-server/pull/489) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [ramips-mt76x8: add support for TP-Link Archer C50 v6](https://github.com/freifunk-gluon/gluon/pull/3004) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (2 months ago)
