@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: drop go 1.18 and introduce 1.20](https://github.com/freifunkMUC/wg-access-server/pull/527) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [[Snyk] Upgrade mobx from 6.11.0 to 6.12.0](https://github.com/freifunkMUC/wg-access-server/pull/524) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [[Snyk] Upgrade @mui/material from 5.14.13 to 5.14.18](https://github.com/freifunkMUC/wg-access-server/pull/523) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [[Snyk] Upgrade react-router-dom from 6.16.0 to 6.20.0](https://github.com/freifunkMUC/wg-access-server/pull/522) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
@@ -36,7 +37,6 @@
 - [[Snyk] Upgrade react-router-dom from 6.16.0 to 6.17.0](https://github.com/freifunkMUC/wg-access-server/pull/503) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade @mui/material from 5.14.8 to 5.14.13](https://github.com/freifunkMUC/wg-access-server/pull/502) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade @mui/icons-material from 5.14.9 to 5.14.11](https://github.com/freifunkMUC/wg-access-server/pull/489) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 months ago)
-- [ramips-mt76x8: add support for TP-Link Archer C50 v6](https://github.com/freifunk-gluon/gluon/pull/3004) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (2 months ago)
 
 #### 📓 Gists I wrote
 
