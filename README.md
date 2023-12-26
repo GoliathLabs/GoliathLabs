@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ramips-mt7621: add dlink-dap-1620-b1](https://github.com/freifunk-gluon/gluon/pull/3124) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (today)
 - [ramips-mt76x8: add xiaomi-mi-ra75](https://github.com/freifunk-gluon/gluon/pull/3122) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 day ago)
 - [ramips-mt76x8: add xiaomi-mi-ra75](https://github.com/freifunkMUC/site-ffm/pull/346) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 day ago)
 - [ramips-mt7621: add dlink-dap-1620-b1](https://github.com/freifunkMUC/site-ffm/pull/345) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 day ago)
@@ -36,7 +37,6 @@
 - [[Snyk] Upgrade mobx from 6.11.0 to 6.12.0](https://github.com/freifunkMUC/wg-access-server/pull/524) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @mui/material from 5.14.13 to 5.14.18](https://github.com/freifunkMUC/wg-access-server/pull/523) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade react-router-dom from 6.16.0 to 6.20.0](https://github.com/freifunkMUC/wg-access-server/pull/522) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
-- [[Snyk] Upgrade @mui/icons-material from 5.14.9 to 5.14.18](https://github.com/freifunkMUC/wg-access-server/pull/518) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
