@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (6 days ago)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 week ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
 - [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) - WIP Dockerfile (not yet recommended) (4 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
@@ -26,16 +26,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ramips-mt7621: add dlink-dap-1620-b1](https://github.com/freifunk-gluon/gluon/pull/3124) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (5 days ago)
-- [ramips-mt76x8: add xiaomi-mi-ra75](https://github.com/freifunk-gluon/gluon/pull/3122) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (6 days ago)
-- [ramips-mt76x8: add xiaomi-mi-ra75](https://github.com/freifunkMUC/site-ffm/pull/346) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (6 days ago)
-- [ramips-mt7621: add dlink-dap-1620-b1](https://github.com/freifunkMUC/site-ffm/pull/345) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (6 days ago)
+- [ramips-mt7621: add dlink-dap-1620-b1](https://github.com/freifunk-gluon/gluon/pull/3124) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (6 days ago)
+- [ramips-mt76x8: add xiaomi-mi-ra75](https://github.com/freifunk-gluon/gluon/pull/3122) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 week ago)
+- [ramips-mt76x8: add xiaomi-mi-ra75](https://github.com/freifunkMUC/site-ffm/pull/346) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 week ago)
+- [ramips-mt7621: add dlink-dap-1620-b1](https://github.com/freifunkMUC/site-ffm/pull/345) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 week ago)
 - [[Snyk] Upgrade react-router-dom from 6.16.0 to 6.20.1](https://github.com/freifunkMUC/wg-access-server/pull/530) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @mui/icons-material from 5.14.18 to 5.14.19](https://github.com/freifunkMUC/wg-access-server/pull/529) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
-- [fix: drop go 1.18 and introduce 1.20](https://github.com/freifunkMUC/wg-access-server/pull/527) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
-- [[Snyk] Upgrade mobx from 6.11.0 to 6.12.0](https://github.com/freifunkMUC/wg-access-server/pull/524) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
-- [[Snyk] Upgrade @mui/material from 5.14.13 to 5.14.18](https://github.com/freifunkMUC/wg-access-server/pull/523) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
-- [[Snyk] Upgrade react-router-dom from 6.16.0 to 6.20.0](https://github.com/freifunkMUC/wg-access-server/pull/522) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
+- [fix: drop go 1.18 and introduce 1.20](https://github.com/freifunkMUC/wg-access-server/pull/527) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
+- [[Snyk] Upgrade mobx from 6.11.0 to 6.12.0](https://github.com/freifunkMUC/wg-access-server/pull/524) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
+- [[Snyk] Upgrade @mui/material from 5.14.13 to 5.14.18](https://github.com/freifunkMUC/wg-access-server/pull/523) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
+- [[Snyk] Upgrade react-router-dom from 6.16.0 to 6.20.0](https://github.com/freifunkMUC/wg-access-server/pull/522) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
