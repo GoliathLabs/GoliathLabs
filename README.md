@@ -4,7 +4,7 @@
 
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 week ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
-- [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) - WIP Dockerfile (not yet recommended) (4 weeks ago)
+- [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) - WIP Dockerfile (not yet recommended) (1 month ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (1 month ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (2 months ago)
@@ -26,7 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ramips-mt7621: add dlink-dap-1620-b1](https://github.com/freifunk-gluon/gluon/pull/3124) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (6 days ago)
+- [ramips-mt7621: add dlink-dap-1620-b1](https://github.com/freifunk-gluon/gluon/pull/3124) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 week ago)
 - [ramips-mt76x8: add xiaomi-mi-ra75](https://github.com/freifunk-gluon/gluon/pull/3122) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 week ago)
 - [ramips-mt76x8: add xiaomi-mi-ra75](https://github.com/freifunkMUC/site-ffm/pull/346) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 week ago)
 - [ramips-mt7621: add dlink-dap-1620-b1](https://github.com/freifunkMUC/site-ffm/pull/345) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 week ago)
