@@ -26,6 +26,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[Snyk] Upgrade @mui/material from 5.14.20 to 5.15.0](https://github.com/freifunkMUC/wg-access-server/pull/549) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [[Snyk] Upgrade @mui/icons-material from 5.14.19 to 5.15.0](https://github.com/freifunkMUC/wg-access-server/pull/548) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [[Snyk] Upgrade react-router-dom from 6.20.1 to 6.21.0](https://github.com/freifunkMUC/wg-access-server/pull/547) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [fix: golang linter (io package)](https://github.com/freifunkMUC/wg-access-server/pull/546) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
 - [ramips-mt7621: add dlink-dap-1620-b1](https://github.com/freifunk-gluon/gluon/pull/3124) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 week ago)
 - [ramips-mt76x8: add xiaomi-mi-ra75](https://github.com/freifunk-gluon/gluon/pull/3122) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 week ago)
@@ -33,9 +36,6 @@
 - [ramips-mt7621: add dlink-dap-1620-b1](https://github.com/freifunkMUC/site-ffm/pull/345) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 week ago)
 - [[Snyk] Upgrade react-router-dom from 6.16.0 to 6.20.1](https://github.com/freifunkMUC/wg-access-server/pull/530) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @mui/icons-material from 5.14.18 to 5.14.19](https://github.com/freifunkMUC/wg-access-server/pull/529) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
-- [fix: drop go 1.18 and introduce 1.20](https://github.com/freifunkMUC/wg-access-server/pull/527) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
-- [[Snyk] Upgrade mobx from 6.11.0 to 6.12.0](https://github.com/freifunkMUC/wg-access-server/pull/524) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
-- [[Snyk] Upgrade @mui/material from 5.14.13 to 5.14.18](https://github.com/freifunkMUC/wg-access-server/pull/523) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
