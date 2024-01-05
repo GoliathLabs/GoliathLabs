@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (today)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (3 days ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 week ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
 - [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) - WIP Dockerfile (not yet recommended) (1 month ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
-- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (1 month ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (2 months ago)
 - [GoliathLabs/ffmuc.net](https://github.com/GoliathLabs/ffmuc.net) -  (3 months ago)
 - [freifunk-gluon/community-packages](https://github.com/freifunk-gluon/community-packages) -  (3 months ago)
