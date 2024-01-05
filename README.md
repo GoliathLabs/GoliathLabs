@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (today)
+- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (today)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (3 days ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 week ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
@@ -11,7 +12,6 @@
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (2 months ago)
 - [GoliathLabs/ffmuc.net](https://github.com/GoliathLabs/ffmuc.net) -  (3 months ago)
 - [freifunk-gluon/community-packages](https://github.com/freifunk-gluon/community-packages) -  (3 months ago)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -19,6 +19,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2), today) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2023.12.1-next](https://github.com/freifunkMUC/site-ffm/releases/tag/v2023.12.1-next), 2 weeks ago) - Freifunk München specific Gluon configuration
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.1.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.1.1), 1 month ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.1), 2 months ago) - Helm Charts for wg-access-server
