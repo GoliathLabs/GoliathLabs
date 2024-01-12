@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (6 days ago)
-- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (6 days ago)
+- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (1 week ago)
+- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (1 week ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 week ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (2 weeks ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 weeks ago)
@@ -19,16 +19,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2023.11.5](https://github.com/freifunkMUC/site-ffm/releases/tag/v2023.11.5), today) - Freifunk München specific Gluon configuration
-- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2), 6 days ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2023.11.5](https://github.com/freifunkMUC/site-ffm/releases/tag/v2023.11.5), 1 day ago) - Freifunk München specific Gluon configuration
+- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2), 1 week ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.1.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.1.1), 1 month ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.1), 3 months ago) - Helm Charts for wg-access-server
 - [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) ([v.1.6.2](https://github.com/strichliste/strichliste-docker/releases/tag/v.1.6.2), 4 years ago) - WIP Dockerfile (not yet recommended)
 
 #### 🔨 My recent Pull Requests
 
-- [[Snyk] Upgrade react-router-dom from 6.21.0 to 6.21.1](https://github.com/freifunkMUC/wg-access-server/pull/553) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [[Snyk] Upgrade @mui/material from 5.15.0 to 5.15.1](https://github.com/freifunkMUC/wg-access-server/pull/552) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [[Snyk] Upgrade react-router-dom from 6.21.0 to 6.21.1](https://github.com/freifunkMUC/wg-access-server/pull/553) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [[Snyk] Upgrade @mui/material from 5.15.0 to 5.15.1](https://github.com/freifunkMUC/wg-access-server/pull/552) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
 - [[Snyk] Upgrade @mui/material from 5.14.20 to 5.15.0](https://github.com/freifunkMUC/wg-access-server/pull/549) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @mui/icons-material from 5.14.19 to 5.15.0](https://github.com/freifunkMUC/wg-access-server/pull/548) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade react-router-dom from 6.20.1 to 6.21.0](https://github.com/freifunkMUC/wg-access-server/pull/547) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
