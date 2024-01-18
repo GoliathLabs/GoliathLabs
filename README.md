@@ -19,7 +19,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2023.11.5](https://github.com/freifunkMUC/site-ffm/releases/tag/v2023.11.5), 6 days ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2023.11.5](https://github.com/freifunkMUC/site-ffm/releases/tag/v2023.11.5), 1 week ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2), 1 week ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.1.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.1.1), 1 month ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.1), 3 months ago) - Helm Charts for wg-access-server
@@ -27,13 +27,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Snyk] Upgrade @mui/material from 5.15.1 to 5.15.2](https://github.com/freifunkMUC/wg-access-server/pull/555) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
-- [[Snyk] Upgrade @emotion/react from 11.11.1 to 11.11.3](https://github.com/freifunkMUC/wg-access-server/pull/554) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
-- [[Snyk] Upgrade react-router-dom from 6.21.0 to 6.21.1](https://github.com/freifunkMUC/wg-access-server/pull/553) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
+- [[Snyk] Upgrade @mui/material from 5.15.1 to 5.15.2](https://github.com/freifunkMUC/wg-access-server/pull/555) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
+- [[Snyk] Upgrade @emotion/react from 11.11.1 to 11.11.3](https://github.com/freifunkMUC/wg-access-server/pull/554) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
+- [[Snyk] Upgrade react-router-dom from 6.21.0 to 6.21.1](https://github.com/freifunkMUC/wg-access-server/pull/553) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @mui/material from 5.15.0 to 5.15.1](https://github.com/freifunkMUC/wg-access-server/pull/552) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
-- [[Snyk] Upgrade @mui/material from 5.14.20 to 5.15.0](https://github.com/freifunkMUC/wg-access-server/pull/549) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
-- [[Snyk] Upgrade @mui/icons-material from 5.14.19 to 5.15.0](https://github.com/freifunkMUC/wg-access-server/pull/548) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
-- [[Snyk] Upgrade react-router-dom from 6.20.1 to 6.21.0](https://github.com/freifunkMUC/wg-access-server/pull/547) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
+- [[Snyk] Upgrade @mui/material from 5.14.20 to 5.15.0](https://github.com/freifunkMUC/wg-access-server/pull/549) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
+- [[Snyk] Upgrade @mui/icons-material from 5.14.19 to 5.15.0](https://github.com/freifunkMUC/wg-access-server/pull/548) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
+- [[Snyk] Upgrade react-router-dom from 6.20.1 to 6.21.0](https://github.com/freifunkMUC/wg-access-server/pull/547) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [fix: golang linter (io package)](https://github.com/freifunkMUC/wg-access-server/pull/546) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [ramips-mt7621: add dlink-dap-1620-b1](https://github.com/freifunk-gluon/gluon/pull/3124) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (3 weeks ago)
 - [ramips-mt76x8: add xiaomi-mi-ra75](https://github.com/freifunk-gluon/gluon/pull/3122) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (3 weeks ago)
