@@ -4,7 +4,7 @@
 
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (2 weeks ago)
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (2 weeks ago)
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (2 weeks ago)
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (3 weeks ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (4 weeks ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 month ago)
 - [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) - WIP Dockerfile (not yet recommended) (1 month ago)
@@ -27,7 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ath79: add support for Comfast CF-EW71 v2](https://github.com/openwrt/openwrt/pull/14459) on [openwrt/openwrt](https://github.com/openwrt/openwrt) (today)
+- [ath79: add support for Comfast CF-EW71 v2](https://github.com/openwrt/openwrt/pull/14459) on [openwrt/openwrt](https://github.com/openwrt/openwrt) (1 day ago)
 - [[Snyk] Upgrade @mui/material from 5.15.1 to 5.15.2](https://github.com/freifunkMUC/wg-access-server/pull/555) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @emotion/react from 11.11.1 to 11.11.3](https://github.com/freifunkMUC/wg-access-server/pull/554) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade react-router-dom from 6.21.0 to 6.21.1](https://github.com/freifunkMUC/wg-access-server/pull/553) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
@@ -35,8 +35,8 @@
 - [[Snyk] Upgrade @mui/material from 5.14.20 to 5.15.0](https://github.com/freifunkMUC/wg-access-server/pull/549) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [[Snyk] Upgrade @mui/icons-material from 5.14.19 to 5.15.0](https://github.com/freifunkMUC/wg-access-server/pull/548) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [[Snyk] Upgrade react-router-dom from 6.20.1 to 6.21.0](https://github.com/freifunkMUC/wg-access-server/pull/547) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
-- [fix: golang linter (io package)](https://github.com/freifunkMUC/wg-access-server/pull/546) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
-- [ramips-mt7621: add dlink-dap-1620-b1](https://github.com/freifunk-gluon/gluon/pull/3124) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (3 weeks ago)
+- [fix: golang linter (io package)](https://github.com/freifunkMUC/wg-access-server/pull/546) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
+- [ramips-mt7621: add dlink-dap-1620-b1](https://github.com/freifunk-gluon/gluon/pull/3124) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -46,7 +46,7 @@
 
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (9 months ago)
 - [grische/extremeflash](https://github.com/grische/extremeflash) -  (10 months ago)
-- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects. (10 months ago)
+- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects. (11 months ago)
 - [letsencrypt/website](https://github.com/letsencrypt/website) - Let&#39;s Encrypt Website and Documentation (1 year ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 year ago)
 - [MarkWattTech/MarkWattTech-Tutorials](https://github.com/MarkWattTech/MarkWattTech-Tutorials) - A Collection of Code from Various MarkWattTech Videos (1 year ago)
