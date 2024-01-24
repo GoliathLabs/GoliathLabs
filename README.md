@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Merge upstream](https://github.com/freifunkMUC/meshviewer/pull/73) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (today)
 - [ath79: add support for Comfast CF-EW71 v2](https://github.com/openwrt/openwrt/pull/14459) on [openwrt/openwrt](https://github.com/openwrt/openwrt) (2 days ago)
 - [[Snyk] Upgrade @mui/material from 5.15.1 to 5.15.2](https://github.com/freifunkMUC/wg-access-server/pull/555) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @emotion/react from 11.11.1 to 11.11.3](https://github.com/freifunkMUC/wg-access-server/pull/554) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
@@ -36,7 +37,6 @@
 - [[Snyk] Upgrade @mui/icons-material from 5.14.19 to 5.15.0](https://github.com/freifunkMUC/wg-access-server/pull/548) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [[Snyk] Upgrade react-router-dom from 6.20.1 to 6.21.0](https://github.com/freifunkMUC/wg-access-server/pull/547) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [fix: golang linter (io package)](https://github.com/freifunkMUC/wg-access-server/pull/546) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
-- [ramips-mt7621: add dlink-dap-1620-b1](https://github.com/freifunk-gluon/gluon/pull/3124) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
