@@ -27,6 +27,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: run prettier &amp; protoc on project](https://github.com/freifunkMUC/wg-access-server/pull/578) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [fix: date-fns update](https://github.com/freifunkMUC/wg-access-server/pull/577) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [bump go-sqlite3 to v1.14.19](https://github.com/freifunkMUC/wg-access-server/pull/576) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [fix golang build](https://github.com/freifunkMUC/wg-access-server/pull/575) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Fix golang deps](https://github.com/freifunkMUC/wg-access-server/pull/574) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
@@ -35,8 +37,6 @@
 - [[Snyk] Upgrade @mui/icons-material from 5.15.3 to 5.15.4](https://github.com/freifunkMUC/wg-access-server/pull/557) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
 - [[Snyk] Upgrade @mui/material from 5.15.2 to 5.15.3](https://github.com/freifunkMUC/wg-access-server/pull/556) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [Merge upstream](https://github.com/freifunkMUC/meshviewer/pull/73) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (1 week ago)
-- [ath79: add support for Comfast CF-EW71 v2](https://github.com/openwrt/openwrt/pull/14459) on [openwrt/openwrt](https://github.com/openwrt/openwrt) (1 week ago)
-- [[Snyk] Upgrade @mui/material from 5.15.1 to 5.15.2](https://github.com/freifunkMUC/wg-access-server/pull/555) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
