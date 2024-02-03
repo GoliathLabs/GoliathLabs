@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [wg-access-server@v0.11.0](https://github.com/freifunkMUC/wg-access-server-chart/pull/23) on [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) (today)
 - [feat: run prettier &amp; protoc on project](https://github.com/freifunkMUC/wg-access-server/pull/578) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [fix: date-fns update](https://github.com/freifunkMUC/wg-access-server/pull/577) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [bump go-sqlite3 to v1.14.19](https://github.com/freifunkMUC/wg-access-server/pull/576) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
@@ -36,7 +37,6 @@
 - [[Snyk] Upgrade @mui/material from 5.15.3 to 5.15.4](https://github.com/freifunkMUC/wg-access-server/pull/558) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
 - [[Snyk] Upgrade @mui/icons-material from 5.15.3 to 5.15.4](https://github.com/freifunkMUC/wg-access-server/pull/557) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
 - [[Snyk] Upgrade @mui/material from 5.15.2 to 5.15.3](https://github.com/freifunkMUC/wg-access-server/pull/556) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
-- [Merge upstream](https://github.com/freifunkMUC/meshviewer/pull/73) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (1 week ago)
 
 #### 📓 Gists I wrote
 
