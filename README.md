@@ -27,9 +27,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Snyk] Upgrade react-router-dom from 6.21.1 to 6.21.2](https://github.com/freifunkMUC/wg-access-server/pull/567) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [[Snyk] Upgrade @mui/material from 5.15.3 to 5.15.4](https://github.com/freifunkMUC/wg-access-server/pull/558) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
-- [[Snyk] Upgrade @mui/icons-material from 5.15.3 to 5.15.4](https://github.com/freifunkMUC/wg-access-server/pull/557) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [[Snyk] Upgrade react-router-dom from 6.21.1 to 6.21.2](https://github.com/freifunkMUC/wg-access-server/pull/567) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [[Snyk] Upgrade @mui/material from 5.15.3 to 5.15.4](https://github.com/freifunkMUC/wg-access-server/pull/558) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
+- [[Snyk] Upgrade @mui/icons-material from 5.15.3 to 5.15.4](https://github.com/freifunkMUC/wg-access-server/pull/557) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
 - [[Snyk] Upgrade @mui/material from 5.15.2 to 5.15.3](https://github.com/freifunkMUC/wg-access-server/pull/556) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [Merge upstream](https://github.com/freifunkMUC/meshviewer/pull/73) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (1 week ago)
 - [ath79: add support for Comfast CF-EW71 v2](https://github.com/openwrt/openwrt/pull/14459) on [openwrt/openwrt](https://github.com/openwrt/openwrt) (1 week ago)
