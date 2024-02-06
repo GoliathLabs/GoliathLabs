@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: migrate CRA to vite](https://github.com/freifunkMUC/wg-access-server/pull/584) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [fix: black linting](https://github.com/freifunkMUC/wgkex/pull/127) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (today)
 - [feat: python to 3.11.7-bookworm](https://github.com/freifunkMUC/wgkex/pull/126) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (today)
 - [wg-access-server@v0.11.0](https://github.com/freifunkMUC/wg-access-server-chart/pull/23) on [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) (3 days ago)
@@ -36,7 +37,6 @@
 - [fix golang build](https://github.com/freifunkMUC/wg-access-server/pull/575) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
 - [Fix golang deps](https://github.com/freifunkMUC/wg-access-server/pull/574) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
 - [[Snyk] Upgrade react-router-dom from 6.21.1 to 6.21.2](https://github.com/freifunkMUC/wg-access-server/pull/567) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 days ago)
-- [[Snyk] Upgrade @mui/material from 5.15.3 to 5.15.4](https://github.com/freifunkMUC/wg-access-server/pull/558) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
 
 #### 📓 Gists I wrote
 
