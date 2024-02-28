@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[Snyk] Upgrade @mui/material from 5.15.7 to 5.15.8](https://github.com/freifunkMUC/wg-access-server/pull/591) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [feat: use package-lock.json v3 &amp; remove unused deps](https://github.com/freifunkMUC/wg-access-server/pull/586) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [feat: update deps](https://github.com/freifunkMUC/wg-access-server/pull/585) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [feat: migrate CRA to vite](https://github.com/freifunkMUC/wg-access-server/pull/584) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
@@ -36,7 +37,6 @@
 - [feat: run prettier &amp; protoc on project](https://github.com/freifunkMUC/wg-access-server/pull/578) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [fix: date-fns update](https://github.com/freifunkMUC/wg-access-server/pull/577) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [bump go-sqlite3 to v1.14.19](https://github.com/freifunkMUC/wg-access-server/pull/576) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
-- [fix golang build](https://github.com/freifunkMUC/wg-access-server/pull/575) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
