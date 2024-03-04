@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 week ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 day ago)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (2 weeks ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (3 weeks ago)
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (4 weeks ago)
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 month ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (1 month ago)
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (1 month ago)
@@ -19,7 +19,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.2](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.2), 4 weeks ago) - Helm Charts for wg-access-server
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.2](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.2), 1 month ago) - Helm Charts for wg-access-server
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.1.1-next](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.1.1-next), 1 month ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.1.2](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.1.2), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.1.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.1.1), 3 months ago) - Project for easy key exchange between Wireguard Clients and Servers
@@ -27,16 +27,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: open-vm-tools package for x86](https://github.com/freifunkMUC/site-ffm/pull/367) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (today)
-- [feat: update frontend &amp; fix package-lock](https://github.com/freifunkMUC/wg-access-server/pull/592) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [[Snyk] Upgrade @mui/material from 5.15.7 to 5.15.8](https://github.com/freifunkMUC/wg-access-server/pull/591) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
+- [feat: open-vm-tools package for x86](https://github.com/freifunkMUC/site-ffm/pull/367) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 day ago)
+- [feat: update frontend &amp; fix package-lock](https://github.com/freifunkMUC/wg-access-server/pull/592) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 days ago)
+- [[Snyk] Upgrade @mui/material from 5.15.7 to 5.15.8](https://github.com/freifunkMUC/wg-access-server/pull/591) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 days ago)
 - [feat: use package-lock.json v3 &amp; remove unused deps](https://github.com/freifunkMUC/wg-access-server/pull/586) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [feat: update deps](https://github.com/freifunkMUC/wg-access-server/pull/585) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [feat: migrate CRA to vite](https://github.com/freifunkMUC/wg-access-server/pull/584) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [fix: black linting](https://github.com/freifunkMUC/wgkex/pull/127) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (3 weeks ago)
 - [feat: python to 3.11.7-bookworm](https://github.com/freifunkMUC/wgkex/pull/126) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (3 weeks ago)
-- [wg-access-server@v0.11.0](https://github.com/freifunkMUC/wg-access-server-chart/pull/23) on [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) (4 weeks ago)
-- [feat: run prettier &amp; protoc on project](https://github.com/freifunkMUC/wg-access-server/pull/578) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 weeks ago)
+- [wg-access-server@v0.11.0](https://github.com/freifunkMUC/wg-access-server-chart/pull/23) on [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) (1 month ago)
+- [feat: run prettier &amp; protoc on project](https://github.com/freifunkMUC/wg-access-server/pull/578) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 
 #### 📓 Gists I wrote
 
