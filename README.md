@@ -19,8 +19,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.1.2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.1.2), today) - Freifunk München specific Gluon configuration
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.2](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.2), 1 month ago) - Helm Charts for wg-access-server
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.1.1-next](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.1.1-next), 1 month ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.1.2](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.1.2), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.1.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.1.1), 3 months ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) ([v.1.6.2](https://github.com/strichliste/strichliste-docker/releases/tag/v.1.6.2), 4 years ago) - WIP Dockerfile (not yet recommended)
