@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 day ago)
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (2 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (3 weeks ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 month ago)
@@ -19,7 +19,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.1.4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.1.4), 1 day ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.1.4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.1.4), 2 days ago) - Freifunk München specific Gluon configuration
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.2](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.2), 1 month ago) - Helm Charts for wg-access-server
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.1.2](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.1.2), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.1.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.1.1), 3 months ago) - Project for easy key exchange between Wireguard Clients and Servers
@@ -28,8 +28,8 @@
 #### 🔨 My recent Pull Requests
 
 - [feat: open-vm-tools package for x86](https://github.com/freifunkMUC/site-ffm/pull/367) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 week ago)
-- [feat: update frontend &amp; fix package-lock](https://github.com/freifunkMUC/wg-access-server/pull/592) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
-- [[Snyk] Upgrade @mui/material from 5.15.7 to 5.15.8](https://github.com/freifunkMUC/wg-access-server/pull/591) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
+- [feat: update frontend &amp; fix package-lock](https://github.com/freifunkMUC/wg-access-server/pull/592) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
+- [[Snyk] Upgrade @mui/material from 5.15.7 to 5.15.8](https://github.com/freifunkMUC/wg-access-server/pull/591) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [feat: use package-lock.json v3 &amp; remove unused deps](https://github.com/freifunkMUC/wg-access-server/pull/586) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [feat: update deps](https://github.com/freifunkMUC/wg-access-server/pull/585) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [feat: migrate CRA to vite](https://github.com/freifunkMUC/wg-access-server/pull/584) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
