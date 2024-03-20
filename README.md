@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [re-add: ath79 NETGEAR WNDRMAC v2](https://github.com/freifunk-gluon/gluon/pull/3231) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (today)
 - [Wndrmacv2](https://github.com/GoliathLabs/gluon/pull/1) on [GoliathLabs/gluon](https://github.com/GoliathLabs/gluon) (today)
 - [fix: Dockerfile](https://github.com/freifunkMUC/meshviewer/pull/87) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (6 days ago)
 - [feat: open-vm-tools package for x86](https://github.com/freifunkMUC/site-ffm/pull/367) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (2 weeks ago)
@@ -36,7 +37,6 @@
 - [feat: update deps](https://github.com/freifunkMUC/wg-access-server/pull/585) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [feat: migrate CRA to vite](https://github.com/freifunkMUC/wg-access-server/pull/584) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [fix: black linting](https://github.com/freifunkMUC/wgkex/pull/127) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 month ago)
-- [feat: python to 3.11.7-bookworm](https://github.com/freifunkMUC/wgkex/pull/126) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 month ago)
 
 #### 📓 Gists I wrote
 
