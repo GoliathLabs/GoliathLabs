@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Wndrmacv2](https://github.com/GoliathLabs/gluon/pull/1) on [GoliathLabs/gluon](https://github.com/GoliathLabs/gluon) (today)
 - [fix: Dockerfile](https://github.com/freifunkMUC/meshviewer/pull/87) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (6 days ago)
 - [feat: open-vm-tools package for x86](https://github.com/freifunkMUC/site-ffm/pull/367) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (2 weeks ago)
 - [feat: update frontend &amp; fix package-lock](https://github.com/freifunkMUC/wg-access-server/pull/592) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
@@ -36,7 +37,6 @@
 - [feat: migrate CRA to vite](https://github.com/freifunkMUC/wg-access-server/pull/584) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [fix: black linting](https://github.com/freifunkMUC/wgkex/pull/127) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 month ago)
 - [feat: python to 3.11.7-bookworm](https://github.com/freifunkMUC/wgkex/pull/126) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 month ago)
-- [wg-access-server@v0.11.0](https://github.com/freifunkMUC/wg-access-server-chart/pull/23) on [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) (1 month ago)
 
 #### 📓 Gists I wrote
 
