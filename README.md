@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 days ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 week ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 week ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
@@ -19,16 +19,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.1.5-next](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.1.5-next), 4 days ago) - Freifunk München specific Gluon configuration
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 4 days ago) - Project for easy key exchange between Wireguard Clients and Servers
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.1.5-next](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.1.5-next), 5 days ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 5 days ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.2](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.2), 1 week ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.2](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.2), 1 month ago) - Helm Charts for wg-access-server
 - [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) ([v.1.6.2](https://github.com/strichliste/strichliste-docker/releases/tag/v.1.6.2), 4 years ago) - WIP Dockerfile (not yet recommended)
 
 #### 🔨 My recent Pull Requests
 
-- [re-add: ath79 NETGEAR WNDRMAC v2](https://github.com/freifunk-gluon/gluon/pull/3231) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 day ago)
-- [Wndrmacv2](https://github.com/GoliathLabs/gluon/pull/1) on [GoliathLabs/gluon](https://github.com/GoliathLabs/gluon) (1 day ago)
+- [re-add: ath79 NETGEAR WNDRMAC v2](https://github.com/freifunk-gluon/gluon/pull/3231) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (2 days ago)
+- [Wndrmacv2](https://github.com/GoliathLabs/gluon/pull/1) on [GoliathLabs/gluon](https://github.com/GoliathLabs/gluon) (2 days ago)
 - [fix: Dockerfile](https://github.com/freifunkMUC/meshviewer/pull/87) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (1 week ago)
 - [feat: open-vm-tools package for x86](https://github.com/freifunkMUC/site-ffm/pull/367) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (2 weeks ago)
 - [feat: update frontend &amp; fix package-lock](https://github.com/freifunkMUC/wg-access-server/pull/592) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
