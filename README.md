@@ -27,7 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [V2023.1.x](https://github.com/freifunk-gluon/gluon/pull/3236) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (today)
+- [[Backport v2023.1.x] re-add: ath79 NETGEAR WNDRMAC v2](https://github.com/freifunk-gluon/gluon/pull/3236) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (today)
 - [re-add: ath79 NETGEAR WNDRMAC v2](https://github.com/freifunk-gluon/gluon/pull/3231) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (4 days ago)
 - [Wndrmacv2](https://github.com/GoliathLabs/gluon/pull/1) on [GoliathLabs/gluon](https://github.com/GoliathLabs/gluon) (4 days ago)
 - [fix: Dockerfile](https://github.com/freifunkMUC/meshviewer/pull/87) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (1 week ago)
