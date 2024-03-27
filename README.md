@@ -27,6 +27,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[Snyk] Upgrade @mui/styles from 5.15.11 to 5.15.12](https://github.com/freifunkMUC/wg-access-server/pull/628) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [[Snyk] Upgrade @mui/material from 5.15.11 to 5.15.12](https://github.com/freifunkMUC/wg-access-server/pull/627) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [[Snyk] Upgrade @mui/icons-material from 5.15.11 to 5.15.12](https://github.com/freifunkMUC/wg-access-server/pull/626) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Add comfast cf ew71v2](https://github.com/GoliathLabs/gluon/pull/2) on [GoliathLabs/gluon](https://github.com/GoliathLabs/gluon) (3 days ago)
 - [[Backport v2023.1.x] re-add: ath79 NETGEAR WNDRMAC v2](https://github.com/freifunk-gluon/gluon/pull/3236) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (3 days ago)
 - [re-add: ath79 NETGEAR WNDRMAC v2](https://github.com/freifunk-gluon/gluon/pull/3231) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 week ago)
@@ -34,9 +37,6 @@
 - [fix: Dockerfile](https://github.com/freifunkMUC/meshviewer/pull/87) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (1 week ago)
 - [feat: open-vm-tools package for x86](https://github.com/freifunkMUC/site-ffm/pull/367) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (3 weeks ago)
 - [feat: update frontend &amp; fix package-lock](https://github.com/freifunkMUC/wg-access-server/pull/592) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 weeks ago)
-- [[Snyk] Upgrade @mui/material from 5.15.7 to 5.15.8](https://github.com/freifunkMUC/wg-access-server/pull/591) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 weeks ago)
-- [feat: use package-lock.json v3 &amp; remove unused deps](https://github.com/freifunkMUC/wg-access-server/pull/586) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
-- [feat: update deps](https://github.com/freifunkMUC/wg-access-server/pull/585) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 
 #### 📓 Gists I wrote
 
