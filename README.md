@@ -27,6 +27,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Revert &#34;[Snyk] Upgrade react-router-dom from 6.22.2 to 6.22.3&#34;](https://github.com/freifunkMUC/wg-access-server/pull/631) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [[Snyk] Upgrade react-router-dom from 6.22.2 to 6.22.3](https://github.com/freifunkMUC/wg-access-server/pull/630) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [[Snyk] Upgrade @mui/styles from 5.15.11 to 5.15.12](https://github.com/freifunkMUC/wg-access-server/pull/628) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [[Snyk] Upgrade @mui/material from 5.15.11 to 5.15.12](https://github.com/freifunkMUC/wg-access-server/pull/627) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [[Snyk] Upgrade @mui/icons-material from 5.15.11 to 5.15.12](https://github.com/freifunkMUC/wg-access-server/pull/626) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
@@ -35,8 +37,6 @@
 - [re-add: ath79 NETGEAR WNDRMAC v2](https://github.com/freifunk-gluon/gluon/pull/3231) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 week ago)
 - [Wndrmacv2](https://github.com/GoliathLabs/gluon/pull/1) on [GoliathLabs/gluon](https://github.com/GoliathLabs/gluon) (1 week ago)
 - [fix: Dockerfile](https://github.com/freifunkMUC/meshviewer/pull/87) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (2 weeks ago)
-- [feat: open-vm-tools package for x86](https://github.com/freifunkMUC/site-ffm/pull/367) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (3 weeks ago)
-- [feat: update frontend &amp; fix package-lock](https://github.com/freifunkMUC/wg-access-server/pull/592) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
