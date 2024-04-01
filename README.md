@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[FIX] Update deps](https://github.com/freifunk/meshviewer/pull/110) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (today)
 - [feat: Docker builds](https://github.com/freifunk/meshviewer/pull/108) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (today)
 - [Revert &#34;[Snyk] Upgrade react-router-dom from 6.22.2 to 6.22.3&#34;](https://github.com/freifunkMUC/wg-access-server/pull/631) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
 - [[Snyk] Upgrade react-router-dom from 6.22.2 to 6.22.3](https://github.com/freifunkMUC/wg-access-server/pull/630) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
@@ -36,7 +37,6 @@
 - [Add comfast cf ew71v2](https://github.com/GoliathLabs/gluon/pull/2) on [GoliathLabs/gluon](https://github.com/GoliathLabs/gluon) (1 week ago)
 - [[Backport v2023.1.x] re-add: ath79 NETGEAR WNDRMAC v2](https://github.com/freifunk-gluon/gluon/pull/3236) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 week ago)
 - [re-add: ath79 NETGEAR WNDRMAC v2](https://github.com/freifunk-gluon/gluon/pull/3231) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 week ago)
-- [Wndrmacv2](https://github.com/GoliathLabs/gluon/pull/1) on [GoliathLabs/gluon](https://github.com/GoliathLabs/gluon) (1 week ago)
 
 #### 📓 Gists I wrote
 
