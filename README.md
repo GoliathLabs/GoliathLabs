@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[Snyk] Upgrade date-fns from 3.3.1 to 3.5.0](https://github.com/freifunkMUC/wg-access-server/pull/646) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [[FIX] Update deps](https://github.com/freifunk/meshviewer/pull/110) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (5 days ago)
 - [feat: Docker builds](https://github.com/freifunk/meshviewer/pull/108) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (5 days ago)
 - [Revert &#34;[Snyk] Upgrade react-router-dom from 6.22.2 to 6.22.3&#34;](https://github.com/freifunkMUC/wg-access-server/pull/631) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
@@ -36,7 +37,6 @@
 - [[Snyk] Upgrade @mui/icons-material from 5.15.11 to 5.15.12](https://github.com/freifunkMUC/wg-access-server/pull/626) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [Add comfast cf ew71v2](https://github.com/GoliathLabs/gluon/pull/2) on [GoliathLabs/gluon](https://github.com/GoliathLabs/gluon) (1 week ago)
 - [[Backport v2023.1.x] re-add: ath79 NETGEAR WNDRMAC v2](https://github.com/freifunk-gluon/gluon/pull/3236) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 week ago)
-- [re-add: ath79 NETGEAR WNDRMAC v2](https://github.com/freifunk-gluon/gluon/pull/3231) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
