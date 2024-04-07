@@ -19,24 +19,24 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.3.2-next](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.3.2-next), 4 days ago) - Freifunk München specific Gluon configuration
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 2 weeks ago) - Project for easy key exchange between Wireguard Clients and Servers
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.3.2-next](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.3.2-next), 5 days ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 3 weeks ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.2](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.2), 3 weeks ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.2](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.2), 2 months ago) - Helm Charts for wg-access-server
 - [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) ([v.1.6.2](https://github.com/strichliste/strichliste-docker/releases/tag/v.1.6.2), 4 years ago) - WIP Dockerfile (not yet recommended)
 
 #### 🔨 My recent Pull Requests
 
-- [[Snyk] Upgrade date-fns from 3.3.1 to 3.5.0](https://github.com/freifunkMUC/wg-access-server/pull/646) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [[FIX] Update deps](https://github.com/freifunk/meshviewer/pull/110) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (5 days ago)
-- [feat: Docker builds](https://github.com/freifunk/meshviewer/pull/108) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (5 days ago)
+- [[Snyk] Upgrade date-fns from 3.3.1 to 3.5.0](https://github.com/freifunkMUC/wg-access-server/pull/646) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [[FIX] Update deps](https://github.com/freifunk/meshviewer/pull/110) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (6 days ago)
+- [feat: Docker builds](https://github.com/freifunk/meshviewer/pull/108) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (6 days ago)
 - [Revert &#34;[Snyk] Upgrade react-router-dom from 6.22.2 to 6.22.3&#34;](https://github.com/freifunkMUC/wg-access-server/pull/631) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade react-router-dom from 6.22.2 to 6.22.3](https://github.com/freifunkMUC/wg-access-server/pull/630) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @mui/styles from 5.15.11 to 5.15.12](https://github.com/freifunkMUC/wg-access-server/pull/628) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @mui/material from 5.15.11 to 5.15.12](https://github.com/freifunkMUC/wg-access-server/pull/627) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @mui/icons-material from 5.15.11 to 5.15.12](https://github.com/freifunkMUC/wg-access-server/pull/626) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
-- [Add comfast cf ew71v2](https://github.com/GoliathLabs/gluon/pull/2) on [GoliathLabs/gluon](https://github.com/GoliathLabs/gluon) (1 week ago)
-- [[Backport v2023.1.x] re-add: ath79 NETGEAR WNDRMAC v2](https://github.com/freifunk-gluon/gluon/pull/3236) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 week ago)
+- [Add comfast cf ew71v2](https://github.com/GoliathLabs/gluon/pull/2) on [GoliathLabs/gluon](https://github.com/GoliathLabs/gluon) (2 weeks ago)
+- [[Backport v2023.1.x] re-add: ath79 NETGEAR WNDRMAC v2](https://github.com/freifunk-gluon/gluon/pull/3236) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
