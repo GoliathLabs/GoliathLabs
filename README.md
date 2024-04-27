@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: npm updates](https://github.com/freifunkMUC/wg-access-server/pull/653) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Docker, doc-requirements &amp; gomod updates](https://github.com/freifunkMUC/wg-access-server/pull/652) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Readd: Spendenlink](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/427) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 days ago)
 - [Re-added: Shop to navbar](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/424) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 days ago)
@@ -37,7 +38,6 @@
 - [[Snyk] Upgrade react-router-dom from 6.22.2 to 6.22.3](https://github.com/freifunkMUC/wg-access-server/pull/647) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade date-fns from 3.3.1 to 3.5.0](https://github.com/freifunkMUC/wg-access-server/pull/646) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [[FIX] Update deps](https://github.com/freifunk/meshviewer/pull/110) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (3 weeks ago)
-- [feat: Docker builds](https://github.com/freifunk/meshviewer/pull/108) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
