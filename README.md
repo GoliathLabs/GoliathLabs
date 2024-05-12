@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (5 days ago)
-- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (5 days ago)
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (6 days ago)
+- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (6 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 week ago)
 - [freifunkMUC/gluon-packages](https://github.com/freifunkMUC/gluon-packages) - Custom FFMUC packages feed for gluon (2 weeks ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (3 weeks ago)
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (1 month ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (3 months ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (3 months ago)
@@ -28,14 +28,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove head scripts](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/428) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
+- [Remove head scripts](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/428) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
 - [feat: npm updates](https://github.com/freifunkMUC/wg-access-server/pull/653) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [Docker, doc-requirements &amp; gomod updates](https://github.com/freifunkMUC/wg-access-server/pull/652) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [Readd: Spendenlink](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/427) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
 - [Re-added: Shop to navbar](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/424) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
-- [feat: add ffmuc_ulm domain](https://github.com/freifunkMUC/meshviewer/pull/93) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (2 weeks ago)
-- [Feat  add ffmuc ulm domain](https://github.com/freifunk/meshviewer/pull/112) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (2 weeks ago)
-- [Merge facelift in to main](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/423) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
+- [feat: add ffmuc_ulm domain](https://github.com/freifunkMUC/meshviewer/pull/93) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (3 weeks ago)
+- [Feat  add ffmuc ulm domain](https://github.com/freifunk/meshviewer/pull/112) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (3 weeks ago)
+- [Merge facelift in to main](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/423) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 weeks ago)
 - [[Snyk] Upgrade react-router-dom from 6.22.2 to 6.22.3](https://github.com/freifunkMUC/wg-access-server/pull/647) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [[Snyk] Upgrade date-fns from 3.3.1 to 3.5.0](https://github.com/freifunkMUC/wg-access-server/pull/646) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 
