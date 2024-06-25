@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (3 days ago)
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (4 days ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 week ago)
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (2 weeks ago)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (2 weeks ago)
@@ -19,12 +19,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.6.1-next](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.6.1-next), 6 days ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.6.1-next](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.6.1-next), 1 week ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.3), 1 week ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.3](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.3), 1 week ago) - Helm Charts for wg-access-server
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v23.05.3](https://github.com/openwrt/openwrt/releases/tag/v23.05.3), 3 months ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 3 months ago) - Project for easy key exchange between Wireguard Clients and Servers
-- [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) ([v.1.6.2](https://github.com/strichliste/strichliste-docker/releases/tag/v.1.6.2), 4 years ago) - WIP Dockerfile (not yet recommended)
+- [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) ([v.1.6.2](https://github.com/strichliste/strichliste-docker/releases/tag/v.1.6.2), 5 years ago) - WIP Dockerfile (not yet recommended)
 
 #### 🔨 My recent Pull Requests
 
@@ -48,7 +48,7 @@
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 year ago)
 - [grische/extremeflash](https://github.com/grische/extremeflash) -  (1 year ago)
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects. (1 year ago)
-- [letsencrypt/website](https://github.com/letsencrypt/website) - Let&#39;s Encrypt Website and Documentation (1 year ago)
+- [letsencrypt/website](https://github.com/letsencrypt/website) - Let&#39;s Encrypt Website and Documentation (2 years ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (2 years ago)
 - [MarkWattTech/MarkWattTech-Tutorials](https://github.com/MarkWattTech/MarkWattTech-Tutorials) - A Collection of Code from Various MarkWattTech Videos (2 years ago)
 - [fttx/barcode-to-pc-server](https://github.com/fttx/barcode-to-pc-server) - Barcode to PC server (2 years ago)
