@@ -58,11 +58,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [MinisterPP](https://github.com/MinisterPP)
 - [twink0r](https://github.com/twink0r)
 - [kedom1337](https://github.com/kedom1337)
 - [bebehei](https://github.com/bebehei)
 - [IAMKelih](https://github.com/IAMKelih)
-- [malubs2004](https://github.com/malubs2004)
 
 #### 💬 Feedback
 
