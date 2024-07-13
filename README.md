@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[Snyk] Upgrade @mui/material from 5.15.19 to 5.15.20](https://github.com/freifunkMUC/wg-access-server/pull/695) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [[Snyk] Upgrade @mui/styles from 5.15.19 to 5.15.20](https://github.com/freifunkMUC/wg-access-server/pull/692) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @mui/material from 5.15.19 to 5.15.20](https://github.com/freifunkMUC/wg-access-server/pull/691) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @mui/icons-material from 5.15.19 to 5.15.20](https://github.com/freifunkMUC/wg-access-server/pull/690) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
@@ -37,7 +38,6 @@
 - [Readd: Spendenlink](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/427) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 months ago)
 - [Re-added: Shop to navbar](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/424) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 months ago)
 - [feat: add ffmuc_ulm domain](https://github.com/freifunkMUC/meshviewer/pull/93) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (2 months ago)
-- [Feat  add ffmuc ulm domain](https://github.com/freifunk/meshviewer/pull/112) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (2 months ago)
 
 #### 📓 Gists I wrote
 
