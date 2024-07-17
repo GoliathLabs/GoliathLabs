@@ -28,8 +28,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Snyk] Upgrade react-router-dom from 6.23.1 to 6.24.0](https://github.com/freifunkMUC/wg-access-server/pull/696) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [[Snyk] Upgrade @mui/material from 5.15.19 to 5.15.20](https://github.com/freifunkMUC/wg-access-server/pull/695) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
+- [[Snyk] Upgrade react-router-dom from 6.23.1 to 6.24.0](https://github.com/freifunkMUC/wg-access-server/pull/696) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [[Snyk] Upgrade @mui/material from 5.15.19 to 5.15.20](https://github.com/freifunkMUC/wg-access-server/pull/695) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
 - [[Snyk] Upgrade @mui/styles from 5.15.19 to 5.15.20](https://github.com/freifunkMUC/wg-access-server/pull/692) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @mui/material from 5.15.19 to 5.15.20](https://github.com/freifunkMUC/wg-access-server/pull/691) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @mui/icons-material from 5.15.19 to 5.15.20](https://github.com/freifunkMUC/wg-access-server/pull/690) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
