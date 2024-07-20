@@ -28,6 +28,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[Snyk] Upgrade @mui/styles from 5.15.20 to 5.15.21](https://github.com/freifunkMUC/wg-access-server/pull/699) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [[Snyk] Upgrade @mui/material from 5.15.19 to 5.15.21](https://github.com/freifunkMUC/wg-access-server/pull/698) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [[Snyk] Upgrade @mui/material from 5.15.19 to 5.15.20](https://github.com/freifunkMUC/wg-access-server/pull/697) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
 - [[Snyk] Upgrade react-router-dom from 6.23.1 to 6.24.0](https://github.com/freifunkMUC/wg-access-server/pull/696) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
 - [[Snyk] Upgrade @mui/material from 5.15.19 to 5.15.20](https://github.com/freifunkMUC/wg-access-server/pull/695) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
@@ -36,8 +38,6 @@
 - [[Snyk] Upgrade @mui/icons-material from 5.15.19 to 5.15.20](https://github.com/freifunkMUC/wg-access-server/pull/690) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [Remove head scripts](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/428) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 months ago)
 - [feat: npm updates](https://github.com/freifunkMUC/wg-access-server/pull/653) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 months ago)
-- [Docker, doc-requirements &amp; gomod updates](https://github.com/freifunkMUC/wg-access-server/pull/652) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 months ago)
-- [Readd: Spendenlink](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/427) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 months ago)
 
 #### 📓 Gists I wrote
 
