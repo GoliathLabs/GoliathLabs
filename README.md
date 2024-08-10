@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (1 day ago)
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (3 days ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (5 days ago)
+- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (2 days ago)
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (4 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (6 days ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 month ago)
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (2 months ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (2 months ago)
@@ -32,11 +32,11 @@
 - [[Snyk] Upgrade mobx from 6.12.5 to 6.13.0](https://github.com/freifunkMUC/wg-access-server/pull/701) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [[Snyk] Upgrade @mui/material from 5.15.19 to 5.15.21](https://github.com/freifunkMUC/wg-access-server/pull/700) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [feat: Imprint update](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/445) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
-- [[Snyk] Upgrade @mui/styles from 5.15.20 to 5.15.21](https://github.com/freifunkMUC/wg-access-server/pull/699) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
-- [[Snyk] Upgrade @mui/material from 5.15.19 to 5.15.21](https://github.com/freifunkMUC/wg-access-server/pull/698) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
+- [[Snyk] Upgrade @mui/styles from 5.15.20 to 5.15.21](https://github.com/freifunkMUC/wg-access-server/pull/699) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
+- [[Snyk] Upgrade @mui/material from 5.15.19 to 5.15.21](https://github.com/freifunkMUC/wg-access-server/pull/698) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [[Snyk] Upgrade @mui/material from 5.15.19 to 5.15.20](https://github.com/freifunkMUC/wg-access-server/pull/697) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [[Snyk] Upgrade react-router-dom from 6.23.1 to 6.24.0](https://github.com/freifunkMUC/wg-access-server/pull/696) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
-- [[Snyk] Upgrade @mui/material from 5.15.19 to 5.15.20](https://github.com/freifunkMUC/wg-access-server/pull/695) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
+- [[Snyk] Upgrade @mui/material from 5.15.19 to 5.15.20](https://github.com/freifunkMUC/wg-access-server/pull/695) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 weeks ago)
 - [[Snyk] Upgrade @mui/styles from 5.15.19 to 5.15.20](https://github.com/freifunkMUC/wg-access-server/pull/692) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 
 #### 📓 Gists I wrote
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [fttx/barcode-to-pc-app](https://github.com/fttx/barcode-to-pc-app) - Barcode to PC app (2 weeks ago)
+- [fttx/barcode-to-pc-app](https://github.com/fttx/barcode-to-pc-app) - Barcode to PC app (3 weeks ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 year ago)
 - [grische/extremeflash](https://github.com/grische/extremeflash) -  (1 year ago)
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects. (1 year ago)
