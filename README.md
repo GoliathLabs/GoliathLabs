@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 day ago)
-- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (5 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 days ago)
+- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (6 days ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 week ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 months ago)
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (2 months ago)
@@ -19,11 +19,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v22.03.7](https://github.com/openwrt/openwrt/releases/tag/v22.03.7), 2 weeks ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v22.03.7](https://github.com/openwrt/openwrt/releases/tag/v22.03.7), 3 weeks ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.6.1-next](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.6.1-next), 1 month ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.3), 2 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.3](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.3), 2 months ago) - Helm Charts for wg-access-server
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 4 months ago) - Project for easy key exchange between Wireguard Clients and Servers
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 5 months ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) ([v.1.6.2](https://github.com/strichliste/strichliste-docker/releases/tag/v.1.6.2), 5 years ago) - WIP Dockerfile (not yet recommended)
 
 #### 🔨 My recent Pull Requests
@@ -34,7 +34,7 @@
 - [feat: Imprint update](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/445) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 weeks ago)
 - [[Snyk] Upgrade @mui/styles from 5.15.20 to 5.15.21](https://github.com/freifunkMUC/wg-access-server/pull/699) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [[Snyk] Upgrade @mui/material from 5.15.19 to 5.15.21](https://github.com/freifunkMUC/wg-access-server/pull/698) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
-- [[Snyk] Upgrade @mui/material from 5.15.19 to 5.15.20](https://github.com/freifunkMUC/wg-access-server/pull/697) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
+- [[Snyk] Upgrade @mui/material from 5.15.19 to 5.15.20](https://github.com/freifunkMUC/wg-access-server/pull/697) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 weeks ago)
 - [[Snyk] Upgrade react-router-dom from 6.23.1 to 6.24.0](https://github.com/freifunkMUC/wg-access-server/pull/696) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 weeks ago)
 - [[Snyk] Upgrade @mui/material from 5.15.19 to 5.15.20](https://github.com/freifunkMUC/wg-access-server/pull/695) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade @mui/styles from 5.15.19 to 5.15.20](https://github.com/freifunkMUC/wg-access-server/pull/692) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
