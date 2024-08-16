@@ -41,6 +41,8 @@
 
 #### 📓 Gists I wrote
 
+- [Zigbee2MQTT - 1-button Scene Switch TS0041](https://gist.github.com/3cc8fbe7954c752d93a6abd1192399b6) (today)
+- [Tuya 2 button scene switch - TS0042 - Zigbee2MQTT](https://gist.github.com/bd9315849536e6b3606861984a68b299) (today)
 - [My Keybase proof](https://gist.github.com/69863960a08efeb03ad576ccaf93d880) (2 years ago)
 
 #### ⭐ Recent Stars
@@ -58,11 +60,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [LilaLio](https://github.com/LilaLio)
 - [SimTechLP](https://github.com/SimTechLP)
 - [MinisterPP](https://github.com/MinisterPP)
 - [twink0r](https://github.com/twink0r)
 - [kedom1337](https://github.com/kedom1337)
-- [bebehei](https://github.com/bebehei)
 
 #### 💬 Feedback
 
