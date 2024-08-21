@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 day ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 days ago)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (1 week ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (2 weeks ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 months ago)
@@ -19,7 +19,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v22.03.7](https://github.com/openwrt/openwrt/releases/tag/v22.03.7), 3 weeks ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v22.03.7](https://github.com/openwrt/openwrt/releases/tag/v22.03.7), 4 weeks ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.6.1-next](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.6.1-next), 2 months ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.3), 2 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.3](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.3), 2 months ago) - Helm Charts for wg-access-server
@@ -31,7 +31,7 @@
 - [feat: deps update](https://github.com/freifunkMUC/wg-access-server/pull/718) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [[Snyk] Upgrade mobx from 6.12.5 to 6.13.0](https://github.com/freifunkMUC/wg-access-server/pull/701) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [[Snyk] Upgrade @mui/material from 5.15.19 to 5.15.21](https://github.com/freifunkMUC/wg-access-server/pull/700) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
-- [feat: Imprint update](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/445) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (4 weeks ago)
+- [feat: Imprint update](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/445) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 month ago)
 - [[Snyk] Upgrade @mui/styles from 5.15.20 to 5.15.21](https://github.com/freifunkMUC/wg-access-server/pull/699) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade @mui/material from 5.15.19 to 5.15.21](https://github.com/freifunkMUC/wg-access-server/pull/698) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade @mui/material from 5.15.19 to 5.15.20](https://github.com/freifunkMUC/wg-access-server/pull/697) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
@@ -41,8 +41,8 @@
 
 #### 📓 Gists I wrote
 
-- [Zigbee2MQTT - 1-button Scene Switch TS0041](https://gist.github.com/3cc8fbe7954c752d93a6abd1192399b6) (4 days ago)
-- [Tuya 2 button scene switch - TS0042 - Zigbee2MQTT](https://gist.github.com/bd9315849536e6b3606861984a68b299) (4 days ago)
+- [Zigbee2MQTT - 1-button Scene Switch TS0041](https://gist.github.com/3cc8fbe7954c752d93a6abd1192399b6) (5 days ago)
+- [Tuya 2 button scene switch - TS0042 - Zigbee2MQTT](https://gist.github.com/bd9315849536e6b3606861984a68b299) (5 days ago)
 - [My Keybase proof](https://gist.github.com/69863960a08efeb03ad576ccaf93d880) (2 years ago)
 
 #### ⭐ Recent Stars
