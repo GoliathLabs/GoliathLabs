@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Snyk] Upgrade @mui/material from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/724) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [[Snyk] Upgrade @mui/styles from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/722) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [[Snyk] Upgrade @mui/icons-material from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/721) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [[Snyk] Upgrade @mui/material from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/720) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [[Snyk] Upgrade qrcode from 1.5.3 to 1.5.4](https://github.com/freifunkMUC/wg-access-server/pull/719) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
+- [[Snyk] Upgrade @mui/material from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/724) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [[Snyk] Upgrade @mui/styles from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/722) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [[Snyk] Upgrade @mui/icons-material from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/721) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [[Snyk] Upgrade @mui/material from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/720) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [[Snyk] Upgrade qrcode from 1.5.3 to 1.5.4](https://github.com/freifunkMUC/wg-access-server/pull/719) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 days ago)
 - [App Updates &amp; CI improvmeents](https://github.com/fbonalair/traefik-crowdsec-bouncer/pull/57) on [fbonalair/traefik-crowdsec-bouncer](https://github.com/fbonalair/traefik-crowdsec-bouncer) (1 week ago)
 - [feat: deps update](https://github.com/freifunkMUC/wg-access-server/pull/718) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade mobx from 6.12.5 to 6.13.0](https://github.com/freifunkMUC/wg-access-server/pull/701) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
