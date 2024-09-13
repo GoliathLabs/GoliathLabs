@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 day ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 days ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 week ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (3 weeks ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (3 weeks ago)
@@ -23,26 +23,26 @@
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.6.1-next](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.6.1-next), 2 months ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.3), 3 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.3](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.3), 3 months ago) - Helm Charts for wg-access-server
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 5 months ago) - Project for easy key exchange between Wireguard Clients and Servers
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 6 months ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) ([v.1.6.2](https://github.com/strichliste/strichliste-docker/releases/tag/v.1.6.2), 5 years ago) - WIP Dockerfile (not yet recommended)
 
 #### 🔨 My recent Pull Requests
 
-- [[Snyk] Upgrade: , ](https://github.com/freifunkMUC/wg-access-server/pull/742) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [[Snyk] Upgrade @emotion/react from 11.13.0 to 11.13.3](https://github.com/freifunkMUC/wg-access-server/pull/741) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [[Snyk] Upgrade react-router-dom from 6.26.0 to 6.26.1](https://github.com/freifunkMUC/wg-access-server/pull/740) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
+- [[Snyk] Upgrade: , ](https://github.com/freifunkMUC/wg-access-server/pull/742) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [[Snyk] Upgrade @emotion/react from 11.13.0 to 11.13.3](https://github.com/freifunkMUC/wg-access-server/pull/741) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [[Snyk] Upgrade react-router-dom from 6.26.0 to 6.26.1](https://github.com/freifunkMUC/wg-access-server/pull/740) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @mui/material from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/724) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
-- [[Snyk] Upgrade @mui/styles from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/722) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
-- [[Snyk] Upgrade @mui/icons-material from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/721) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
-- [[Snyk] Upgrade @mui/material from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/720) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
+- [[Snyk] Upgrade @mui/styles from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/722) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
+- [[Snyk] Upgrade @mui/icons-material from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/721) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
+- [[Snyk] Upgrade @mui/material from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/720) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [[Snyk] Upgrade qrcode from 1.5.3 to 1.5.4](https://github.com/freifunkMUC/wg-access-server/pull/719) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [App Updates &amp; CI improvmeents](https://github.com/fbonalair/traefik-crowdsec-bouncer/pull/57) on [fbonalair/traefik-crowdsec-bouncer](https://github.com/fbonalair/traefik-crowdsec-bouncer) (3 weeks ago)
 - [feat: deps update](https://github.com/freifunkMUC/wg-access-server/pull/718) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 
 #### 📓 Gists I wrote
 
-- [Zigbee2MQTT - 1-button Scene Switch TS0041](https://gist.github.com/3cc8fbe7954c752d93a6abd1192399b6) (3 weeks ago)
-- [Tuya 2 button scene switch - TS0042 - Zigbee2MQTT](https://gist.github.com/bd9315849536e6b3606861984a68b299) (3 weeks ago)
+- [Zigbee2MQTT - 1-button Scene Switch TS0041](https://gist.github.com/3cc8fbe7954c752d93a6abd1192399b6) (4 weeks ago)
+- [Tuya 2 button scene switch - TS0042 - Zigbee2MQTT](https://gist.github.com/bd9315849536e6b3606861984a68b299) (4 weeks ago)
 - [My Keybase proof](https://gist.github.com/69863960a08efeb03ad576ccaf93d880) (2 years ago)
 
 #### ⭐ Recent Stars
