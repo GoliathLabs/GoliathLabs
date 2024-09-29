@@ -33,9 +33,9 @@
 - [[Snyk] Upgrade @emotion/react from 11.13.0 to 11.13.3](https://github.com/freifunkMUC/wg-access-server/pull/741) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [[Snyk] Upgrade react-router-dom from 6.26.0 to 6.26.1](https://github.com/freifunkMUC/wg-access-server/pull/740) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [[Snyk] Upgrade @mui/material from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/724) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 weeks ago)
-- [[Snyk] Upgrade @mui/styles from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/722) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 weeks ago)
-- [[Snyk] Upgrade @mui/icons-material from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/721) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 weeks ago)
-- [[Snyk] Upgrade @mui/material from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/720) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 weeks ago)
+- [[Snyk] Upgrade @mui/styles from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/722) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
+- [[Snyk] Upgrade @mui/icons-material from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/721) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
+- [[Snyk] Upgrade @mui/material from 5.16.6 to 5.16.7](https://github.com/freifunkMUC/wg-access-server/pull/720) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade qrcode from 1.5.3 to 1.5.4](https://github.com/freifunkMUC/wg-access-server/pull/719) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [App Updates &amp; CI improvmeents](https://github.com/fbonalair/traefik-crowdsec-bouncer/pull/57) on [fbonalair/traefik-crowdsec-bouncer](https://github.com/fbonalair/traefik-crowdsec-bouncer) (1 month ago)
 
@@ -48,7 +48,7 @@
 #### ⭐ Recent Stars
 
 - [fttx/barcode-to-pc-app](https://github.com/fttx/barcode-to-pc-app) - Barcode to PC app (2 months ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 year ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 years ago)
 - [grische/extremeflash](https://github.com/grische/extremeflash) -  (2 years ago)
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects. (2 years ago)
 - [letsencrypt/website](https://github.com/letsencrypt/website) - Let&#39;s Encrypt Website and Documentation (2 years ago)
