@@ -19,9 +19,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.4](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.4), today) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v23.05.5](https://github.com/openwrt/openwrt/releases/tag/v23.05.5), 2 days ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.9.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.9.1), 2 weeks ago) - Freifunk München specific Gluon configuration
-- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.3), 3 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.3](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.3), 3 months ago) - Helm Charts for wg-access-server
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 6 months ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [strichliste/strichliste-docker](https://github.com/strichliste/strichliste-docker) ([v.1.6.2](https://github.com/strichliste/strichliste-docker/releases/tag/v.1.6.2), 5 years ago) - WIP Dockerfile (not yet recommended)
