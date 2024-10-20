@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add SMTP Email Service for LDAP User Notifications](https://github.com/kedom1337/applica/pull/3) on [kedom1337/applica](https://github.com/kedom1337/applica) (today)
+- [Add SMTP Email Service for LDAP User Notifications](https://github.com/kedom1337/applica/pull/3) on [kedom1337/applica](https://github.com/kedom1337/applica) (1 day ago)
 - [[Snyk] Upgrade: , ](https://github.com/freifunkMUC/wg-access-server/pull/744) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 weeks ago)
 - [[Snyk] Upgrade: , ](https://github.com/freifunkMUC/wg-access-server/pull/742) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade @emotion/react from 11.13.0 to 11.13.3](https://github.com/freifunkMUC/wg-access-server/pull/741) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
