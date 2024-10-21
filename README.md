@@ -6,7 +6,7 @@
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 month ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 month ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 month ago)
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 month ago)
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (2 months ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (4 months ago)
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (4 months ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (5 months ago)
@@ -28,8 +28,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add SMTP Email Service for LDAP User Notifications](https://github.com/kedom1337/applica/pull/3) on [kedom1337/applica](https://github.com/kedom1337/applica) (1 day ago)
-- [[Snyk] Upgrade: , ](https://github.com/freifunkMUC/wg-access-server/pull/744) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 weeks ago)
+- [Add SMTP Email Service for LDAP User Notifications](https://github.com/kedom1337/applica/pull/3) on [kedom1337/applica](https://github.com/kedom1337/applica) (2 days ago)
+- [[Snyk] Upgrade: , ](https://github.com/freifunkMUC/wg-access-server/pull/744) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade: , ](https://github.com/freifunkMUC/wg-access-server/pull/742) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade @emotion/react from 11.13.0 to 11.13.3](https://github.com/freifunkMUC/wg-access-server/pull/741) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade react-router-dom from 6.26.0 to 6.26.1](https://github.com/freifunkMUC/wg-access-server/pull/740) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
