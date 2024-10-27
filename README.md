@@ -15,6 +15,7 @@
 
 #### 🌱 My latest projects
 
+- [GoliathLabs/applica](https://github.com/GoliathLabs/applica) - A full-stack platform for managing user applications, designed for university clubs.
 - [GoliathLabs/ffmuc.net](https://github.com/GoliathLabs/ffmuc.net) - 
 
 #### 🔭 Latest releases I've contributed to
