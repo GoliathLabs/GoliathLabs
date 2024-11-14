@@ -42,8 +42,8 @@
 
 #### 📓 Gists I wrote
 
-- [Zigbee2MQTT - 1-button Scene Switch TS0041](https://gist.github.com/3cc8fbe7954c752d93a6abd1192399b6) (2 months ago)
-- [Tuya 2 button scene switch - TS0042 - Zigbee2MQTT](https://gist.github.com/bd9315849536e6b3606861984a68b299) (2 months ago)
+- [Zigbee2MQTT - 1-button Scene Switch TS0041](https://gist.github.com/3cc8fbe7954c752d93a6abd1192399b6) (3 months ago)
+- [Tuya 2 button scene switch - TS0042 - Zigbee2MQTT](https://gist.github.com/bd9315849536e6b3606861984a68b299) (3 months ago)
 - [My Keybase proof](https://gist.github.com/69863960a08efeb03ad576ccaf93d880) (3 years ago)
 
 #### ⭐ Recent Stars
