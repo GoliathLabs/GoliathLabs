@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 day ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (2 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (1 month ago)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 months ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (3 months ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (5 months ago)
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (5 months ago)
@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (today)
 - [fttx/barcode-to-pc-app](https://github.com/fttx/barcode-to-pc-app) - Barcode to PC app (4 months ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 years ago)
 - [grische/extremeflash](https://github.com/grische/extremeflash) -  (2 years ago)
@@ -57,7 +58,6 @@
 - [MarkWattTech/MarkWattTech-Tutorials](https://github.com/MarkWattTech/MarkWattTech-Tutorials) - A Collection of Code from Various MarkWattTech Videos (2 years ago)
 - [fttx/barcode-to-pc-server](https://github.com/fttx/barcode-to-pc-server) - Barcode to PC server (2 years ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (2 years ago)
-- [offdroid/swmn](https://github.com/offdroid/swmn) - Certificate management server with api and web UI (2 years ago)
 
 #### 👯 Check out some of my recent followers
 
