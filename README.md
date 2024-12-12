@@ -24,7 +24,7 @@
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.11.1-next](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.11.1-next), 1 month ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.4](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.4), 2 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.3](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.3), 6 months ago) - Helm Charts for wg-access-server
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 8 months ago) - Project for easy key exchange between Wireguard Clients and Servers
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 9 months ago) - Project for easy key exchange between Wireguard Clients and Servers
 
 #### 🔨 My recent Pull Requests
 
