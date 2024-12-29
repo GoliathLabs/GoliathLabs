@@ -60,11 +60,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [rqoq](https://github.com/rqoq)
 - [Neustradamus](https://github.com/Neustradamus)
 - [SimTechLP](https://github.com/SimTechLP)
 - [MinisterPP](https://github.com/MinisterPP)
 - [twink0r](https://github.com/twink0r)
-- [kedom1337](https://github.com/kedom1337)
 
 #### 💬 Feedback
 
