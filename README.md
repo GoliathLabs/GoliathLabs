@@ -28,6 +28,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[Snyk] Upgrade mobx-react from 9.1.1 to 9.2.0](https://github.com/freifunkMUC/wg-access-server/pull/791) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [[Snyk] Upgrade @emotion/react from 11.13.5 to 11.14.0](https://github.com/freifunkMUC/wg-access-server/pull/790) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [[Snyk] Upgrade @emotion/styled from 11.13.5 to 11.14.0](https://github.com/freifunkMUC/wg-access-server/pull/789) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [[Snyk] Upgrade @mui/material from 6.1.9 to 6.1.10](https://github.com/freifunkMUC/wg-access-server/pull/773) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @mui/icons-material from 6.1.9 to 6.1.10](https://github.com/freifunkMUC/wg-access-server/pull/772) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade react-router-dom from 7.0.1 to 7.0.2](https://github.com/freifunkMUC/wg-access-server/pull/771) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
@@ -35,9 +38,6 @@
 - [Add SMTP Email Service for LDAP User Notifications](https://github.com/GoliathLabs/applica/pull/1) on [GoliathLabs/applica](https://github.com/GoliathLabs/applica) (2 months ago)
 - [Add SMTP Email Service for LDAP User Notifications](https://github.com/kedom1337/applica/pull/3) on [kedom1337/applica](https://github.com/kedom1337/applica) (2 months ago)
 - [[Snyk] Upgrade: , ](https://github.com/freifunkMUC/wg-access-server/pull/744) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 months ago)
-- [[Snyk] Upgrade: , ](https://github.com/freifunkMUC/wg-access-server/pull/742) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 months ago)
-- [[Snyk] Upgrade @emotion/react from 11.13.0 to 11.13.3](https://github.com/freifunkMUC/wg-access-server/pull/741) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 months ago)
-- [[Snyk] Upgrade react-router-dom from 6.26.0 to 6.26.1](https://github.com/freifunkMUC/wg-access-server/pull/740) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 months ago)
 
 #### 📓 Gists I wrote
 
