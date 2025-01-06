@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 day ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (1 week ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 month ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (4 months ago)
