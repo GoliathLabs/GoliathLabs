@@ -15,7 +15,6 @@
 
 #### 🌱 My latest projects
 
-- [GoliathLabs/applica](https://github.com/GoliathLabs/applica) - A full-stack platform for managing user applications, designed for university clubs.
 - [GoliathLabs/ffmuc.net](https://github.com/GoliathLabs/ffmuc.net) - 
 
 #### 🔭 Latest releases I've contributed to
@@ -37,8 +36,8 @@
 - [[Snyk] Upgrade @mui/icons-material from 6.1.9 to 6.1.10](https://github.com/freifunkMUC/wg-access-server/pull/772) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade react-router-dom from 7.0.1 to 7.0.2](https://github.com/freifunkMUC/wg-access-server/pull/771) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [Dependency updates](https://github.com/freifunkMUC/wg-access-server/pull/763) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
-- [Add SMTP Email Service for LDAP User Notifications](https://github.com/GoliathLabs/applica/pull/1) on [GoliathLabs/applica](https://github.com/GoliathLabs/applica) (2 months ago)
 - [Add SMTP Email Service for LDAP User Notifications](https://github.com/kedom1337/applica/pull/3) on [kedom1337/applica](https://github.com/kedom1337/applica) (2 months ago)
+- [[Snyk] Upgrade: , ](https://github.com/freifunkMUC/wg-access-server/pull/744) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 months ago)
 
 #### 📓 Gists I wrote
 
