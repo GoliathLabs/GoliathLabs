@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [GoliathLabs/IaC](https://github.com/GoliathLabs/IaC) -  (1 day ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 days ago)
-- [GoliathLabs/IaC](https://github.com/GoliathLabs/IaC) -  (2 days ago)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (1 week ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 month ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (4 months ago)
@@ -29,6 +29,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add main.tf to manage multiple domains in Cloudflare](https://github.com/GoliathLabs/IaC/pull/1) on [GoliathLabs/IaC](https://github.com/GoliathLabs/IaC) (today)
 - [Remove Degree and Semester fields from application form](https://github.com/GoliathLabs/applica/pull/2) on [GoliathLabs/applica](https://github.com/GoliathLabs/applica) (2 days ago)
 - [Update email field to specify private email address](https://github.com/GoliathLabs/applica/pull/1) on [GoliathLabs/applica](https://github.com/GoliathLabs/applica) (2 days ago)
 - [Update workflows to work with newer ruby versions](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/470) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 days ago)
@@ -38,7 +39,6 @@
 - [[Snyk] Upgrade @mui/material from 6.1.9 to 6.1.10](https://github.com/freifunkMUC/wg-access-server/pull/773) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade @mui/icons-material from 6.1.9 to 6.1.10](https://github.com/freifunkMUC/wg-access-server/pull/772) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [[Snyk] Upgrade react-router-dom from 7.0.1 to 7.0.2](https://github.com/freifunkMUC/wg-access-server/pull/771) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
-- [Dependency updates](https://github.com/freifunkMUC/wg-access-server/pull/763) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 
 #### 📓 Gists I wrote
 
