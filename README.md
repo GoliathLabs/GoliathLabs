@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [GoliathLabs/IaC](https://github.com/GoliathLabs/IaC) -  (1 day ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 days ago)
+- [GoliathLabs/IaC](https://github.com/GoliathLabs/IaC) -  (2 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 days ago)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (1 week ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 month ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (4 months ago)
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (6 months ago)
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (7 months ago)
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (7 months ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (7 months ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (8 months ago)
@@ -20,36 +20,36 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v24.10.0-rc5](https://github.com/openwrt/openwrt/releases/tag/v24.10.0-rc5), today) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2025.1.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2025.1.1), 5 days ago) - Freifunk München specific Gluon configuration
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v24.10.0-rc5](https://github.com/openwrt/openwrt/releases/tag/v24.10.0-rc5), 1 day ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2025.1.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2025.1.1), 6 days ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.4](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.4), 3 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.3](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.3), 6 months ago) - Helm Charts for wg-access-server
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.3](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.3), 7 months ago) - Helm Charts for wg-access-server
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 9 months ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v12.4.0](https://github.com/freifunk/meshviewer/releases/tag/v12.4.0), 11 months ago) - Visualization for Freifunk open mesh network nodes
 
 #### 🔨 My recent Pull Requests
 
-- [Add main.tf to manage multiple domains in Cloudflare](https://github.com/GoliathLabs/IaC/pull/1) on [GoliathLabs/IaC](https://github.com/GoliathLabs/IaC) (today)
-- [Remove Degree and Semester fields from application form](https://github.com/GoliathLabs/applica/pull/2) on [GoliathLabs/applica](https://github.com/GoliathLabs/applica) (2 days ago)
-- [Update email field to specify private email address](https://github.com/GoliathLabs/applica/pull/1) on [GoliathLabs/applica](https://github.com/GoliathLabs/applica) (2 days ago)
-- [Update workflows to work with newer ruby versions](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/470) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 days ago)
-- [[Snyk] Upgrade mobx-react from 9.1.1 to 9.2.0](https://github.com/freifunkMUC/wg-access-server/pull/791) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
-- [[Snyk] Upgrade @emotion/react from 11.13.5 to 11.14.0](https://github.com/freifunkMUC/wg-access-server/pull/790) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
-- [[Snyk] Upgrade @emotion/styled from 11.13.5 to 11.14.0](https://github.com/freifunkMUC/wg-access-server/pull/789) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
-- [[Snyk] Upgrade @mui/material from 6.1.9 to 6.1.10](https://github.com/freifunkMUC/wg-access-server/pull/773) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
-- [[Snyk] Upgrade @mui/icons-material from 6.1.9 to 6.1.10](https://github.com/freifunkMUC/wg-access-server/pull/772) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
-- [[Snyk] Upgrade react-router-dom from 7.0.1 to 7.0.2](https://github.com/freifunkMUC/wg-access-server/pull/771) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
+- [Add main.tf to manage multiple domains in Cloudflare](https://github.com/GoliathLabs/IaC/pull/1) on [GoliathLabs/IaC](https://github.com/GoliathLabs/IaC) (1 day ago)
+- [Remove Degree and Semester fields from application form](https://github.com/GoliathLabs/applica/pull/2) on [GoliathLabs/applica](https://github.com/GoliathLabs/applica) (3 days ago)
+- [Update email field to specify private email address](https://github.com/GoliathLabs/applica/pull/1) on [GoliathLabs/applica](https://github.com/GoliathLabs/applica) (3 days ago)
+- [Update workflows to work with newer ruby versions](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/470) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (4 days ago)
+- [[Snyk] Upgrade mobx-react from 9.1.1 to 9.2.0](https://github.com/freifunkMUC/wg-access-server/pull/791) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
+- [[Snyk] Upgrade @emotion/react from 11.13.5 to 11.14.0](https://github.com/freifunkMUC/wg-access-server/pull/790) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
+- [[Snyk] Upgrade @emotion/styled from 11.13.5 to 11.14.0](https://github.com/freifunkMUC/wg-access-server/pull/789) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
+- [[Snyk] Upgrade @mui/material from 6.1.9 to 6.1.10](https://github.com/freifunkMUC/wg-access-server/pull/773) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
+- [[Snyk] Upgrade @mui/icons-material from 6.1.9 to 6.1.10](https://github.com/freifunkMUC/wg-access-server/pull/772) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
+- [[Snyk] Upgrade react-router-dom from 7.0.1 to 7.0.2](https://github.com/freifunkMUC/wg-access-server/pull/771) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/609a3bc4000c9a01e229526ab6a760e6) (today)
+- [](https://gist.github.com/609a3bc4000c9a01e229526ab6a760e6) (1 day ago)
 - [Zigbee2MQTT - 1-button Scene Switch TS0041](https://gist.github.com/3cc8fbe7954c752d93a6abd1192399b6) (4 months ago)
 - [Tuya 2 button scene switch - TS0042 - Zigbee2MQTT](https://gist.github.com/bd9315849536e6b3606861984a68b299) (4 months ago)
 - [My Keybase proof](https://gist.github.com/69863960a08efeb03ad576ccaf93d880) (3 years ago)
 
 #### ⭐ Recent Stars
 
-- [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic (6 days ago)
+- [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic (1 week ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (1 month ago)
 - [fttx/barcode-to-pc-app](https://github.com/fttx/barcode-to-pc-app) - Barcode to PC app (5 months ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 years ago)
