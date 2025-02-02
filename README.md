@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2025.1.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2025.1.1), 4 weeks ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2025.1.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2025.1.1), 1 month ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.4](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.4), 4 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.3](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.3), 7 months ago) - Helm Charts for wg-access-server
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 10 months ago) - Project for easy key exchange between Wireguard Clients and Servers
@@ -29,11 +29,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: dependency updates](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/15) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (1 week ago)
+- [feat: dependency updates](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/15) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (2 weeks ago)
 - [Add main.tf to manage multiple domains in Cloudflare](https://github.com/GoliathLabs/IaC/pull/1) on [GoliathLabs/IaC](https://github.com/GoliathLabs/IaC) (3 weeks ago)
 - [Remove Degree and Semester fields from application form](https://github.com/GoliathLabs/applica/pull/2) on [GoliathLabs/applica](https://github.com/GoliathLabs/applica) (3 weeks ago)
 - [Update email field to specify private email address](https://github.com/GoliathLabs/applica/pull/1) on [GoliathLabs/applica](https://github.com/GoliathLabs/applica) (3 weeks ago)
-- [Update workflows to work with newer ruby versions](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/470) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 weeks ago)
+- [Update workflows to work with newer ruby versions](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/470) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (4 weeks ago)
 - [[Snyk] Upgrade mobx-react from 9.1.1 to 9.2.0](https://github.com/freifunkMUC/wg-access-server/pull/791) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade @emotion/react from 11.13.5 to 11.14.0](https://github.com/freifunkMUC/wg-access-server/pull/790) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [[Snyk] Upgrade @emotion/styled from 11.13.5 to 11.14.0](https://github.com/freifunkMUC/wg-access-server/pull/789) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
