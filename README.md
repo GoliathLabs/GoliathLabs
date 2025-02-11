@@ -6,12 +6,12 @@
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (2 weeks ago)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (2 weeks ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (3 weeks ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (3 weeks ago)
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (3 weeks ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (3 weeks ago)
 - [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (3 weeks ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (3 weeks ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (3 weeks ago)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (3 weeks ago)
 
 #### 🌱 My latest projects
 
