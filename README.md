@@ -29,9 +29,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: introduce winget ci](https://github.com/freifunkMUC/jitsi-meet-electron/pull/82) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (2 days ago)
-- [Merge upstream v2025.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/81) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (3 days ago)
-- [v2025.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/80) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (4 days ago)
+- [feat: introduce winget ci](https://github.com/freifunkMUC/jitsi-meet-electron/pull/82) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (3 days ago)
+- [Merge upstream v2025.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/81) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (4 days ago)
+- [v2025.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/80) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (5 days ago)
 - [feat: dependency updates](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/15) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (3 weeks ago)
 - [Add main.tf to manage multiple domains in Cloudflare](https://github.com/GoliathLabs/IaC/pull/1) on [GoliathLabs/IaC](https://github.com/GoliathLabs/IaC) (1 month ago)
 - [Remove Degree and Semester fields from application form](https://github.com/GoliathLabs/applica/pull/2) on [GoliathLabs/applica](https://github.com/GoliathLabs/applica) (1 month ago)
@@ -43,13 +43,13 @@
 #### 📓 Gists I wrote
 
 - [](https://gist.github.com/609a3bc4000c9a01e229526ab6a760e6) (1 month ago)
-- [Zigbee2MQTT - 1-button Scene Switch TS0041](https://gist.github.com/3cc8fbe7954c752d93a6abd1192399b6) (5 months ago)
-- [Tuya 2 button scene switch - TS0042 - Zigbee2MQTT](https://gist.github.com/bd9315849536e6b3606861984a68b299) (5 months ago)
+- [Zigbee2MQTT - 1-button Scene Switch TS0041](https://gist.github.com/3cc8fbe7954c752d93a6abd1192399b6) (6 months ago)
+- [Tuya 2 button scene switch - TS0042 - Zigbee2MQTT](https://gist.github.com/bd9315849536e6b3606861984a68b299) (6 months ago)
 - [My Keybase proof](https://gist.github.com/69863960a08efeb03ad576ccaf93d880) (3 years ago)
 
 #### ⭐ Recent Stars
 
-- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (2 weeks ago)
+- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (3 weeks ago)
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic (1 month ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (2 months ago)
 - [fttx/barcode-to-pc-app](https://github.com/fttx/barcode-to-pc-app) - Barcode to PC app (6 months ago)
