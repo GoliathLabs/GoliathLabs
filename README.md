@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 week ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (2 weeks ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 weeks ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (3 weeks ago)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (3 weeks ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (3 weeks ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (3 weeks ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (3 weeks ago)
 - [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (3 weeks ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (3 weeks ago)
@@ -29,10 +29,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: introduce winget ci](https://github.com/freifunkMUC/jitsi-meet-electron/pull/82) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (6 days ago)
+- [feat: introduce winget ci](https://github.com/freifunkMUC/jitsi-meet-electron/pull/82) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (1 week ago)
 - [Merge upstream v2025.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/81) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (1 week ago)
 - [v2025.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/80) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (1 week ago)
-- [feat: dependency updates](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/15) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (3 weeks ago)
+- [feat: dependency updates](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/15) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (4 weeks ago)
 - [Add main.tf to manage multiple domains in Cloudflare](https://github.com/GoliathLabs/IaC/pull/1) on [GoliathLabs/IaC](https://github.com/GoliathLabs/IaC) (1 month ago)
 - [Remove Degree and Semester fields from application form](https://github.com/GoliathLabs/applica/pull/2) on [GoliathLabs/applica](https://github.com/GoliathLabs/applica) (1 month ago)
 - [Update email field to specify private email address](https://github.com/GoliathLabs/applica/pull/1) on [GoliathLabs/applica](https://github.com/GoliathLabs/applica) (1 month ago)
