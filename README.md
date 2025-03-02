@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (6 days ago)
+- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (1 week ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (3 weeks ago)
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (4 weeks ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 month ago)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (1 month ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (1 month ago)
@@ -20,7 +20,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2025.1.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2025.1.1), 1 month ago) - Freifunk München specific Gluon configuration
-- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.4](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.4), 4 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
+- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.4](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.4), 5 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.3](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.3), 8 months ago) - Helm Charts for wg-access-server
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 11 months ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v12.4.0](https://github.com/freifunk/meshviewer/releases/tag/v12.4.0), 1 year ago) - Visualization for Freifunk open mesh network nodes
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: introduce winget ci](https://github.com/freifunkMUC/jitsi-meet-electron/pull/82) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (2 weeks ago)
+- [feat: introduce winget ci](https://github.com/freifunkMUC/jitsi-meet-electron/pull/82) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (3 weeks ago)
 - [Merge upstream v2025.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/81) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (3 weeks ago)
 - [v2025.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/80) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (3 weeks ago)
 - [feat: dependency updates](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/15) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (1 month ago)
