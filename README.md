@@ -35,9 +35,9 @@
 - [Remove Degree and Semester fields from application form](https://github.com/GoliathLabs/applica/pull/2) on [GoliathLabs/applica](https://github.com/GoliathLabs/applica) (1 month ago)
 - [Update email field to specify private email address](https://github.com/GoliathLabs/applica/pull/1) on [GoliathLabs/applica](https://github.com/GoliathLabs/applica) (1 month ago)
 - [Update workflows to work with newer ruby versions](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/470) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 month ago)
-- [[Snyk] Upgrade mobx-react from 9.1.1 to 9.2.0](https://github.com/freifunkMUC/wg-access-server/pull/791) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
-- [[Snyk] Upgrade @emotion/react from 11.13.5 to 11.14.0](https://github.com/freifunkMUC/wg-access-server/pull/790) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
-- [[Snyk] Upgrade @emotion/styled from 11.13.5 to 11.14.0](https://github.com/freifunkMUC/wg-access-server/pull/789) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
+- [[Snyk] Upgrade mobx-react from 9.1.1 to 9.2.0](https://github.com/freifunkMUC/wg-access-server/pull/791) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 months ago)
+- [[Snyk] Upgrade @emotion/react from 11.13.5 to 11.14.0](https://github.com/freifunkMUC/wg-access-server/pull/790) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 months ago)
+- [[Snyk] Upgrade @emotion/styled from 11.13.5 to 11.14.0](https://github.com/freifunkMUC/wg-access-server/pull/789) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 months ago)
 
 #### 📓 Gists I wrote
 
@@ -49,7 +49,7 @@
 #### ⭐ Recent Stars
 
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (1 month ago)
-- [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic (1 month ago)
+- [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic (2 months ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (3 months ago)
 - [fttx/barcode-to-pc-app](https://github.com/fttx/barcode-to-pc-app) - Barcode to PC app (7 months ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 years ago)
