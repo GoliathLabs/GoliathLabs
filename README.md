@@ -34,7 +34,7 @@
 - [feat: dependency updates](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/15) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (1 month ago)
 - [Remove Degree and Semester fields from application form](https://github.com/GoliathLabs/applica/pull/2) on [GoliathLabs/applica](https://github.com/GoliathLabs/applica) (1 month ago)
 - [Update email field to specify private email address](https://github.com/GoliathLabs/applica/pull/1) on [GoliathLabs/applica](https://github.com/GoliathLabs/applica) (1 month ago)
-- [Update workflows to work with newer ruby versions](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/470) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 month ago)
+- [Update workflows to work with newer ruby versions](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/470) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 months ago)
 - [[Snyk] Upgrade mobx-react from 9.1.1 to 9.2.0](https://github.com/freifunkMUC/wg-access-server/pull/791) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 months ago)
 - [[Snyk] Upgrade @emotion/react from 11.13.5 to 11.14.0](https://github.com/freifunkMUC/wg-access-server/pull/790) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 months ago)
 - [[Snyk] Upgrade @emotion/styled from 11.13.5 to 11.14.0](https://github.com/freifunkMUC/wg-access-server/pull/789) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 months ago)
