@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 days ago)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (2 weeks ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 month ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 month ago)
@@ -21,7 +21,7 @@
 
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2025.1.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2025.1.1), 2 months ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.4](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.4), 5 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.3](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.3), 8 months ago) - Helm Charts for wg-access-server
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.12.3](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.12.3), 9 months ago) - Helm Charts for wg-access-server
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 11 months ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v12.4.0](https://github.com/freifunk/meshviewer/releases/tag/v12.4.0), 1 year ago) - Visualization for Freifunk open mesh network nodes
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) ([v0.0.8](https://github.com/freifunkMUC/unifi_respondd/releases/tag/v0.0.8), 2 years ago) - 
@@ -29,7 +29,7 @@
 #### 🔨 My recent Pull Requests
 
 - [feat: introduce winget ci](https://github.com/freifunkMUC/jitsi-meet-electron/pull/82) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (4 weeks ago)
-- [Merge upstream v2025.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/81) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (4 weeks ago)
+- [Merge upstream v2025.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/81) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (1 month ago)
 - [v2025.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/80) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (1 month ago)
 - [feat: dependency updates](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/15) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (1 month ago)
 - [Remove Degree and Semester fields from application form](https://github.com/GoliathLabs/applica/pull/2) on [GoliathLabs/applica](https://github.com/GoliathLabs/applica) (2 months ago)
