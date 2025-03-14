@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 day ago)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 day ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (5 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 days ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 days ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (6 days ago)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (2 weeks ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 month ago)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (1 month ago)
@@ -42,8 +42,8 @@
 #### 📓 Gists I wrote
 
 - [](https://gist.github.com/609a3bc4000c9a01e229526ab6a760e6) (2 months ago)
-- [Zigbee2MQTT - 1-button Scene Switch TS0041](https://gist.github.com/3cc8fbe7954c752d93a6abd1192399b6) (6 months ago)
-- [Tuya 2 button scene switch - TS0042 - Zigbee2MQTT](https://gist.github.com/bd9315849536e6b3606861984a68b299) (6 months ago)
+- [Zigbee2MQTT - 1-button Scene Switch TS0041](https://gist.github.com/3cc8fbe7954c752d93a6abd1192399b6) (7 months ago)
+- [Tuya 2 button scene switch - TS0042 - Zigbee2MQTT](https://gist.github.com/bd9315849536e6b3606861984a68b299) (7 months ago)
 - [My Keybase proof](https://gist.github.com/69863960a08efeb03ad576ccaf93d880) (3 years ago)
 
 #### ⭐ Recent Stars
