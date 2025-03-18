@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 day ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 day ago)
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 day ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (2 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 days ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
