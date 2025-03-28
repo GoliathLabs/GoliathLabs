@@ -6,10 +6,12 @@ on:
       - main
   schedule:
     - cron: "0 */1 * * *"
+  workflow_dispatch:  # Manuelles Auslösen möglich
 
 jobs:
   markscribe:
     runs-on: ubuntu-latest
+    timeout-minutes: 5  # Verhindert hängende Jobs
 
     permissions:
       contents: write
@@ -22,27 +24,35 @@ jobs:
           fetch-depth: 0
 
       - name: Generate README.md
+        id: generate
         uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948 # v0.1
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN || secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet README.md || echo "changes=true" >> $GITHUB_OUTPUT
+
       - name: Upload README.md as artifact
+        if: steps.changes.outputs.changes == 'true'
         uses: actions/upload-artifact@4cec3d8aa04e39d1a68397de0c4cd6fb9dce8ec1 # v4.6.1
         with:
           name: README.md
           path: README.md
 
       - name: Commit changes
+        if: steps.changes.outputs.changes == 'true'
         uses: stefanzweifel/git-auto-commit-action@e348103e9026cc0eee72ae06630dbe30c8bf7a79 # v5.1.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: Update generated README
+          commit_message: "📚 docs: Update generated README [skip ci]"
           branch: main
-          commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+          commit_user_name: "readme-scribe 🤖"
+          commit_user_email: "actions@github.com"
+          commit_author: "readme-scribe 🤖 <actions@github.com>"
           file_pattern: README.md
