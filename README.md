@@ -23,7 +23,6 @@
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2025.1.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2025.1.1), 2 months ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.4](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.4), 6 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 1 year ago) - Project for easy key exchange between Wireguard Clients and Servers
-- [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v12.4.0](https://github.com/freifunk/meshviewer/releases/tag/v12.4.0), 1 year ago) - Visualization for Freifunk open mesh network nodes
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) ([v0.0.8](https://github.com/freifunkMUC/unifi_respondd/releases/tag/v0.0.8), 3 years ago) - 
 
 #### 🔨 My recent Pull Requests
