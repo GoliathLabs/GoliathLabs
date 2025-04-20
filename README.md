@@ -11,7 +11,7 @@
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (2 months ago)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (2 months ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (2 months ago)
-- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (2 months ago)
+- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 #### 🔨 My recent Pull Requests
 
 - [feat: hedgedoc post](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/493) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
-- [GitHub Actions Workflow Optimization](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/491) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
+- [GitHub Actions Workflow Optimization](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/491) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 weeks ago)
 - [feat: introduce winget ci](https://github.com/freifunkMUC/jitsi-meet-electron/pull/82) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (2 months ago)
 - [Merge upstream v2025.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/81) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (2 months ago)
 - [v2025.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/80) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (2 months ago)
