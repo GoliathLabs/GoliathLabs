@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (6 days ago)
-- [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (6 days ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
+- [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (1 week ago)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (1 week ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (3 weeks ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 weeks ago)
