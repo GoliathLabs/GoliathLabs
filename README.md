@@ -4,8 +4,8 @@
 
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (1 week ago)
-- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (1 week ago)
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (3 weeks ago)
+- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (2 weeks ago)
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (4 weeks ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (4 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (4 weeks ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 month ago)
@@ -26,7 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: fstring-interpolation](https://github.com/freifunkMUC/wgkex/pull/175) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (3 weeks ago)
+- [fix: fstring-interpolation](https://github.com/freifunkMUC/wgkex/pull/175) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (4 weeks ago)
 - [Potential fix for code scanning alert no. 18: Information exposure through an exception](https://github.com/freifunkMUC/wgkex/pull/174) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (4 weeks ago)
 - [chore: update dockerfile](https://github.com/roaldnefs/salt-lint-action/pull/12) on [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) (1 month ago)
 - [feat: hedgedoc post](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/493) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 month ago)
@@ -47,11 +47,11 @@
 #### ⭐ Recent Stars
 
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (2 weeks ago)
-- [dogtagpki/pki](https://github.com/dogtagpki/pki) - The Dogtag Certificate System is an enterprise-class Certificate Authority (CA) which supports all aspects of certificate lifecycle management, including key archival, OCSP and smartcard management. (2 weeks ago)
+- [dogtagpki/pki](https://github.com/dogtagpki/pki) - The Dogtag Certificate System is an enterprise-class Certificate Authority (CA) which supports all aspects of certificate lifecycle management, including key archival, OCSP and smartcard management. (3 weeks ago)
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale (3 weeks ago)
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (4 months ago)
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic (4 months ago)
-- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (5 months ago)
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (6 months ago)
 - [fttx/barcode-to-pc-app](https://github.com/fttx/barcode-to-pc-app) - Barcode to PC app (10 months ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 years ago)
 - [grische/extremeflash](https://github.com/grische/extremeflash) -  (2 years ago)
