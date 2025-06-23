@@ -25,6 +25,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ath79: add support for Comfast CF-EW71 v2](https://github.com/freifunk-gluon/gluon/pull/3531) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (today)
 - [fix: fstring-interpolation](https://github.com/freifunkMUC/wgkex/pull/175) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 month ago)
 - [Potential fix for code scanning alert no. 18: Information exposure through an exception](https://github.com/freifunkMUC/wgkex/pull/174) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 month ago)
 - [chore: update dockerfile](https://github.com/roaldnefs/salt-lint-action/pull/12) on [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) (1 month ago)
@@ -34,7 +35,6 @@
 - [Merge upstream v2025.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/81) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (4 months ago)
 - [v2025.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/80) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (4 months ago)
 - [feat: dependency updates](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/15) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (5 months ago)
-- [Remove Degree and Semester fields from application form](https://github.com/GoliathLabs/applica/pull/2) on [GoliathLabs/applica](https://github.com/GoliathLabs/applica) (5 months ago)
 
 #### 📓 Gists I wrote
 
