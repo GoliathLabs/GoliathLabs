@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs. (3 days ago)
+- [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs. (4 days ago)
 - [Flomp/wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures! (1 week ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (1 month ago)
 - [dogtagpki/pki](https://github.com/dogtagpki/pki) - The Dogtag Certificate System is an enterprise-class Certificate Authority (CA) which supports all aspects of certificate lifecycle management, including key archival, OCSP and smartcard management. (1 month ago)
@@ -58,11 +58,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [nojjzz](https://github.com/nojjzz)
 - [Neustradamus](https://github.com/Neustradamus)
 - [SimTechLP](https://github.com/SimTechLP)
 - [MinisterPP](https://github.com/MinisterPP)
 - [twink0r](https://github.com/twink0r)
-- [kedom1337](https://github.com/kedom1337)
 
 #### 💬 Feedback
 
