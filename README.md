@@ -29,7 +29,7 @@
 - [fix: fstring-interpolation](https://github.com/freifunkMUC/wgkex/pull/175) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 months ago)
 - [Potential fix for code scanning alert no. 18: Information exposure through an exception](https://github.com/freifunkMUC/wgkex/pull/174) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 months ago)
 - [chore: update dockerfile](https://github.com/roaldnefs/salt-lint-action/pull/12) on [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) (2 months ago)
-- [feat: hedgedoc post](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/493) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 months ago)
+- [feat: hedgedoc post](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/493) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 months ago)
 - [GitHub Actions Workflow Optimization](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/491) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 months ago)
 - [feat: introduce winget ci](https://github.com/freifunkMUC/jitsi-meet-electron/pull/82) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (4 months ago)
 - [Merge upstream v2025.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/81) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (4 months ago)
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs. (4 days ago)
+- [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs. (5 days ago)
 - [Flomp/wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures! (1 week ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (1 month ago)
 - [dogtagpki/pki](https://github.com/dogtagpki/pki) - The Dogtag Certificate System is an enterprise-class Certificate Authority (CA) which supports all aspects of certificate lifecycle management, including key archival, OCSP and smartcard management. (1 month ago)
