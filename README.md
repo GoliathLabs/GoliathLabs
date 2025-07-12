@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (4 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (2 weeks ago)
@@ -10,7 +11,6 @@
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 month ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (1 month ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 month ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
 - [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (1 month ago)
 
 #### 🌱 My latest projects
@@ -25,6 +25,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: update image &amp; README](https://github.com/roaldnefs/salt-lint-action/pull/13) on [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) (today)
+- [fix: workflows](https://github.com/freifunkMUC/ffmuc-salt-public/pull/201) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [ath79: add support for Comfast CF-EW71 v2](https://github.com/freifunk-gluon/gluon/pull/3531) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (2 weeks ago)
 - [fix: fstring-interpolation](https://github.com/freifunkMUC/wgkex/pull/175) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 months ago)
 - [Potential fix for code scanning alert no. 18: Information exposure through an exception](https://github.com/freifunkMUC/wgkex/pull/174) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 months ago)
@@ -33,8 +35,6 @@
 - [GitHub Actions Workflow Optimization](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/491) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 months ago)
 - [feat: introduce winget ci](https://github.com/freifunkMUC/jitsi-meet-electron/pull/82) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (5 months ago)
 - [Merge upstream v2025.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/81) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (5 months ago)
-- [v2025.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/80) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (5 months ago)
-- [feat: dependency updates](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/15) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (5 months ago)
 
 #### 📓 Gists I wrote
 
