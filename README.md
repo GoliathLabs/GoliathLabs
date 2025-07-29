@@ -53,7 +53,7 @@
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale (2 months ago)
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (6 months ago)
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic (6 months ago)
-- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (7 months ago)
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (8 months ago)
 - [fttx/barcode-to-pc-app](https://github.com/fttx/barcode-to-pc-app) - Barcode to PC app (1 year ago)
 
 #### 👯 Check out some of my recent followers
