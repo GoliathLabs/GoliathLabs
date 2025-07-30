@@ -30,7 +30,7 @@
 - [fix: workflows](https://github.com/freifunkMUC/ffmuc-salt-public/pull/201) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 weeks ago)
 - [ath79: add support for Comfast CF-EW71 v2](https://github.com/freifunk-gluon/gluon/pull/3531) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 month ago)
 - [fix: fstring-interpolation](https://github.com/freifunkMUC/wgkex/pull/175) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 months ago)
-- [Potential fix for code scanning alert no. 18: Information exposure through an exception](https://github.com/freifunkMUC/wgkex/pull/174) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 months ago)
+- [Potential fix for code scanning alert no. 18: Information exposure through an exception](https://github.com/freifunkMUC/wgkex/pull/174) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (3 months ago)
 - [chore: update dockerfile](https://github.com/roaldnefs/salt-lint-action/pull/12) on [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) (3 months ago)
 - [feat: hedgedoc post](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/493) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 months ago)
 - [GitHub Actions Workflow Optimization](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/491) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (4 months ago)
