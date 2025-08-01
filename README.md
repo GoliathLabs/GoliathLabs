@@ -25,6 +25,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docker: unclutter dockerfile](https://github.com/freifunk/meshviewer/pull/196) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (today)
 - [Update dependencies](https://github.com/freifunkMUC/wg-access-server/pull/939) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 - [feat: update image &amp; README](https://github.com/roaldnefs/salt-lint-action/pull/13) on [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) (2 weeks ago)
 - [fix: workflows](https://github.com/freifunkMUC/ffmuc-salt-public/pull/201) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 weeks ago)
@@ -34,7 +35,6 @@
 - [chore: update dockerfile](https://github.com/roaldnefs/salt-lint-action/pull/12) on [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) (3 months ago)
 - [feat: hedgedoc post](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/493) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (3 months ago)
 - [GitHub Actions Workflow Optimization](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/491) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (4 months ago)
-- [feat: introduce winget ci](https://github.com/freifunkMUC/jitsi-meet-electron/pull/82) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (5 months ago)
 
 #### 📓 Gists I wrote
 
