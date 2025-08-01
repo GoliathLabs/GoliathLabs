@@ -4,20 +4,21 @@
 
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (today)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
+- [freifunk/meshviewer](https://github.com/freifunk/meshviewer) - Visualization for Freifunk open mesh network nodes (today)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (1 week ago)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (2 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (1 month ago)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (2 months ago)
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (2 months ago)
-- [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (2 months ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 months ago)
+- [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (2 months ago)
 
 #### 🌱 My latest projects
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v12.5.0](https://github.com/freifunk/meshviewer/releases/tag/v12.5.0), 1 month ago) - Visualization for Freifunk open mesh network nodes
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.0](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.0), 3 months ago) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.13.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.13.0), 4 months ago) - Helm Charts for wg-access-server
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 1 year ago) - Project for easy key exchange between Wireguard Clients and Servers
