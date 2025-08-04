@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 days ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 days ago)
-- [freifunk/meshviewer](https://github.com/freifunk/meshviewer) - Visualization for Freifunk open mesh network nodes (2 days ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (3 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 days ago)
+- [freifunk/meshviewer](https://github.com/freifunk/meshviewer) - Visualization for Freifunk open mesh network nodes (3 days ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (2 weeks ago)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (3 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (3 weeks ago)
@@ -26,7 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docker: unclutter dockerfile](https://github.com/freifunk/meshviewer/pull/196) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (2 days ago)
+- [docker: unclutter dockerfile](https://github.com/freifunk/meshviewer/pull/196) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (3 days ago)
 - [Update dependencies](https://github.com/freifunkMUC/wg-access-server/pull/939) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [feat: update image &amp; README](https://github.com/roaldnefs/salt-lint-action/pull/13) on [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) (3 weeks ago)
 - [fix: workflows](https://github.com/freifunkMUC/ffmuc-salt-public/pull/201) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 weeks ago)
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap (4 days ago)
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap (5 days ago)
 - [hn/linkplay-a31](https://github.com/hn/linkplay-a31) - Linkplay A31 WiFi audio module alternative firmware (OpenWrt) and device tree source file (3 weeks ago)
 - [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs. (1 month ago)
 - [Flomp/wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures! (1 month ago)
