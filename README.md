@@ -46,6 +46,7 @@
 
 #### ⭐ Recent Stars
 
+- [gutosie/neoboot](https://github.com/gutosie/neoboot) -  (today)
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap (6 days ago)
 - [hn/linkplay-a31](https://github.com/hn/linkplay-a31) - Linkplay A31 WiFi audio module alternative firmware (OpenWrt) and device tree source file (3 weeks ago)
 - [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs. (1 month ago)
@@ -55,7 +56,6 @@
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale (3 months ago)
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (6 months ago)
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic (7 months ago)
-- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (8 months ago)
 
 #### 👯 Check out some of my recent followers
 
