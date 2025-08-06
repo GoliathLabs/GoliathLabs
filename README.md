@@ -8,9 +8,9 @@
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (2 weeks ago)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (3 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (3 weeks ago)
+- [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) - GitHub Action for running salt-lint as part of your workflows! (3 weeks ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (1 month ago)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (2 months ago)
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 months ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (2 months ago)
 
 #### 🌱 My latest projects
@@ -18,6 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) ([v0.0.3](https://github.com/roaldnefs/salt-lint-action/releases/tag/v0.0.3), today) - GitHub Action for running salt-lint as part of your workflows!
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v12.6.0](https://github.com/freifunk/meshviewer/releases/tag/v12.6.0), 2 days ago) - Visualization for Freifunk open mesh network nodes
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.0](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.0), 3 months ago) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.13.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.13.0), 4 months ago) - Helm Charts for wg-access-server
@@ -26,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update salt-lint-action to new elease](https://github.com/freifunkMUC/ffmuc-salt-public/pull/206) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [ath79: fix LED GPIOs for COMFAST CF-EW71 v2](https://github.com/openwrt/openwrt/pull/19665) on [openwrt/openwrt](https://github.com/openwrt/openwrt) (2 days ago)
 - [docker: unclutter dockerfile](https://github.com/freifunk/meshviewer/pull/196) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (5 days ago)
 - [Update dependencies](https://github.com/freifunkMUC/wg-access-server/pull/939) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
@@ -35,7 +37,6 @@
 - [fix: fstring-interpolation](https://github.com/freifunkMUC/wgkex/pull/175) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (3 months ago)
 - [Potential fix for code scanning alert no. 18: Information exposure through an exception](https://github.com/freifunkMUC/wgkex/pull/174) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (3 months ago)
 - [chore: update dockerfile](https://github.com/roaldnefs/salt-lint-action/pull/12) on [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) (3 months ago)
-- [feat: hedgedoc post](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/493) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (4 months ago)
 
 #### 📓 Gists I wrote
 
