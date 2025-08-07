@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (5 days ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (5 days ago)
-- [freifunk/meshviewer](https://github.com/freifunk/meshviewer) - Visualization for Freifunk open mesh network nodes (5 days ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (6 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (6 days ago)
+- [freifunk/meshviewer](https://github.com/freifunk/meshviewer) - Visualization for Freifunk open mesh network nodes (6 days ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (2 weeks ago)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (3 weeks ago)
 - [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) - GitHub Action for running salt-lint as part of your workflows! (3 weeks ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) ([v0.0.3](https://github.com/roaldnefs/salt-lint-action/releases/tag/v0.0.3), today) - GitHub Action for running salt-lint as part of your workflows!
-- [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v12.6.0](https://github.com/freifunk/meshviewer/releases/tag/v12.6.0), 2 days ago) - Visualization for Freifunk open mesh network nodes
+- [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) ([v0.0.3](https://github.com/roaldnefs/salt-lint-action/releases/tag/v0.0.3), 1 day ago) - GitHub Action for running salt-lint as part of your workflows!
+- [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v12.6.0](https://github.com/freifunk/meshviewer/releases/tag/v12.6.0), 3 days ago) - Visualization for Freifunk open mesh network nodes
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.0](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.0), 3 months ago) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.13.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.13.0), 4 months ago) - Helm Charts for wg-access-server
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 1 year ago) - Project for easy key exchange between Wireguard Clients and Servers
@@ -27,9 +27,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update salt-lint-action to new elease](https://github.com/freifunkMUC/ffmuc-salt-public/pull/206) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [ath79: fix LED GPIOs for COMFAST CF-EW71 v2](https://github.com/openwrt/openwrt/pull/19665) on [openwrt/openwrt](https://github.com/openwrt/openwrt) (2 days ago)
-- [docker: unclutter dockerfile](https://github.com/freifunk/meshviewer/pull/196) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (5 days ago)
+- [Update salt-lint-action to new elease](https://github.com/freifunkMUC/ffmuc-salt-public/pull/206) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [ath79: fix LED GPIOs for COMFAST CF-EW71 v2](https://github.com/openwrt/openwrt/pull/19665) on [openwrt/openwrt](https://github.com/openwrt/openwrt) (3 days ago)
+- [docker: unclutter dockerfile](https://github.com/freifunk/meshviewer/pull/196) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (6 days ago)
 - [Update dependencies](https://github.com/freifunkMUC/wg-access-server/pull/939) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
 - [feat: update image &amp; README](https://github.com/roaldnefs/salt-lint-action/pull/13) on [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) (3 weeks ago)
 - [fix: workflows](https://github.com/freifunkMUC/ffmuc-salt-public/pull/201) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 weeks ago)
@@ -47,14 +47,14 @@
 
 #### ⭐ Recent Stars
 
-- [YouG-o/YouTube_No_Translation](https://github.com/YouG-o/YouTube_No_Translation) - Web browser add-on that prevents YouTube&#39;s automatic translations! It keeps titles, descriptions, and audio in their original language. (today)
-- [gutosie/neoboot](https://github.com/gutosie/neoboot) -  (1 day ago)
+- [YouG-o/YouTube_No_Translation](https://github.com/YouG-o/YouTube_No_Translation) - Web browser add-on that prevents YouTube&#39;s automatic translations! It keeps titles, descriptions, and audio in their original language. (1 day ago)
+- [gutosie/neoboot](https://github.com/gutosie/neoboot) -  (2 days ago)
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap (1 week ago)
 - [hn/linkplay-a31](https://github.com/hn/linkplay-a31) - Linkplay A31 WiFi audio module alternative firmware (OpenWrt) and device tree source file (3 weeks ago)
 - [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs. (1 month ago)
 - [Flomp/wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures! (1 month ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (2 months ago)
-- [dogtagpki/pki](https://github.com/dogtagpki/pki) - The Dogtag Certificate System is an enterprise-class Certificate Authority (CA) which supports all aspects of certificate lifecycle management, including key archival, OCSP and smartcard management. (2 months ago)
+- [dogtagpki/pki](https://github.com/dogtagpki/pki) - The Dogtag Certificate System is an enterprise-class Certificate Authority (CA) which supports all aspects of certificate lifecycle management, including key archival, OCSP and smartcard management. (3 months ago)
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale (3 months ago)
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (6 months ago)
 
