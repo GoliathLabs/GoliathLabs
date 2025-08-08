@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cleanup &amp; Updates: apt sources, ffmeet, influx, yanic, graylog-sidecar](https://github.com/freifunkMUC/ffmuc-salt-public/pull/209) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Update salt-lint-action to new elease](https://github.com/freifunkMUC/ffmuc-salt-public/pull/206) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
 - [ath79: fix LED GPIOs for COMFAST CF-EW71 v2](https://github.com/openwrt/openwrt/pull/19665) on [openwrt/openwrt](https://github.com/openwrt/openwrt) (4 days ago)
 - [docker: unclutter dockerfile](https://github.com/freifunk/meshviewer/pull/196) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (1 week ago)
@@ -37,7 +38,6 @@
 - [ath79: add support for Comfast CF-EW71 v2](https://github.com/freifunk-gluon/gluon/pull/3531) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 month ago)
 - [fix: fstring-interpolation](https://github.com/freifunkMUC/wgkex/pull/175) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (3 months ago)
 - [Potential fix for code scanning alert no. 18: Information exposure through an exception](https://github.com/freifunkMUC/wgkex/pull/174) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (3 months ago)
-- [chore: update dockerfile](https://github.com/roaldnefs/salt-lint-action/pull/12) on [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) (3 months ago)
 
 #### 📓 Gists I wrote
 
