@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking (today)
 - [YouG-o/YouTube_No_Translation](https://github.com/YouG-o/YouTube_No_Translation) - Web browser add-on that prevents YouTube&#39;s automatic translations! It keeps titles, descriptions, and audio in their original language. (3 days ago)
 - [gutosie/neoboot](https://github.com/gutosie/neoboot) -  (4 days ago)
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap (1 week ago)
@@ -57,7 +58,6 @@
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (2 months ago)
 - [dogtagpki/pki](https://github.com/dogtagpki/pki) - The Dogtag Certificate System is an enterprise-class Certificate Authority (CA) which supports all aspects of certificate lifecycle management, including key archival, OCSP and smartcard management. (3 months ago)
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale (3 months ago)
-- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (6 months ago)
 
 #### 👯 Check out some of my recent followers
 
