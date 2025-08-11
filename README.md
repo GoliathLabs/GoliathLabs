@@ -28,6 +28,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add support for EBF_RGB_Zm](https://github.com/Koenkk/zigbee-herdsman-converters/pull/9784) on [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) (today)
+- [add EBF_RGB_Zm image](https://github.com/Koenkk/zigbee2mqtt.io/pull/4026) on [Koenkk/zigbee2mqtt.io](https://github.com/Koenkk/zigbee2mqtt.io) (today)
 - [chore: update deps](https://github.com/traggo/server/pull/218) on [traggo/server](https://github.com/traggo/server) (1 day ago)
 - [Cleanup &amp; Updates: apt sources, ffmeet, influx, yanic, graylog-sidecar](https://github.com/freifunkMUC/ffmuc-salt-public/pull/209) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 days ago)
 - [Update salt-lint-action to new elease](https://github.com/freifunkMUC/ffmuc-salt-public/pull/206) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (5 days ago)
@@ -36,8 +38,6 @@
 - [Update dependencies](https://github.com/freifunkMUC/wg-access-server/pull/939) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [feat: update image &amp; README](https://github.com/roaldnefs/salt-lint-action/pull/13) on [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) (1 month ago)
 - [fix: workflows](https://github.com/freifunkMUC/ffmuc-salt-public/pull/201) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 month ago)
-- [ath79: add support for Comfast CF-EW71 v2](https://github.com/freifunk-gluon/gluon/pull/3531) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 month ago)
-- [fix: fstring-interpolation](https://github.com/freifunkMUC/wgkex/pull/175) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (3 months ago)
 
 #### 📓 Gists I wrote
 
