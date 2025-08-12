@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [geerlingguy/ansible-role-firewall](https://github.com/geerlingguy/ansible-role-firewall) - Ansible Role - iptables Firewall configuration. (today)
 - [openatv/enigma2](https://github.com/openatv/enigma2) - openatv-gui (2 days ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (2 days ago)
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking (3 days ago)
@@ -57,7 +58,6 @@
 - [hn/linkplay-a31](https://github.com/hn/linkplay-a31) - Linkplay A31 WiFi audio module alternative firmware (OpenWrt) and device tree source file (1 month ago)
 - [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs. (1 month ago)
 - [Flomp/wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures! (1 month ago)
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
