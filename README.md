@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) - Collection of device converters to be used with zigbee-herdsman (today)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 day ago)
 - [Koenkk/zigbee2mqtt.io](https://github.com/Koenkk/zigbee2mqtt.io) - 📘 Zigbee2mqtt documentation (2 days ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (4 days ago)
@@ -11,13 +12,13 @@
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) - Visualization for Freifunk open mesh network nodes (1 week ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (1 month ago)
-- [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) - GitHub Action for running salt-lint as part of your workflows! (1 month ago)
 
 #### 🌱 My latest projects
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.1.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.1.0), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.13.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.13.1), 1 day ago) - Helm Charts for wg-access-server
 - [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) ([v0.0.3](https://github.com/roaldnefs/salt-lint-action/releases/tag/v0.0.3), 1 week ago) - GitHub Action for running salt-lint as part of your workflows!
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v12.6.0](https://github.com/freifunk/meshviewer/releases/tag/v12.6.0), 1 week ago) - Visualization for Freifunk open mesh network nodes
