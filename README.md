@@ -29,6 +29,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ ramips-mt76x8: add support for TP-Link Archer C50 v6](https://github.com/freifunk-gluon/gluon/pull/3568) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (today)
 - [add support for EBF_RGB_Zm](https://github.com/Koenkk/zigbee-herdsman-converters/pull/9784) on [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) (1 week ago)
 - [add EBF_RGB_Zm image](https://github.com/Koenkk/zigbee2mqtt.io/pull/4026) on [Koenkk/zigbee2mqtt.io](https://github.com/Koenkk/zigbee2mqtt.io) (1 week ago)
 - [chore: update deps](https://github.com/traggo/server/pull/218) on [traggo/server](https://github.com/traggo/server) (1 week ago)
@@ -38,7 +39,6 @@
 - [docker: unclutter dockerfile](https://github.com/freifunk/meshviewer/pull/196) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (3 weeks ago)
 - [Update dependencies](https://github.com/freifunkMUC/wg-access-server/pull/939) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [feat: update image &amp; README](https://github.com/roaldnefs/salt-lint-action/pull/13) on [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) (1 month ago)
-- [fix: workflows](https://github.com/freifunkMUC/ffmuc-salt-public/pull/201) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 month ago)
 
 #### 📓 Gists I wrote
 
