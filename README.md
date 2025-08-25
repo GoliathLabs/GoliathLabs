@@ -18,18 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.8.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.8.0), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
+- [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) ([2025.8.2](https://github.com/jitsi/excalidraw-backend/releases/tag/2025.8.2), today) - Excalidraw collaboration backend for Jitsi
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.9.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.9.0), today) - Collection of device converters to be used with zigbee-herdsman
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.13.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.13.1), 1 week ago) - Helm Charts for wg-access-server
 - [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) ([v0.0.3](https://github.com/roaldnefs/salt-lint-action/releases/tag/v0.0.3), 2 weeks ago) - GitHub Action for running salt-lint as part of your workflows!
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v12.6.0](https://github.com/freifunk/meshviewer/releases/tag/v12.6.0), 3 weeks ago) - Visualization for Freifunk open mesh network nodes
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v24.10.2](https://github.com/openwrt/openwrt/releases/tag/v24.10.2), 2 months ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.0](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.0), 4 months ago) - 
-- [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) ([2025.2.2](https://github.com/jitsi/excalidraw-backend/releases/tag/2025.2.2), 5 months ago) - Excalidraw collaboration backend for Jitsi
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 1 year ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) ([v0.0.8](https://github.com/freifunkMUC/unifi_respondd/releases/tag/v0.0.8), 3 years ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: scheme of 302](https://github.com/freifunkMUC/ffmuc-salt-public/pull/211) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Switch over to new mirrors/URLs](https://github.com/freifunkMUC/ffmuc-salt-public/pull/210) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Set proper version](https://github.com/freifunkMUC/unifi_respondd/pull/51) on [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) (today)
 - [Modernize CI/CD workflow, upgrade dependencies, and fix ESLint issues](https://github.com/jitsi/excalidraw-backend/pull/25) on [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) (today)
@@ -39,7 +40,6 @@
 - [chore: update deps](https://github.com/traggo/server/pull/218) on [traggo/server](https://github.com/traggo/server) (2 weeks ago)
 - [Cleanup &amp; Updates: apt sources, ffmeet, influx, yanic, graylog-sidecar](https://github.com/freifunkMUC/ffmuc-salt-public/pull/209) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 weeks ago)
 - [Update salt-lint-action to new elease](https://github.com/freifunkMUC/ffmuc-salt-public/pull/206) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 weeks ago)
-- [ath79: fix LED GPIOs for COMFAST CF-EW71 v2](https://github.com/openwrt/openwrt/pull/19665) on [openwrt/openwrt](https://github.com/openwrt/openwrt) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
