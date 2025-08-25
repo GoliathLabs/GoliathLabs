@@ -29,6 +29,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Modernize CI/CD workflow, upgrade dependencies, and fix ESLint issues](https://github.com/jitsi/excalidraw-backend/pull/25) on [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) (today)
 - [ ramips-mt76x8: add support for TP-Link Archer C50 v6](https://github.com/freifunk-gluon/gluon/pull/3568) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (3 days ago)
 - [add support for EBF_RGB_Zm](https://github.com/Koenkk/zigbee-herdsman-converters/pull/9784) on [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) (2 weeks ago)
 - [add EBF_RGB_Zm image](https://github.com/Koenkk/zigbee2mqtt.io/pull/4026) on [Koenkk/zigbee2mqtt.io](https://github.com/Koenkk/zigbee2mqtt.io) (2 weeks ago)
@@ -38,7 +39,6 @@
 - [ath79: fix LED GPIOs for COMFAST CF-EW71 v2](https://github.com/openwrt/openwrt/pull/19665) on [openwrt/openwrt](https://github.com/openwrt/openwrt) (3 weeks ago)
 - [docker: unclutter dockerfile](https://github.com/freifunk/meshviewer/pull/196) on [freifunk/meshviewer](https://github.com/freifunk/meshviewer) (3 weeks ago)
 - [Update dependencies](https://github.com/freifunkMUC/wg-access-server/pull/939) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
-- [feat: update image &amp; README](https://github.com/roaldnefs/salt-lint-action/pull/13) on [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) (1 month ago)
 
 #### 📓 Gists I wrote
 
