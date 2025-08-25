@@ -30,6 +30,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: manage firmware-selector via salt](https://github.com/freifunkMUC/ffmuc-salt-public/pull/213) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [feat: provide support for XChaCha20](https://github.com/freifunkMUC/ffmuc-salt-public/pull/212) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [fix: scheme of 302](https://github.com/freifunkMUC/ffmuc-salt-public/pull/211) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Switch over to new mirrors/URLs](https://github.com/freifunkMUC/ffmuc-salt-public/pull/210) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Set proper version](https://github.com/freifunkMUC/unifi_respondd/pull/51) on [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) (today)
@@ -38,8 +40,6 @@
 - [add support for EBF_RGB_Zm](https://github.com/Koenkk/zigbee-herdsman-converters/pull/9784) on [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) (2 weeks ago)
 - [add EBF_RGB_Zm image](https://github.com/Koenkk/zigbee2mqtt.io/pull/4026) on [Koenkk/zigbee2mqtt.io](https://github.com/Koenkk/zigbee2mqtt.io) (2 weeks ago)
 - [chore: update deps](https://github.com/traggo/server/pull/218) on [traggo/server](https://github.com/traggo/server) (2 weeks ago)
-- [Cleanup &amp; Updates: apt sources, ffmeet, influx, yanic, graylog-sidecar](https://github.com/freifunkMUC/ffmuc-salt-public/pull/209) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 weeks ago)
-- [Update salt-lint-action to new elease](https://github.com/freifunkMUC/ffmuc-salt-public/pull/206) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
