@@ -51,6 +51,7 @@
 
 #### ⭐ Recent Stars
 
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (today)
 - [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems (2 days ago)
 - [inspircd/inspircd](https://github.com/inspircd/inspircd) - A modular C&#43;&#43; IRC server (ircd). (2 weeks ago)
 - [geerlingguy/ansible-role-firewall](https://github.com/geerlingguy/ansible-role-firewall) - Ansible Role - iptables Firewall configuration. (1 month ago)
@@ -60,7 +61,6 @@
 - [YouG-o/YouTube_No_Translation](https://github.com/YouG-o/YouTube_No_Translation) - Web browser add-on that prevents YouTube&#39;s automatic translations! It keeps titles, descriptions, and audio in their original language. (1 month ago)
 - [gutosie/neoboot](https://github.com/gutosie/neoboot) -  (1 month ago)
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap (1 month ago)
-- [hn/linkplay-a31](https://github.com/hn/linkplay-a31) - Linkplay A31 WiFi audio module alternative firmware (OpenWrt) and device tree source file (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
