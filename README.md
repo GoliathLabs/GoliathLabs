@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (today)
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (today)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (today)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (today)
+- [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (today)
+- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (today)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (6 days ago)
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (1 week ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
 - [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) - Excalidraw collaboration backend for Jitsi (4 weeks ago)
 - [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) - Collection of device converters to be used with zigbee-herdsman (1 month ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 month ago)
-- [Koenkk/zigbee2mqtt.io](https://github.com/Koenkk/zigbee2mqtt.io) - 📘 Zigbee2mqtt documentation (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: use attestations for trusted publishing](https://github.com/freifunkMUC/unifi_respondd/pull/58) on [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) (today)
 - [chores: update deps](https://github.com/freifunkMUC/wg-access-server/pull/976) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [chores: update deps](https://github.com/freifunkMUC/wg-embed/pull/28) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (today)
 - [chores: update deps](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/57) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (today)
@@ -40,7 +41,6 @@
 - [feat: provide support for XChaCha20](https://github.com/freifunkMUC/ffmuc-salt-public/pull/212) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 weeks ago)
 - [fix: scheme of 302](https://github.com/freifunkMUC/ffmuc-salt-public/pull/211) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 weeks ago)
 - [Switch over to new mirrors/URLs](https://github.com/freifunkMUC/ffmuc-salt-public/pull/210) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 weeks ago)
-- [Set proper version](https://github.com/freifunkMUC/unifi_respondd/pull/51) on [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
