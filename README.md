@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (5 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (6 days ago)
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (1 week ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
-- [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) - Excalidraw collaboration backend for Jitsi (3 weeks ago)
+- [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) - Excalidraw collaboration backend for Jitsi (4 weeks ago)
 - [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) - Collection of device converters to be used with zigbee-herdsman (1 month ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 month ago)
 - [Koenkk/zigbee2mqtt.io](https://github.com/Koenkk/zigbee2mqtt.io) - 📘 Zigbee2mqtt documentation (1 month ago)
@@ -18,12 +18,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.29.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.29.0), 3 days ago) - Collection of device converters to be used with zigbee-herdsman
-- [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) ([2025.8.2](https://github.com/jitsi/excalidraw-backend/releases/tag/2025.8.2), 3 weeks ago) - Excalidraw collaboration backend for Jitsi
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.29.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.29.0), 4 days ago) - Collection of device converters to be used with zigbee-herdsman
+- [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) ([2025.8.2](https://github.com/jitsi/excalidraw-backend/releases/tag/2025.8.2), 4 weeks ago) - Excalidraw collaboration backend for Jitsi
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.13.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.13.1), 1 month ago) - Helm Charts for wg-access-server
 - [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) ([v0.0.3](https://github.com/roaldnefs/salt-lint-action/releases/tag/v0.0.3), 1 month ago) - GitHub Action for running salt-lint as part of your workflows!
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v12.6.0](https://github.com/freifunk/meshviewer/releases/tag/v12.6.0), 1 month ago) - Visualization for Freifunk open mesh network nodes
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v24.10.2](https://github.com/openwrt/openwrt/releases/tag/v24.10.2), 2 months ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v24.10.2](https://github.com/openwrt/openwrt/releases/tag/v24.10.2), 3 months ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.5](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.5), 3 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.0](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.0), 5 months ago) - 
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 2 years ago) - Project for easy key exchange between Wireguard Clients and Servers
@@ -31,12 +31,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: manage firmware-selector via salt](https://github.com/freifunkMUC/ffmuc-salt-public/pull/213) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 weeks ago)
-- [feat: provide support for XChaCha20](https://github.com/freifunkMUC/ffmuc-salt-public/pull/212) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 weeks ago)
-- [fix: scheme of 302](https://github.com/freifunkMUC/ffmuc-salt-public/pull/211) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 weeks ago)
-- [Switch over to new mirrors/URLs](https://github.com/freifunkMUC/ffmuc-salt-public/pull/210) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 weeks ago)
-- [Set proper version](https://github.com/freifunkMUC/unifi_respondd/pull/51) on [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) (3 weeks ago)
-- [Modernize CI/CD workflow, upgrade dependencies, and fix ESLint issues](https://github.com/jitsi/excalidraw-backend/pull/25) on [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) (3 weeks ago)
+- [feat: manage firmware-selector via salt](https://github.com/freifunkMUC/ffmuc-salt-public/pull/213) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 weeks ago)
+- [feat: provide support for XChaCha20](https://github.com/freifunkMUC/ffmuc-salt-public/pull/212) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 weeks ago)
+- [fix: scheme of 302](https://github.com/freifunkMUC/ffmuc-salt-public/pull/211) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 weeks ago)
+- [Switch over to new mirrors/URLs](https://github.com/freifunkMUC/ffmuc-salt-public/pull/210) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 weeks ago)
+- [Set proper version](https://github.com/freifunkMUC/unifi_respondd/pull/51) on [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) (4 weeks ago)
+- [Modernize CI/CD workflow, upgrade dependencies, and fix ESLint issues](https://github.com/jitsi/excalidraw-backend/pull/25) on [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) (4 weeks ago)
 - [ ramips-mt76x8: add support for TP-Link Archer C50 v6](https://github.com/freifunk-gluon/gluon/pull/3568) on [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) (1 month ago)
 - [add support for EBF_RGB_Zm](https://github.com/Koenkk/zigbee-herdsman-converters/pull/9784) on [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) (1 month ago)
 - [add EBF_RGB_Zm image](https://github.com/Koenkk/zigbee2mqtt.io/pull/4026) on [Koenkk/zigbee2mqtt.io](https://github.com/Koenkk/zigbee2mqtt.io) (1 month ago)
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (6 days ago)
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 week ago)
 - [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems (1 week ago)
 - [inspircd/inspircd](https://github.com/inspircd/inspircd) - A modular C&#43;&#43; IRC server (ircd). (3 weeks ago)
 - [geerlingguy/ansible-role-firewall](https://github.com/geerlingguy/ansible-role-firewall) - Ansible Role - iptables Firewall configuration. (1 month ago)
