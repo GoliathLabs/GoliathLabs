@@ -51,6 +51,7 @@
 
 #### ⭐ Recent Stars
 
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes (today)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (2 days ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (2 weeks ago)
 - [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems (2 weeks ago)
@@ -60,7 +61,6 @@
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 month ago)
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking (1 month ago)
 - [YouG-o/YouTube_No_Translation](https://github.com/YouG-o/YouTube_No_Translation) - Web browser add-on that prevents YouTube&#39;s automatic translations! It keeps titles, descriptions, and audio in their original language. (1 month ago)
-- [gutosie/neoboot](https://github.com/gutosie/neoboot) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
