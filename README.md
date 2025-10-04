@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (2 days ago)
+- [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (3 days ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 week ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (1 week ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (1 week ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 week ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
-- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (2 weeks ago)
+- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (3 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
 - [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) - Excalidraw collaboration backend for Jitsi (1 month ago)
 
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.37.2](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.37.2), today) - Collection of device converters to be used with zigbee-herdsman
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.37.2](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.37.2), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v24.10.3](https://github.com/openwrt/openwrt/releases/tag/v24.10.3), 1 week ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) ([2025.8.2](https://github.com/jitsi/excalidraw-backend/releases/tag/2025.8.2), 1 month ago) - Excalidraw collaboration backend for Jitsi
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.13.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.13.1), 1 month ago) - Helm Charts for wg-access-server
@@ -51,10 +51,10 @@
 
 #### ⭐ Recent Stars
 
-- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes (4 days ago)
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (6 days ago)
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes (5 days ago)
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 week ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (2 weeks ago)
-- [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems (2 weeks ago)
+- [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems (3 weeks ago)
 - [inspircd/inspircd](https://github.com/inspircd/inspircd) - A modular C&#43;&#43; IRC server (ircd). (1 month ago)
 - [geerlingguy/ansible-role-firewall](https://github.com/geerlingguy/ansible-role-firewall) - Ansible Role - iptables Firewall configuration. (1 month ago)
 - [openatv/enigma2](https://github.com/openatv/enigma2) - openatv-gui (1 month ago)
