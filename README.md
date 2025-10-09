@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.42.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.42.0), today) - Collection of device converters to be used with zigbee-herdsman
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.42.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.42.0), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v24.10.3](https://github.com/openwrt/openwrt/releases/tag/v24.10.3), 2 weeks ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) ([2025.8.2](https://github.com/jitsi/excalidraw-backend/releases/tag/2025.8.2), 1 month ago) - Excalidraw collaboration backend for Jitsi
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.13.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.13.1), 1 month ago) - Helm Charts for wg-access-server
@@ -57,8 +57,8 @@
 - [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems (3 weeks ago)
 - [inspircd/inspircd](https://github.com/inspircd/inspircd) - A modular C&#43;&#43; IRC server (ircd). (1 month ago)
 - [geerlingguy/ansible-role-firewall](https://github.com/geerlingguy/ansible-role-firewall) - Ansible Role - iptables Firewall configuration. (1 month ago)
-- [openatv/enigma2](https://github.com/openatv/enigma2) - openatv-gui (1 month ago)
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 month ago)
+- [openatv/enigma2](https://github.com/openatv/enigma2) - openatv-gui (2 months ago)
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (2 months ago)
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking (2 months ago)
 - [YouG-o/YouTube_No_Translation](https://github.com/YouG-o/YouTube_No_Translation) - Web browser add-on that prevents YouTube&#39;s automatic translations! It keeps titles, descriptions, and audio in their original language. (2 months ago)
 
