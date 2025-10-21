@@ -64,11 +64,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [seckinyasar](https://github.com/seckinyasar)
 - [helallao](https://github.com/helallao)
 - [nojjzz](https://github.com/nojjzz)
 - [Neustradamus](https://github.com/Neustradamus)
 - [SimTechLP](https://github.com/SimTechLP)
-- [MinisterPP](https://github.com/MinisterPP)
 
 #### 💬 Feedback
 
