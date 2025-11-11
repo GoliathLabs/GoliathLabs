@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.67.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.67.0), today) - Collection of device converters to be used with zigbee-herdsman
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v24.10.4](https://github.com/openwrt/openwrt/releases/tag/v24.10.4), 2 weeks ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.67.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.67.0), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v24.10.4](https://github.com/openwrt/openwrt/releases/tag/v24.10.4), 3 weeks ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) ([2025.8.2](https://github.com/jitsi/excalidraw-backend/releases/tag/2025.8.2), 2 months ago) - Excalidraw collaboration backend for Jitsi
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.13.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.13.1), 2 months ago) - Helm Charts for wg-access-server
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.13.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.13.1), 3 months ago) - Helm Charts for wg-access-server
 - [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) ([v0.0.3](https://github.com/roaldnefs/salt-lint-action/releases/tag/v0.0.3), 3 months ago) - GitHub Action for running salt-lint as part of your workflows!
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v12.6.0](https://github.com/freifunk/meshviewer/releases/tag/v12.6.0), 3 months ago) - Visualization for Freifunk open mesh network nodes
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.5](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.5), 5 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
@@ -51,8 +51,8 @@
 
 #### ⭐ Recent Stars
 
-- [getnamingo/registry](https://github.com/getnamingo/registry) - Open-source domain registry platform. Revolutionizing ccTLD and gTLD management with Namingo. (today)
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (3 weeks ago)
+- [getnamingo/registry](https://github.com/getnamingo/registry) - Open-source domain registry platform. Revolutionizing ccTLD and gTLD management with Namingo. (1 day ago)
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (4 weeks ago)
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes (1 month ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 month ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 month ago)
