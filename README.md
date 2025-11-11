@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (1 month ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 month ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 month ago)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (1 month ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (1 month ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 month ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 month ago)
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (1 month ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 months ago)
 - [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) - Excalidraw collaboration backend for Jitsi (2 months ago)
@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Removed: unused workflow](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/516) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
 - [feat: use attestations for trusted publishing](https://github.com/freifunkMUC/unifi_respondd/pull/58) on [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) (1 month ago)
 - [chores: update deps](https://github.com/freifunkMUC/wg-access-server/pull/976) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [chores: update deps](https://github.com/freifunkMUC/wg-embed/pull/28) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (1 month ago)
@@ -40,7 +41,6 @@
 - [feat: manage firmware-selector via salt](https://github.com/freifunkMUC/ffmuc-salt-public/pull/213) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 months ago)
 - [feat: provide support for XChaCha20](https://github.com/freifunkMUC/ffmuc-salt-public/pull/212) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 months ago)
 - [fix: scheme of 302](https://github.com/freifunkMUC/ffmuc-salt-public/pull/211) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 months ago)
-- [Switch over to new mirrors/URLs](https://github.com/freifunkMUC/ffmuc-salt-public/pull/210) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 months ago)
 
 #### 📓 Gists I wrote
 
