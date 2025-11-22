@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (3 days ago)
-- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (3 days ago)
-- [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (3 days ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (4 days ago)
+- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (4 days ago)
+- [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (4 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (1 month ago)
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 month ago)
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (2 months ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (2 months ago)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (2 months ago)
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (2 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.73.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.73.0), today) - Collection of device converters to be used with zigbee-herdsman
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.73.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.73.0), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v24.10.4](https://github.com/openwrt/openwrt/releases/tag/v24.10.4), 1 month ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) ([2025.8.2](https://github.com/jitsi/excalidraw-backend/releases/tag/2025.8.2), 2 months ago) - Excalidraw collaboration backend for Jitsi
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.13.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.13.1), 3 months ago) - Helm Charts for wg-access-server
@@ -31,10 +31,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [bump go matrix](https://github.com/freifunkMUC/pg-events/pull/18) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (3 days ago)
-- [bump go matrix](https://github.com/freifunkMUC/wg-embed/pull/30) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (3 days ago)
-- [Merge upstream v2025.10.0](https://github.com/freifunkMUC/jitsi-meet-electron/pull/83) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (3 days ago)
-- [Merge upstream v2025.10.0](https://github.com/jitsi/jitsi-meet-electron/pull/1056) on [jitsi/jitsi-meet-electron](https://github.com/jitsi/jitsi-meet-electron) (3 days ago)
+- [bump go matrix](https://github.com/freifunkMUC/pg-events/pull/18) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (4 days ago)
+- [bump go matrix](https://github.com/freifunkMUC/wg-embed/pull/30) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (4 days ago)
+- [Merge upstream v2025.10.0](https://github.com/freifunkMUC/jitsi-meet-electron/pull/83) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (4 days ago)
+- [Merge upstream v2025.10.0](https://github.com/jitsi/jitsi-meet-electron/pull/1056) on [jitsi/jitsi-meet-electron](https://github.com/jitsi/jitsi-meet-electron) (4 days ago)
 - [Removed: unused workflow](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/516) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
 - [feat: use attestations for trusted publishing](https://github.com/freifunkMUC/unifi_respondd/pull/58) on [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) (2 months ago)
 - [chores: update deps](https://github.com/freifunkMUC/wg-access-server/pull/976) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 months ago)
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (3 days ago)
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (4 days ago)
 - [getnamingo/registry](https://github.com/getnamingo/registry) - Open-source domain registry platform. Revolutionizing ccTLD and gTLD management with Namingo. (1 week ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (1 month ago)
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes (1 month ago)
