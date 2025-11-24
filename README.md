@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: &#39;search_fields&#39; is not an array](https://github.com/foundata/roundcube-plugin-identity-from-directory/pull/12) on [foundata/roundcube-plugin-identity-from-directory](https://github.com/foundata/roundcube-plugin-identity-from-directory) (today)
 - [bump go matrix](https://github.com/freifunkMUC/pg-events/pull/18) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (6 days ago)
 - [bump go matrix](https://github.com/freifunkMUC/wg-embed/pull/30) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (6 days ago)
 - [Merge upstream v2025.10.0](https://github.com/freifunkMUC/jitsi-meet-electron/pull/83) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (6 days ago)
@@ -40,7 +41,6 @@
 - [chores: update deps](https://github.com/freifunkMUC/wg-access-server/pull/976) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 months ago)
 - [chores: update deps](https://github.com/freifunkMUC/wg-embed/pull/28) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (2 months ago)
 - [chores: update deps](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/57) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (2 months ago)
-- [fix: Sync .bazelversion with Dockerfile](https://github.com/freifunkMUC/wgkex/pull/191) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 months ago)
 
 #### 📓 Gists I wrote
 
