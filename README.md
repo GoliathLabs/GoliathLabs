@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: intial prom endpoint](https://github.com/freifunkMUC/wg-access-server/pull/1031) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Limit build platforms to linux/amd64](https://github.com/freifunkMUC/wgkex/pull/218) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 weeks ago)
 - [Fix: Prevent workflow from failing when no update is needed](https://github.com/freifunkMUC/wgkex/pull/217) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 weeks ago)
 - [fix: &#39;search_fields&#39; is not an array](https://github.com/foundata/roundcube-plugin-identity-from-directory/pull/12) on [foundata/roundcube-plugin-identity-from-directory](https://github.com/foundata/roundcube-plugin-identity-from-directory) (3 weeks ago)
@@ -40,7 +41,6 @@
 - [Merge upstream v2025.10.0](https://github.com/jitsi/jitsi-meet-electron/pull/1056) on [jitsi/jitsi-meet-electron](https://github.com/jitsi/jitsi-meet-electron) (1 month ago)
 - [Removed: unused workflow](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/516) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 month ago)
 - [feat: use attestations for trusted publishing](https://github.com/freifunkMUC/unifi_respondd/pull/58) on [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) (2 months ago)
-- [chores: update deps](https://github.com/freifunkMUC/wg-access-server/pull/976) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 months ago)
 
 #### 📓 Gists I wrote
 
