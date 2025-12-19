@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (3 days ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (4 days ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (2 weeks ago)
 - [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (2 weeks ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.90.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.90.0), today) - Collection of device converters to be used with zigbee-herdsman
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.90.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.90.0), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v12.7.0](https://github.com/freifunk/meshviewer/releases/tag/v12.7.0), 3 weeks ago) - Visualization for Freifunk open mesh network nodes
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v24.10.4](https://github.com/openwrt/openwrt/releases/tag/v24.10.4), 1 month ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) ([2025.8.2](https://github.com/jitsi/excalidraw-backend/releases/tag/2025.8.2), 3 months ago) - Excalidraw collaboration backend for Jitsi
@@ -31,7 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: intial prom endpoint](https://github.com/freifunkMUC/wg-access-server/pull/1031) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [feat: intial prom endpoint](https://github.com/freifunkMUC/wg-access-server/pull/1031) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [Limit build platforms to linux/amd64](https://github.com/freifunkMUC/wgkex/pull/218) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 weeks ago)
 - [Fix: Prevent workflow from failing when no update is needed](https://github.com/freifunkMUC/wgkex/pull/217) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 weeks ago)
 - [fix: &#39;search_fields&#39; is not an array](https://github.com/foundata/roundcube-plugin-identity-from-directory/pull/12) on [foundata/roundcube-plugin-identity-from-directory](https://github.com/foundata/roundcube-plugin-identity-from-directory) (3 weeks ago)
