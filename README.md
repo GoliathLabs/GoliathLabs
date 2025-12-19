@@ -31,6 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Modernization, Security &amp; CI/CD Improvements](https://github.com/Monogramm/autodiscover-email-settings/pull/44) on [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) (today)
+- [Potential fix for code scanning alert no. 1: Type confusion through parameter tampering](https://github.com/freifunkMUC/autodiscover-email-settings/pull/4) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
 - [feat: intial prom endpoint](https://github.com/freifunkMUC/wg-access-server/pull/1031) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [Limit build platforms to linux/amd64](https://github.com/freifunkMUC/wgkex/pull/218) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 weeks ago)
 - [Fix: Prevent workflow from failing when no update is needed](https://github.com/freifunkMUC/wgkex/pull/217) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 weeks ago)
@@ -39,8 +41,6 @@
 - [bump go matrix](https://github.com/freifunkMUC/wg-embed/pull/30) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (1 month ago)
 - [Merge upstream v2025.10.0](https://github.com/freifunkMUC/jitsi-meet-electron/pull/83) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (1 month ago)
 - [Merge upstream v2025.10.0](https://github.com/jitsi/jitsi-meet-electron/pull/1056) on [jitsi/jitsi-meet-electron](https://github.com/jitsi/jitsi-meet-electron) (1 month ago)
-- [Removed: unused workflow](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/516) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 month ago)
-- [feat: use attestations for trusted publishing](https://github.com/freifunkMUC/unifi_respondd/pull/58) on [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) (2 months ago)
 
 #### 📓 Gists I wrote
 
