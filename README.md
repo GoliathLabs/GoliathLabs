@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 days ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (2 weeks ago)
-- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (2 weeks ago)
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (3 weeks ago)
+- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (3 weeks ago)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (3 weeks ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (3 weeks ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (3 weeks ago)
@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v25.12.0-rc1](https://github.com/openwrt/openwrt/releases/tag/v25.12.0-rc1), 1 day ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.92.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.92.0), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
-- [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v12.7.0](https://github.com/freifunk/meshviewer/releases/tag/v12.7.0), 4 weeks ago) - Visualization for Freifunk open mesh network nodes
-- [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) ([2025.8.2](https://github.com/jitsi/excalidraw-backend/releases/tag/2025.8.2), 3 months ago) - Excalidraw collaboration backend for Jitsi
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v25.12.0-rc1](https://github.com/openwrt/openwrt/releases/tag/v25.12.0-rc1), 2 days ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.92.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.92.0), 2 days ago) - Collection of device converters to be used with zigbee-herdsman
+- [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v12.7.0](https://github.com/freifunk/meshviewer/releases/tag/v12.7.0), 1 month ago) - Visualization for Freifunk open mesh network nodes
+- [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) ([2025.8.2](https://github.com/jitsi/excalidraw-backend/releases/tag/2025.8.2), 4 months ago) - Excalidraw collaboration backend for Jitsi
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.13.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.13.1), 4 months ago) - Helm Charts for wg-access-server
 - [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) ([v0.0.3](https://github.com/roaldnefs/salt-lint-action/releases/tag/v0.0.3), 4 months ago) - GitHub Action for running salt-lint as part of your workflows!
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.5](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.5), 6 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
@@ -31,11 +31,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Modernization, Security &amp; CI/CD Improvements](https://github.com/Monogramm/autodiscover-email-settings/pull/44) on [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) (3 days ago)
-- [Potential fix for code scanning alert no. 1: Type confusion through parameter tampering](https://github.com/freifunkMUC/autodiscover-email-settings/pull/4) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (3 days ago)
-- [feat: intial prom endpoint](https://github.com/freifunkMUC/wg-access-server/pull/1031) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [Limit build platforms to linux/amd64](https://github.com/freifunkMUC/wgkex/pull/218) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 weeks ago)
-- [Fix: Prevent workflow from failing when no update is needed](https://github.com/freifunkMUC/wgkex/pull/217) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 weeks ago)
+- [Modernization, Security &amp; CI/CD Improvements](https://github.com/Monogramm/autodiscover-email-settings/pull/44) on [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) (4 days ago)
+- [Potential fix for code scanning alert no. 1: Type confusion through parameter tampering](https://github.com/freifunkMUC/autodiscover-email-settings/pull/4) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (4 days ago)
+- [feat: intial prom endpoint](https://github.com/freifunkMUC/wg-access-server/pull/1031) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 days ago)
+- [Limit build platforms to linux/amd64](https://github.com/freifunkMUC/wgkex/pull/218) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (3 weeks ago)
+- [Fix: Prevent workflow from failing when no update is needed](https://github.com/freifunkMUC/wgkex/pull/217) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (3 weeks ago)
 - [fix: &#39;search_fields&#39; is not an array](https://github.com/foundata/roundcube-plugin-identity-from-directory/pull/12) on [foundata/roundcube-plugin-identity-from-directory](https://github.com/foundata/roundcube-plugin-identity-from-directory) (4 weeks ago)
 - [bump go matrix](https://github.com/freifunkMUC/pg-events/pull/18) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (1 month ago)
 - [bump go matrix](https://github.com/freifunkMUC/wg-embed/pull/30) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (1 month ago)
