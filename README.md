@@ -6,8 +6,8 @@
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (1 week ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 weeks ago)
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (4 weeks ago)
-- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (4 weeks ago)
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 month ago)
+- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (1 month ago)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (1 month ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 month ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (1 month ago)
@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1), today) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.97.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.97.0), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
-- [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v12.8.0](https://github.com/freifunk/meshviewer/releases/tag/v12.8.0), 2 days ago) - Visualization for Freifunk open mesh network nodes
+- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1), 1 day ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.97.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.97.0), 2 days ago) - Collection of device converters to be used with zigbee-herdsman
+- [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v12.8.0](https://github.com/freifunk/meshviewer/releases/tag/v12.8.0), 3 days ago) - Visualization for Freifunk open mesh network nodes
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v25.12.0-rc1](https://github.com/openwrt/openwrt/releases/tag/v25.12.0-rc1), 1 week ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) ([2025.8.2](https://github.com/jitsi/excalidraw-backend/releases/tag/2025.8.2), 4 months ago) - Excalidraw collaboration backend for Jitsi
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.13.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.13.1), 4 months ago) - Helm Charts for wg-access-server
@@ -31,12 +31,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chores: update deps, image &amp; gh-action releases](https://github.com/jitsi/excalidraw-backend/pull/26) on [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) (1 day ago)
+- [chores: update deps, image &amp; gh-action releases](https://github.com/jitsi/excalidraw-backend/pull/26) on [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) (2 days ago)
 - [Modernization, Security &amp; CI/CD Improvements](https://github.com/Monogramm/autodiscover-email-settings/pull/44) on [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) (1 week ago)
 - [Potential fix for code scanning alert no. 1: Type confusion through parameter tampering](https://github.com/freifunkMUC/autodiscover-email-settings/pull/4) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 week ago)
-- [feat: intial prom endpoint](https://github.com/freifunkMUC/wg-access-server/pull/1031) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
-- [Limit build platforms to linux/amd64](https://github.com/freifunkMUC/wgkex/pull/218) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (4 weeks ago)
-- [Fix: Prevent workflow from failing when no update is needed](https://github.com/freifunkMUC/wgkex/pull/217) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (4 weeks ago)
+- [feat: intial prom endpoint](https://github.com/freifunkMUC/wg-access-server/pull/1031) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 weeks ago)
+- [Limit build platforms to linux/amd64](https://github.com/freifunkMUC/wgkex/pull/218) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 month ago)
+- [Fix: Prevent workflow from failing when no update is needed](https://github.com/freifunkMUC/wgkex/pull/217) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 month ago)
 - [fix: &#39;search_fields&#39; is not an array](https://github.com/foundata/roundcube-plugin-identity-from-directory/pull/12) on [foundata/roundcube-plugin-identity-from-directory](https://github.com/foundata/roundcube-plugin-identity-from-directory) (1 month ago)
 - [bump go matrix](https://github.com/freifunkMUC/pg-events/pull/18) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (1 month ago)
 - [bump go matrix](https://github.com/freifunkMUC/wg-embed/pull/30) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (1 month ago)
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [start-codex/docker-openldap](https://github.com/start-codex/docker-openldap) - OpenLDAP container image 🐳🌴 (1 day ago)
+- [start-codex/docker-openldap](https://github.com/start-codex/docker-openldap) - OpenLDAP container image 🐳🌴 (2 days ago)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (1 month ago)
 - [getnamingo/registry](https://github.com/getnamingo/registry) - Open-source domain registry platform. Revolutionizing ccTLD and gTLD management with Namingo. (1 month ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (2 months ago)
