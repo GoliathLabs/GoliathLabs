@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (today)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (today)
+- [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (today)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes (1 week ago)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 weeks ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 month ago)
 - [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (1 month ago)
 - [StarkStrom-Driverless/anzeiger](https://github.com/StarkStrom-Driverless/anzeiger) - A train timetable dashboard (1 month ago)
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 month ago)
-- [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (1 month ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (1 month ago)
 
 #### 🌱 My latest projects
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.98.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.98.0), today) - Collection of device converters to be used with zigbee-herdsman
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1), 1 day ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.97.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.97.0), 2 days ago) - Collection of device converters to be used with zigbee-herdsman
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v12.8.0](https://github.com/freifunk/meshviewer/releases/tag/v12.8.0), 3 days ago) - Visualization for Freifunk open mesh network nodes
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v25.12.0-rc1](https://github.com/openwrt/openwrt/releases/tag/v25.12.0-rc1), 1 week ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) ([2025.8.2](https://github.com/jitsi/excalidraw-backend/releases/tag/2025.8.2), 4 months ago) - Excalidraw collaboration backend for Jitsi
