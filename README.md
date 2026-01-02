@@ -51,6 +51,7 @@
 
 #### ⭐ Recent Stars
 
+- [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) - Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface (today)
 - [start-codex/docker-openldap](https://github.com/start-codex/docker-openldap) - OpenLDAP container image 🐳🌴 (3 days ago)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (1 month ago)
 - [getnamingo/registry](https://github.com/getnamingo/registry) - Open-source domain registry platform. Revolutionizing ccTLD and gTLD management with Namingo. (1 month ago)
@@ -60,7 +61,6 @@
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (3 months ago)
 - [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems (3 months ago)
 - [inspircd/inspircd](https://github.com/inspircd/inspircd) - A modular C&#43;&#43; IRC server (ircd). (4 months ago)
-- [geerlingguy/ansible-role-firewall](https://github.com/geerlingguy/ansible-role-firewall) - Ansible Role - iptables Firewall configuration. (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
