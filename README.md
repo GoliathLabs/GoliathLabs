@@ -64,11 +64,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [fr3duard0](https://github.com/fr3duard0)
 - [nojjzz](https://github.com/nojjzz)
 - [Neustradamus](https://github.com/Neustradamus)
 - [SimTechLP](https://github.com/SimTechLP)
 - [MinisterPP](https://github.com/MinisterPP)
-- [twink0r](https://github.com/twink0r)
 
 #### 💬 Feedback
 
