@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.100.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.100.0), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.101.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.101.0), today) - Collection of device converters to be used with zigbee-herdsman
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1), 5 days ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v12.8.0](https://github.com/freifunk/meshviewer/releases/tag/v12.8.0), 1 week ago) - Visualization for Freifunk open mesh network nodes
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v25.12.0-rc1](https://github.com/openwrt/openwrt/releases/tag/v25.12.0-rc1), 2 weeks ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
