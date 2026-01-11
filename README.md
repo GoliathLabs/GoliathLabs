@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.104.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.104.0), 2 days ago) - Collection of device converters to be used with zigbee-herdsman
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v25.12.0-rc2](https://github.com/openwrt/openwrt/releases/tag/v25.12.0-rc2), 3 days ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.104.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.104.0), 3 days ago) - Collection of device converters to be used with zigbee-herdsman
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v25.12.0-rc2](https://github.com/openwrt/openwrt/releases/tag/v25.12.0-rc2), 4 days ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1), 1 week ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v12.8.0](https://github.com/freifunk/meshviewer/releases/tag/v12.8.0), 1 week ago) - Visualization for Freifunk open mesh network nodes
 - [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) ([2025.8.2](https://github.com/jitsi/excalidraw-backend/releases/tag/2025.8.2), 4 months ago) - Excalidraw collaboration backend for Jitsi
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit (4 days ago)
+- [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit (5 days ago)
 - [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) - Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface (1 week ago)
 - [start-codex/docker-openldap](https://github.com/start-codex/docker-openldap) - OpenLDAP container image 🐳🌴 (1 week ago)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (1 month ago)
@@ -60,7 +60,7 @@
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes (3 months ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (3 months ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (3 months ago)
-- [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems (3 months ago)
+- [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
