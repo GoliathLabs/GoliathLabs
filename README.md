@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: update deps &amp; add compatibility for paho-mqtt 2.0](https://github.com/stlehmann/Flask-MQTT/pull/193) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (today)
 - [Update Python versions in CI](https://github.com/stlehmann/Flask-MQTT/pull/192) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (2 weeks ago)
 - [chores: update deps, image &amp; gh-action releases](https://github.com/jitsi/excalidraw-backend/pull/26) on [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) (2 weeks ago)
 - [Modernization, Security &amp; CI/CD Improvements](https://github.com/Monogramm/autodiscover-email-settings/pull/44) on [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) (4 weeks ago)
@@ -40,7 +41,6 @@
 - [Fix: Prevent workflow from failing when no update is needed](https://github.com/freifunkMUC/wgkex/pull/217) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 month ago)
 - [fix: &#39;search_fields&#39; is not an array](https://github.com/foundata/roundcube-plugin-identity-from-directory/pull/12) on [foundata/roundcube-plugin-identity-from-directory](https://github.com/foundata/roundcube-plugin-identity-from-directory) (1 month ago)
 - [bump go matrix](https://github.com/freifunkMUC/pg-events/pull/18) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (2 months ago)
-- [bump go matrix](https://github.com/freifunkMUC/wg-embed/pull/30) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (2 months ago)
 
 #### 📓 Gists I wrote
 
