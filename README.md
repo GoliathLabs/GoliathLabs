@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.108.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.108.0), 2 days ago) - Collection of device converters to be used with zigbee-herdsman
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.109.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.109.0), today) - Collection of device converters to be used with zigbee-herdsman
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v13.0.0](https://github.com/freifunk/meshviewer/releases/tag/v13.0.0), 5 days ago) - Visualization for Freifunk open mesh network nodes
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v25.12.0-rc2](https://github.com/openwrt/openwrt/releases/tag/v25.12.0-rc2), 1 week ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1), 2 weeks ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: test for disconnect properties](https://github.com/stlehmann/Flask-MQTT/pull/194) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (today)
 - [feat: update deps &amp; add compatibility for paho-mqtt 2.0](https://github.com/stlehmann/Flask-MQTT/pull/193) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (1 day ago)
 - [Update Python versions in CI](https://github.com/stlehmann/Flask-MQTT/pull/192) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (2 weeks ago)
 - [chores: update deps, image &amp; gh-action releases](https://github.com/jitsi/excalidraw-backend/pull/26) on [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) (2 weeks ago)
@@ -40,7 +41,6 @@
 - [Limit build platforms to linux/amd64](https://github.com/freifunkMUC/wgkex/pull/218) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 month ago)
 - [Fix: Prevent workflow from failing when no update is needed](https://github.com/freifunkMUC/wgkex/pull/217) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 month ago)
 - [fix: &#39;search_fields&#39; is not an array](https://github.com/foundata/roundcube-plugin-identity-from-directory/pull/12) on [foundata/roundcube-plugin-identity-from-directory](https://github.com/foundata/roundcube-plugin-identity-from-directory) (1 month ago)
-- [bump go matrix](https://github.com/freifunkMUC/pg-events/pull/18) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (2 months ago)
 
 #### 📓 Gists I wrote
 
