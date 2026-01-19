@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix race condition in documentation and examples](https://github.com/stlehmann/Flask-MQTT/pull/195) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (today)
 - [feat: test for disconnect properties](https://github.com/stlehmann/Flask-MQTT/pull/194) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (1 day ago)
 - [feat: update deps &amp; add compatibility for paho-mqtt 2.0](https://github.com/stlehmann/Flask-MQTT/pull/193) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (2 days ago)
 - [Update Python versions in CI](https://github.com/stlehmann/Flask-MQTT/pull/192) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (2 weeks ago)
@@ -40,7 +41,6 @@
 - [feat: intial prom endpoint](https://github.com/freifunkMUC/wg-access-server/pull/1031) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [Limit build platforms to linux/amd64](https://github.com/freifunkMUC/wgkex/pull/218) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 month ago)
 - [Fix: Prevent workflow from failing when no update is needed](https://github.com/freifunkMUC/wgkex/pull/217) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 month ago)
-- [fix: &#39;search_fields&#39; is not an array](https://github.com/foundata/roundcube-plugin-identity-from-directory/pull/12) on [foundata/roundcube-plugin-identity-from-directory](https://github.com/foundata/roundcube-plugin-identity-from-directory) (1 month ago)
 
 #### 📓 Gists I wrote
 
