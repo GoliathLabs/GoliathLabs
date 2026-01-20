@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [set the client id from app.config](https://github.com/stlehmann/Flask-MQTT/pull/196) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (today)
 - [Fix race condition in documentation and examples](https://github.com/stlehmann/Flask-MQTT/pull/195) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (1 day ago)
 - [feat: test for disconnect properties](https://github.com/stlehmann/Flask-MQTT/pull/194) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (2 days ago)
 - [feat: update deps &amp; add compatibility for paho-mqtt 2.0](https://github.com/stlehmann/Flask-MQTT/pull/193) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (3 days ago)
@@ -40,7 +41,6 @@
 - [Potential fix for code scanning alert no. 1: Type confusion through parameter tampering](https://github.com/freifunkMUC/autodiscover-email-settings/pull/4) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 month ago)
 - [feat: intial prom endpoint](https://github.com/freifunkMUC/wg-access-server/pull/1031) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [Limit build platforms to linux/amd64](https://github.com/freifunkMUC/wgkex/pull/218) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 month ago)
-- [Fix: Prevent workflow from failing when no update is needed](https://github.com/freifunkMUC/wgkex/pull/217) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 month ago)
 
 #### 📓 Gists I wrote
 
