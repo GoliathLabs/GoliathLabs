@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.114.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.114.0), 2 days ago) - Collection of device converters to be used with zigbee-herdsman
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.115.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.115.0), today) - Collection of device converters to be used with zigbee-herdsman
 - [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) ([v1.3.0](https://github.com/stlehmann/Flask-MQTT/releases/tag/v1.3.0), 3 days ago) - Flask Extension for the MQTT protocol
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v25.12.0-rc3](https://github.com/openwrt/openwrt/releases/tag/v25.12.0-rc3), 3 days ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v13.0.0](https://github.com/freifunk/meshviewer/releases/tag/v13.0.0), 2 weeks ago) - Visualization for Freifunk open mesh network nodes
