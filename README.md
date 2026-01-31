@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [  Bumps React to v19, MUI to v7](https://github.com/freifunkMUC/wg-access-server/pull/1055) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Update deps](https://github.com/freifunkMUC/wg-access-server/pull/1054) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [docs: multiple topics](https://github.com/stlehmann/Flask-MQTT/pull/201) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (6 days ago)
 - [fix: use tls 1.2 and add proper error messages](https://github.com/stlehmann/Flask-MQTT/pull/200) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (6 days ago)
@@ -40,7 +41,6 @@
 - [feat: test for disconnect properties](https://github.com/stlehmann/Flask-MQTT/pull/194) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (1 week ago)
 - [feat: update deps &amp; add compatibility for paho-mqtt 2.0](https://github.com/stlehmann/Flask-MQTT/pull/193) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (2 weeks ago)
 - [Update Python versions in CI](https://github.com/stlehmann/Flask-MQTT/pull/192) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (4 weeks ago)
-- [chores: update deps, image &amp; gh-action releases](https://github.com/jitsi/excalidraw-backend/pull/26) on [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) (1 month ago)
 
 #### 📓 Gists I wrote
 
