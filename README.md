@@ -18,6 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.1), today) - 
 - [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v25.120.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v25.120.0), today) - Collection of device converters to be used with zigbee-herdsman
 - [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) ([v1.3.0](https://github.com/stlehmann/Flask-MQTT/releases/tag/v1.3.0), 1 week ago) - Flask Extension for the MQTT protocol
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v25.12.0-rc3](https://github.com/openwrt/openwrt/releases/tag/v25.12.0-rc3), 1 week ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
@@ -26,11 +27,11 @@
 - [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) ([2025.8.2](https://github.com/jitsi/excalidraw-backend/releases/tag/2025.8.2), 5 months ago) - Excalidraw collaboration backend for Jitsi
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-0.13.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-0.13.1), 5 months ago) - Helm Charts for wg-access-server
 - [roaldnefs/salt-lint-action](https://github.com/roaldnefs/salt-lint-action) ([v0.0.3](https://github.com/roaldnefs/salt-lint-action/releases/tag/v0.0.3), 5 months ago) - GitHub Action for running salt-lint as part of your workflows!
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.0](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.0), 9 months ago) - 
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 2 years ago) - Project for easy key exchange between Wireguard Clients and Servers
 
 #### 🔨 My recent Pull Requests
 
+- [Update deps](https://github.com/freifunkMUC/wg-access-server/pull/1054) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [docs: multiple topics](https://github.com/stlehmann/Flask-MQTT/pull/201) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (6 days ago)
 - [fix: use tls 1.2 and add proper error messages](https://github.com/stlehmann/Flask-MQTT/pull/200) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (6 days ago)
 - [feat: update docs](https://github.com/stlehmann/Flask-MQTT/pull/198) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (1 week ago)
@@ -40,7 +41,6 @@
 - [feat: update deps &amp; add compatibility for paho-mqtt 2.0](https://github.com/stlehmann/Flask-MQTT/pull/193) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (2 weeks ago)
 - [Update Python versions in CI](https://github.com/stlehmann/Flask-MQTT/pull/192) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (4 weeks ago)
 - [chores: update deps, image &amp; gh-action releases](https://github.com/jitsi/excalidraw-backend/pull/26) on [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) (1 month ago)
-- [Modernization, Security &amp; CI/CD Improvements](https://github.com/Monogramm/autodiscover-email-settings/pull/44) on [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) (1 month ago)
 
 #### 📓 Gists I wrote
 
