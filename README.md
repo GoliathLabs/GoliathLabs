@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.3.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.3.0), today) - Collection of device converters to be used with zigbee-herdsman
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.3.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.3.0), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v25.12.0-rc4](https://github.com/openwrt/openwrt/releases/tag/v25.12.0-rc4), 1 week ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.1), 1 week ago) - 
 - [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) ([v1.3.0](https://github.com/stlehmann/Flask-MQTT/releases/tag/v1.3.0), 2 weeks ago) - Flask Extension for the MQTT protocol
@@ -58,7 +58,7 @@
 - [start-codex/docker-openldap](https://github.com/start-codex/docker-openldap) - OpenLDAP container image 🐳🌴 (1 month ago)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (2 months ago)
 - [getnamingo/registry](https://github.com/getnamingo/registry) - Open-source domain registry platform. Revolutionizing ccTLD and gTLD management with Namingo. (3 months ago)
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (3 months ago)
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (4 months ago)
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes (4 months ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (4 months ago)
 
