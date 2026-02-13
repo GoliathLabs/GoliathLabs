@@ -51,6 +51,7 @@
 
 #### ⭐ Recent Stars
 
+- [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) - A self-hosted dead man&#39;s switch for delivering encrypted messages (E2EE) to your loved ones — when you&#39;re gone or unresponsive. (today)
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor (2 weeks ago)
 - [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) - Flask Extension for the MQTT protocol (2 weeks ago)
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit (1 month ago)
@@ -60,7 +61,6 @@
 - [getnamingo/registry](https://github.com/getnamingo/registry) - Open-source domain registry platform. Revolutionizing ccTLD and gTLD management with Namingo. (3 months ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (4 months ago)
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes (4 months ago)
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
