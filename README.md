@@ -64,11 +64,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [ff-mgk](https://github.com/ff-mgk)
 - [S4IL21](https://github.com/S4IL21)
 - [fr3duard0](https://github.com/fr3duard0)
 - [nojjzz](https://github.com/nojjzz)
 - [Neustradamus](https://github.com/Neustradamus)
-- [SimTechLP](https://github.com/SimTechLP)
 
 #### 💬 Feedback
 
