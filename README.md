@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (today)
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (today)
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (today)
+- [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (1 day ago)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 day ago)
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 day ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 - [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (3 weeks ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (3 weeks ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.10.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.10.0), today) - Collection of device converters to be used with zigbee-herdsman
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v25.12.0-rc5](https://github.com/openwrt/openwrt/releases/tag/v25.12.0-rc5), 3 days ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.10.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.10.0), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v25.12.0-rc5](https://github.com/openwrt/openwrt/releases/tag/v25.12.0-rc5), 4 days ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.1), 3 weeks ago) - 
 - [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) ([v1.3.0](https://github.com/stlehmann/Flask-MQTT/releases/tag/v1.3.0), 1 month ago) - Flask Extension for the MQTT protocol
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v13.0.0](https://github.com/freifunk/meshviewer/releases/tag/v13.0.0), 1 month ago) - Visualization for Freifunk open mesh network nodes
@@ -31,12 +31,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Limit build platforms to linux/amd64](https://github.com/freifunkMUC/wgkex/pull/242) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (today)
-- [Merge upstream release v2026.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/95) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (2 days ago)
+- [Limit build platforms to linux/amd64](https://github.com/freifunkMUC/wgkex/pull/242) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 day ago)
+- [Merge upstream release v2026.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/95) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (3 days ago)
 - [  Bumps React to v19, MUI to v7](https://github.com/freifunkMUC/wg-access-server/pull/1055) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
 - [Update deps](https://github.com/freifunkMUC/wg-access-server/pull/1054) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 weeks ago)
-- [docs: multiple topics](https://github.com/stlehmann/Flask-MQTT/pull/201) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (4 weeks ago)
-- [fix: use tls 1.2 and add proper error messages](https://github.com/stlehmann/Flask-MQTT/pull/200) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (4 weeks ago)
+- [docs: multiple topics](https://github.com/stlehmann/Flask-MQTT/pull/201) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (1 month ago)
+- [fix: use tls 1.2 and add proper error messages](https://github.com/stlehmann/Flask-MQTT/pull/200) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (1 month ago)
 - [feat: update docs](https://github.com/stlehmann/Flask-MQTT/pull/198) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (1 month ago)
 - [set the client id from app.config](https://github.com/stlehmann/Flask-MQTT/pull/196) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (1 month ago)
 - [Fix race condition in documentation and examples](https://github.com/stlehmann/Flask-MQTT/pull/195) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (1 month ago)
