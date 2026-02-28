@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.11.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.11.0), 3 days ago) - Collection of device converters to be used with zigbee-herdsman
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.12.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.12.0), today) - Collection of device converters to be used with zigbee-herdsman
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v25.12.0-rc5](https://github.com/openwrt/openwrt/releases/tag/v25.12.0-rc5), 1 week ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.1), 4 weeks ago) - 
 - [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) ([v1.3.0](https://github.com/stlehmann/Flask-MQTT/releases/tag/v1.3.0), 1 month ago) - Flask Extension for the MQTT protocol
