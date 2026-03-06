@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v25.12.0](https://github.com/openwrt/openwrt/releases/tag/v25.12.0), today) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.15.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.15.0), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v25.12.0](https://github.com/openwrt/openwrt/releases/tag/v25.12.0), 1 day ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.15.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.15.0), 2 days ago) - Collection of device converters to be used with zigbee-herdsman
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.1), 1 month ago) - 
 - [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) ([v1.3.0](https://github.com/stlehmann/Flask-MQTT/releases/tag/v1.3.0), 1 month ago) - Flask Extension for the MQTT protocol
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v13.0.0](https://github.com/freifunk/meshviewer/releases/tag/v13.0.0), 1 month ago) - Visualization for Freifunk open mesh network nodes
@@ -51,8 +51,8 @@
 
 #### ⭐ Recent Stars
 
-- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution featuring a user-friendly web interface for easy device management and connectivity. (2 weeks ago)
-- [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) - A self-hosted dead man&#39;s switch for delivering encrypted messages (E2EE) to your loved ones — when you&#39;re gone or unresponsive. (2 weeks ago)
+- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution featuring a user-friendly web interface for easy device management and connectivity. (3 weeks ago)
+- [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) - A self-hosted dead man&#39;s switch for delivering encrypted messages (E2EE) to your loved ones — when you&#39;re gone or unresponsive. (3 weeks ago)
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor (1 month ago)
 - [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) - Flask Extension for the MQTT protocol (1 month ago)
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit (1 month ago)
