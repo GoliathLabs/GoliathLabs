@@ -3,15 +3,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (today)
+- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (today)
+- [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (today)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (today)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
-- [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (1 week ago)
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (3 weeks ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (3 weeks ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (3 weeks ago)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (3 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
 - [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (1 month ago)
-- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chores: update deps](https://github.com/freifunkMUC/wg-access-server/pull/1098) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [fix: device metrics being disabled when metrics&#39; endpoint info is reduced](https://github.com/freifunkMUC/wg-access-server/pull/1097) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Limit build platforms to linux/amd64](https://github.com/freifunkMUC/wgkex/pull/242) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (3 weeks ago)
 - [Merge upstream release v2026.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/95) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (3 weeks ago)
@@ -40,7 +41,6 @@
 - [fix: use tls 1.2 and add proper error messages](https://github.com/stlehmann/Flask-MQTT/pull/200) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (1 month ago)
 - [feat: update docs](https://github.com/stlehmann/Flask-MQTT/pull/198) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (1 month ago)
 - [set the client id from app.config](https://github.com/stlehmann/Flask-MQTT/pull/196) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (1 month ago)
-- [Fix race condition in documentation and examples](https://github.com/stlehmann/Flask-MQTT/pull/195) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (2 months ago)
 
 #### 📓 Gists I wrote
 
