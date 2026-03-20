@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 days ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (3 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (1 week ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (3 weeks ago)
@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.22.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.22.0), today) - Collection of device converters to be used with zigbee-herdsman
-- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.6](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.6), today) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v24.10.6](https://github.com/openwrt/openwrt/releases/tag/v24.10.6), 1 day ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.22.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.22.0), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
+- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.6](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.6), 1 day ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v24.10.6](https://github.com/openwrt/openwrt/releases/tag/v24.10.6), 2 days ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.1), 1 month ago) - 
 - [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) ([v1.3.0](https://github.com/stlehmann/Flask-MQTT/releases/tag/v1.3.0), 1 month ago) - Flask Extension for the MQTT protocol
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v13.0.0](https://github.com/freifunk/meshviewer/releases/tag/v13.0.0), 2 months ago) - Visualization for Freifunk open mesh network nodes
@@ -39,7 +39,7 @@
 - [fix: use tls 1.2 and add proper error messages](https://github.com/stlehmann/Flask-MQTT/pull/200) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (1 month ago)
 - [feat: update docs](https://github.com/stlehmann/Flask-MQTT/pull/198) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (1 month ago)
 - [set the client id from app.config](https://github.com/stlehmann/Flask-MQTT/pull/196) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (1 month ago)
-- [Fix race condition in documentation and examples](https://github.com/stlehmann/Flask-MQTT/pull/195) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (1 month ago)
+- [Fix race condition in documentation and examples](https://github.com/stlehmann/Flask-MQTT/pull/195) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (2 months ago)
 - [feat: test for disconnect properties](https://github.com/stlehmann/Flask-MQTT/pull/194) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (2 months ago)
 
 #### 📓 Gists I wrote
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [rancher/rke2](https://github.com/rancher/rke2) -  (3 days ago)
+- [rancher/rke2](https://github.com/rancher/rke2) -  (4 days ago)
 - [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (1 week ago)
 - [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution featuring a user-friendly web interface for easy device management and connectivity. (1 month ago)
 - [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) - A self-hosted dead man&#39;s switch for delivering encrypted messages (E2EE) to your loved ones — when you&#39;re gone or unresponsive. (1 month ago)
