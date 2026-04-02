@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.29.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.29.0), today) - Collection of device converters to be used with zigbee-herdsman
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v13.1.0](https://github.com/freifunk/meshviewer/releases/tag/v13.1.0), today) - Visualization for Freifunk open mesh network nodes
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.28.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.28.0), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v25.12.2](https://github.com/openwrt/openwrt/releases/tag/v25.12.2), 6 days ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) ([2026.3.0](https://github.com/jitsi/excalidraw-backend/releases/tag/2026.3.0), 6 days ago) - Excalidraw collaboration backend for Jitsi
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.6](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.6), 2 weeks ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
