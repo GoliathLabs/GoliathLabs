@@ -51,6 +51,7 @@
 
 #### ⭐ Recent Stars
 
+- [TheScienceElf/UNIVAC-1219](https://github.com/TheScienceElf/UNIVAC-1219) - An emulator and assembler for the UNIVAC-1219 computer (today)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (6 days ago)
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together (6 days ago)
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life. (4 weeks ago)
@@ -60,7 +61,6 @@
 - [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) - A self-hosted dead man&#39;s switch for delivering encrypted messages (E2EE) to your loved ones — when you&#39;re gone or unresponsive. (2 months ago)
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor (2 months ago)
 - [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) - Flask Extension for the MQTT protocol (2 months ago)
-- [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
