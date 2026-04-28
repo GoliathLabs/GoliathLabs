@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.40.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.40.0), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.40.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.40.0), 2 days ago) - Collection of device converters to be used with zigbee-herdsman
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.0.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.0.0), 1 week ago) - Helm Charts for wg-access-server
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v13.1.0](https://github.com/freifunk/meshviewer/releases/tag/v13.1.0), 3 weeks ago) - Visualization for Freifunk open mesh network nodes
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v25.12.2](https://github.com/openwrt/openwrt/releases/tag/v25.12.2), 1 month ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [TheScienceElf/UNIVAC-1219](https://github.com/TheScienceElf/UNIVAC-1219) - An emulator and assembler for the UNIVAC-1219 computer (4 days ago)
+- [TheScienceElf/UNIVAC-1219](https://github.com/TheScienceElf/UNIVAC-1219) - An emulator and assembler for the UNIVAC-1219 computer (5 days ago)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (1 week ago)
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together (1 week ago)
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life. (1 month ago)
