@@ -5,8 +5,8 @@
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 weeks ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 weeks ago)
-- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (3 weeks ago)
-- [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (3 weeks ago)
+- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (4 weeks ago)
+- [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (4 weeks ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (4 weeks ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (4 weeks ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (4 weeks ago)
@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.42.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.42.0), today) - Collection of device converters to be used with zigbee-herdsman
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.42.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.42.0), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.0.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.0.0), 2 weeks ago) - Helm Charts for wg-access-server
-- [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v13.1.0](https://github.com/freifunk/meshviewer/releases/tag/v13.1.0), 4 weeks ago) - Visualization for Freifunk open mesh network nodes
+- [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v13.1.0](https://github.com/freifunk/meshviewer/releases/tag/v13.1.0), 1 month ago) - Visualization for Freifunk open mesh network nodes
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v25.12.2](https://github.com/openwrt/openwrt/releases/tag/v25.12.2), 1 month ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) ([2026.3.0](https://github.com/jitsi/excalidraw-backend/releases/tag/2026.3.0), 1 month ago) - Excalidraw collaboration backend for Jitsi
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2023.2.6](https://github.com/freifunk-gluon/gluon/releases/tag/v2023.2.6), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
@@ -32,7 +32,7 @@
 #### 🔨 My recent Pull Requests
 
 - [chore: bump to v1.0.0](https://github.com/freifunkMUC/wg-access-server-chart/pull/41) on [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) (2 weeks ago)
-- [fix: memory load display](https://github.com/freifunkMUC/omada_respondd/pull/23) on [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) (3 weeks ago)
+- [fix: memory load display](https://github.com/freifunkMUC/omada_respondd/pull/23) on [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) (4 weeks ago)
 - [chores: update deps](https://github.com/freifunkMUC/wg-access-server/pull/1098) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [fix: device metrics being disabled when metrics&#39; endpoint info is reduced](https://github.com/freifunkMUC/wg-access-server/pull/1097) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 month ago)
 - [Limit build platforms to linux/amd64](https://github.com/freifunkMUC/wgkex/pull/242) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 months ago)
