@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 days ago)
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (4 days ago)
-- [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (4 days ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (3 days ago)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (5 days ago)
+- [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (5 days ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 month ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (1 month ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.55.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.55.0), today) - Collection of device converters to be used with zigbee-herdsman
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.55.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.55.0), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v25.12.4](https://github.com/openwrt/openwrt/releases/tag/v25.12.4), 1 week ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.1), 2 weeks ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.0.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.0.0), 1 month ago) - Helm Charts for wg-access-server
@@ -36,7 +36,7 @@
 - [chores: update deps](https://github.com/freifunkMUC/wg-access-server/pull/1098) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 months ago)
 - [fix: device metrics being disabled when metrics&#39; endpoint info is reduced](https://github.com/freifunkMUC/wg-access-server/pull/1097) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 months ago)
 - [Limit build platforms to linux/amd64](https://github.com/freifunkMUC/wgkex/pull/242) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (2 months ago)
-- [Merge upstream release v2026.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/95) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (2 months ago)
+- [Merge upstream release v2026.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/95) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (3 months ago)
 - [  Bumps React to v19, MUI to v7](https://github.com/freifunkMUC/wg-access-server/pull/1055) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 months ago)
 - [Update deps](https://github.com/freifunkMUC/wg-access-server/pull/1054) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 months ago)
 - [docs: multiple topics](https://github.com/stlehmann/Flask-MQTT/pull/201) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (3 months ago)
