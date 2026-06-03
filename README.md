@@ -64,11 +64,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [seckinyasar](https://github.com/seckinyasar)
 - [EricWilsonNet](https://github.com/EricWilsonNet)
 - [ff-mgk](https://github.com/ff-mgk)
 - [S4IL21](https://github.com/S4IL21)
 - [fr3duard0](https://github.com/fr3duard0)
+- [nojjzz](https://github.com/nojjzz)
 
 #### 💬 Feedback
 
