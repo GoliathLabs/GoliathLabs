@@ -64,11 +64,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [tiann317](https://github.com/tiann317)
 - [yumiaura](https://github.com/yumiaura)
 - [EricWilsonNet](https://github.com/EricWilsonNet)
 - [ff-mgk](https://github.com/ff-mgk)
 - [S4IL21](https://github.com/S4IL21)
-- [fr3duard0](https://github.com/fr3duard0)
 
 #### 💬 Feedback
 
