@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (4 days ago)
+- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (5 days ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (2 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
 - [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (2 weeks ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.69.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.69.0), today) - Collection of device converters to be used with zigbee-herdsman
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v24.10.7](https://github.com/openwrt/openwrt/releases/tag/v24.10.7), 2 weeks ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.69.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.69.0), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v24.10.7](https://github.com/openwrt/openwrt/releases/tag/v24.10.7), 3 weeks ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.1), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.0.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.0.0), 2 months ago) - Helm Charts for wg-access-server
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v13.1.0](https://github.com/freifunk/meshviewer/releases/tag/v13.1.0), 2 months ago) - Visualization for Freifunk open mesh network nodes
@@ -36,7 +36,7 @@
 - [chores: update deps](https://github.com/freifunkMUC/wg-access-server/pull/1098) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 months ago)
 - [fix: device metrics being disabled when metrics&#39; endpoint info is reduced](https://github.com/freifunkMUC/wg-access-server/pull/1097) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 months ago)
 - [Limit build platforms to linux/amd64](https://github.com/freifunkMUC/wgkex/pull/242) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (3 months ago)
-- [Merge upstream release v2026.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/95) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (3 months ago)
+- [Merge upstream release v2026.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/95) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (4 months ago)
 - [  Bumps React to v19, MUI to v7](https://github.com/freifunkMUC/wg-access-server/pull/1055) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 months ago)
 - [Update deps](https://github.com/freifunkMUC/wg-access-server/pull/1054) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 months ago)
 - [docs: multiple topics](https://github.com/stlehmann/Flask-MQTT/pull/201) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (4 months ago)
