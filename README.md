@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
+- [freifunkMUC/gluon-signing-issueops](https://github.com/freifunkMUC/gluon-signing-issueops) - Automated Gluon Firmware Manifest signing via GitHub issues - clone and see README for setup (today)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 week ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
 - [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (1 week ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (1 week ago)
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 week ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (3 weeks ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (1 month ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 month ago)
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add statement on EU&#39;s Chat Control 1.0 reintroduction](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/597) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
 - [fix: high CPU usage with eventlet](https://github.com/stlehmann/Flask-MQTT/pull/218) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (1 week ago)
 - [chore: bump to v1.0.0](https://github.com/freifunkMUC/wg-access-server-chart/pull/41) on [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) (2 months ago)
 - [fix: memory load display](https://github.com/freifunkMUC/omada_respondd/pull/23) on [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) (3 months ago)
@@ -40,7 +41,6 @@
 - [Merge upstream release v2026.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/95) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (4 months ago)
 - [  Bumps React to v19, MUI to v7](https://github.com/freifunkMUC/wg-access-server/pull/1055) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 months ago)
 - [Update deps](https://github.com/freifunkMUC/wg-access-server/pull/1054) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 months ago)
-- [docs: multiple topics](https://github.com/stlehmann/Flask-MQTT/pull/201) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (5 months ago)
 
 #### 📓 Gists I wrote
 
