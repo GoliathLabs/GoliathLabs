@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.81.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.81.0), 4 days ago) - Collection of device converters to be used with zigbee-herdsman
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.82.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.82.0), today) - Collection of device converters to be used with zigbee-herdsman
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.11.3](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.11.3), 5 days ago) - Freifunk München specific Gluon configuration
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v25.12.5](https://github.com/openwrt/openwrt/releases/tag/v25.12.5), 2 weeks ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.1), 2 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
