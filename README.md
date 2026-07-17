@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [WIP: Modernize frontend build tooling and dependencies](https://github.com/traggo/server/pull/244) on [traggo/server](https://github.com/traggo/server) (today)
 - [commit local changes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/300) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Add statement on EU&#39;s Chat Control 1.0 reintroduction](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/597) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 week ago)
 - [fix: high CPU usage with eventlet](https://github.com/stlehmann/Flask-MQTT/pull/218) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (2 weeks ago)
@@ -40,7 +41,6 @@
 - [fix: device metrics being disabled when metrics&#39; endpoint info is reduced](https://github.com/freifunkMUC/wg-access-server/pull/1097) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 months ago)
 - [Limit build platforms to linux/amd64](https://github.com/freifunkMUC/wgkex/pull/242) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (4 months ago)
 - [Merge upstream release v2026.1.1](https://github.com/freifunkMUC/jitsi-meet-electron/pull/95) on [freifunkMUC/jitsi-meet-electron](https://github.com/freifunkMUC/jitsi-meet-electron) (4 months ago)
-- [  Bumps React to v19, MUI to v7](https://github.com/freifunkMUC/wg-access-server/pull/1055) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 months ago)
 
 #### 📓 Gists I wrote
 
