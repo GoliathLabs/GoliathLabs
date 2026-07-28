@@ -6,8 +6,8 @@
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (1 week ago)
 - [freifunkMUC/gluon-signing-issueops](https://github.com/freifunkMUC/gluon-signing-issueops) - Automated Gluon Firmware Manifest signing via GitHub issues - clone and see README for setup (1 week ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (1 week ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
 - [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (2 weeks ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (3 weeks ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (3 weeks ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.88.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.88.0), today) - Collection of device converters to be used with zigbee-herdsman
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v24.10.8](https://github.com/openwrt/openwrt/releases/tag/v24.10.8), 2 days ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.87.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.87.0), 2 days ago) - Collection of device converters to be used with zigbee-herdsman
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.11.3](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.11.3), 2 weeks ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.1), 2 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.0.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.0.0), 3 months ago) - Helm Charts for wg-access-server
