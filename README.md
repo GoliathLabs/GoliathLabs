@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (5 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (6 days ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (1 week ago)
 - [freifunkMUC/gluon-signing-issueops](https://github.com/freifunkMUC/gluon-signing-issueops) - Automated Gluon Firmware Manifest signing via GitHub issues - clone and see README for setup (1 week ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (1 week ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
 - [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (2 weeks ago)
-- [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (3 weeks ago)
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (3 weeks ago)
+- [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (4 weeks ago)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (4 weeks ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 month ago)
 
 #### 🌱 My latest projects
@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.7.3](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.7.3), today) - Freifunk München specific Gluon configuration
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.88.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.88.0), today) - Collection of device converters to be used with zigbee-herdsman
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v24.10.8](https://github.com/openwrt/openwrt/releases/tag/v24.10.8), 2 days ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.7.3](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.7.3), 1 day ago) - Freifunk München specific Gluon configuration
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.88.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.88.0), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) ([v24.10.8](https://github.com/openwrt/openwrt/releases/tag/v24.10.8), 3 days ago) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.1](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.1), 2 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.0.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.0.0), 3 months ago) - Helm Charts for wg-access-server
 - [freifunk/meshviewer](https://github.com/freifunk/meshviewer) ([v13.1.0](https://github.com/freifunk/meshviewer/releases/tag/v13.1.0), 3 months ago) - Visualization for Freifunk open mesh network nodes
@@ -31,11 +31,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Update German translation for push sharing message](https://github.com/pglombardo/PasswordPusher/pull/4682) on [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) (today)
+- [fix: Update German translation for push sharing message](https://github.com/pglombardo/PasswordPusher/pull/4682) on [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) (1 day ago)
 - [WIP: Modernize frontend build tooling and dependencies](https://github.com/traggo/server/pull/244) on [traggo/server](https://github.com/traggo/server) (1 week ago)
 - [commit local changes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/300) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
 - [Add statement on EU&#39;s Chat Control 1.0 reintroduction](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/597) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 weeks ago)
-- [fix: high CPU usage with eventlet](https://github.com/stlehmann/Flask-MQTT/pull/218) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (4 weeks ago)
+- [fix: high CPU usage with eventlet](https://github.com/stlehmann/Flask-MQTT/pull/218) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (1 month ago)
 - [chore: bump to v1.0.0](https://github.com/freifunkMUC/wg-access-server-chart/pull/41) on [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) (3 months ago)
 - [fix: memory load display](https://github.com/freifunkMUC/omada_respondd/pull/23) on [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) (3 months ago)
 - [chores: update deps](https://github.com/freifunkMUC/wg-access-server/pull/1098) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 months ago)
