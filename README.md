@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.95.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.95.0), today) - Collection of device converters to be used with zigbee-herdsman
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.2](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.2), 1 day ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.94.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.94.0), 2 days ago) - Collection of device converters to be used with zigbee-herdsman
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.11.4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.11.4), 2 weeks ago) - Freifunk München specific Gluon configuration
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.0.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.0.0), 3 months ago) - Helm Charts for wg-access-server
 - [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) ([2026.3.0](https://github.com/jitsi/excalidraw-backend/releases/tag/2026.3.0), 4 months ago) - Excalidraw collaboration backend for Jitsi
