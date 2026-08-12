@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (6 days ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (6 days ago)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (6 days ago)
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (6 days ago)
-- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (6 days ago)
-- [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (6 days ago)
+- [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (1 week ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 week ago)
+- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (1 week ago)
+- [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (1 week ago)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (1 week ago)
 - [freifunkMUC/gluon-signing-issueops](https://github.com/freifunkMUC/gluon-signing-issueops) - Automated Gluon Firmware Manifest signing via GitHub issues - clone and see README for setup (3 weeks ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (3 weeks ago)
@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.2](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.2), today) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.94.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.94.0), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.11.4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.11.4), 1 week ago) - Freifunk München specific Gluon configuration
+- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.2](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.2), 1 day ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.94.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.94.0), 2 days ago) - Collection of device converters to be used with zigbee-herdsman
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.11.4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.11.4), 2 weeks ago) - Freifunk München specific Gluon configuration
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.0.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.0.0), 3 months ago) - Helm Charts for wg-access-server
 - [jitsi/excalidraw-backend](https://github.com/jitsi/excalidraw-backend) ([2026.3.0](https://github.com/jitsi/excalidraw-backend/releases/tag/2026.3.0), 4 months ago) - Excalidraw collaboration backend for Jitsi
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.1), 6 months ago) - 
@@ -56,8 +56,8 @@
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own. (4 months ago)
 - [rancher/rke2](https://github.com/rancher/rke2) -  (4 months ago)
 - [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (5 months ago)
-- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution featuring a user-friendly web interface for easy device management and connectivity. (5 months ago)
-- [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) - A self-hosted dead man&#39;s switch for delivering encrypted messages (E2EE) to your loved ones — when you&#39;re gone or unresponsive. (5 months ago)
+- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution featuring a user-friendly web interface for easy device management and connectivity. (6 months ago)
+- [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) - A self-hosted dead man&#39;s switch for delivering encrypted messages (E2EE) to your loved ones — when you&#39;re gone or unresponsive. (6 months ago)
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor (6 months ago)
 - [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) - Flask Extension for the MQTT protocol (6 months ago)
 
