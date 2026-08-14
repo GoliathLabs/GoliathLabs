@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.96.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.96.0), 1 day ago) - Collection of device converters to be used with zigbee-herdsman
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) ([v26.97.0](https://github.com/Koenkk/zigbee-herdsman-converters/releases/tag/v26.97.0), today) - Collection of device converters to be used with zigbee-herdsman
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.2](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.2), 3 days ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2024.11.4](https://github.com/freifunkMUC/site-ffm/releases/tag/v2024.11.4), 2 weeks ago) - Freifunk München specific Gluon configuration
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.0.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.0.0), 3 months ago) - Helm Charts for wg-access-server
