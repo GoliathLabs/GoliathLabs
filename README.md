@@ -36,7 +36,7 @@
 - [WIP: Modernize frontend build tooling and dependencies](https://github.com/traggo/server/pull/244) on [traggo/server](https://github.com/traggo/server) (1 month ago)
 - [commit local changes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/300) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 month ago)
 - [Add statement on EU&#39;s Chat Control 1.0 reintroduction](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/597) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 month ago)
-- [fix: high CPU usage with eventlet](https://github.com/stlehmann/Flask-MQTT/pull/218) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (1 month ago)
+- [fix: high CPU usage with eventlet](https://github.com/stlehmann/Flask-MQTT/pull/218) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (2 months ago)
 - [chore: bump to v1.0.0](https://github.com/freifunkMUC/wg-access-server-chart/pull/41) on [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) (4 months ago)
 
 #### 📓 Gists I wrote
