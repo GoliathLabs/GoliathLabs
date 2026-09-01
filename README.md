@@ -19,7 +19,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.8.2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.8.2), 1 week ago) - Freifunk München specific Gluon configuration
-- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.3), 1 week ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
+- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.3), 2 weeks ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.0.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.0.0), 4 months ago) - Helm Charts for wg-access-server
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.1), 7 months ago) - 
 - [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) ([v1.3.0](https://github.com/stlehmann/Flask-MQTT/releases/tag/v1.3.0), 7 months ago) - Flask Extension for the MQTT protocol
@@ -30,8 +30,8 @@
 
 - [Add multi-controller support, merging in omada_respondd](https://github.com/freifunkMUC/unifi_respondd/pull/94) on [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) (2 weeks ago)
 - [security: fix JSON injection in cfssl_certs and HTTP MITM in chromedriver update](https://github.com/freifunkMUC/ffmuc-salt-public/pull/307) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 weeks ago)
-- [make versioning pep-440 conform](https://github.com/freifunkMUC/unifi_respondd/pull/93) on [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) (4 weeks ago)
-- [fix: TestPyPi flow](https://github.com/freifunkMUC/unifi_respondd/pull/92) on [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) (4 weeks ago)
+- [make versioning pep-440 conform](https://github.com/freifunkMUC/unifi_respondd/pull/93) on [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) (1 month ago)
+- [fix: TestPyPi flow](https://github.com/freifunkMUC/unifi_respondd/pull/92) on [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) (1 month ago)
 - [fix: Update German translation for push sharing message](https://github.com/pglombardo/PasswordPusher/pull/4682) on [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) (1 month ago)
 - [WIP: Modernize frontend build tooling and dependencies](https://github.com/traggo/server/pull/244) on [traggo/server](https://github.com/traggo/server) (1 month ago)
 - [commit local changes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/300) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 month ago)
