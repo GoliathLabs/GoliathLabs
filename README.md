@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (today)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (today)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (1 day ago)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 day ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 days ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (1 week ago)
@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(devices): stop replicas from assigning the same VPN address](https://github.com/freifunkMUC/wg-access-server/pull/1237) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [fix(storage): make the documented MySQL setup actually work](https://github.com/freifunkMUC/wg-access-server/pull/1229) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [chore(dependabot): hold back TypeScript majors](https://github.com/freifunkMUC/wg-access-server/pull/1228) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [build(deps): update pg-events to v0.5.0 and stop broadcasting updates](https://github.com/freifunkMUC/wg-access-server/pull/1227) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [build(deps): update wg-embed to v0.11.0](https://github.com/freifunkMUC/wg-access-server/pull/1226) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [fix: report a taken interface name and stop leaking on failure](https://github.com/freifunkMUC/wg-embed/pull/51) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (today)
+- [fix: survive concurrent starts, large rows and concurrent use](https://github.com/freifunkMUC/pg-events/pull/38) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (today)
+- [fix(metadata): accumulate traffic across replicas and restarts](https://github.com/freifunkMUC/wg-access-server/pull/1225) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [feat(serve): read the admin password and WireGuard key from secret files](https://github.com/freifunkMUC/wg-access-server/pull/1224) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [refactor: read resolv.conf directly instead of pulling in Moby](https://github.com/freifunkMUC/wg-access-server/pull/1223) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [Fix/drop docker dep](https://github.com/Place1/wg-access-server/pull/206) on [Place1/wg-access-server](https://github.com/Place1/wg-access-server) (today)
-- [build(deps): switch codegen to @freifunkmuc/grpc-ts-web](https://github.com/freifunkMUC/wg-access-server/pull/1222) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [support grpc-web 2 and publish as @freifunkmuc/grpc-ts-web](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web/pull/1) on [freifunkMUC/protoc-gen-grpc-ts-web](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web) (1 day ago)
-- [support grpc-web 2 and publish as @freifunkmuc/grpc-ts-web](https://github.com/Place1/protoc-gen-grpc-ts-web/pull/6) on [Place1/protoc-gen-grpc-ts-web](https://github.com/Place1/protoc-gen-grpc-ts-web) (1 day ago)
-- [bump: mui, react](https://github.com/freifunkMUC/wg-access-server/pull/1221) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [chore: mobx updates](https://github.com/freifunkMUC/wg-access-server/pull/1220) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [chore: new release &amp; prep work](https://github.com/freifunkMUC/wg-access-server-chart/pull/45) on [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) (1 day ago)
-- [linting: fix eslint findings &amp; configure linter](https://github.com/freifunkMUC/wg-access-server/pull/1219) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [chores: update deps](https://github.com/freifunkMUC/wg-access-server/pull/1218) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 
 #### 📓 Gists I wrote
 
