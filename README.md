@@ -3,11 +3,11 @@
 #### 👷 Check out what I'm currently working on
 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (today)
-- [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (today)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (today)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 days ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (6 days ago)
-- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (6 days ago)
+- [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (1 day ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 day ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 days ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
+- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (1 week ago)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (4 weeks ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (1 month ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 month ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.1.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.1.0), today) - Helm Charts for wg-access-server
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.1.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.1.0), 1 day ago) - Helm Charts for wg-access-server
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.8.2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.8.2), 3 weeks ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.3), 3 weeks ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.1), 7 months ago) - 
@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: new release &amp; prep work](https://github.com/freifunkMUC/wg-access-server-chart/pull/45) on [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) (today)
-- [linting: fix eslint findings &amp; configure linter](https://github.com/freifunkMUC/wg-access-server/pull/1219) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [chores: update deps](https://github.com/freifunkMUC/wg-access-server/pull/1218) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [build: make `npm ci` work without --legacy-peer-deps](https://github.com/freifunkMUC/autodiscover-email-settings/pull/50) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (6 days ago)
-- [Add multi-controller support, merging in omada_respondd](https://github.com/freifunkMUC/unifi_respondd/pull/94) on [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) (4 weeks ago)
-- [security: fix JSON injection in cfssl_certs and HTTP MITM in chromedriver update](https://github.com/freifunkMUC/ffmuc-salt-public/pull/307) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 weeks ago)
-- [make versioning pep-440 conform](https://github.com/freifunkMUC/unifi_respondd/pull/93) on [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) (1 month ago)
-- [fix: TestPyPi flow](https://github.com/freifunkMUC/unifi_respondd/pull/92) on [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) (1 month ago)
-- [fix: Update German translation for push sharing message](https://github.com/pglombardo/PasswordPusher/pull/4682) on [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) (1 month ago)
-- [WIP: Modernize frontend build tooling and dependencies](https://github.com/traggo/server/pull/244) on [traggo/server](https://github.com/traggo/server) (1 month ago)
+- [refactor: read resolv.conf directly instead of pulling in Moby](https://github.com/freifunkMUC/wg-access-server/pull/1223) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Fix/drop docker dep](https://github.com/Place1/wg-access-server/pull/206) on [Place1/wg-access-server](https://github.com/Place1/wg-access-server) (today)
+- [build(deps): switch codegen to @freifunkmuc/grpc-ts-web](https://github.com/freifunkMUC/wg-access-server/pull/1222) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [support grpc-web 2 and publish as @freifunkmuc/grpc-ts-web](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web/pull/1) on [freifunkMUC/protoc-gen-grpc-ts-web](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web) (1 day ago)
+- [support grpc-web 2 and publish as @freifunkmuc/grpc-ts-web](https://github.com/Place1/protoc-gen-grpc-ts-web/pull/6) on [Place1/protoc-gen-grpc-ts-web](https://github.com/Place1/protoc-gen-grpc-ts-web) (1 day ago)
+- [bump: mui, react](https://github.com/freifunkMUC/wg-access-server/pull/1221) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [chore: mobx updates](https://github.com/freifunkMUC/wg-access-server/pull/1220) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [chore: new release &amp; prep work](https://github.com/freifunkMUC/wg-access-server-chart/pull/45) on [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) (1 day ago)
+- [linting: fix eslint findings &amp; configure linter](https://github.com/freifunkMUC/wg-access-server/pull/1219) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [chores: update deps](https://github.com/freifunkMUC/wg-access-server/pull/1218) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -50,8 +50,8 @@
 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 month ago)
 - [TheScienceElf/UNIVAC-1219](https://github.com/TheScienceElf/UNIVAC-1219) - An emulator and assembler for the UNIVAC-1219 computer (4 months ago)
-- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (4 months ago)
-- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together (4 months ago)
+- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (5 months ago)
+- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together (5 months ago)
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own. (5 months ago)
 - [rancher/rke2](https://github.com/rancher/rke2) -  (6 months ago)
 - [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (6 months ago)
