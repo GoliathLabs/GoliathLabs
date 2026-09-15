@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: release chart 1.2.0 for wg-access-server v1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/pull/46) on [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) (today)
 - [fix(devices): stop replicas from assigning the same VPN address](https://github.com/freifunkMUC/wg-access-server/pull/1237) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [fix(storage): make the documented MySQL setup actually work](https://github.com/freifunkMUC/wg-access-server/pull/1229) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [chore(dependabot): hold back TypeScript majors](https://github.com/freifunkMUC/wg-access-server/pull/1228) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
@@ -37,7 +38,6 @@
 - [fix: survive concurrent starts, large rows and concurrent use](https://github.com/freifunkMUC/pg-events/pull/38) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (1 day ago)
 - [fix(metadata): accumulate traffic across replicas and restarts](https://github.com/freifunkMUC/wg-access-server/pull/1225) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [feat(serve): read the admin password and WireGuard key from secret files](https://github.com/freifunkMUC/wg-access-server/pull/1224) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [refactor: read resolv.conf directly instead of pulling in Moby](https://github.com/freifunkMUC/wg-access-server/pull/1223) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 
 #### 📓 Gists I wrote
 
