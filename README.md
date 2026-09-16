@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (today)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 day ago)
-- [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (2 days ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (4 days ago)
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 day ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 days ago)
+- [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (3 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (5 days ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (1 week ago)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (1 month ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.2.0), today) - Helm Charts for wg-access-server
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.2.0), 1 day ago) - Helm Charts for wg-access-server
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.8.2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.8.2), 3 weeks ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.3), 4 weeks ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.1), 7 months ago) - 
@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: release chart 1.2.0 for wg-access-server v1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/pull/46) on [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) (today)
-- [fix(devices): stop replicas from assigning the same VPN address](https://github.com/freifunkMUC/wg-access-server/pull/1237) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [fix(storage): make the documented MySQL setup actually work](https://github.com/freifunkMUC/wg-access-server/pull/1229) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [chore(dependabot): hold back TypeScript majors](https://github.com/freifunkMUC/wg-access-server/pull/1228) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [build(deps): update pg-events to v0.5.0 and stop broadcasting updates](https://github.com/freifunkMUC/wg-access-server/pull/1227) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [build(deps): update wg-embed to v0.11.0](https://github.com/freifunkMUC/wg-access-server/pull/1226) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [fix: report a taken interface name and stop leaking on failure](https://github.com/freifunkMUC/wg-embed/pull/51) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (1 day ago)
-- [fix: survive concurrent starts, large rows and concurrent use](https://github.com/freifunkMUC/pg-events/pull/38) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (1 day ago)
-- [fix(metadata): accumulate traffic across replicas and restarts](https://github.com/freifunkMUC/wg-access-server/pull/1225) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [feat(serve): read the admin password and WireGuard key from secret files](https://github.com/freifunkMUC/wg-access-server/pull/1224) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [chore: release chart 1.2.0 for wg-access-server v1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/pull/46) on [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) (1 day ago)
+- [fix(devices): stop replicas from assigning the same VPN address](https://github.com/freifunkMUC/wg-access-server/pull/1237) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [fix(storage): make the documented MySQL setup actually work](https://github.com/freifunkMUC/wg-access-server/pull/1229) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [chore(dependabot): hold back TypeScript majors](https://github.com/freifunkMUC/wg-access-server/pull/1228) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [build(deps): update pg-events to v0.5.0 and stop broadcasting updates](https://github.com/freifunkMUC/wg-access-server/pull/1227) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [build(deps): update wg-embed to v0.11.0](https://github.com/freifunkMUC/wg-access-server/pull/1226) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [fix: report a taken interface name and stop leaking on failure](https://github.com/freifunkMUC/wg-embed/pull/51) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (2 days ago)
+- [fix: survive concurrent starts, large rows and concurrent use](https://github.com/freifunkMUC/pg-events/pull/38) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (2 days ago)
+- [fix(metadata): accumulate traffic across replicas and restarts](https://github.com/freifunkMUC/wg-access-server/pull/1225) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [feat(serve): read the admin password and WireGuard key from secret files](https://github.com/freifunkMUC/wg-access-server/pull/1224) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
 
 #### 📓 Gists I wrote
 
