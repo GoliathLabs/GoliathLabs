@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix silent failures: fail-closed Netbox lookups, atomic apt keyrings, Compose v2](https://github.com/freifunkMUC/ffmuc-salt-public/pull/311) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [chore: release chart 1.2.0 for wg-access-server v1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/pull/46) on [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) (2 days ago)
 - [fix(devices): stop replicas from assigning the same VPN address](https://github.com/freifunkMUC/wg-access-server/pull/1237) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
 - [fix(storage): make the documented MySQL setup actually work](https://github.com/freifunkMUC/wg-access-server/pull/1229) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
@@ -37,7 +38,6 @@
 - [fix: report a taken interface name and stop leaking on failure](https://github.com/freifunkMUC/wg-embed/pull/51) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (3 days ago)
 - [fix: survive concurrent starts, large rows and concurrent use](https://github.com/freifunkMUC/pg-events/pull/38) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (3 days ago)
 - [fix(metadata): accumulate traffic across replicas and restarts](https://github.com/freifunkMUC/wg-access-server/pull/1225) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
-- [feat(serve): read the admin password and WireGuard key from secret files](https://github.com/freifunkMUC/wg-access-server/pull/1224) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
 
 #### 📓 Gists I wrote
 
