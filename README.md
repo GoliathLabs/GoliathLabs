@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/import keeps addresses](https://github.com/freifunkMUC/wg-access-server/pull/1246) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [fix(dnsproxy): bound the response cache with an LRU](https://github.com/freifunkMUC/wg-access-server/pull/1245) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Fix/dns cache limit](https://github.com/Place1/wg-access-server/pull/208) on [Place1/wg-access-server](https://github.com/Place1/wg-access-server) (today)
+- [test: generate the bcrypt test hashes instead of hardcoding them](https://github.com/freifunkMUC/wg-access-server/pull/1244) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Fix/dns upstream failover](https://github.com/freifunkMUC/wg-access-server/pull/1243) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Fix/self signed certificate](https://github.com/freifunkMUC/wg-access-server/pull/1242) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Fix/address parsing and admin user](https://github.com/freifunkMUC/wg-access-server/pull/1241) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Fix/address parsing and admin user](https://github.com/Place1/wg-access-server/pull/207) on [Place1/wg-access-server](https://github.com/Place1/wg-access-server) (today)
+- [Fix/review findings](https://github.com/freifunkMUC/wg-access-server/pull/1240) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Fix silent failures: fail-closed Netbox lookups, atomic apt keyrings, Compose v2](https://github.com/freifunkMUC/ffmuc-salt-public/pull/311) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [chore: release chart 1.2.0 for wg-access-server v1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/pull/46) on [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) (3 days ago)
-- [fix(devices): stop replicas from assigning the same VPN address](https://github.com/freifunkMUC/wg-access-server/pull/1237) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [fix(storage): make the documented MySQL setup actually work](https://github.com/freifunkMUC/wg-access-server/pull/1229) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [chore(dependabot): hold back TypeScript majors](https://github.com/freifunkMUC/wg-access-server/pull/1228) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [build(deps): update pg-events to v0.5.0 and stop broadcasting updates](https://github.com/freifunkMUC/wg-access-server/pull/1227) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [build(deps): update wg-embed to v0.11.0](https://github.com/freifunkMUC/wg-access-server/pull/1226) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [fix: report a taken interface name and stop leaking on failure](https://github.com/freifunkMUC/wg-embed/pull/51) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (4 days ago)
-- [fix: survive concurrent starts, large rows and concurrent use](https://github.com/freifunkMUC/pg-events/pull/38) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (4 days ago)
-- [fix(metadata): accumulate traffic across replicas and restarts](https://github.com/freifunkMUC/wg-access-server/pull/1225) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
 
 #### 📓 Gists I wrote
 
