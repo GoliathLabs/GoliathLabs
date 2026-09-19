@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(auth): slow down repeated failed logins](https://github.com/freifunkMUC/wg-access-server/pull/1250) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [fix: auth responses, loop shutdown, user deletion, name validation](https://github.com/freifunkMUC/wg-access-server/pull/1249) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [feat(dnsproxy): make the response cache size configurable](https://github.com/freifunkMUC/wg-access-server/pull/1248) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [allow serving the web UI over HTTPS only &#43; set security headers](https://github.com/freifunkMUC/wg-access-server/pull/1247) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Feat/import keeps addresses](https://github.com/freifunkMUC/wg-access-server/pull/1246) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [fix(dnsproxy): bound the response cache with an LRU](https://github.com/freifunkMUC/wg-access-server/pull/1245) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [Fix/dns cache limit](https://github.com/Place1/wg-access-server/pull/208) on [Place1/wg-access-server](https://github.com/Place1/wg-access-server) (1 day ago)
 - [test: generate the bcrypt test hashes instead of hardcoding them](https://github.com/freifunkMUC/wg-access-server/pull/1244) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [Fix/dns upstream failover](https://github.com/freifunkMUC/wg-access-server/pull/1243) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [Fix/self signed certificate](https://github.com/freifunkMUC/wg-access-server/pull/1242) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [Fix/address parsing and admin user](https://github.com/freifunkMUC/wg-access-server/pull/1241) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [Fix/address parsing and admin user](https://github.com/Place1/wg-access-server/pull/207) on [Place1/wg-access-server](https://github.com/Place1/wg-access-server) (1 day ago)
-- [Fix/review findings](https://github.com/freifunkMUC/wg-access-server/pull/1240) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [Fix silent failures: fail-closed Netbox lookups, atomic apt keyrings, Compose v2](https://github.com/freifunkMUC/ffmuc-salt-public/pull/311) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
 
 #### 📓 Gists I wrote
 
