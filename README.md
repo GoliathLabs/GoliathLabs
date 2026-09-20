@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (4 days ago)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (5 days ago)
-- [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (6 days ago)
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (5 days ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (6 days ago)
+- [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (1 week ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (1 week ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.2.0), 4 days ago) - Helm Charts for wg-access-server
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.2.0), 5 days ago) - Helm Charts for wg-access-server
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.8.2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.8.2), 1 month ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.3), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.1), 7 months ago) - 
@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(auth): slow down repeated failed logins](https://github.com/freifunkMUC/wg-access-server/pull/1250) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [fix: auth responses, loop shutdown, user deletion, name validation](https://github.com/freifunkMUC/wg-access-server/pull/1249) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [feat(dnsproxy): make the response cache size configurable](https://github.com/freifunkMUC/wg-access-server/pull/1248) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [allow serving the web UI over HTTPS only &#43; set security headers](https://github.com/freifunkMUC/wg-access-server/pull/1247) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [Feat/import keeps addresses](https://github.com/freifunkMUC/wg-access-server/pull/1246) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [fix(dnsproxy): bound the response cache with an LRU](https://github.com/freifunkMUC/wg-access-server/pull/1245) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [Fix/dns cache limit](https://github.com/Place1/wg-access-server/pull/208) on [Place1/wg-access-server](https://github.com/Place1/wg-access-server) (1 day ago)
-- [test: generate the bcrypt test hashes instead of hardcoding them](https://github.com/freifunkMUC/wg-access-server/pull/1244) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [Fix/dns upstream failover](https://github.com/freifunkMUC/wg-access-server/pull/1243) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [Fix/self signed certificate](https://github.com/freifunkMUC/wg-access-server/pull/1242) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [feat(auth): slow down repeated failed logins](https://github.com/freifunkMUC/wg-access-server/pull/1250) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [fix: auth responses, loop shutdown, user deletion, name validation](https://github.com/freifunkMUC/wg-access-server/pull/1249) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [feat(dnsproxy): make the response cache size configurable](https://github.com/freifunkMUC/wg-access-server/pull/1248) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [allow serving the web UI over HTTPS only &#43; set security headers](https://github.com/freifunkMUC/wg-access-server/pull/1247) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [Feat/import keeps addresses](https://github.com/freifunkMUC/wg-access-server/pull/1246) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [fix(dnsproxy): bound the response cache with an LRU](https://github.com/freifunkMUC/wg-access-server/pull/1245) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [Fix/dns cache limit](https://github.com/Place1/wg-access-server/pull/208) on [Place1/wg-access-server](https://github.com/Place1/wg-access-server) (2 days ago)
+- [test: generate the bcrypt test hashes instead of hardcoding them](https://github.com/freifunkMUC/wg-access-server/pull/1244) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [Fix/dns upstream failover](https://github.com/freifunkMUC/wg-access-server/pull/1243) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [Fix/self signed certificate](https://github.com/freifunkMUC/wg-access-server/pull/1242) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -49,7 +49,7 @@
 #### ⭐ Recent Stars
 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 month ago)
-- [TheScienceElf/UNIVAC-1219](https://github.com/TheScienceElf/UNIVAC-1219) - An emulator and assembler for the UNIVAC-1219 computer (4 months ago)
+- [TheScienceElf/UNIVAC-1219](https://github.com/TheScienceElf/UNIVAC-1219) - An emulator and assembler for the UNIVAC-1219 computer (5 months ago)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (5 months ago)
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together (5 months ago)
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own. (5 months ago)
