@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(storage): delete a user&#39;s devices in one transaction](https://github.com/freifunkMUC/wg-access-server/pull/1264) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [feat(storage): report renamed devices to every replica](https://github.com/freifunkMUC/wg-access-server/pull/1263) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [chore(storage): move from gorm v1 to gorm v2](https://github.com/freifunkMUC/wg-access-server/pull/1262) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [fix(storage): enforce the unique public key on MySQL](https://github.com/freifunkMUC/wg-access-server/pull/1261) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [feat(wireguard): run configured commands around the interface lifecycle](https://github.com/freifunkMUC/wg-access-server/pull/1260) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [ci: run the storage tests against Postgres and MySQL](https://github.com/freifunkMUC/wg-access-server/pull/1259) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Fix/review followups](https://github.com/freifunkMUC/wg-access-server/pull/1258) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [fix(auth): make the email domain restriction actually work](https://github.com/freifunkMUC/wg-access-server/pull/1257) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [fix(website): fix the device list test against the renamed callback](https://github.com/freifunkMUC/wg-access-server/pull/1256) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [feat(devices): limit how many devices a user may create](https://github.com/freifunkMUC/wg-access-server/pull/1255) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [feat(devices): allow renaming a device](https://github.com/freifunkMUC/wg-access-server/pull/1254) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [chore(website): set up vitest and add the first tests](https://github.com/freifunkMUC/wg-access-server/pull/1253) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [fix(lint): resolve the staticcheck finding on the device name error](https://github.com/freifunkMUC/wg-access-server/pull/1252) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [feat(audit): record who created and deleted devices](https://github.com/freifunkMUC/wg-access-server/pull/1251) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [feat(auth): slow down repeated failed logins](https://github.com/freifunkMUC/wg-access-server/pull/1250) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [fix: auth responses, loop shutdown, user deletion, name validation](https://github.com/freifunkMUC/wg-access-server/pull/1249) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 
 #### 📓 Gists I wrote
 
