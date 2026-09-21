@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: run golanci-lint, small fixes](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web/pull/5) on [freifunkMUC/protoc-gen-grpc-ts-web](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web) (today)
+- [chore: replace the deprecated ioutil.ReadAll](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web/pull/4) on [freifunkMUC/protoc-gen-grpc-ts-web](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web) (today)
+- [chore: move from github.com/golang/protobuf to google.golang.org/protbuf](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web/pull/3) on [freifunkMUC/protoc-gen-grpc-ts-web](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web) (today)
+- [chore: update deps and choose the gRPC-Web wire format of the generated client](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web/pull/2) on [freifunkMUC/protoc-gen-grpc-ts-web](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web) (today)
+- [chore(proto): pin the code generators as tools in go.mod](https://github.com/freifunkMUC/wg-access-server/pull/1267) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [fix(deps): update connect to v1.21.0, which builds on 32-bit platforms](https://github.com/freifunkMUC/wg-access-server/pull/1266) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [docker-containers: Compose v2 and per-stack states (discussion)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/313) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [feat(api): serve the same API through connectrpc](https://github.com/freifunkMUC/wg-access-server/pull/1265) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [feat(storage): delete a user&#39;s devices in one transaction](https://github.com/freifunkMUC/wg-access-server/pull/1264) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [feat(storage): report renamed devices to every replica](https://github.com/freifunkMUC/wg-access-server/pull/1263) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [chore(storage): move from gorm v1 to gorm v2](https://github.com/freifunkMUC/wg-access-server/pull/1262) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [fix(storage): enforce the unique public key on MySQL](https://github.com/freifunkMUC/wg-access-server/pull/1261) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [feat(wireguard): run configured commands around the interface lifecycle](https://github.com/freifunkMUC/wg-access-server/pull/1260) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [ci: run the storage tests against Postgres and MySQL](https://github.com/freifunkMUC/wg-access-server/pull/1259) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [Fix/review followups](https://github.com/freifunkMUC/wg-access-server/pull/1258) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [fix(auth): make the email domain restriction actually work](https://github.com/freifunkMUC/wg-access-server/pull/1257) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 
 #### 📓 Gists I wrote
 
