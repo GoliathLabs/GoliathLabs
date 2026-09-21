@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docker-containers: Compose v2 and per-stack states (discussion)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/313) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [feat(api): serve the same API through connectrpc](https://github.com/freifunkMUC/wg-access-server/pull/1265) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [feat(storage): delete a user&#39;s devices in one transaction](https://github.com/freifunkMUC/wg-access-server/pull/1264) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [feat(storage): report renamed devices to every replica](https://github.com/freifunkMUC/wg-access-server/pull/1263) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
@@ -37,7 +38,6 @@
 - [ci: run the storage tests against Postgres and MySQL](https://github.com/freifunkMUC/wg-access-server/pull/1259) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [Fix/review followups](https://github.com/freifunkMUC/wg-access-server/pull/1258) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [fix(auth): make the email domain restriction actually work](https://github.com/freifunkMUC/wg-access-server/pull/1257) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [fix(website): fix the device list test against the renamed callback](https://github.com/freifunkMUC/wg-access-server/pull/1256) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 
 #### 📓 Gists I wrote
 
