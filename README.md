@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(api): serve /api through connectrpc and drop the grpc-web wrapper](https://github.com/freifunkMUC/wg-access-server/pull/1268) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [ci: run golanci-lint, small fixes](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web/pull/5) on [freifunkMUC/protoc-gen-grpc-ts-web](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web) (today)
 - [chore: replace the deprecated ioutil.ReadAll](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web/pull/4) on [freifunkMUC/protoc-gen-grpc-ts-web](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web) (today)
 - [chore: move from github.com/golang/protobuf to google.golang.org/protbuf](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web/pull/3) on [freifunkMUC/protoc-gen-grpc-ts-web](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web) (today)
@@ -37,7 +38,6 @@
 - [docker-containers: Compose v2 and per-stack states (discussion)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/313) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [feat(api): serve the same API through connectrpc](https://github.com/freifunkMUC/wg-access-server/pull/1265) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [feat(storage): delete a user&#39;s devices in one transaction](https://github.com/freifunkMUC/wg-access-server/pull/1264) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [feat(storage): report renamed devices to every replica](https://github.com/freifunkMUC/wg-access-server/pull/1263) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 
 #### 📓 Gists I wrote
 
