@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(api): serve /api through connectrpc and drop the grpc-web wrapper](https://github.com/freifunkMUC/wg-access-server/pull/1268) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [ci: run golanci-lint, small fixes](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web/pull/5) on [freifunkMUC/protoc-gen-grpc-ts-web](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web) (1 day ago)
-- [chore: replace the deprecated ioutil.ReadAll](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web/pull/4) on [freifunkMUC/protoc-gen-grpc-ts-web](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web) (1 day ago)
-- [chore: move from github.com/golang/protobuf to google.golang.org/protbuf](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web/pull/3) on [freifunkMUC/protoc-gen-grpc-ts-web](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web) (1 day ago)
-- [chore: update deps and choose the gRPC-Web wire format of the generated client](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web/pull/2) on [freifunkMUC/protoc-gen-grpc-ts-web](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web) (1 day ago)
-- [chore(proto): pin the code generators as tools in go.mod](https://github.com/freifunkMUC/wg-access-server/pull/1267) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [fix(deps): update connect to v1.21.0, which builds on 32-bit platforms](https://github.com/freifunkMUC/wg-access-server/pull/1266) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [docker-containers: Compose v2 and per-stack states (discussion)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/313) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [feat(api): serve the same API through connectrpc](https://github.com/freifunkMUC/wg-access-server/pull/1265) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
-- [feat(storage): delete a user&#39;s devices in one transaction](https://github.com/freifunkMUC/wg-access-server/pull/1264) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [feat(network): nftables support](https://github.com/freifunkMUC/wg-access-server/pull/1281) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [docs: finish the TODO list](https://github.com/freifunkMUC/wg-access-server/pull/1280) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [fix(website): sentence case throughout the web UI](https://github.com/freifunkMUC/wg-access-server/pull/1279) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [fix(website): sign-out button, app bar, device order and fresh screenshots](https://github.com/freifunkMUC/wg-access-server/pull/1278) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [feat(auth): sign in with GitHub](https://github.com/freifunkMUC/wg-access-server/pull/1277) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [feat(auth): show the app name and a footer on the login page](https://github.com/freifunkMUC/wg-access-server/pull/1276) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [fix(auth): tidy up the login page](https://github.com/freifunkMUC/wg-access-server/pull/1275) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [test(devices): rename a device against a real SQLite database](https://github.com/freifunkMUC/wg-access-server/pull/1274) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [refactor(storage): implement db migrations and schema upgrades](https://github.com/freifunkMUC/wg-access-server/pull/1273) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Fix/docs links](https://github.com/freifunkMUC/wg-access-server/pull/1272) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 
 #### 📓 Gists I wrote
 
