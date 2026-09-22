@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 week ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (1 week ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (2 weeks ago)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (1 month ago)
+- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (1 month ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (1 month ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 month ago)
-- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(docs): publish one version of the docs per minor release](https://github.com/freifunkMUC/wg-access-server/pull/1288) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [fix(auth): send the browser on with a GET after signing in](https://github.com/freifunkMUC/wg-access-server/pull/1287) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [feat(website): take the README screenshots with Playwright](https://github.com/freifunkMUC/wg-access-server/pull/1286) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [fix: bring back fixes that never made it to master](https://github.com/freifunkMUC/wg-access-server/pull/1285) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Security hardening, Trivy and an up-to-date README](https://github.com/freifunkMUC/wg-access-server/pull/1284) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [fix(compose): a docker-compose.yml that works with current Docker Compose](https://github.com/freifunkMUC/wg-access-server/pull/1283) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [fix: time out slow clients, and hide valid usernames on /metrics](https://github.com/freifunkMUC/wg-access-server/pull/1282) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [feat(network): nftables support](https://github.com/freifunkMUC/wg-access-server/pull/1281) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [docs: finish the TODO list](https://github.com/freifunkMUC/wg-access-server/pull/1280) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [fix(website): sentence case throughout the web UI](https://github.com/freifunkMUC/wg-access-server/pull/1279) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [fix(website): sign-out button, app bar, device order and fresh screenshots](https://github.com/freifunkMUC/wg-access-server/pull/1278) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [feat(auth): sign in with GitHub](https://github.com/freifunkMUC/wg-access-server/pull/1277) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [feat(auth): show the app name and a footer on the login page](https://github.com/freifunkMUC/wg-access-server/pull/1276) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [fix(auth): tidy up the login page](https://github.com/freifunkMUC/wg-access-server/pull/1275) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [test(devices): rename a device against a real SQLite database](https://github.com/freifunkMUC/wg-access-server/pull/1274) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [refactor(storage): implement db migrations and schema upgrades](https://github.com/freifunkMUC/wg-access-server/pull/1273) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [Fix/docs links](https://github.com/freifunkMUC/wg-access-server/pull/1272) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 
 #### 📓 Gists I wrote
 
