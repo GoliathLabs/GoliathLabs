@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 days ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (3 days ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 week ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (1 week ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (2 weeks ago)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (1 month ago)
 - [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (1 month ago)
@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(docs): publish one version of the docs per minor release](https://github.com/freifunkMUC/wg-access-server/pull/1288) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
-- [fix(auth): send the browser on with a GET after signing in](https://github.com/freifunkMUC/wg-access-server/pull/1287) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
-- [feat(website): take the README screenshots with Playwright](https://github.com/freifunkMUC/wg-access-server/pull/1286) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
-- [fix: bring back fixes that never made it to master](https://github.com/freifunkMUC/wg-access-server/pull/1285) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
-- [Security hardening, Trivy and an up-to-date README](https://github.com/freifunkMUC/wg-access-server/pull/1284) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
-- [fix(compose): a docker-compose.yml that works with current Docker Compose](https://github.com/freifunkMUC/wg-access-server/pull/1283) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
-- [fix: time out slow clients, and hide valid usernames on /metrics](https://github.com/freifunkMUC/wg-access-server/pull/1282) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
-- [feat(network): nftables support](https://github.com/freifunkMUC/wg-access-server/pull/1281) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
-- [docs: finish the TODO list](https://github.com/freifunkMUC/wg-access-server/pull/1280) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
-- [fix(website): sentence case throughout the web UI](https://github.com/freifunkMUC/wg-access-server/pull/1279) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [feat(docs): publish one version of the docs per minor release](https://github.com/freifunkMUC/wg-access-server/pull/1288) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
+- [fix(auth): send the browser on with a GET after signing in](https://github.com/freifunkMUC/wg-access-server/pull/1287) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
+- [feat(website): take the README screenshots with Playwright](https://github.com/freifunkMUC/wg-access-server/pull/1286) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
+- [fix: bring back fixes that never made it to master](https://github.com/freifunkMUC/wg-access-server/pull/1285) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
+- [Security hardening, Trivy and an up-to-date README](https://github.com/freifunkMUC/wg-access-server/pull/1284) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
+- [fix(compose): a docker-compose.yml that works with current Docker Compose](https://github.com/freifunkMUC/wg-access-server/pull/1283) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
+- [fix: time out slow clients, and hide valid usernames on /metrics](https://github.com/freifunkMUC/wg-access-server/pull/1282) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
+- [feat(network): nftables support](https://github.com/freifunkMUC/wg-access-server/pull/1281) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
+- [docs: finish the TODO list](https://github.com/freifunkMUC/wg-access-server/pull/1280) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
+- [fix(website): sentence case throughout the web UI](https://github.com/freifunkMUC/wg-access-server/pull/1279) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
 
 #### 📓 Gists I wrote
 
