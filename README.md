@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: keep the deployment instructions in one place](https://github.com/freifunkMUC/wg-access-server/pull/1297) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [refactor(web ui): stop keeping a second copy of the device list](https://github.com/freifunkMUC/wg-access-server/pull/1296) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [refactor(config): give the nested configuration sections names](https://github.com/freifunkMUC/wg-access-server/pull/1295) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [refactor: split internal/services into api, metrics and web](https://github.com/freifunkMUC/wg-access-server/pull/1294) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [refactor(serve): give the serve command one file per concern](https://github.com/freifunkMUC/wg-access-server/pull/1293) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [ci: build, scan and publish the image in one workflow](https://github.com/freifunkMUC/wg-access-server/pull/1292) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [refactor(api): drop an unused converter and its unreachable branches](https://github.com/freifunkMUC/wg-access-server/pull/1291) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [refactor: move authnz into internal, where it is used](https://github.com/freifunkMUC/wg-access-server/pull/1290) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [refactor(network): set up both address families from one description](https://github.com/freifunkMUC/wg-access-server/pull/1289) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [feat(docs): publish one version of the docs per minor release](https://github.com/freifunkMUC/wg-access-server/pull/1288) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [fix(auth): send the browser on with a GET after signing in](https://github.com/freifunkMUC/wg-access-server/pull/1287) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [feat(website): take the README screenshots with Playwright](https://github.com/freifunkMUC/wg-access-server/pull/1286) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [fix: bring back fixes that never made it to master](https://github.com/freifunkMUC/wg-access-server/pull/1285) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [Security hardening, Trivy and an up-to-date README](https://github.com/freifunkMUC/wg-access-server/pull/1284) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [fix(compose): a docker-compose.yml that works with current Docker Compose](https://github.com/freifunkMUC/wg-access-server/pull/1283) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [fix: time out slow clients, and hide valid usernames on /metrics](https://github.com/freifunkMUC/wg-access-server/pull/1282) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [feat(network): nftables support](https://github.com/freifunkMUC/wg-access-server/pull/1281) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [docs: finish the TODO list](https://github.com/freifunkMUC/wg-access-server/pull/1280) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [fix(website): sentence case throughout the web UI](https://github.com/freifunkMUC/wg-access-server/pull/1279) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
 
 #### 📓 Gists I wrote
 
