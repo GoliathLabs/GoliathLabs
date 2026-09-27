@@ -28,6 +28,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): stop the secret scan tripping over test fixtures](https://github.com/freifunkMUC/wg-access-server/pull/1314) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [cleanup: answer the last two TODOs in the code](https://github.com/freifunkMUC/wg-access-server/pull/1313) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [deps: read the configuration with a maintained yaml library](https://github.com/freifunkMUC/wg-access-server/pull/1312) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [perf(devices): leave peers alone that already match what is stored](https://github.com/freifunkMUC/wg-access-server/pull/1311) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [deps: wrap errors with the standard library instead of pkg/errors](https://github.com/freifunkMUC/wg-access-server/pull/1310) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
@@ -36,8 +38,6 @@
 - [perf(dns): rebuild the zone in the background, once for a burst of changes](https://github.com/freifunkMUC/wg-access-server/pull/1307) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [ci: test the databases at both ends of what the docs promise](https://github.com/freifunkMUC/wg-access-server/pull/1306) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [style: sort the imports the authnz move left out of order](https://github.com/freifunkMUC/wg-access-server/pull/1305) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [perf(devices): read only the addresses when picking one for a new device](https://github.com/freifunkMUC/wg-access-server/pull/1304) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [fix(docker): let the image start without a mounted config file](https://github.com/freifunkMUC/wg-access-server/pull/1303) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 
 #### 📓 Gists I wrote
 
