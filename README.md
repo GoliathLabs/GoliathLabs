@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: keep the deployment instructions in one place](https://github.com/freifunkMUC/wg-access-server/pull/1297) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [refactor(web ui): stop keeping a second copy of the device list](https://github.com/freifunkMUC/wg-access-server/pull/1296) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [refactor(config): give the nested configuration sections names](https://github.com/freifunkMUC/wg-access-server/pull/1295) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [refactor: split internal/services into api, metrics and web](https://github.com/freifunkMUC/wg-access-server/pull/1294) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [refactor(serve): give the serve command one file per concern](https://github.com/freifunkMUC/wg-access-server/pull/1293) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [ci: build, scan and publish the image in one workflow](https://github.com/freifunkMUC/wg-access-server/pull/1292) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [refactor(api): drop an unused converter and its unreachable branches](https://github.com/freifunkMUC/wg-access-server/pull/1291) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [refactor: move authnz into internal, where it is used](https://github.com/freifunkMUC/wg-access-server/pull/1290) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [refactor(network): set up both address families from one description](https://github.com/freifunkMUC/wg-access-server/pull/1289) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [feat(docs): publish one version of the docs per minor release](https://github.com/freifunkMUC/wg-access-server/pull/1288) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 days ago)
+- [deps: read the configuration with a maintained yaml library](https://github.com/freifunkMUC/wg-access-server/pull/1312) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [perf(devices): leave peers alone that already match what is stored](https://github.com/freifunkMUC/wg-access-server/pull/1311) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [deps: wrap errors with the standard library instead of pkg/errors](https://github.com/freifunkMUC/wg-access-server/pull/1310) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [deps: take the claim expressions to a maintained govaluate](https://github.com/freifunkMUC/wg-access-server/pull/1309) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [perf(devices): match peers against a set instead of searching the devices](https://github.com/freifunkMUC/wg-access-server/pull/1308) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [perf(dns): rebuild the zone in the background, once for a burst of changes](https://github.com/freifunkMUC/wg-access-server/pull/1307) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [ci: test the databases at both ends of what the docs promise](https://github.com/freifunkMUC/wg-access-server/pull/1306) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [style: sort the imports the authnz move left out of order](https://github.com/freifunkMUC/wg-access-server/pull/1305) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [perf(devices): read only the addresses when picking one for a new device](https://github.com/freifunkMUC/wg-access-server/pull/1304) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [fix(docker): let the image start without a mounted config file](https://github.com/freifunkMUC/wg-access-server/pull/1303) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 
 #### 📓 Gists I wrote
 
