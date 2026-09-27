@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (4 days ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (5 days ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 week ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
-- [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (1 week ago)
+- [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (2 weeks ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (2 weeks ago)
 - [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (1 month ago)
@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: keep the deployment instructions in one place](https://github.com/freifunkMUC/wg-access-server/pull/1297) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [refactor(web ui): stop keeping a second copy of the device list](https://github.com/freifunkMUC/wg-access-server/pull/1296) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [refactor(config): give the nested configuration sections names](https://github.com/freifunkMUC/wg-access-server/pull/1295) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [refactor: split internal/services into api, metrics and web](https://github.com/freifunkMUC/wg-access-server/pull/1294) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [refactor(serve): give the serve command one file per concern](https://github.com/freifunkMUC/wg-access-server/pull/1293) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [ci: build, scan and publish the image in one workflow](https://github.com/freifunkMUC/wg-access-server/pull/1292) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [refactor(api): drop an unused converter and its unreachable branches](https://github.com/freifunkMUC/wg-access-server/pull/1291) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [refactor: move authnz into internal, where it is used](https://github.com/freifunkMUC/wg-access-server/pull/1290) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [refactor(network): set up both address families from one description](https://github.com/freifunkMUC/wg-access-server/pull/1289) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [feat(docs): publish one version of the docs per minor release](https://github.com/freifunkMUC/wg-access-server/pull/1288) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
+- [docs: keep the deployment instructions in one place](https://github.com/freifunkMUC/wg-access-server/pull/1297) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [refactor(web ui): stop keeping a second copy of the device list](https://github.com/freifunkMUC/wg-access-server/pull/1296) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [refactor(config): give the nested configuration sections names](https://github.com/freifunkMUC/wg-access-server/pull/1295) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [refactor: split internal/services into api, metrics and web](https://github.com/freifunkMUC/wg-access-server/pull/1294) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [refactor(serve): give the serve command one file per concern](https://github.com/freifunkMUC/wg-access-server/pull/1293) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [ci: build, scan and publish the image in one workflow](https://github.com/freifunkMUC/wg-access-server/pull/1292) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [refactor(api): drop an unused converter and its unreachable branches](https://github.com/freifunkMUC/wg-access-server/pull/1291) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [refactor: move authnz into internal, where it is used](https://github.com/freifunkMUC/wg-access-server/pull/1290) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [refactor(network): set up both address families from one description](https://github.com/freifunkMUC/wg-access-server/pull/1289) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [feat(docs): publish one version of the docs per minor release](https://github.com/freifunkMUC/wg-access-server/pull/1288) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 days ago)
 
 #### 📓 Gists I wrote
 
