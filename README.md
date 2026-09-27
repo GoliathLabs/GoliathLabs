@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Route the networks behind a device through its peer](https://github.com/freifunkMUC/wg-access-server/pull/1316) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Keep key material out of logs and rendered configs](https://github.com/freifunkMUC/wg-embed/pull/55) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (today)
+- [Keep key material out of logs and rendered configs](https://github.com/freifunkMUC/wg-embed/pull/54) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (today)
+- [Drop pkg/errors and io/ioutil for the standard library](https://github.com/freifunkMUC/wg-embed/pull/53) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (today)
+- [Keep the kernel routes in line with the peers&#39; allowed IPs](https://github.com/freifunkMUC/wg-embed/pull/52) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (today)
+- [Block a device or give it an expiry date](https://github.com/freifunkMUC/wg-access-server/pull/1315) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [fix(ci): stop the secret scan tripping over test fixtures](https://github.com/freifunkMUC/wg-access-server/pull/1314) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [cleanup: answer the last two TODOs in the code](https://github.com/freifunkMUC/wg-access-server/pull/1313) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [deps: read the configuration with a maintained yaml library](https://github.com/freifunkMUC/wg-access-server/pull/1312) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [perf(devices): leave peers alone that already match what is stored](https://github.com/freifunkMUC/wg-access-server/pull/1311) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [deps: wrap errors with the standard library instead of pkg/errors](https://github.com/freifunkMUC/wg-access-server/pull/1310) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [deps: take the claim expressions to a maintained govaluate](https://github.com/freifunkMUC/wg-access-server/pull/1309) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [perf(devices): match peers against a set instead of searching the devices](https://github.com/freifunkMUC/wg-access-server/pull/1308) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [perf(dns): rebuild the zone in the background, once for a burst of changes](https://github.com/freifunkMUC/wg-access-server/pull/1307) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [ci: test the databases at both ends of what the docs promise](https://github.com/freifunkMUC/wg-access-server/pull/1306) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [style: sort the imports the authnz move left out of order](https://github.com/freifunkMUC/wg-access-server/pull/1305) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 
 #### 📓 Gists I wrote
 
