@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) -  (today)
+- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (today)
+- [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (today)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 weeks ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 weeks ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (2 weeks ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (3 weeks ago)
-- [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) -  (1 month ago)
-- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (1 month ago)
-- [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (1 month ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 month ago)
 
 #### 🌱 My latest projects
@@ -18,26 +18,26 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) ([v0.2.0](https://github.com/freifunkMUC/unified_respondd/releases/tag/v0.2.0), today) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.2.0), 2 weeks ago) - Helm Charts for wg-access-server
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.8.2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.8.2), 1 month ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.3), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.1), 8 months ago) - 
 - [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) ([v1.3.0](https://github.com/stlehmann/Flask-MQTT/releases/tag/v1.3.0), 8 months ago) - Flask Extension for the MQTT protocol
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 2 years ago) - Project for easy key exchange between Wireguard Clients and Servers
-- [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) ([v0.0.8](https://github.com/freifunkMUC/unifi_respondd/releases/tag/v0.0.8), 4 years ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor into unified_respondd with pluggable controller backends](https://github.com/freifunkMUC/unifi_respondd/pull/99) on [freifunkMUC/unifi_respondd](https://github.com/freifunkMUC/unifi_respondd) (today)
+- [Simplify the mermaid diagram in the README](https://github.com/freifunkMUC/unified_respondd/pull/106) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
+- [Install from PyPI in the README](https://github.com/freifunkMUC/unified_respondd/pull/105) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
+- [Publish from dedicated GitHub environments](https://github.com/freifunkMUC/unified_respondd/pull/104) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
+- [Query several controllers in one instance](https://github.com/freifunkMUC/unified_respondd/pull/103) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
+- [Add examples, systemd template unit and operations docs](https://github.com/freifunkMUC/unified_respondd/pull/102) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
+- [Add uisp backend, merging uisp_respondd](https://github.com/freifunkMUC/unified_respondd/pull/101) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
+- [Add omada backend, merging omada_respondd](https://github.com/freifunkMUC/unified_respondd/pull/100) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
+- [Refactor into unified_respondd with pluggable controller backends](https://github.com/freifunkMUC/unified_respondd/pull/99) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
 - [Remember who signed in, and when](https://github.com/freifunkMUC/wg-access-server/pull/1323) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Answer the large-reply DNS test from a local resolver](https://github.com/freifunkMUC/wg-access-server/pull/1322) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [Stop counting a test&#39;s own setup as the change under test](https://github.com/freifunkMUC/wg-access-server/pull/1321) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [Keep the device rows out of the Postgres notifications](https://github.com/freifunkMUC/wg-access-server/pull/1320) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [Take the released wg-embed and pg-events](https://github.com/freifunkMUC/wg-access-server/pull/1319) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [Take a context where the library talks to Postgres](https://github.com/freifunkMUC/pg-events/pull/43) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (today)
-- [Sync the routes under the lock, and keep the reason a ping failed](https://github.com/freifunkMUC/wg-embed/pull/57) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (today)
-- [Listen with pgx instead of the unmaintained lib/pq](https://github.com/freifunkMUC/pg-events/pull/42) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (today)
-- [Scan for secrets and check spelling, like the sibling repositories](https://github.com/freifunkMUC/pg-events/pull/41) on [freifunkMUC/pg-events](https://github.com/freifunkMUC/pg-events) (today)
 
 #### 📓 Gists I wrote
 
@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 month ago)
 - [TheScienceElf/UNIVAC-1219](https://github.com/TheScienceElf/UNIVAC-1219) - An emulator and assembler for the UNIVAC-1219 computer (5 months ago)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (5 months ago)
@@ -57,7 +58,6 @@
 - [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (6 months ago)
 - [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution featuring a user-friendly web interface for easy device management and connectivity. (7 months ago)
 - [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) - A self-hosted dead man&#39;s switch for delivering encrypted messages (E2EE) to your loved ones — when you&#39;re gone or unresponsive. (7 months ago)
-- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor (8 months ago)
 
 #### 👯 Check out some of my recent followers
 
