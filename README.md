@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Show where you are signed in, and end those sessions](https://github.com/freifunkMUC/wg-access-server/pull/1328) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Keep the browser sessions, so they can be ended](https://github.com/freifunkMUC/wg-access-server/pull/1327) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Make the admin tables usable with hundreds of devices](https://github.com/freifunkMUC/wg-access-server/pull/1326) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Build the firewall rules from the access policies](https://github.com/freifunkMUC/wg-access-server/pull/1325) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Work out and remember the access policies a user is in](https://github.com/freifunkMUC/wg-access-server/pull/1324) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Simplify the mermaid diagram in the README](https://github.com/freifunkMUC/unified_respondd/pull/106) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
 - [Install from PyPI in the README](https://github.com/freifunkMUC/unified_respondd/pull/105) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
 - [Publish from dedicated GitHub environments](https://github.com/freifunkMUC/unified_respondd/pull/104) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
 - [Query several controllers in one instance](https://github.com/freifunkMUC/unified_respondd/pull/103) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
 - [Add examples, systemd template unit and operations docs](https://github.com/freifunkMUC/unified_respondd/pull/102) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
-- [Add uisp backend, merging uisp_respondd](https://github.com/freifunkMUC/unified_respondd/pull/101) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
-- [Add omada backend, merging omada_respondd](https://github.com/freifunkMUC/unified_respondd/pull/100) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
-- [Refactor into unified_respondd with pluggable controller backends](https://github.com/freifunkMUC/unified_respondd/pull/99) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
-- [Remember who signed in, and when](https://github.com/freifunkMUC/wg-access-server/pull/1323) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [Answer the large-reply DNS test from a local resolver](https://github.com/freifunkMUC/wg-access-server/pull/1322) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 
 #### 📓 Gists I wrote
 
