@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (6 days ago)
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 week ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 weeks ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 weeks ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (2 weeks ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.2.0), 1 week ago) - Helm Charts for wg-access-server
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.2.0), 2 weeks ago) - Helm Charts for wg-access-server
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.8.2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.8.2), 1 month ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.3), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.1), 8 months ago) - 
@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Route the networks behind a device through its peer](https://github.com/freifunkMUC/wg-access-server/pull/1316) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [Keep key material out of logs and rendered configs](https://github.com/freifunkMUC/wg-embed/pull/55) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (1 day ago)
-- [Keep key material out of logs and rendered configs](https://github.com/freifunkMUC/wg-embed/pull/54) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (1 day ago)
-- [Drop pkg/errors and io/ioutil for the standard library](https://github.com/freifunkMUC/wg-embed/pull/53) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (1 day ago)
-- [Keep the kernel routes in line with the peers&#39; allowed IPs](https://github.com/freifunkMUC/wg-embed/pull/52) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (1 day ago)
-- [Block a device or give it an expiry date](https://github.com/freifunkMUC/wg-access-server/pull/1315) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [fix(ci): stop the secret scan tripping over test fixtures](https://github.com/freifunkMUC/wg-access-server/pull/1314) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [cleanup: answer the last two TODOs in the code](https://github.com/freifunkMUC/wg-access-server/pull/1313) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [deps: read the configuration with a maintained yaml library](https://github.com/freifunkMUC/wg-access-server/pull/1312) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [perf(devices): leave peers alone that already match what is stored](https://github.com/freifunkMUC/wg-access-server/pull/1311) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [Route the networks behind a device through its peer](https://github.com/freifunkMUC/wg-access-server/pull/1316) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [Keep key material out of logs and rendered configs](https://github.com/freifunkMUC/wg-embed/pull/55) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (2 days ago)
+- [Keep key material out of logs and rendered configs](https://github.com/freifunkMUC/wg-embed/pull/54) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (2 days ago)
+- [Drop pkg/errors and io/ioutil for the standard library](https://github.com/freifunkMUC/wg-embed/pull/53) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (2 days ago)
+- [Keep the kernel routes in line with the peers&#39; allowed IPs](https://github.com/freifunkMUC/wg-embed/pull/52) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (2 days ago)
+- [Block a device or give it an expiry date](https://github.com/freifunkMUC/wg-access-server/pull/1315) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [fix(ci): stop the secret scan tripping over test fixtures](https://github.com/freifunkMUC/wg-access-server/pull/1314) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [cleanup: answer the last two TODOs in the code](https://github.com/freifunkMUC/wg-access-server/pull/1313) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [deps: read the configuration with a maintained yaml library](https://github.com/freifunkMUC/wg-access-server/pull/1312) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
+- [perf(devices): leave peers alone that already match what is stored](https://github.com/freifunkMUC/wg-access-server/pull/1311) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
 
 #### 📓 Gists I wrote
 
