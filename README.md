@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Take somebody&#39;s access away in one action](https://github.com/freifunkMUC/wg-access-server/pull/1329) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [Show where you are signed in, and end those sessions](https://github.com/freifunkMUC/wg-access-server/pull/1328) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [Keep the browser sessions, so they can be ended](https://github.com/freifunkMUC/wg-access-server/pull/1327) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [Make the admin tables usable with hundreds of devices](https://github.com/freifunkMUC/wg-access-server/pull/1326) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [Build the firewall rules from the access policies](https://github.com/freifunkMUC/wg-access-server/pull/1325) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [Work out and remember the access policies a user is in](https://github.com/freifunkMUC/wg-access-server/pull/1324) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [Simplify the mermaid diagram in the README](https://github.com/freifunkMUC/unified_respondd/pull/106) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (1 day ago)
-- [Install from PyPI in the README](https://github.com/freifunkMUC/unified_respondd/pull/105) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (1 day ago)
-- [Publish from dedicated GitHub environments](https://github.com/freifunkMUC/unified_respondd/pull/104) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (1 day ago)
-- [Query several controllers in one instance](https://github.com/freifunkMUC/unified_respondd/pull/103) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (1 day ago)
+- [Report the client&#39;s address, not the proxy&#39;s](https://github.com/freifunkMUC/wg-access-server/pull/1344) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Say when the config file overrides the environment, and when a setting lands nowhere](https://github.com/freifunkMUC/wg-access-server/pull/1343) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Nobody could sign in on Postgres or MySQL: the session id did not fit its column](https://github.com/freifunkMUC/wg-access-server/pull/1342) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [New recovery codes without turning the second factor off](https://github.com/freifunkMUC/wg-access-server/pull/1341) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Rename a passkey instead of registering it again](https://github.com/freifunkMUC/wg-access-server/pull/1340) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Say at startup when nothing pins the passkey host](https://github.com/freifunkMUC/wg-access-server/pull/1339) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [One way to ask whether somebody is an admin](https://github.com/freifunkMUC/wg-access-server/pull/1338) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Two holes in the second factor: a passkey somebody else can take, and a code that works twice](https://github.com/freifunkMUC/wg-access-server/pull/1337) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [wg-embed v0.12.2](https://github.com/freifunkMUC/wg-access-server/pull/1336) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Sign in with a passkey as the second factor](https://github.com/freifunkMUC/wg-access-server/pull/1335) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 
 #### 📓 Gists I wrote
 
