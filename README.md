@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) -  (1 day ago)
 - [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (1 day ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (1 day ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 weeks ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 weeks ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (2 weeks ago)
@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: security fixes from an audit of master](https://github.com/freifunkMUC/wg-access-server/pull/1347) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Put the account settings in one menu instead of a row of icons](https://github.com/freifunkMUC/wg-access-server/pull/1346) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Call OIDC users by their name, not by their subject](https://github.com/freifunkMUC/wg-access-server/pull/1345) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Remove leftovers for jessie, buster and knot-resolver](https://github.com/freifunkMUC/ffmuc-salt-public/pull/332) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Report the client&#39;s address, not the proxy&#39;s](https://github.com/freifunkMUC/wg-access-server/pull/1344) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Say when the config file overrides the environment, and when a setting lands nowhere](https://github.com/freifunkMUC/wg-access-server/pull/1343) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Nobody could sign in on Postgres or MySQL: the session id did not fit its column](https://github.com/freifunkMUC/wg-access-server/pull/1342) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [New recovery codes without turning the second factor off](https://github.com/freifunkMUC/wg-access-server/pull/1341) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Rename a passkey instead of registering it again](https://github.com/freifunkMUC/wg-access-server/pull/1340) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Say at startup when nothing pins the passkey host](https://github.com/freifunkMUC/wg-access-server/pull/1339) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [One way to ask whether somebody is an admin](https://github.com/freifunkMUC/wg-access-server/pull/1338) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [Two holes in the second factor: a passkey somebody else can take, and a code that works twice](https://github.com/freifunkMUC/wg-access-server/pull/1337) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [wg-embed v0.12.2](https://github.com/freifunkMUC/wg-access-server/pull/1336) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [Sign in with a passkey as the second factor](https://github.com/freifunkMUC/wg-access-server/pull/1335) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 
 #### 📓 Gists I wrote
 
