@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Take somebody&#39;s access away in one action](https://github.com/freifunkMUC/wg-access-server/pull/1329) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Show where you are signed in, and end those sessions](https://github.com/freifunkMUC/wg-access-server/pull/1328) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [Keep the browser sessions, so they can be ended](https://github.com/freifunkMUC/wg-access-server/pull/1327) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [Make the admin tables usable with hundreds of devices](https://github.com/freifunkMUC/wg-access-server/pull/1326) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
@@ -37,7 +38,6 @@
 - [Install from PyPI in the README](https://github.com/freifunkMUC/unified_respondd/pull/105) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (1 day ago)
 - [Publish from dedicated GitHub environments](https://github.com/freifunkMUC/unified_respondd/pull/104) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (1 day ago)
 - [Query several controllers in one instance](https://github.com/freifunkMUC/unified_respondd/pull/103) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (1 day ago)
-- [Add examples, systemd template unit and operations docs](https://github.com/freifunkMUC/unified_respondd/pull/102) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (1 day ago)
 
 #### 📓 Gists I wrote
 
