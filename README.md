@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) -  (today)
-- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (today)
-- [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (today)
+- [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) -  (1 day ago)
+- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (1 day ago)
+- [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (1 day ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 weeks ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 weeks ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) ([v0.2.0](https://github.com/freifunkMUC/unified_respondd/releases/tag/v0.2.0), today) - 
+- [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) ([v0.2.0](https://github.com/freifunkMUC/unified_respondd/releases/tag/v0.2.0), 1 day ago) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.2.0), 2 weeks ago) - Helm Charts for wg-access-server
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.8.2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.8.2), 1 month ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.3), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Show where you are signed in, and end those sessions](https://github.com/freifunkMUC/wg-access-server/pull/1328) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [Keep the browser sessions, so they can be ended](https://github.com/freifunkMUC/wg-access-server/pull/1327) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [Make the admin tables usable with hundreds of devices](https://github.com/freifunkMUC/wg-access-server/pull/1326) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [Build the firewall rules from the access policies](https://github.com/freifunkMUC/wg-access-server/pull/1325) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [Work out and remember the access policies a user is in](https://github.com/freifunkMUC/wg-access-server/pull/1324) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [Simplify the mermaid diagram in the README](https://github.com/freifunkMUC/unified_respondd/pull/106) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
-- [Install from PyPI in the README](https://github.com/freifunkMUC/unified_respondd/pull/105) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
-- [Publish from dedicated GitHub environments](https://github.com/freifunkMUC/unified_respondd/pull/104) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
-- [Query several controllers in one instance](https://github.com/freifunkMUC/unified_respondd/pull/103) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
-- [Add examples, systemd template unit and operations docs](https://github.com/freifunkMUC/unified_respondd/pull/102) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
+- [Show where you are signed in, and end those sessions](https://github.com/freifunkMUC/wg-access-server/pull/1328) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [Keep the browser sessions, so they can be ended](https://github.com/freifunkMUC/wg-access-server/pull/1327) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [Make the admin tables usable with hundreds of devices](https://github.com/freifunkMUC/wg-access-server/pull/1326) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [Build the firewall rules from the access policies](https://github.com/freifunkMUC/wg-access-server/pull/1325) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [Work out and remember the access policies a user is in](https://github.com/freifunkMUC/wg-access-server/pull/1324) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [Simplify the mermaid diagram in the README](https://github.com/freifunkMUC/unified_respondd/pull/106) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (1 day ago)
+- [Install from PyPI in the README](https://github.com/freifunkMUC/unified_respondd/pull/105) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (1 day ago)
+- [Publish from dedicated GitHub environments](https://github.com/freifunkMUC/unified_respondd/pull/104) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (1 day ago)
+- [Query several controllers in one instance](https://github.com/freifunkMUC/unified_respondd/pull/103) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (1 day ago)
+- [Add examples, systemd template unit and operations docs](https://github.com/freifunkMUC/unified_respondd/pull/102) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 month ago)
 - [TheScienceElf/UNIVAC-1219](https://github.com/TheScienceElf/UNIVAC-1219) - An emulator and assembler for the UNIVAC-1219 computer (5 months ago)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (5 months ago)
