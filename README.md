@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (today)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
 - [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) -  (2 days ago)
 - [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (2 days ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (2 days ago)
