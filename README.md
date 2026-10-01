@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: add AGENTS.md, a guideline for AI coding assistants](https://github.com/freifunkMUC/wg-access-server/pull/1354) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [fix: security fixes for v1.2.1 (backport to release/v1.2)](https://github.com/freifunkMUC/wg-access-server/pull/1353) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [fix(auth): match GitHub users and admin users by their id](https://github.com/freifunkMUC/wg-access-server/pull/1352) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [docs: a block or an expiry applies to a device, not a person](https://github.com/freifunkMUC/wg-access-server/pull/1351) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [fix(vpn): restrict policy members in a family their policy names no networks of](https://github.com/freifunkMUC/wg-access-server/pull/1350) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [fix(auth): refuse a subject that belongs to a user of another provider](https://github.com/freifunkMUC/wg-access-server/pull/1349) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [fix(auth): keep API tokens from managing the account, revoke them with the password](https://github.com/freifunkMUC/wg-access-server/pull/1348) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [build(deps): update dependencies](https://github.com/freifunkMUC/mastodon-paywall/pull/233) on [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) (today)
 - [fix: security fixes from an audit of master](https://github.com/freifunkMUC/wg-access-server/pull/1347) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 - [Put the account settings in one menu instead of a row of icons](https://github.com/freifunkMUC/wg-access-server/pull/1346) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [Call OIDC users by their name, not by their subject](https://github.com/freifunkMUC/wg-access-server/pull/1345) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [Remove leftovers for jessie, buster and knot-resolver](https://github.com/freifunkMUC/ffmuc-salt-public/pull/332) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [Report the client&#39;s address, not the proxy&#39;s](https://github.com/freifunkMUC/wg-access-server/pull/1344) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [Say when the config file overrides the environment, and when a setting lands nowhere](https://github.com/freifunkMUC/wg-access-server/pull/1343) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [Nobody could sign in on Postgres or MySQL: the session id did not fit its column](https://github.com/freifunkMUC/wg-access-server/pull/1342) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [New recovery codes without turning the second factor off](https://github.com/freifunkMUC/wg-access-server/pull/1341) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [Rename a passkey instead of registering it again](https://github.com/freifunkMUC/wg-access-server/pull/1340) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [Say at startup when nothing pins the passkey host](https://github.com/freifunkMUC/wg-access-server/pull/1339) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 
 #### 📓 Gists I wrote
 
