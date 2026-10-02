@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(autodiscover): report missing ActiveSync in the MobileSync schema](https://github.com/freifunkMUC/autodiscover-email-settings/pull/63) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
+- [build: lint with ESLint instead of the unused JSHint/JSCS configs](https://github.com/freifunkMUC/autodiscover-email-settings/pull/62) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
+- [fix(mobileconfig): leave the mail account out when SMTP is disabled](https://github.com/freifunkMUC/autodiscover-email-settings/pull/61) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
+- [chore(deps): pending Dependabot updates, raw-body 4 made to work](https://github.com/freifunkMUC/autodiscover-email-settings/pull/60) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
+- [chore(deps): bump brace-expansion to 2.1.7](https://github.com/freifunkMUC/autodiscover-email-settings/pull/59) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
+- [fix: socket type validation, .well-known autoconfig, README corrections](https://github.com/freifunkMUC/autodiscover-email-settings/pull/58) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
+- [fix(mobileconfig): per-address profile identifiers, no PROFILE_* needed](https://github.com/freifunkMUC/autodiscover-email-settings/pull/57) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
+- [feat(autodiscover): answer Autodiscover v2 (autodiscover.json)](https://github.com/freifunkMUC/autodiscover-email-settings/pull/56) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
+- [fix(autodiscover): make the Outlook response follow MS-OXDSCLI](https://github.com/freifunkMUC/autodiscover-email-settings/pull/55) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
 - [docs: add AGENTS.md, a guideline for AI coding assistants](https://github.com/freifunkMUC/wg-access-server/pull/1354) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [fix: security fixes for v1.2.1 (backport to release/v1.2)](https://github.com/freifunkMUC/wg-access-server/pull/1353) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [fix(auth): match GitHub users and admin users by their id](https://github.com/freifunkMUC/wg-access-server/pull/1352) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [docs: a block or an expiry applies to a device, not a person](https://github.com/freifunkMUC/wg-access-server/pull/1351) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [fix(vpn): restrict policy members in a family their policy names no networks of](https://github.com/freifunkMUC/wg-access-server/pull/1350) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [fix(auth): refuse a subject that belongs to a user of another provider](https://github.com/freifunkMUC/wg-access-server/pull/1349) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [fix(auth): keep API tokens from managing the account, revoke them with the password](https://github.com/freifunkMUC/wg-access-server/pull/1348) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [build(deps): update dependencies](https://github.com/freifunkMUC/mastodon-paywall/pull/233) on [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) (1 day ago)
-- [fix: security fixes from an audit of master](https://github.com/freifunkMUC/wg-access-server/pull/1347) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
-- [Put the account settings in one menu instead of a row of icons](https://github.com/freifunkMUC/wg-access-server/pull/1346) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
 
 #### 📓 Gists I wrote
 
