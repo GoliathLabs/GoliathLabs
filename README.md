@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: typos, CODEOWNERS, no Compose version key](https://github.com/freifunkMUC/autodiscover-email-settings/pull/67) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
+- [feat(ui): serve Bootstrap 5 from the service instead of third-party CDNs](https://github.com/freifunkMUC/autodiscover-email-settings/pull/66) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
+- [chore: remove leftovers from the original project](https://github.com/freifunkMUC/autodiscover-email-settings/pull/65) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
+- [ci: test, smoke-test and scan the image before publishing it](https://github.com/freifunkMUC/autodiscover-email-settings/pull/64) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
 - [fix(autodiscover): report missing ActiveSync in the MobileSync schema](https://github.com/freifunkMUC/autodiscover-email-settings/pull/63) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
 - [build: lint with ESLint instead of the unused JSHint/JSCS configs](https://github.com/freifunkMUC/autodiscover-email-settings/pull/62) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
 - [fix(mobileconfig): leave the mail account out when SMTP is disabled](https://github.com/freifunkMUC/autodiscover-email-settings/pull/61) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
 - [chore(deps): pending Dependabot updates, raw-body 4 made to work](https://github.com/freifunkMUC/autodiscover-email-settings/pull/60) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
 - [chore(deps): bump brace-expansion to 2.1.7](https://github.com/freifunkMUC/autodiscover-email-settings/pull/59) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
 - [fix: socket type validation, .well-known autoconfig, README corrections](https://github.com/freifunkMUC/autodiscover-email-settings/pull/58) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
-- [fix(mobileconfig): per-address profile identifiers, no PROFILE_* needed](https://github.com/freifunkMUC/autodiscover-email-settings/pull/57) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
-- [feat(autodiscover): answer Autodiscover v2 (autodiscover.json)](https://github.com/freifunkMUC/autodiscover-email-settings/pull/56) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
-- [fix(autodiscover): make the Outlook response follow MS-OXDSCLI](https://github.com/freifunkMUC/autodiscover-email-settings/pull/55) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
-- [docs: add AGENTS.md, a guideline for AI coding assistants](https://github.com/freifunkMUC/wg-access-server/pull/1354) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
 
 #### 📓 Gists I wrote
 
