@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: update dependencies and align CI workflows with other freifunkMUC projects](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/138) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (today)
+- [ci: scan the latest release in the weekly Trivy run](https://github.com/freifunkMUC/autodiscover-email-settings/pull/75) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
+- [chore: release 2.0.0](https://github.com/freifunkMUC/autodiscover-email-settings/pull/74) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
+- [docs: screenshots taken by a Playwright script](https://github.com/freifunkMUC/autodiscover-email-settings/pull/71) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
+- [chore(deps): drop unused and unmaintained dependencies](https://github.com/freifunkMUC/autodiscover-email-settings/pull/70) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
+- [docs: MkDocs documentation, versioned on GitHub Pages](https://github.com/freifunkMUC/autodiscover-email-settings/pull/69) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
+- [chore: typos, CODEOWNERS, no Compose version key (re-land #67)](https://github.com/freifunkMUC/autodiscover-email-settings/pull/68) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
 - [chore: typos, CODEOWNERS, no Compose version key](https://github.com/freifunkMUC/autodiscover-email-settings/pull/67) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
 - [feat(ui): serve Bootstrap 5 from the service instead of third-party CDNs](https://github.com/freifunkMUC/autodiscover-email-settings/pull/66) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
 - [chore: remove leftovers from the original project](https://github.com/freifunkMUC/autodiscover-email-settings/pull/65) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
-- [ci: test, smoke-test and scan the image before publishing it](https://github.com/freifunkMUC/autodiscover-email-settings/pull/64) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
-- [fix(autodiscover): report missing ActiveSync in the MobileSync schema](https://github.com/freifunkMUC/autodiscover-email-settings/pull/63) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (3 days ago)
-- [build: lint with ESLint instead of the unused JSHint/JSCS configs](https://github.com/freifunkMUC/autodiscover-email-settings/pull/62) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (3 days ago)
-- [fix(mobileconfig): leave the mail account out when SMTP is disabled](https://github.com/freifunkMUC/autodiscover-email-settings/pull/61) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (3 days ago)
-- [chore(deps): pending Dependabot updates, raw-body 4 made to work](https://github.com/freifunkMUC/autodiscover-email-settings/pull/60) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (3 days ago)
-- [chore(deps): bump brace-expansion to 2.1.7](https://github.com/freifunkMUC/autodiscover-email-settings/pull/59) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (3 days ago)
-- [fix: socket type validation, .well-known autoconfig, README corrections](https://github.com/freifunkMUC/autodiscover-email-settings/pull/58) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (3 days ago)
 
 #### 📓 Gists I wrote
 
