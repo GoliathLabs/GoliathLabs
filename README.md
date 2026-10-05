@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (3 days ago)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (3 days ago)
-- [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) -  (5 days ago)
-- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (5 days ago)
-- [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (5 days ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (4 days ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (4 days ago)
+- [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) -  (6 days ago)
+- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (6 days ago)
+- [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (6 days ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 weeks ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (3 weeks ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 weeks ago)
-- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (3 weeks ago)
+- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (4 weeks ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (2 months ago)
 
 #### 🌱 My latest projects
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) ([v0.2.0](https://github.com/freifunkMUC/unified_respondd/releases/tag/v0.2.0), 5 days ago) - 
+- [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) ([v0.2.0](https://github.com/freifunkMUC/unified_respondd/releases/tag/v0.2.0), 6 days ago) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.2.0), 2 weeks ago) - Helm Charts for wg-access-server
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.8.2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.8.2), 1 month ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.3), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: typos, CODEOWNERS, no Compose version key](https://github.com/freifunkMUC/autodiscover-email-settings/pull/67) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
-- [feat(ui): serve Bootstrap 5 from the service instead of third-party CDNs](https://github.com/freifunkMUC/autodiscover-email-settings/pull/66) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
-- [chore: remove leftovers from the original project](https://github.com/freifunkMUC/autodiscover-email-settings/pull/65) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
-- [ci: test, smoke-test and scan the image before publishing it](https://github.com/freifunkMUC/autodiscover-email-settings/pull/64) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
-- [fix(autodiscover): report missing ActiveSync in the MobileSync schema](https://github.com/freifunkMUC/autodiscover-email-settings/pull/63) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
-- [build: lint with ESLint instead of the unused JSHint/JSCS configs](https://github.com/freifunkMUC/autodiscover-email-settings/pull/62) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
-- [fix(mobileconfig): leave the mail account out when SMTP is disabled](https://github.com/freifunkMUC/autodiscover-email-settings/pull/61) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
-- [chore(deps): pending Dependabot updates, raw-body 4 made to work](https://github.com/freifunkMUC/autodiscover-email-settings/pull/60) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
-- [chore(deps): bump brace-expansion to 2.1.7](https://github.com/freifunkMUC/autodiscover-email-settings/pull/59) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
-- [fix: socket type validation, .well-known autoconfig, README corrections](https://github.com/freifunkMUC/autodiscover-email-settings/pull/58) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
+- [chore: typos, CODEOWNERS, no Compose version key](https://github.com/freifunkMUC/autodiscover-email-settings/pull/67) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
+- [feat(ui): serve Bootstrap 5 from the service instead of third-party CDNs](https://github.com/freifunkMUC/autodiscover-email-settings/pull/66) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
+- [chore: remove leftovers from the original project](https://github.com/freifunkMUC/autodiscover-email-settings/pull/65) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
+- [ci: test, smoke-test and scan the image before publishing it](https://github.com/freifunkMUC/autodiscover-email-settings/pull/64) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
+- [fix(autodiscover): report missing ActiveSync in the MobileSync schema](https://github.com/freifunkMUC/autodiscover-email-settings/pull/63) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (3 days ago)
+- [build: lint with ESLint instead of the unused JSHint/JSCS configs](https://github.com/freifunkMUC/autodiscover-email-settings/pull/62) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (3 days ago)
+- [fix(mobileconfig): leave the mail account out when SMTP is disabled](https://github.com/freifunkMUC/autodiscover-email-settings/pull/61) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (3 days ago)
+- [chore(deps): pending Dependabot updates, raw-body 4 made to work](https://github.com/freifunkMUC/autodiscover-email-settings/pull/60) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (3 days ago)
+- [chore(deps): bump brace-expansion to 2.1.7](https://github.com/freifunkMUC/autodiscover-email-settings/pull/59) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (3 days ago)
+- [fix: socket type validation, .well-known autoconfig, README corrections](https://github.com/freifunkMUC/autodiscover-email-settings/pull/58) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (5 days ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (6 days ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 month ago)
 - [TheScienceElf/UNIVAC-1219](https://github.com/TheScienceElf/UNIVAC-1219) - An emulator and assembler for the UNIVAC-1219 computer (5 months ago)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (5 months ago)
