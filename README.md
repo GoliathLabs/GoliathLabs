@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (4 days ago)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (4 days ago)
-- [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) -  (6 days ago)
-- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (6 days ago)
-- [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (6 days ago)
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 weeks ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (5 days ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (5 days ago)
+- [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) -  (1 week ago)
+- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (1 week ago)
+- [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (1 week ago)
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (3 weeks ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (3 weeks ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 weeks ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (4 weeks ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) ([v0.2.0](https://github.com/freifunkMUC/unified_respondd/releases/tag/v0.2.0), 6 days ago) - 
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.2.0), 2 weeks ago) - Helm Charts for wg-access-server
+- [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) ([v0.2.0](https://github.com/freifunkMUC/unified_respondd/releases/tag/v0.2.0), 1 week ago) - 
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.2.0), 3 weeks ago) - Helm Charts for wg-access-server
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.8.2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.8.2), 1 month ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.3), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.1), 8 months ago) - 
@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: update dependencies and align CI workflows with other freifunkMUC projects](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/138) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (today)
-- [ci: scan the latest release in the weekly Trivy run](https://github.com/freifunkMUC/autodiscover-email-settings/pull/75) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
-- [chore: release 2.0.0](https://github.com/freifunkMUC/autodiscover-email-settings/pull/74) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
-- [docs: screenshots taken by a Playwright script](https://github.com/freifunkMUC/autodiscover-email-settings/pull/71) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
-- [chore(deps): drop unused and unmaintained dependencies](https://github.com/freifunkMUC/autodiscover-email-settings/pull/70) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
-- [docs: MkDocs documentation, versioned on GitHub Pages](https://github.com/freifunkMUC/autodiscover-email-settings/pull/69) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
-- [chore: typos, CODEOWNERS, no Compose version key (re-land #67)](https://github.com/freifunkMUC/autodiscover-email-settings/pull/68) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
-- [chore: typos, CODEOWNERS, no Compose version key](https://github.com/freifunkMUC/autodiscover-email-settings/pull/67) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
-- [feat(ui): serve Bootstrap 5 from the service instead of third-party CDNs](https://github.com/freifunkMUC/autodiscover-email-settings/pull/66) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
-- [chore: remove leftovers from the original project](https://github.com/freifunkMUC/autodiscover-email-settings/pull/65) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
+- [chore: update dependencies and align CI workflows with other freifunkMUC projects](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/138) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (1 day ago)
+- [ci: scan the latest release in the weekly Trivy run](https://github.com/freifunkMUC/autodiscover-email-settings/pull/75) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
+- [chore: release 2.0.0](https://github.com/freifunkMUC/autodiscover-email-settings/pull/74) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
+- [docs: screenshots taken by a Playwright script](https://github.com/freifunkMUC/autodiscover-email-settings/pull/71) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
+- [chore(deps): drop unused and unmaintained dependencies](https://github.com/freifunkMUC/autodiscover-email-settings/pull/70) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
+- [docs: MkDocs documentation, versioned on GitHub Pages](https://github.com/freifunkMUC/autodiscover-email-settings/pull/69) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
+- [chore: typos, CODEOWNERS, no Compose version key (re-land #67)](https://github.com/freifunkMUC/autodiscover-email-settings/pull/68) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
+- [chore: typos, CODEOWNERS, no Compose version key](https://github.com/freifunkMUC/autodiscover-email-settings/pull/67) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
+- [feat(ui): serve Bootstrap 5 from the service instead of third-party CDNs](https://github.com/freifunkMUC/autodiscover-email-settings/pull/66) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
+- [chore: remove leftovers from the original project](https://github.com/freifunkMUC/autodiscover-email-settings/pull/65) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (6 days ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 month ago)
 - [TheScienceElf/UNIVAC-1219](https://github.com/TheScienceElf/UNIVAC-1219) - An emulator and assembler for the UNIVAC-1219 computer (5 months ago)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (5 months ago)
