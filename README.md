@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (5 days ago)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (5 days ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (6 days ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (6 days ago)
 - [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) -  (1 week ago)
 - [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (1 week ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (1 week ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (3 weeks ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (3 weeks ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 weeks ago)
-- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (4 weeks ago)
+- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (1 month ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (2 months ago)
 
 #### 🌱 My latest projects
@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: update dependencies and align CI workflows with other freifunkMUC projects](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/138) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (1 day ago)
-- [ci: scan the latest release in the weekly Trivy run](https://github.com/freifunkMUC/autodiscover-email-settings/pull/75) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
-- [chore: release 2.0.0](https://github.com/freifunkMUC/autodiscover-email-settings/pull/74) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
-- [docs: screenshots taken by a Playwright script](https://github.com/freifunkMUC/autodiscover-email-settings/pull/71) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
-- [chore(deps): drop unused and unmaintained dependencies](https://github.com/freifunkMUC/autodiscover-email-settings/pull/70) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
-- [docs: MkDocs documentation, versioned on GitHub Pages](https://github.com/freifunkMUC/autodiscover-email-settings/pull/69) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
-- [chore: typos, CODEOWNERS, no Compose version key (re-land #67)](https://github.com/freifunkMUC/autodiscover-email-settings/pull/68) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
-- [chore: typos, CODEOWNERS, no Compose version key](https://github.com/freifunkMUC/autodiscover-email-settings/pull/67) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
-- [feat(ui): serve Bootstrap 5 from the service instead of third-party CDNs](https://github.com/freifunkMUC/autodiscover-email-settings/pull/66) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
-- [chore: remove leftovers from the original project](https://github.com/freifunkMUC/autodiscover-email-settings/pull/65) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
+- [chore: update dependencies and align CI workflows with other freifunkMUC projects](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/138) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (2 days ago)
+- [ci: scan the latest release in the weekly Trivy run](https://github.com/freifunkMUC/autodiscover-email-settings/pull/75) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
+- [chore: release 2.0.0](https://github.com/freifunkMUC/autodiscover-email-settings/pull/74) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
+- [docs: screenshots taken by a Playwright script](https://github.com/freifunkMUC/autodiscover-email-settings/pull/71) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
+- [chore(deps): drop unused and unmaintained dependencies](https://github.com/freifunkMUC/autodiscover-email-settings/pull/70) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
+- [docs: MkDocs documentation, versioned on GitHub Pages](https://github.com/freifunkMUC/autodiscover-email-settings/pull/69) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
+- [chore: typos, CODEOWNERS, no Compose version key (re-land #67)](https://github.com/freifunkMUC/autodiscover-email-settings/pull/68) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (2 days ago)
+- [chore: typos, CODEOWNERS, no Compose version key](https://github.com/freifunkMUC/autodiscover-email-settings/pull/67) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (3 days ago)
+- [feat(ui): serve Bootstrap 5 from the service instead of third-party CDNs](https://github.com/freifunkMUC/autodiscover-email-settings/pull/66) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (3 days ago)
+- [chore: remove leftovers from the original project](https://github.com/freifunkMUC/autodiscover-email-settings/pull/65) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (3 days ago)
 
 #### 📓 Gists I wrote
 
