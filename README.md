@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [haproxy: allow cloud.stammdonbosco.de to embed meet in an iframe](https://github.com/freifunkMUC/ffmuc-salt-public/pull/336) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [fix: floor github-pages so it doesn&#39;t break with Ruby 3.2 &amp; update theme](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/608) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (2 days ago)
 - [chore: update dependencies and align CI workflows with other freifunkMUC projects](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/138) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (4 days ago)
 - [ci: scan the latest release in the weekly Trivy run](https://github.com/freifunkMUC/autodiscover-email-settings/pull/75) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (4 days ago)
@@ -37,7 +38,6 @@
 - [docs: MkDocs documentation, versioned on GitHub Pages](https://github.com/freifunkMUC/autodiscover-email-settings/pull/69) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (4 days ago)
 - [chore: typos, CODEOWNERS, no Compose version key (re-land #67)](https://github.com/freifunkMUC/autodiscover-email-settings/pull/68) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (4 days ago)
 - [chore: typos, CODEOWNERS, no Compose version key](https://github.com/freifunkMUC/autodiscover-email-settings/pull/67) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (5 days ago)
-- [feat(ui): serve Bootstrap 5 from the service instead of third-party CDNs](https://github.com/freifunkMUC/autodiscover-email-settings/pull/66) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (5 days ago)
 
 #### 📓 Gists I wrote
 
