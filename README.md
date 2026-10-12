@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 days ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (4 days ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (3 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (5 days ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
 - [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) -  (1 week ago)
 - [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (1 week ago)
@@ -28,16 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore(deps): bump golang from 1.27.1-alpine to 1.27.2-alpine](https://github.com/freifunkMUC/wg-access-server/pull/1374) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
-- [ci: scan vulnerabilities against the newest go patch release](https://github.com/freifunkMUC/wg-access-server/pull/1373) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
-- [chore(deps): update website and Go dependencies](https://github.com/freifunkMUC/wg-access-server/pull/1372) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (2 days ago)
-- [haproxy: allow cloud.stammdonbosco.de to embed meet in an iframe](https://github.com/freifunkMUC/ffmuc-salt-public/pull/336) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
-- [fix: floor github-pages so it doesn&#39;t break with Ruby 3.2 &amp; update theme](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/608) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (4 days ago)
-- [chore: update dependencies and align CI workflows with other freifunkMUC projects](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/138) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (6 days ago)
-- [ci: scan the latest release in the weekly Trivy run](https://github.com/freifunkMUC/autodiscover-email-settings/pull/75) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (6 days ago)
-- [chore: release 2.0.0](https://github.com/freifunkMUC/autodiscover-email-settings/pull/74) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (6 days ago)
-- [docs: screenshots taken by a Playwright script](https://github.com/freifunkMUC/autodiscover-email-settings/pull/71) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (6 days ago)
-- [chore(deps): drop unused and unmaintained dependencies](https://github.com/freifunkMUC/autodiscover-email-settings/pull/70) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (6 days ago)
+- [chore(deps): bump golang from 1.27.1-alpine to 1.27.2-alpine](https://github.com/freifunkMUC/wg-access-server/pull/1374) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
+- [ci: scan vulnerabilities against the newest go patch release](https://github.com/freifunkMUC/wg-access-server/pull/1373) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
+- [chore(deps): update website and Go dependencies](https://github.com/freifunkMUC/wg-access-server/pull/1372) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (3 days ago)
+- [haproxy: allow cloud.stammdonbosco.de to embed meet in an iframe](https://github.com/freifunkMUC/ffmuc-salt-public/pull/336) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 days ago)
+- [fix: floor github-pages so it doesn&#39;t break with Ruby 3.2 &amp; update theme](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/608) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (5 days ago)
+- [chore: update dependencies and align CI workflows with other freifunkMUC projects](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/138) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (1 week ago)
+- [ci: scan the latest release in the weekly Trivy run](https://github.com/freifunkMUC/autodiscover-email-settings/pull/75) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 week ago)
+- [chore: release 2.0.0](https://github.com/freifunkMUC/autodiscover-email-settings/pull/74) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 week ago)
+- [docs: screenshots taken by a Playwright script](https://github.com/freifunkMUC/autodiscover-email-settings/pull/71) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 week ago)
+- [chore(deps): drop unused and unmaintained dependencies](https://github.com/freifunkMUC/autodiscover-email-settings/pull/70) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -48,14 +48,14 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (4 days ago)
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (5 days ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 week ago)
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 month ago)
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 months ago)
 - [TheScienceElf/UNIVAC-1219](https://github.com/TheScienceElf/UNIVAC-1219) - An emulator and assembler for the UNIVAC-1219 computer (5 months ago)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (5 months ago)
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together (5 months ago)
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own. (6 months ago)
-- [rancher/rke2](https://github.com/rancher/rke2) -  (6 months ago)
+- [rancher/rke2](https://github.com/rancher/rke2) -  (7 months ago)
 - [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (7 months ago)
 - [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution featuring a user-friendly web interface for easy device management and connectivity. (8 months ago)
 
