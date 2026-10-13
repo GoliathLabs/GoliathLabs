@@ -1,0 +1,29 @@
+{{- /*
+  The list "what I'm currently working on" from the README of the profile
+  repository. The build copies that file to assets/profile-readme.md
+  (.github/workflows/site.yml); without it this renders nothing.
+
+  A line there reads "- [owner/repo](url) - description (2 days ago)". The
+  age is as of the README's last update, not of this build, so it is cut.
+*/ -}}
+{{- with site.Params.activity }}
+{{- $title := .title }}
+{{- $max := .entries | default 5 }}
+{{- with resources.Get "profile-readme.md" }}
+{{- $block := findRESubmatch `(?si)####[^\n]*currently working on[^\n]*\n(.*?)\n####` .Content 1 }}
+{{- with $block }}
+{{- $lines := findRE `(?m)^- \[[^\n]+$` (index (index . 0) 1) $max }}
+{{- with $lines }}
+<section>
+  <h2>{{ $title }}</h2>
+  <ul class="entries">
+    {{- range . }}
+    {{- /* without the age, and without the dash of an empty description */}}
+    <li>{{ replaceRE `\s+\([^()]*\)\s*$` "" . | replaceRE `\s+-\s*$` "" | strings.TrimPrefix "- " | markdownify }}</li>
+    {{- end }}
+  </ul>
+</section>
+{{- end }}
+{{- end }}
+{{- end }}
+{{- end }}

@@ -1,7 +1,7 @@
 baseURL = "https://felix-golatofski.de/"
 title = "Felix Golatofski"
-locale = "de"
-defaultContentLanguage = "de"
+locale = "en"
+defaultContentLanguage = "en"
 
 # One page and a few plain pages: no lists, no feeds, no taxonomies.
 disableKinds = ["taxonomy", "term", "section", "rss", "sitemap"]
@@ -17,14 +17,18 @@ disableHugoGeneratorInject = true
   # carry a note above its entries. "me = true" on an entry adds rel="me",
   # which lets the linked account verify this site; none is set, on purpose.
   [[params.sections]]
-    title = "Kontakt"
+    title = "Contact"
+    [[params.sections.entries]]
+      label = "Chat"
+      text = "TheGoliath on chat.ffmuc.net"
+      url = "https://chat.ffmuc.net"
     [[params.sections.entries]]
       label = "Mastodon"
       text = "@TheGoliath@social.ffmuc.net"
       url = "https://social.ffmuc.net/@TheGoliath"
 
   [[params.sections]]
-    title = "Öffentliches"
+    title = "Elsewhere"
     [[params.sections.entries]]
       label = "GitHub"
       text = "@GoliathLabs"
@@ -37,6 +41,13 @@ disableHugoGeneratorInject = true
       label = "Blog"
       text = "blog.morphnet.work"
       url = "https://blog.morphnet.work"
+
+  # "Currently working on": the first entries of that list in the README of
+  # this repository, which a workflow regenerates every hour. The site
+  # shows it as of its last build (layouts/_partials/activity.html).
+  [params.activity]
+    title = "Currently working on"
+    entries = 5
 
 [minify]
   minifyOutput = true
