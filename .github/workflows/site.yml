@@ -1,7 +1,8 @@
 name: Build site image
 
-# Renders site/ with Hugo and publishes it as an nginx image. The hourly
-# README commit touches nothing under site/ and never starts this.
+# Renders site/ with Hugo and publishes it twice: as an nginx image, which
+# is what serves felix-golatofski.de, and as a copy on GitHub Pages. The
+# hourly README commit touches nothing under site/ and never starts this.
 on:
   push:
     branches:
@@ -63,3 +64,50 @@ jobs:
           labels: ${{ steps.meta.outputs.labels }}
           cache-from: type=gha
           cache-to: type=gha,mode=max
+
+  # The same site at the repository's GitHub Pages address, built for that
+  # address and marked "noindex": a copy to look at, not a second home.
+  pages:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Pages address
+        id: pages
+        uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6.0.0
+
+      - name: Set up Buildx
+        uses: docker/setup-buildx-action@f87e5991a6d7451dcb8d9637bfbc97413f497069 # v4.4.1
+
+      - name: Render the site
+        uses: docker/build-push-action@c3c9e263c25d99ce0380d002d59b67737d91b0dc # v7.4.0
+        with:
+          context: site
+          target: static
+          build-args: |
+            HUGO_BASEURL=${{ steps.pages.outputs.base_url }}/
+            HUGO_PARAMS_NOINDEX=true
+          outputs: type=local,dest=public
+          cache-from: type=gha
+
+      - name: Upload the site
+        uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
+        with:
+          path: public
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1
