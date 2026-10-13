@@ -4,22 +4,39 @@ locale = "de"
 defaultContentLanguage = "de"
 
 # One page and a few plain pages: no lists, no feeds, no taxonomies.
-disableKinds = ["taxonomy", "term", "section", "rss"]
+disableKinds = ["taxonomy", "term", "section", "rss", "sitemap"]
+# layouts/robots.txt: the site does not want to be found.
 enableRobotsTXT = true
+disableHugoGeneratorInject = true
 
 [params]
-  description = "Felix Golatofski: Systemadministrator, Informatikstudent an der Technischen Hochschule Augsburg, aktiv bei Freifunk München."
+  description = "Felix Golatofski"
 
-  # The links on the start page, in this order.
-  [[params.links]]
-    name = "GitHub"
-    url = "https://github.com/GoliathLabs"
-  [[params.links]]
-    name = "Blog"
-    url = "https://blog.morphnet.work"
-  [[params.links]]
-    name = "Mastodon"
-    url = "https://social.ffmuc.net/@TheGoliath"
+  # The sections below the text on the start page, in this order. An entry
+  # is one line: "label: text", linked when it has a url. A section may
+  # carry a note above its entries. "me = true" on an entry adds rel="me",
+  # which lets the linked account verify this site; none is set, on purpose.
+  [[params.sections]]
+    title = "Kontakt"
+    [[params.sections.entries]]
+      label = "Mastodon"
+      text = "@TheGoliath@social.ffmuc.net"
+      url = "https://social.ffmuc.net/@TheGoliath"
+
+  [[params.sections]]
+    title = "Öffentliches"
+    [[params.sections.entries]]
+      label = "GitHub"
+      text = "@GoliathLabs"
+      url = "https://github.com/GoliathLabs"
+    [[params.sections.entries]]
+      label = "Freifunk München"
+      text = "github.com/freifunkMUC"
+      url = "https://github.com/freifunkMUC"
+    [[params.sections.entries]]
+      label = "Blog"
+      text = "blog.morphnet.work"
+      url = "https://blog.morphnet.work"
 
 [minify]
   minifyOutput = true

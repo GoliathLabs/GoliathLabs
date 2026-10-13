@@ -1,13 +1,17 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 {{ .Content }}
-{{ with site.Params.links }}
-<nav aria-label="Links">
-  <ul class="links">
-    {{- range . }}
-    <li><a href="{{ .url }}" rel="me">{{ .name }}</a></li>
+{{ range site.Params.sections }}
+<section>
+  <h2>{{ .title }}</h2>
+  {{- with .note }}
+  <p class="note">{{ . }}</p>
+  {{- end }}
+  <ul class="entries">
+    {{- range .entries }}
+    <li>{{ .label }}: {{ if .url }}<a href="{{ .url }}"{{ if .me }} rel="me"{{ end }}>{{ .text }}</a>{{ else }}{{ .text }}{{ end }}</li>
     {{- end }}
   </ul>
-</nav>
+</section>
 {{ end }}
 {{ end }}

@@ -3,7 +3,7 @@
 The personal site: a [Hugo](https://gohugo.io) project with its own small layout and no theme.
 
 - `content/_index.md`: the text of the start page.
-- `hugo.toml`: title, description and the links below the text (`params.links`).
+- `hugo.toml`: title, description and the sections below the text (`params.sections`): each has a title and entries of the form "label: text", linked when the entry has a `url`.
 - `content/<name>.md`: a further page at `/<name>/`.
 - `layouts/`, `assets/css/main.css`: markup and style. The page loads no scripts and nothing from other hosts; `nginx.conf` enforces that with a Content-Security-Policy.
 
