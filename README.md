@@ -61,11 +61,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [0vm](https://github.com/0vm)
 - [iv461](https://github.com/iv461)
 - [tiann317](https://github.com/tiann317)
 - [EricWilsonNet](https://github.com/EricWilsonNet)
 - [ff-mgk](https://github.com/ff-mgk)
-- [S4IL21](https://github.com/S4IL21)
 
 #### 💬 Feedback
 
