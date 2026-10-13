@@ -1,5 +1,5 @@
 {{ define "main" }}
-<p class="back"><a href="/">{{ site.Title }}</a></p>
+<p class="back"><a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a></p>
 <h1>{{ .Title }}</h1>
 {{ .Content }}
 {{ end }}
