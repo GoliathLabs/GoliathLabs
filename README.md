@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: run an image built here from source](https://github.com/freifunkMUC/readme-scribe/pull/1) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (today)
 - [ci: build the image and push it to GHCR](https://github.com/GoliathLabs/lastsignal/pull/1) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (1 day ago)
 - [chore(deps): bump golang from 1.27.1-alpine to 1.27.2-alpine](https://github.com/freifunkMUC/wg-access-server/pull/1374) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
 - [ci: scan vulnerabilities against the newest go patch release](https://github.com/freifunkMUC/wg-access-server/pull/1373) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
@@ -37,7 +38,6 @@
 - [chore: update dependencies and align CI workflows with other freifunkMUC projects](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/138) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (1 week ago)
 - [ci: scan the latest release in the weekly Trivy run](https://github.com/freifunkMUC/autodiscover-email-settings/pull/75) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 week ago)
 - [chore: release 2.0.0](https://github.com/freifunkMUC/autodiscover-email-settings/pull/74) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 week ago)
-- [docs: screenshots taken by a Playwright script](https://github.com/freifunkMUC/autodiscover-email-settings/pull/71) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 week ago)
 
 #### 📓 Gists I wrote
 
