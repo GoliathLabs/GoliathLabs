@@ -28,14 +28,13 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: markscribe from the fork with current dependencies, 1.1.0](https://github.com/freifunkMUC/readme-scribe/pull/2) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (today)
+- [chore: current Go and dependencies, module path of the fork](https://github.com/freifunkMUC/markscribe/pull/1) on [freifunkMUC/markscribe](https://github.com/freifunkMUC/markscribe) (today)
 - [feat: run an image built here from source](https://github.com/freifunkMUC/readme-scribe/pull/1) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (today)
 - [ci: build the image and push it to GHCR](https://github.com/GoliathLabs/lastsignal/pull/1) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (1 day ago)
 - [chore(deps): bump golang from 1.27.1-alpine to 1.27.2-alpine](https://github.com/freifunkMUC/wg-access-server/pull/1374) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
 - [ci: scan vulnerabilities against the newest go patch release](https://github.com/freifunkMUC/wg-access-server/pull/1373) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
 - [chore(deps): update website and Go dependencies](https://github.com/freifunkMUC/wg-access-server/pull/1372) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [haproxy: allow cloud.stammdonbosco.de to embed meet in an iframe](https://github.com/freifunkMUC/ffmuc-salt-public/pull/336) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 days ago)
-- [fix: floor github-pages so it doesn't break with Ruby 3.2 & update theme](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/608) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (6 days ago)
-- [chore: update dependencies and align CI workflows with other freifunkMUC projects](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/138) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (1 week ago)
 
 #### 📓 Gists I wrote
 
