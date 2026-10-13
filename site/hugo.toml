@@ -4,23 +4,24 @@ locale = "de"
 defaultContentLanguage = "de"
 
 # One page and a few plain pages: no lists, no feeds, no taxonomies.
-disableKinds = ["taxonomy", "term", "section", "rss"]
+disableKinds = ["taxonomy", "term", "section", "rss", "sitemap"]
+# layouts/robots.txt: the site does not want to be found.
 enableRobotsTXT = true
+disableHugoGeneratorInject = true
 
 [params]
-  description = "Felix Golatofski: Systemadministrator, Informatikstudent an der Technischen Hochschule Augsburg, aktiv bei Freifunk München."
+  description = "Felix Golatofski"
 
   # The sections below the text on the start page, in this order. An entry
   # is one line: "label: text", linked when it has a url. A section may
-  # carry a note above its entries. "me = true" marks an account that is
-  # the owner's own (rel="me", which Mastodon uses to verify the site).
+  # carry a note above its entries. "me = true" on an entry adds rel="me",
+  # which lets the linked account verify this site; none is set, on purpose.
   [[params.sections]]
     title = "Kontakt"
     [[params.sections.entries]]
       label = "Mastodon"
       text = "@TheGoliath@social.ffmuc.net"
       url = "https://social.ffmuc.net/@TheGoliath"
-      me = true
 
   [[params.sections]]
     title = "Öffentliches"
@@ -28,7 +29,6 @@ enableRobotsTXT = true
       label = "GitHub"
       text = "@GoliathLabs"
       url = "https://github.com/GoliathLabs"
-      me = true
     [[params.sections.entries]]
       label = "Freifunk München"
       text = "github.com/freifunkMUC"
@@ -37,7 +37,6 @@ enableRobotsTXT = true
       label = "Blog"
       text = "blog.morphnet.work"
       url = "https://blog.morphnet.work"
-      me = true
 
 [minify]
   minifyOutput = true

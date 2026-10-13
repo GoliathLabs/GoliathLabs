@@ -66,7 +66,7 @@ jobs:
           cache-to: type=gha,mode=max
 
   # The same site at the repository's GitHub Pages address, built for that
-  # address and marked "noindex": a copy to look at, not a second home.
+  # address: a copy to look at, not a second home.
   pages:
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
@@ -99,7 +99,6 @@ jobs:
           target: static
           build-args: |
             HUGO_BASEURL=${{ steps.pages.outputs.base_url }}/
-            HUGO_PARAMS_NOINDEX=true
           outputs: type=local,dest=public
           cache-from: type=gha
 

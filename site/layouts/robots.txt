@@ -1,0 +1,15 @@
+# This site does not want to be found.
+#
+# The large search engines may fetch it, because only then they see the
+# "noindex" each page and each response carries and leave it out of their
+# index altogether; forbidden to fetch, they could still list the bare
+# address. Every other crawler is asked to stay away.
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: DuckDuckBot
+User-agent: Applebot
+User-agent: YandexBot
+Allow: /
+
+User-agent: *
+Disallow: /
