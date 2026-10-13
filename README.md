@@ -15,6 +15,7 @@
 
 #### 🌱 My latest projects
 
+- [GoliathLabs/terraform-provider-omada](https://github.com/GoliathLabs/terraform-provider-omada) - 
 - [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) - A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when you're gone or unresponsive.
 - [GoliathLabs/PasswordPusher](https://github.com/GoliathLabs/PasswordPusher) - 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
 - [GoliathLabs/snmp-to-influx-python](https://github.com/GoliathLabs/snmp-to-influx-python) - 
@@ -24,7 +25,6 @@
 - [GoliathLabs/excalidraw-backend](https://github.com/GoliathLabs/excalidraw-backend) - Excalidraw collaboration backend for Jitsi
 - [GoliathLabs/zigbee-herdsman-converters](https://github.com/GoliathLabs/zigbee-herdsman-converters) - Collection of device converters to be used with zigbee-herdsman
 - [GoliathLabs/zigbee2mqtt.io](https://github.com/GoliathLabs/zigbee2mqtt.io) - 📘 Zigbee2mqtt documentation
-- [GoliathLabs/server](https://github.com/GoliathLabs/server) - self-hosted tag-based time tracking
 
 #### 🔭 Latest releases I've contributed to
 
@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: manage Omada switch and site names](https://github.com/filipegalo/terraform-provider-omada/pull/1) on [filipegalo/terraform-provider-omada](https://github.com/filipegalo/terraform-provider-omada) (today)
 - [feat: markscribe with the backlog fixes, 1.2.0](https://github.com/freifunkMUC/readme-scribe/pull/3) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (today)
 - [Fixes from upstream's backlog: resource limits, pagination, releases, archived repositories, RSS fields, truncate](https://github.com/freifunkMUC/markscribe/pull/2) on [freifunkMUC/markscribe](https://github.com/freifunkMUC/markscribe) (today)
 - [feat: markscribe from the fork with current dependencies, 1.1.0](https://github.com/freifunkMUC/readme-scribe/pull/2) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (today)
@@ -47,7 +48,6 @@
 - [chore(deps): bump golang from 1.27.1-alpine to 1.27.2-alpine](https://github.com/freifunkMUC/wg-access-server/pull/1374) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
 - [ci: scan vulnerabilities against the newest go patch release](https://github.com/freifunkMUC/wg-access-server/pull/1373) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
 - [chore(deps): update website and Go dependencies](https://github.com/freifunkMUC/wg-access-server/pull/1372) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [haproxy: allow cloud.stammdonbosco.de to embed meet in an iframe](https://github.com/freifunkMUC/ffmuc-salt-public/pull/336) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 days ago)
 
 #### 📓 Gists I wrote
 
