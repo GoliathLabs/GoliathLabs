@@ -2,4 +2,4 @@
 title: Felix Golatofski
 ---
 
-Ich bin Felix, und das hier ist meine kleine Ecke im Internet.
+I'm Felix, and this is my small corner of the internet.

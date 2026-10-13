@@ -15,13 +15,53 @@ on:
       - "site/**"
       - ".github/workflows/site.yml"
   workflow_dispatch:
+  # The site shows a list from the README, which changes without a push
+  # that would start this (the hourly commit carries "[skip ci]"). Once a
+  # night is current enough; a night without a change builds nothing.
+  schedule:
+    - cron: "37 3 * * *"
 
 concurrency:
   group: site-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
+  # What the site is made of, as one hash: everything under site/, this
+  # workflow, and the list from the README without the ages of its
+  # entries. The image carries the hash as a tag; a nightly run that finds
+  # the tag has nothing to do.
+  content:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    permissions:
+      contents: read
+
+    outputs:
+      tag: ${{ steps.hash.outputs.tag }}
+      build: ${{ steps.hash.outputs.build }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Hash the content
+        id: hash
+        run: |
+          list=$(awk 'tolower($0) ~ /^####.*currently working on/ {f=1; next} /^####/ {f=0} f' README.md |
+            sed -E 's/[[:space:]]+\([^()]*\)[[:space:]]*$//' | grep '^- ' || true)
+          hash=$( { git ls-files -s site .github/workflows/site.yml; printf '%s\n' "$list"; } | sha256sum | cut -c1-16)
+          echo "tag=content-$hash" >> "$GITHUB_OUTPUT"
+          if [ "$GITHUB_EVENT_NAME" = schedule ] &&
+            docker manifest inspect "ghcr.io/goliathlabs/website:content-$hash" > /dev/null 2>&1; then
+            echo "build=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "build=true" >> "$GITHUB_OUTPUT"
+          fi
+
   image:
+    needs: content
+    if: needs.content.outputs.build == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
@@ -32,6 +72,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      # layouts/_partials/activity.html reads the list from this copy.
+      - name: Copy the README into the site
+        run: cp README.md site/assets/profile-readme.md
 
       - name: Set up Buildx
         uses: docker/setup-buildx-action@f87e5991a6d7451dcb8d9637bfbc97413f497069 # v4.4.1
@@ -51,6 +95,7 @@ jobs:
           images: ghcr.io/goliathlabs/website
           tags: |
             type=raw,value=latest,enable={{is_default_branch}}
+            type=raw,value=${{ needs.content.outputs.tag }},enable={{is_default_branch}}
             type=sha
 
       # A pull request only proves that the site still builds.
@@ -68,7 +113,8 @@ jobs:
   # The same site at the repository's GitHub Pages address, built for that
   # address: a copy to look at, not a second home.
   pages:
-    if: github.event_name != 'pull_request'
+    needs: content
+    if: github.event_name != 'pull_request' && needs.content.outputs.build == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
@@ -84,6 +130,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Copy the README into the site
+        run: cp README.md site/assets/profile-readme.md
 
       - name: Pages address
         id: pages

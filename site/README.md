@@ -10,6 +10,7 @@ The personal site: a [Hugo](https://gohugo.io) project with its own small layout
 ## Preview
 
 ```sh
+cp README.md site/assets/profile-readme.md   # the list "Currently working on"; without it the section is left out
 docker build -t website site
 docker run --rm -p 8080:8080 website
 ```
@@ -18,4 +19,4 @@ Then open <http://localhost:8080>.
 
 ## Publishing
 
-A push to `main` that touches `site/` builds `ghcr.io/goliathlabs/website` (`.github/workflows/site.yml`), tagged `latest` and `sha-<commit>`. The cluster pins the image by digest, so a new build goes live once the digest there has been raised.
+A push to `main` that touches `site/`, and a nightly run when the list from the README has changed, builds `ghcr.io/goliathlabs/website` (`.github/workflows/site.yml`), tagged `latest` and `sha-<commit>`. The cluster pins the image by digest, so a new build goes live once the digest there has been raised.

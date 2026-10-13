@@ -1,3 +1,5 @@
 public/
 resources/
 .hugo_build.lock
+# Copied in by the build, see layouts/_partials/activity.html.
+assets/profile-readme.md
