@@ -23,8 +23,8 @@ jobs:
       - name: Generate README.md
         id: generate
         # The fork of muesli/readme-scribe: markscribe built with a current Go
-        # toolchain, one pinned image per release.
-        uses: freifunkMUC/readme-scribe@54a897aa78f9ca7c31e3b27182ce7bc0dab23384 # v1.0.0
+        # toolchain and current dependencies, one pinned image per release.
+        uses: freifunkMUC/readme-scribe@60f0a56199123f944e6c3d0a7840521253dc71d3 # v1.1.0
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
