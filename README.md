@@ -15,6 +15,16 @@
 
 #### 🌱 My latest projects
 
+- [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) - A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when you're gone or unresponsive.
+- [GoliathLabs/PasswordPusher](https://github.com/GoliathLabs/PasswordPusher) - 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
+- [GoliathLabs/snmp-to-influx-python](https://github.com/GoliathLabs/snmp-to-influx-python) - 
+- [GoliathLabs/Flask-MQTT](https://github.com/GoliathLabs/Flask-MQTT) - Flask Extension for the MQTT protocol
+- [GoliathLabs/docker-openldap](https://github.com/GoliathLabs/docker-openldap) - OpenLDAP container image 🐳🌴
+- [GoliathLabs/roundcube-plugin-identity-from-directory](https://github.com/GoliathLabs/roundcube-plugin-identity-from-directory) - Roundcube plugin to populate and maintain user identities automatically on each login, based on corresponding LDAP or Active Directory user data.
+- [GoliathLabs/excalidraw-backend](https://github.com/GoliathLabs/excalidraw-backend) - Excalidraw collaboration backend for Jitsi
+- [GoliathLabs/zigbee-herdsman-converters](https://github.com/GoliathLabs/zigbee-herdsman-converters) - Collection of device converters to be used with zigbee-herdsman
+- [GoliathLabs/zigbee2mqtt.io](https://github.com/GoliathLabs/zigbee2mqtt.io) - 📘 Zigbee2mqtt documentation
+- [GoliathLabs/server](https://github.com/GoliathLabs/server) - self-hosted tag-based time tracking
 
 #### 🔭 Latest releases I've contributed to
 
