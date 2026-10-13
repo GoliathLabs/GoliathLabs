@@ -6,8 +6,8 @@
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (4 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (6 days ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
-- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (2 weeks ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (2 weeks ago)
+- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (2 weeks ago)
 - [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) -  (2 weeks ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (4 weeks ago)
 - [freifunkMUC/etcd-tools](https://github.com/freifunkMUC/etcd-tools) -  (1 month ago)
@@ -28,10 +28,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: markscribe with the backlog fixes, 1.2.0](https://github.com/freifunkMUC/readme-scribe/pull/3) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (today)
 - [Fixes from upstream's backlog: resource limits, pagination, releases, archived repositories, RSS fields, truncate](https://github.com/freifunkMUC/markscribe/pull/2) on [freifunkMUC/markscribe](https://github.com/freifunkMUC/markscribe) (today)
 - [feat: markscribe from the fork with current dependencies, 1.1.0](https://github.com/freifunkMUC/readme-scribe/pull/2) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (today)
 - [chore: current Go and dependencies, module path of the fork](https://github.com/freifunkMUC/markscribe/pull/1) on [freifunkMUC/markscribe](https://github.com/freifunkMUC/markscribe) (today)
 - [feat: run an image built here from source](https://github.com/freifunkMUC/readme-scribe/pull/1) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (today)
+- [ci: build the image and push it to GHCR](https://github.com/GoliathLabs/lastsignal/pull/1) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (1 day ago)
+- [chore(deps): bump golang from 1.27.1-alpine to 1.27.2-alpine](https://github.com/freifunkMUC/wg-access-server/pull/1374) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
+- [ci: scan vulnerabilities against the newest go patch release](https://github.com/freifunkMUC/wg-access-server/pull/1373) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
+- [chore(deps): update website and Go dependencies](https://github.com/freifunkMUC/wg-access-server/pull/1372) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
+- [haproxy: allow cloud.stammdonbosco.de to embed meet in an iframe](https://github.com/freifunkMUC/ffmuc-salt-public/pull/336) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 days ago)
 
 #### 📓 Gists I wrote
 
