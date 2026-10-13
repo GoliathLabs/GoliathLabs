@@ -1,0 +1,22 @@
+baseURL = "https://felix-golatofski.de/"
+title = "Felix Golatofski"
+locale = "de"
+defaultContentLanguage = "de"
+
+# One page and a few plain pages: no lists, no feeds, no taxonomies.
+disableKinds = ["taxonomy", "term", "section", "rss"]
+enableRobotsTXT = true
+
+[params]
+  description = "Persönliche Seite von Felix Golatofski."
+
+  # The links on the start page, in this order.
+  [[params.links]]
+    name = "GitHub"
+    url = "https://github.com/GoliathLabs"
+  [[params.links]]
+    name = "Blog"
+    url = "https://blog.morphnet.work"
+
+[minify]
+  minifyOutput = true
