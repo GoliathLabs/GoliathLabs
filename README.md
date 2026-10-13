@@ -36,7 +36,6 @@
 - [haproxy: allow cloud.stammdonbosco.de to embed meet in an iframe](https://github.com/freifunkMUC/ffmuc-salt-public/pull/336) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 days ago)
 - [fix: floor github-pages so it doesn't break with Ruby 3.2 & update theme](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/608) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (6 days ago)
 - [chore: update dependencies and align CI workflows with other freifunkMUC projects](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/138) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (1 week ago)
-- [ci: scan the latest release in the weekly Trivy run](https://github.com/freifunkMUC/autodiscover-email-settings/pull/75) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 week ago)
 
 #### 📓 Gists I wrote
 
