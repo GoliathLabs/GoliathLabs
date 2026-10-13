@@ -8,7 +8,7 @@ disableKinds = ["taxonomy", "term", "section", "rss"]
 enableRobotsTXT = true
 
 [params]
-  description = "Persönliche Seite von Felix Golatofski."
+  description = "Felix Golatofski: Systemadministrator, Informatikstudent an der Technischen Hochschule Augsburg, aktiv bei Freifunk München."
 
   # The links on the start page, in this order.
   [[params.links]]
@@ -17,6 +17,9 @@ enableRobotsTXT = true
   [[params.links]]
     name = "Blog"
     url = "https://blog.morphnet.work"
+  [[params.links]]
+    name = "Mastodon"
+    url = "https://social.ffmuc.net/@TheGoliath"
 
 [minify]
   minifyOutput = true
