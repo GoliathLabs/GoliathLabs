@@ -9,6 +9,9 @@
 {{range recentRepos 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
+{{- range recentForks 10}}{{if not .IsArchived}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}{{end}}
 
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 10}}
