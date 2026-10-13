@@ -1,0 +1,5 @@
+.gitignore
+README.md
+public
+resources
+.hugo_build.lock

@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="{{ site.Language.Locale | default "de" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ .Description | default site.Params.description }}">
+    <link rel="canonical" href="{{ .Permalink }}">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    {{- with resources.Get "css/main.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">
+    {{- end }}
+  </head>
+  <body>
+    <main>
+      {{- block "main" . }}{{ end }}
+    </main>
+  </body>
+</html>

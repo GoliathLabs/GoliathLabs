@@ -8,3 +8,15 @@ updates:
     schedule: {interval: monthly}
     reviewers: [GoliathLabs]
     assignees: [GoliathLabs]
+
+  # Hugo and nginx in site/Dockerfile.
+  - package-ecosystem: docker
+    directory: /site
+    schedule: {interval: weekly}
+    reviewers: [GoliathLabs]
+    assignees: [GoliathLabs]
+    ignore:
+      # nginx stays on its stable branch (even minor versions); the move to
+      # the next one is made by hand.
+      - dependency-name: nginxinc/nginx-unprivileged
+        update-types: ["version-update:semver-minor", "version-update:semver-major"]
