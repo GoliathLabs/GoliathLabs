@@ -28,12 +28,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fixes from upstream's backlog: resource limits, pagination, releases, archived repositories, RSS fields, truncate](https://github.com/freifunkMUC/markscribe/pull/2) on [freifunkMUC/markscribe](https://github.com/freifunkMUC/markscribe) (today)
 - [feat: markscribe from the fork with current dependencies, 1.1.0](https://github.com/freifunkMUC/readme-scribe/pull/2) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (today)
 - [chore: current Go and dependencies, module path of the fork](https://github.com/freifunkMUC/markscribe/pull/1) on [freifunkMUC/markscribe](https://github.com/freifunkMUC/markscribe) (today)
 - [feat: run an image built here from source](https://github.com/freifunkMUC/readme-scribe/pull/1) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (today)
-- [ci: build the image and push it to GHCR](https://github.com/GoliathLabs/lastsignal/pull/1) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (1 day ago)
-- [chore(deps): bump golang from 1.27.1-alpine to 1.27.2-alpine](https://github.com/freifunkMUC/wg-access-server/pull/1374) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [ci: scan vulnerabilities against the newest go patch release](https://github.com/freifunkMUC/wg-access-server/pull/1373) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
 
 #### 📓 Gists I wrote
 
