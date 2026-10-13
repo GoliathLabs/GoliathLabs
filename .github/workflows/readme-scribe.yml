@@ -15,17 +15,16 @@ jobs:
 
     permissions:
       contents: write
-      pull-requests: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-        with:
-          fetch-depth: 0
 
       - name: Generate README.md
         id: generate
-        uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948 # v0.1
+        # The fork of muesli/readme-scribe: markscribe built with a current Go
+        # toolchain, one pinned image per release.
+        uses: freifunkMUC/readme-scribe@54a897aa78f9ca7c31e3b27182ce7bc0dab23384 # v1.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
@@ -36,13 +35,6 @@ jobs:
         id: changes
         run: |
           git diff --quiet README.md || echo "changes=true" >> $GITHUB_OUTPUT
-
-      - name: Upload README.md as artifact
-        if: steps.changes.outputs.changes == 'true'
-        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
-        with:
-          name: README.md
-          path: README.md
 
       - name: Commit changes
         if: steps.changes.outputs.changes == 'true'
