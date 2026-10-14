@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (today)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (4 days ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (6 days ago)
+- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (1 day ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (5 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (2 weeks ago)
 - [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (2 weeks ago)
@@ -38,16 +38,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: manage Omada switch and site names](https://github.com/filipegalo/terraform-provider-omada/pull/1) on [filipegalo/terraform-provider-omada](https://github.com/filipegalo/terraform-provider-omada) (today)
-- [feat: markscribe with the backlog fixes, 1.2.0](https://github.com/freifunkMUC/readme-scribe/pull/3) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (today)
-- [Fixes from upstream's backlog: resource limits, pagination, releases, archived repositories, RSS fields, truncate](https://github.com/freifunkMUC/markscribe/pull/2) on [freifunkMUC/markscribe](https://github.com/freifunkMUC/markscribe) (today)
-- [feat: markscribe from the fork with current dependencies, 1.1.0](https://github.com/freifunkMUC/readme-scribe/pull/2) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (today)
-- [chore: current Go and dependencies, module path of the fork](https://github.com/freifunkMUC/markscribe/pull/1) on [freifunkMUC/markscribe](https://github.com/freifunkMUC/markscribe) (today)
-- [feat: run an image built here from source](https://github.com/freifunkMUC/readme-scribe/pull/1) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (today)
-- [ci: build the image and push it to GHCR](https://github.com/GoliathLabs/lastsignal/pull/1) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (1 day ago)
-- [chore(deps): bump golang from 1.27.1-alpine to 1.27.2-alpine](https://github.com/freifunkMUC/wg-access-server/pull/1374) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [ci: scan vulnerabilities against the newest go patch release](https://github.com/freifunkMUC/wg-access-server/pull/1373) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
-- [chore(deps): update website and Go dependencies](https://github.com/freifunkMUC/wg-access-server/pull/1372) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (4 days ago)
+- [feat: manage Omada switch and site names](https://github.com/filipegalo/terraform-provider-omada/pull/1) on [filipegalo/terraform-provider-omada](https://github.com/filipegalo/terraform-provider-omada) (1 day ago)
+- [feat: markscribe with the backlog fixes, 1.2.0](https://github.com/freifunkMUC/readme-scribe/pull/3) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (1 day ago)
+- [Fixes from upstream's backlog: resource limits, pagination, releases, archived repositories, RSS fields, truncate](https://github.com/freifunkMUC/markscribe/pull/2) on [freifunkMUC/markscribe](https://github.com/freifunkMUC/markscribe) (1 day ago)
+- [feat: markscribe from the fork with current dependencies, 1.1.0](https://github.com/freifunkMUC/readme-scribe/pull/2) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (1 day ago)
+- [chore: current Go and dependencies, module path of the fork](https://github.com/freifunkMUC/markscribe/pull/1) on [freifunkMUC/markscribe](https://github.com/freifunkMUC/markscribe) (1 day ago)
+- [feat: run an image built here from source](https://github.com/freifunkMUC/readme-scribe/pull/1) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (1 day ago)
+- [ci: build the image and push it to GHCR](https://github.com/GoliathLabs/lastsignal/pull/1) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (2 days ago)
+- [chore(deps): bump golang from 1.27.1-alpine to 1.27.2-alpine](https://github.com/freifunkMUC/wg-access-server/pull/1374) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 days ago)
+- [ci: scan vulnerabilities against the newest go patch release](https://github.com/freifunkMUC/wg-access-server/pull/1373) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 days ago)
+- [chore(deps): update website and Go dependencies](https://github.com/freifunkMUC/wg-access-server/pull/1372) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (5 days ago)
 
 #### 📓 Gists I wrote
 
@@ -58,12 +58,12 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (6 days ago)
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (1 week ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 months ago)
 - [TheScienceElf/UNIVAC-1219](https://github.com/TheScienceElf/UNIVAC-1219) - An emulator and assembler for the UNIVAC-1219 computer (5 months ago)
-- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (5 months ago)
-- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together (5 months ago)
+- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (6 months ago)
+- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together (6 months ago)
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own. (6 months ago)
 - [rancher/rke2](https://github.com/rancher/rke2) -  (7 months ago)
 - [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (7 months ago)
