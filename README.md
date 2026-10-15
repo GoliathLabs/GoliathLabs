@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (2 days ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (6 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 weeks ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (2 weeks ago)
@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [icinga2: reload when the host certificate is renewed](https://github.com/freifunkMUC/ffmuc-salt-public/pull/337) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [feat: manage Omada switch and site names](https://github.com/filipegalo/terraform-provider-omada/pull/1) on [filipegalo/terraform-provider-omada](https://github.com/filipegalo/terraform-provider-omada) (2 days ago)
 - [feat: markscribe with the backlog fixes, 1.2.0](https://github.com/freifunkMUC/readme-scribe/pull/3) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (2 days ago)
 - [Fixes from upstream's backlog: resource limits, pagination, releases, archived repositories, RSS fields, truncate](https://github.com/freifunkMUC/markscribe/pull/2) on [freifunkMUC/markscribe](https://github.com/freifunkMUC/markscribe) (2 days ago)
@@ -47,7 +48,6 @@
 - [ci: build the image and push it to GHCR](https://github.com/GoliathLabs/lastsignal/pull/1) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (3 days ago)
 - [chore(deps): bump golang from 1.27.1-alpine to 1.27.2-alpine](https://github.com/freifunkMUC/wg-access-server/pull/1374) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
 - [ci: scan vulnerabilities against the newest go patch release](https://github.com/freifunkMUC/wg-access-server/pull/1373) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
-- [chore(deps): update website and Go dependencies](https://github.com/freifunkMUC/wg-access-server/pull/1372) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (6 days ago)
 
 #### 📓 Gists I wrote
 
