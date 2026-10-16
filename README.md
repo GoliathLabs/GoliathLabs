@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [jitsi: smaller videobridge heap on small VMs](https://github.com/freifunkMUC/ffmuc-salt-public/pull/339) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [rustic: optional no-cache per host](https://github.com/freifunkMUC/ffmuc-salt-public/pull/338) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [icinga2: reload when the host certificate is renewed](https://github.com/freifunkMUC/ffmuc-salt-public/pull/337) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [feat: manage Omada switch and site names](https://github.com/filipegalo/terraform-provider-omada/pull/1) on [filipegalo/terraform-provider-omada](https://github.com/filipegalo/terraform-provider-omada) (3 days ago)
@@ -47,7 +48,6 @@
 - [chore: current Go and dependencies, module path of the fork](https://github.com/freifunkMUC/markscribe/pull/1) on [freifunkMUC/markscribe](https://github.com/freifunkMUC/markscribe) (3 days ago)
 - [feat: run an image built here from source](https://github.com/freifunkMUC/readme-scribe/pull/1) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (3 days ago)
 - [ci: build the image and push it to GHCR](https://github.com/GoliathLabs/lastsignal/pull/1) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (4 days ago)
-- [chore(deps): bump golang from 1.27.1-alpine to 1.27.2-alpine](https://github.com/freifunkMUC/wg-access-server/pull/1374) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 week ago)
 
 #### 📓 Gists I wrote
 
