@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
-- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (3 days ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (4 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 weeks ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (2 weeks ago)
@@ -31,23 +31,23 @@
 - [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) ([v0.2.0](https://github.com/freifunkMUC/unified_respondd/releases/tag/v0.2.0), 2 weeks ago) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.2.0), 1 month ago) - Helm Charts for wg-access-server
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.8.2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.8.2), 1 month ago) - Freifunk München specific Gluon configuration
-- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.3), 1 month ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
+- [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.3), 2 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.1), 8 months ago) - 
 - [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) ([v1.3.0](https://github.com/stlehmann/Flask-MQTT/releases/tag/v1.3.0), 8 months ago) - Flask Extension for the MQTT protocol
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.2.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.2.1), 2 years ago) - Project for easy key exchange between Wireguard Clients and Servers
 
 #### 🔨 My recent Pull Requests
 
-- [jitsi: smaller videobridge heap on small VMs](https://github.com/freifunkMUC/ffmuc-salt-public/pull/339) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [rustic: optional no-cache per host](https://github.com/freifunkMUC/ffmuc-salt-public/pull/338) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [icinga2: reload when the host certificate is renewed](https://github.com/freifunkMUC/ffmuc-salt-public/pull/337) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [feat: manage Omada switch and site names](https://github.com/filipegalo/terraform-provider-omada/pull/1) on [filipegalo/terraform-provider-omada](https://github.com/filipegalo/terraform-provider-omada) (3 days ago)
-- [feat: markscribe with the backlog fixes, 1.2.0](https://github.com/freifunkMUC/readme-scribe/pull/3) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (3 days ago)
-- [Fixes from upstream's backlog: resource limits, pagination, releases, archived repositories, RSS fields, truncate](https://github.com/freifunkMUC/markscribe/pull/2) on [freifunkMUC/markscribe](https://github.com/freifunkMUC/markscribe) (3 days ago)
-- [feat: markscribe from the fork with current dependencies, 1.1.0](https://github.com/freifunkMUC/readme-scribe/pull/2) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (3 days ago)
-- [chore: current Go and dependencies, module path of the fork](https://github.com/freifunkMUC/markscribe/pull/1) on [freifunkMUC/markscribe](https://github.com/freifunkMUC/markscribe) (3 days ago)
-- [feat: run an image built here from source](https://github.com/freifunkMUC/readme-scribe/pull/1) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (3 days ago)
-- [ci: build the image and push it to GHCR](https://github.com/GoliathLabs/lastsignal/pull/1) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (4 days ago)
+- [rustic: prune weekly](https://github.com/freifunkMUC/ffmuc-salt-public/pull/340) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [jitsi: smaller videobridge heap on small VMs](https://github.com/freifunkMUC/ffmuc-salt-public/pull/339) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [rustic: optional no-cache per host](https://github.com/freifunkMUC/ffmuc-salt-public/pull/338) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [icinga2: reload when the host certificate is renewed](https://github.com/freifunkMUC/ffmuc-salt-public/pull/337) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
+- [feat: manage Omada switch and site names](https://github.com/filipegalo/terraform-provider-omada/pull/1) on [filipegalo/terraform-provider-omada](https://github.com/filipegalo/terraform-provider-omada) (4 days ago)
+- [feat: markscribe with the backlog fixes, 1.2.0](https://github.com/freifunkMUC/readme-scribe/pull/3) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (4 days ago)
+- [Fixes from upstream's backlog: resource limits, pagination, releases, archived repositories, RSS fields, truncate](https://github.com/freifunkMUC/markscribe/pull/2) on [freifunkMUC/markscribe](https://github.com/freifunkMUC/markscribe) (4 days ago)
+- [feat: markscribe from the fork with current dependencies, 1.1.0](https://github.com/freifunkMUC/readme-scribe/pull/2) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (4 days ago)
+- [chore: current Go and dependencies, module path of the fork](https://github.com/freifunkMUC/markscribe/pull/1) on [freifunkMUC/markscribe](https://github.com/freifunkMUC/markscribe) (4 days ago)
+- [feat: run an image built here from source](https://github.com/freifunkMUC/readme-scribe/pull/1) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (4 days ago)
 
 #### 📓 Gists I wrote
 
@@ -58,8 +58,8 @@
 
 #### ⭐ Recent Stars
 
-- [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (1 day ago)
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 day ago)
+- [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (2 days ago)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (2 days ago)
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (1 week ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 months ago)
