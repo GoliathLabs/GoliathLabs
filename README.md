@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (5 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 weeks ago)
@@ -38,16 +38,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [icinga2: host notifications, missing hosts, BGP and WireGuard checks](https://github.com/freifunkMUC/ffmuc-salt-public/pull/353) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [komodo: core on docker06, periphery state, resource sync](https://github.com/freifunkMUC/ffmuc-salt-public/pull/352) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [stacks: compose projects as code for Komodo](https://github.com/freifunkMUC/ffmuc-salt-public/pull/351) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [certs: rebuild certbot venv when broken](https://github.com/freifunkMUC/ffmuc-salt-public/pull/349) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [influxdb: allow group-readable TLS key (1.13 permission check)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/348) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [systemd-networkd: batman-adv ports not required for online](https://github.com/freifunkMUC/ffmuc-salt-public/pull/347) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [telegraf: collect SMART data on physical hosts](https://github.com/freifunkMUC/ffmuc-salt-public/pull/343) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [rustic: prune weekly](https://github.com/freifunkMUC/ffmuc-salt-public/pull/340) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
 - [jitsi: smaller videobridge heap on small VMs](https://github.com/freifunkMUC/ffmuc-salt-public/pull/339) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
 - [rustic: optional no-cache per host](https://github.com/freifunkMUC/ffmuc-salt-public/pull/338) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
-- [icinga2: reload when the host certificate is renewed](https://github.com/freifunkMUC/ffmuc-salt-public/pull/337) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 days ago)
-- [feat: manage Omada switch and site names](https://github.com/filipegalo/terraform-provider-omada/pull/1) on [filipegalo/terraform-provider-omada](https://github.com/filipegalo/terraform-provider-omada) (5 days ago)
-- [feat: markscribe with the backlog fixes, 1.2.0](https://github.com/freifunkMUC/readme-scribe/pull/3) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (5 days ago)
-- [Fixes from upstream's backlog: resource limits, pagination, releases, archived repositories, RSS fields, truncate](https://github.com/freifunkMUC/markscribe/pull/2) on [freifunkMUC/markscribe](https://github.com/freifunkMUC/markscribe) (5 days ago)
-- [feat: markscribe from the fork with current dependencies, 1.1.0](https://github.com/freifunkMUC/readme-scribe/pull/2) on [freifunkMUC/readme-scribe](https://github.com/freifunkMUC/readme-scribe) (5 days ago)
-- [chore: current Go and dependencies, module path of the fork](https://github.com/freifunkMUC/markscribe/pull/1) on [freifunkMUC/markscribe](https://github.com/freifunkMUC/markscribe) (5 days ago)
 
 #### 📓 Gists I wrote
 
