@@ -38,16 +38,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [graylog-sidecar: filebeat 8.19.23 for armhf](https://github.com/freifunkMUC/ffmuc-salt-public/pull/374) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [graylog-sidecar: do not show the sidecar.yml diff](https://github.com/freifunkMUC/ffmuc-salt-public/pull/373) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [graylog-sidecar: restore the Raspbian branch, the guardians still use it](https://github.com/freifunkMUC/ffmuc-salt-public/pull/372) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [shellcheck: skip jinja templates, fix findings that fail every push to main](https://github.com/freifunkMUC/ffmuc-salt-public/pull/370) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [apt.ffmuc.net: remove unused packages, jitsi proxy and dead states](https://github.com/freifunkMUC/ffmuc-salt-public/pull/369) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [nebula: CA bundle and v1+v2 host certs from pillar](https://github.com/freifunkMUC/ffmuc-salt-public/pull/364) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [komodo: Core as komodo.ov.ffmuc.net via traefik](https://github.com/freifunkMUC/ffmuc-salt-public/pull/363) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [nebula: pin deb by sha256, restart after package upgrade, add 1.11.1-1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/361) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [icinga2: load thresholds per cpu](https://github.com/freifunkMUC/ffmuc-salt-public/pull/360) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [dns-auth, cloudflare, packetyeeter: use service parent (NetBox 4.3+)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/359) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [jitsi: fix vosk script hash, ssl for vauth vhost](https://github.com/freifunkMUC/ffmuc-salt-public/pull/358) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [icinga2: host notifications, agentless and static hosts, BGP and WireGuard checks](https://github.com/freifunkMUC/ffmuc-salt-public/pull/357) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [icinga2: host notifications, missing hosts, BGP and WireGuard checks](https://github.com/freifunkMUC/ffmuc-salt-public/pull/353) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [komodo: core on docker06, periphery state, resource sync](https://github.com/freifunkMUC/ffmuc-salt-public/pull/352) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [stacks: compose projects as code for Komodo](https://github.com/freifunkMUC/ffmuc-salt-public/pull/351) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 
 #### 📓 Gists I wrote
 
