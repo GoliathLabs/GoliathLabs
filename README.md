@@ -38,16 +38,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [nebula: CA bundle and v1+v2 host certs from pillar](https://github.com/freifunkMUC/ffmuc-salt-public/pull/364) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [komodo: Core as komodo.ov.ffmuc.net via traefik](https://github.com/freifunkMUC/ffmuc-salt-public/pull/363) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [nebula: pin deb by sha256, restart after package upgrade, add 1.11.1-1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/361) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [icinga2: load thresholds per cpu](https://github.com/freifunkMUC/ffmuc-salt-public/pull/360) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [dns-auth, cloudflare, packetyeeter: use service parent (NetBox 4.3+)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/359) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [jitsi: fix vosk script hash, ssl for vauth vhost](https://github.com/freifunkMUC/ffmuc-salt-public/pull/358) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [icinga2: host notifications, agentless and static hosts, BGP and WireGuard checks](https://github.com/freifunkMUC/ffmuc-salt-public/pull/357) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [icinga2: host notifications, missing hosts, BGP and WireGuard checks](https://github.com/freifunkMUC/ffmuc-salt-public/pull/353) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [komodo: core on docker06, periphery state, resource sync](https://github.com/freifunkMUC/ffmuc-salt-public/pull/352) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [stacks: compose projects as code for Komodo](https://github.com/freifunkMUC/ffmuc-salt-public/pull/351) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [certs: rebuild certbot venv when broken](https://github.com/freifunkMUC/ffmuc-salt-public/pull/349) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [influxdb: allow group-readable TLS key (1.13 permission check)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/348) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [systemd-networkd: batman-adv ports not required for online](https://github.com/freifunkMUC/ffmuc-salt-public/pull/347) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [telegraf: collect SMART data on physical hosts](https://github.com/freifunkMUC/ffmuc-salt-public/pull/343) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [rustic: prune weekly](https://github.com/freifunkMUC/ffmuc-salt-public/pull/340) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
-- [jitsi: smaller videobridge heap on small VMs](https://github.com/freifunkMUC/ffmuc-salt-public/pull/339) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
-- [rustic: optional no-cache per host](https://github.com/freifunkMUC/ffmuc-salt-public/pull/338) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
 
 #### 📓 Gists I wrote
 
