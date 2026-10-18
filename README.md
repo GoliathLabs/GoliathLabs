@@ -28,16 +28,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.10.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.10.1), today) - Freifunk München specific Gluon configuration
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.3.0](https://github.com/freifunkMUC/wgkex/releases/tag/v0.3.0), 1 day ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) ([v0.2.0](https://github.com/freifunkMUC/unified_respondd/releases/tag/v0.2.0), 2 weeks ago) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.2.0), 1 month ago) - Helm Charts for wg-access-server
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.8.2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.8.2), 1 month ago) - Freifunk München specific Gluon configuration
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.3), 2 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.1), 8 months ago) - 
 - [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) ([v1.3.0](https://github.com/stlehmann/Flask-MQTT/releases/tag/v1.3.0), 8 months ago) - Flask Extension for the MQTT protocol
 
 #### 🔨 My recent Pull Requests
 
+- [guardians: make the first highstate on Raspbian safe, sflowtool as a state](https://github.com/freifunkMUC/ffmuc-salt-public/pull/375) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [graylog-sidecar: filebeat 8.19.23 for armhf](https://github.com/freifunkMUC/ffmuc-salt-public/pull/374) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [graylog-sidecar: do not show the sidecar.yml diff](https://github.com/freifunkMUC/ffmuc-salt-public/pull/373) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [graylog-sidecar: restore the Raspbian branch, the guardians still use it](https://github.com/freifunkMUC/ffmuc-salt-public/pull/372) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
@@ -47,7 +48,6 @@
 - [komodo: Core as komodo.ov.ffmuc.net via traefik](https://github.com/freifunkMUC/ffmuc-salt-public/pull/363) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [nebula: pin deb by sha256, restart after package upgrade, add 1.11.1-1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/361) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [icinga2: load thresholds per cpu](https://github.com/freifunkMUC/ffmuc-salt-public/pull/360) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [dns-auth, cloudflare, packetyeeter: use service parent (NetBox 4.3+)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/359) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 
 #### 📓 Gists I wrote
 
