@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [komodo: docker05, docker07, rw-vpn01/02 and mail01](https://github.com/freifunkMUC/ffmuc-salt-public/pull/376) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [guardians: make the first highstate on Raspbian safe, sflowtool as a state](https://github.com/freifunkMUC/ffmuc-salt-public/pull/375) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [graylog-sidecar: filebeat 8.19.23 for armhf](https://github.com/freifunkMUC/ffmuc-salt-public/pull/374) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [graylog-sidecar: do not show the sidecar.yml diff](https://github.com/freifunkMUC/ffmuc-salt-public/pull/373) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
@@ -47,7 +48,6 @@
 - [nebula: CA bundle and v1+v2 host certs from pillar](https://github.com/freifunkMUC/ffmuc-salt-public/pull/364) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [komodo: Core as komodo.ov.ffmuc.net via traefik](https://github.com/freifunkMUC/ffmuc-salt-public/pull/363) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [nebula: pin deb by sha256, restart after package upgrade, add 1.11.1-1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/361) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [icinga2: load thresholds per cpu](https://github.com/freifunkMUC/ffmuc-salt-public/pull/360) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 
 #### 📓 Gists I wrote
 
