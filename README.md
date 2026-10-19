@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (6 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 weeks ago)
@@ -38,16 +38,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [grafana: LDAP bind account from the pillar grafana:ldap, ldap.toml 0640 without diff](https://github.com/freifunkMUC/ffmuc-salt-public/pull/387) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [graylog-sidecar: refetch the Graylog and Elastic repo keys until their uids have SHA2 bindings](https://github.com/freifunkMUC/ffmuc-salt-public/pull/386) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [rustic: backup.dump_commands writes dumps to /var/lib/ffmuc-dumps before each backup](https://github.com/freifunkMUC/ffmuc-salt-public/pull/385) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [dependabot: weekly updates for the compose files under stacks/](https://github.com/freifunkMUC/ffmuc-salt-public/pull/384) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [docker: start dockerd after nebula so ports on the Nebula address bind at boot](https://github.com/freifunkMUC/ffmuc-salt-public/pull/383) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [icinga2: first run on a new agent creates the certs dir before the CA and restarts the daemon](https://github.com/freifunkMUC/ffmuc-salt-public/pull/382) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [komodo-periphery: secrets from pillar instead of Komodo Core variables](https://github.com/freifunkMUC/ffmuc-salt-public/pull/378) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [komodo: docker05, docker07, rw-vpn01/02 and mail01](https://github.com/freifunkMUC/ffmuc-salt-public/pull/376) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [guardians: make the first highstate on Raspbian safe, sflowtool as a state](https://github.com/freifunkMUC/ffmuc-salt-public/pull/375) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [graylog-sidecar: filebeat 8.19.23 for armhf](https://github.com/freifunkMUC/ffmuc-salt-public/pull/374) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [graylog-sidecar: do not show the sidecar.yml diff](https://github.com/freifunkMUC/ffmuc-salt-public/pull/373) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [graylog-sidecar: restore the Raspbian branch, the guardians still use it](https://github.com/freifunkMUC/ffmuc-salt-public/pull/372) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [shellcheck: skip jinja templates, fix findings that fail every push to main](https://github.com/freifunkMUC/ffmuc-salt-public/pull/370) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [apt.ffmuc.net: remove unused packages, jitsi proxy and dead states](https://github.com/freifunkMUC/ffmuc-salt-public/pull/369) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [nebula: CA bundle and v1+v2 host certs from pillar](https://github.com/freifunkMUC/ffmuc-salt-public/pull/364) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [komodo: Core as komodo.ov.ffmuc.net via traefik](https://github.com/freifunkMUC/ffmuc-salt-public/pull/363) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 
 #### 📓 Gists I wrote
 
