@@ -38,16 +38,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [haproxy, nebula: matrix.ffmuc.net and element.ffmuc.net to docker07](https://github.com/freifunkMUC/ffmuc-salt-public/pull/394) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [stacks: tuwunel (matrix.ffmuc.net) and Element Web on docker07, not deployed](https://github.com/freifunkMUC/ffmuc-salt-public/pull/393) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [github-downloader: ffmeet-downloader checks sha256 digests and writes the tag marker last](https://github.com/freifunkMUC/ffmuc-salt-public/pull/391) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [ff_base: install iptraf-ng everywhere, jammy has no iptraf package](https://github.com/freifunkMUC/ffmuc-salt-public/pull/390) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [github-downloader: add xrx500-downloader for workflow artifacts](https://github.com/freifunkMUC/ffmuc-salt-public/pull/389) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [grafana: LDAP bind account from the pillar grafana:ldap, ldap.toml 0640 without diff](https://github.com/freifunkMUC/ffmuc-salt-public/pull/387) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [graylog-sidecar: refetch the Graylog and Elastic repo keys until their uids have SHA2 bindings](https://github.com/freifunkMUC/ffmuc-salt-public/pull/386) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [rustic: backup.dump_commands writes dumps to /var/lib/ffmuc-dumps before each backup](https://github.com/freifunkMUC/ffmuc-salt-public/pull/385) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [dependabot: weekly updates for the compose files under stacks/](https://github.com/freifunkMUC/ffmuc-salt-public/pull/384) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [docker: start dockerd after nebula so ports on the Nebula address bind at boot](https://github.com/freifunkMUC/ffmuc-salt-public/pull/383) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [icinga2: first run on a new agent creates the certs dir before the CA and restarts the daemon](https://github.com/freifunkMUC/ffmuc-salt-public/pull/382) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [komodo-periphery: secrets from pillar instead of Komodo Core variables](https://github.com/freifunkMUC/ffmuc-salt-public/pull/378) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [komodo: docker05, docker07, rw-vpn01/02 and mail01](https://github.com/freifunkMUC/ffmuc-salt-public/pull/376) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [guardians: make the first highstate on Raspbian safe, sflowtool as a state](https://github.com/freifunkMUC/ffmuc-salt-public/pull/375) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [graylog-sidecar: filebeat 8.19.23 for armhf](https://github.com/freifunkMUC/ffmuc-salt-public/pull/374) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 
 #### 📓 Gists I wrote
 
