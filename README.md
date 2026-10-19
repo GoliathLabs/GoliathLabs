@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
-- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (5 days ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (6 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 weeks ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (2 weeks ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.10.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.10.1), today) - Freifunk München specific Gluon configuration
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.3.0](https://github.com/freifunkMUC/wgkex/releases/tag/v0.3.0), 1 day ago) - Project for easy key exchange between Wireguard Clients and Servers
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.10.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.10.1), 1 day ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.3.0](https://github.com/freifunkMUC/wgkex/releases/tag/v0.3.0), 2 days ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) ([v0.2.0](https://github.com/freifunkMUC/unified_respondd/releases/tag/v0.2.0), 2 weeks ago) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.2.0), 1 month ago) - Helm Charts for wg-access-server
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.3), 2 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
@@ -38,16 +38,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [komodo-periphery: secrets from pillar instead of Komodo Core variables](https://github.com/freifunkMUC/ffmuc-salt-public/pull/378) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [komodo: docker05, docker07, rw-vpn01/02 and mail01](https://github.com/freifunkMUC/ffmuc-salt-public/pull/376) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [guardians: make the first highstate on Raspbian safe, sflowtool as a state](https://github.com/freifunkMUC/ffmuc-salt-public/pull/375) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [graylog-sidecar: filebeat 8.19.23 for armhf](https://github.com/freifunkMUC/ffmuc-salt-public/pull/374) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [graylog-sidecar: do not show the sidecar.yml diff](https://github.com/freifunkMUC/ffmuc-salt-public/pull/373) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [graylog-sidecar: restore the Raspbian branch, the guardians still use it](https://github.com/freifunkMUC/ffmuc-salt-public/pull/372) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [shellcheck: skip jinja templates, fix findings that fail every push to main](https://github.com/freifunkMUC/ffmuc-salt-public/pull/370) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [apt.ffmuc.net: remove unused packages, jitsi proxy and dead states](https://github.com/freifunkMUC/ffmuc-salt-public/pull/369) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [nebula: CA bundle and v1+v2 host certs from pillar](https://github.com/freifunkMUC/ffmuc-salt-public/pull/364) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [komodo: Core as komodo.ov.ffmuc.net via traefik](https://github.com/freifunkMUC/ffmuc-salt-public/pull/363) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [komodo-periphery: secrets from pillar instead of Komodo Core variables](https://github.com/freifunkMUC/ffmuc-salt-public/pull/378) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [komodo: docker05, docker07, rw-vpn01/02 and mail01](https://github.com/freifunkMUC/ffmuc-salt-public/pull/376) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [guardians: make the first highstate on Raspbian safe, sflowtool as a state](https://github.com/freifunkMUC/ffmuc-salt-public/pull/375) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [graylog-sidecar: filebeat 8.19.23 for armhf](https://github.com/freifunkMUC/ffmuc-salt-public/pull/374) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [graylog-sidecar: do not show the sidecar.yml diff](https://github.com/freifunkMUC/ffmuc-salt-public/pull/373) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [graylog-sidecar: restore the Raspbian branch, the guardians still use it](https://github.com/freifunkMUC/ffmuc-salt-public/pull/372) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [shellcheck: skip jinja templates, fix findings that fail every push to main](https://github.com/freifunkMUC/ffmuc-salt-public/pull/370) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [apt.ffmuc.net: remove unused packages, jitsi proxy and dead states](https://github.com/freifunkMUC/ffmuc-salt-public/pull/369) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [nebula: CA bundle and v1+v2 host certs from pillar](https://github.com/freifunkMUC/ffmuc-salt-public/pull/364) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [komodo: Core as komodo.ov.ffmuc.net via traefik](https://github.com/freifunkMUC/ffmuc-salt-public/pull/363) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -58,8 +58,8 @@
 
 #### ⭐ Recent Stars
 
-- [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (3 days ago)
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (3 days ago)
+- [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (4 days ago)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (4 days ago)
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (1 week ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 weeks ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 months ago)
