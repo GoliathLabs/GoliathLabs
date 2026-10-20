@@ -38,16 +38,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Install ca-certificates in the image](https://github.com/freifunkMUC/autodiscover-email-settings/pull/76) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
+- [Install ca-certificates in the image](https://github.com/freifunkMUC/wg-access-server/pull/1375) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Alpine 3.22.6](https://github.com/GoliathLabs/strichliste-docker/pull/49) on [GoliathLabs/strichliste-docker](https://github.com/GoliathLabs/strichliste-docker) (today)
+- [ca-certificates: follow NSS 3.131.1 (eMudhra) [gluon-v2021.1.x]](https://github.com/freifunkMUC/site-ffm/pull/958) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (today)
+- [ca-certificates: follow NSS 3.131.1 (eMudhra) [gluon-v2023.2.x]](https://github.com/freifunkMUC/site-ffm/pull/957) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (today)
+- [ca-certificates: follow NSS 3.131.1 (eMudhra) [gluon-v2025.1.x]](https://github.com/freifunkMUC/site-ffm/pull/956) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (today)
+- [ci: build in the official gluon-build container](https://github.com/freifunkMUC/site-ffm/pull/955) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (today)
+- [systemd-networkd: fail instead of dropping a gateway without WireGuard key in the mine, wg netdevs 0640](https://github.com/freifunkMUC/ffmuc-salt-public/pull/407) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [stacks: uptime-kuma on docker04 for status.ffmuc.net](https://github.com/freifunkMUC/ffmuc-salt-public/pull/406) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [ca-distrust: distrust the eMudhra roots in ca-certificates](https://github.com/freifunkMUC/ffmuc-salt-public/pull/405) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [ssh: lock the ffmuc template account](https://github.com/freifunkMUC/ffmuc-salt-public/pull/404) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [haproxy: shared QUIC cluster-secret for the anycast nodes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/403) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [haproxy: turn off HTTP/3 for now](https://github.com/freifunkMUC/ffmuc-salt-public/pull/402) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [jitsi/vosk: cap vosk-server memory](https://github.com/freifunkMUC/ffmuc-salt-public/pull/401) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [icinga2: monitor the TURN servers](https://github.com/freifunkMUC/ffmuc-salt-public/pull/400) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [jitsi/videobridge: leave 2.5 GB besides the heap, 65 % of RAM](https://github.com/freifunkMUC/ffmuc-salt-public/pull/399) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [telegraf: alarm for the Jitsi dial-in SIP trunk on call01](https://github.com/freifunkMUC/ffmuc-salt-public/pull/398) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [ff_base: qemu-guest-agent and a serial console on KVM guests](https://github.com/freifunkMUC/ffmuc-salt-public/pull/396) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 
 #### 📓 Gists I wrote
 
