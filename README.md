@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [telegraf: alarm for the Jitsi dial-in SIP trunk on call01](https://github.com/freifunkMUC/ffmuc-salt-public/pull/398) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [ff_base: qemu-guest-agent and a serial console on KVM guests](https://github.com/freifunkMUC/ffmuc-salt-public/pull/396) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [ff_base: qemu-guest-agent and a serial console on KVM guests](https://github.com/freifunkMUC/ffmuc-salt-public/pull/395) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [haproxy, nebula: matrix.ffmuc.net and element.ffmuc.net to docker07](https://github.com/freifunkMUC/ffmuc-salt-public/pull/394) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
@@ -47,7 +48,6 @@
 - [github-downloader: add xrx500-downloader for workflow artifacts](https://github.com/freifunkMUC/ffmuc-salt-public/pull/389) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [grafana: LDAP bind account from the pillar grafana:ldap, ldap.toml 0640 without diff](https://github.com/freifunkMUC/ffmuc-salt-public/pull/387) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [graylog-sidecar: refetch the Graylog and Elastic repo keys until their uids have SHA2 bindings](https://github.com/freifunkMUC/ffmuc-salt-public/pull/386) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [rustic: backup.dump_commands writes dumps to /var/lib/ffmuc-dumps before each backup](https://github.com/freifunkMUC/ffmuc-salt-public/pull/385) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 
 #### 📓 Gists I wrote
 
