@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [nebula: restart once on package or config change](https://github.com/freifunkMUC/ffmuc-salt-public/pull/408) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Install ca-certificates in the image](https://github.com/freifunkMUC/autodiscover-email-settings/pull/76) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
 - [Install ca-certificates in the image](https://github.com/freifunkMUC/wg-access-server/pull/1375) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Alpine 3.22.6](https://github.com/GoliathLabs/strichliste-docker/pull/49) on [GoliathLabs/strichliste-docker](https://github.com/GoliathLabs/strichliste-docker) (today)
@@ -47,7 +48,6 @@
 - [ci: build in the official gluon-build container](https://github.com/freifunkMUC/site-ffm/pull/955) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (today)
 - [systemd-networkd: fail instead of dropping a gateway without WireGuard key in the mine, wg netdevs 0640](https://github.com/freifunkMUC/ffmuc-salt-public/pull/407) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [stacks: uptime-kuma on docker04 for status.ffmuc.net](https://github.com/freifunkMUC/ffmuc-salt-public/pull/406) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [ca-distrust: distrust the eMudhra roots in ca-certificates](https://github.com/freifunkMUC/ffmuc-salt-public/pull/405) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 
 #### 📓 Gists I wrote
 
