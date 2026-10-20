@@ -38,16 +38,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [haproxy: shared QUIC cluster-secret for the anycast nodes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/403) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [haproxy: turn off HTTP/3 for now](https://github.com/freifunkMUC/ffmuc-salt-public/pull/402) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [jitsi/vosk: cap vosk-server memory](https://github.com/freifunkMUC/ffmuc-salt-public/pull/401) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [icinga2: monitor the TURN servers](https://github.com/freifunkMUC/ffmuc-salt-public/pull/400) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [jitsi/videobridge: leave 2.5 GB besides the heap, 65 % of RAM](https://github.com/freifunkMUC/ffmuc-salt-public/pull/399) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [telegraf: alarm for the Jitsi dial-in SIP trunk on call01](https://github.com/freifunkMUC/ffmuc-salt-public/pull/398) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [ff_base: qemu-guest-agent and a serial console on KVM guests](https://github.com/freifunkMUC/ffmuc-salt-public/pull/396) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [ff_base: qemu-guest-agent and a serial console on KVM guests](https://github.com/freifunkMUC/ffmuc-salt-public/pull/395) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [haproxy, nebula: matrix.ffmuc.net and element.ffmuc.net to docker07](https://github.com/freifunkMUC/ffmuc-salt-public/pull/394) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [stacks: tuwunel (matrix.ffmuc.net) and Element Web on docker07, not deployed](https://github.com/freifunkMUC/ffmuc-salt-public/pull/393) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [github-downloader: ffmeet-downloader checks sha256 digests and writes the tag marker last](https://github.com/freifunkMUC/ffmuc-salt-public/pull/391) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [ff_base: install iptraf-ng everywhere, jammy has no iptraf package](https://github.com/freifunkMUC/ffmuc-salt-public/pull/390) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [github-downloader: add xrx500-downloader for workflow artifacts](https://github.com/freifunkMUC/ffmuc-salt-public/pull/389) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [grafana: LDAP bind account from the pillar grafana:ldap, ldap.toml 0640 without diff](https://github.com/freifunkMUC/ffmuc-salt-public/pull/387) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 
 #### 📓 Gists I wrote
 
