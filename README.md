@@ -38,6 +38,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [stacks: uptime-kuma on docker04 for status.ffmuc.net](https://github.com/freifunkMUC/ffmuc-salt-public/pull/406) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [ca-distrust: distrust the eMudhra roots in ca-certificates](https://github.com/freifunkMUC/ffmuc-salt-public/pull/405) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [ssh: lock the ffmuc template account](https://github.com/freifunkMUC/ffmuc-salt-public/pull/404) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [haproxy: shared QUIC cluster-secret for the anycast nodes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/403) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [haproxy: turn off HTTP/3 for now](https://github.com/freifunkMUC/ffmuc-salt-public/pull/402) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [jitsi/vosk: cap vosk-server memory](https://github.com/freifunkMUC/ffmuc-salt-public/pull/401) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
@@ -45,9 +48,6 @@
 - [jitsi/videobridge: leave 2.5 GB besides the heap, 65 % of RAM](https://github.com/freifunkMUC/ffmuc-salt-public/pull/399) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [telegraf: alarm for the Jitsi dial-in SIP trunk on call01](https://github.com/freifunkMUC/ffmuc-salt-public/pull/398) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [ff_base: qemu-guest-agent and a serial console on KVM guests](https://github.com/freifunkMUC/ffmuc-salt-public/pull/396) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [ff_base: qemu-guest-agent and a serial console on KVM guests](https://github.com/freifunkMUC/ffmuc-salt-public/pull/395) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [haproxy, nebula: matrix.ffmuc.net and element.ffmuc.net to docker07](https://github.com/freifunkMUC/ffmuc-salt-public/pull/394) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [stacks: tuwunel (matrix.ffmuc.net) and Element Web on docker07, not deployed](https://github.com/freifunkMUC/ffmuc-salt-public/pull/393) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 
 #### 📓 Gists I wrote
 
