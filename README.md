@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (2 days ago)
 - [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (1 week ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 weeks ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (3 weeks ago)
 - [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (3 weeks ago)
@@ -28,26 +28,26 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.10.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.10.1), 2 days ago) - Freifunk München specific Gluon configuration
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.3.0](https://github.com/freifunkMUC/wgkex/releases/tag/v0.3.0), 3 days ago) - Project for easy key exchange between Wireguard Clients and Servers
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.10.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.10.1), 3 days ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.3.0](https://github.com/freifunkMUC/wgkex/releases/tag/v0.3.0), 4 days ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) ([v0.2.0](https://github.com/freifunkMUC/unified_respondd/releases/tag/v0.2.0), 3 weeks ago) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.2.0), 1 month ago) - Helm Charts for wg-access-server
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.3), 2 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.1), 8 months ago) - 
-- [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) ([v1.3.0](https://github.com/stlehmann/Flask-MQTT/releases/tag/v1.3.0), 8 months ago) - Flask Extension for the MQTT protocol
+- [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) ([v1.3.0](https://github.com/stlehmann/Flask-MQTT/releases/tag/v1.3.0), 9 months ago) - Flask Extension for the MQTT protocol
 
 #### 🔨 My recent Pull Requests
 
-- [nebula: restart once on package or config change](https://github.com/freifunkMUC/ffmuc-salt-public/pull/408) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [Install ca-certificates in the image](https://github.com/freifunkMUC/autodiscover-email-settings/pull/76) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
-- [Install ca-certificates in the image](https://github.com/freifunkMUC/wg-access-server/pull/1375) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [Alpine 3.22.6](https://github.com/GoliathLabs/strichliste-docker/pull/49) on [GoliathLabs/strichliste-docker](https://github.com/GoliathLabs/strichliste-docker) (today)
-- [ca-certificates: follow NSS 3.131.1 (eMudhra) [gluon-v2021.1.x]](https://github.com/freifunkMUC/site-ffm/pull/958) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (today)
-- [ca-certificates: follow NSS 3.131.1 (eMudhra) [gluon-v2023.2.x]](https://github.com/freifunkMUC/site-ffm/pull/957) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (today)
-- [ca-certificates: follow NSS 3.131.1 (eMudhra) [gluon-v2025.1.x]](https://github.com/freifunkMUC/site-ffm/pull/956) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (today)
-- [ci: build in the official gluon-build container](https://github.com/freifunkMUC/site-ffm/pull/955) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (today)
-- [systemd-networkd: fail instead of dropping a gateway without WireGuard key in the mine, wg netdevs 0640](https://github.com/freifunkMUC/ffmuc-salt-public/pull/407) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [stacks: uptime-kuma on docker04 for status.ffmuc.net](https://github.com/freifunkMUC/ffmuc-salt-public/pull/406) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [Talos v1.14.4 on GB10 with the official Sidero Labs extensions](https://github.com/freifunkMUC/talos-dgx-spark/pull/1) on [freifunkMUC/talos-dgx-spark](https://github.com/freifunkMUC/talos-dgx-spark) (today)
+- [jitsi/prosody: XMPP passwords via stdin, not in the command line](https://github.com/freifunkMUC/ffmuc-salt-public/pull/410) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [stacks: etherpad 3.3.9, mariadb 11.8.9-noble digest](https://github.com/freifunkMUC/ffmuc-salt-public/pull/409) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [nebula: restart once on package or config change](https://github.com/freifunkMUC/ffmuc-salt-public/pull/408) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [Install ca-certificates in the image](https://github.com/freifunkMUC/autodiscover-email-settings/pull/76) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
+- [Install ca-certificates in the image](https://github.com/freifunkMUC/wg-access-server/pull/1375) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
+- [Alpine 3.22.6](https://github.com/GoliathLabs/strichliste-docker/pull/49) on [GoliathLabs/strichliste-docker](https://github.com/GoliathLabs/strichliste-docker) (1 day ago)
+- [ca-certificates: follow NSS 3.131.1 (eMudhra) [gluon-v2021.1.x]](https://github.com/freifunkMUC/site-ffm/pull/958) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 day ago)
+- [ca-certificates: follow NSS 3.131.1 (eMudhra) [gluon-v2023.2.x]](https://github.com/freifunkMUC/site-ffm/pull/957) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 day ago)
+- [ca-certificates: follow NSS 3.131.1 (eMudhra) [gluon-v2025.1.x]](https://github.com/freifunkMUC/site-ffm/pull/956) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -58,15 +58,15 @@
 
 #### ⭐ Recent Stars
 
-- [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (5 days ago)
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (5 days ago)
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (1 week ago)
+- [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (6 days ago)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (6 days ago)
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (2 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (3 weeks ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 months ago)
 - [TheScienceElf/UNIVAC-1219](https://github.com/TheScienceElf/UNIVAC-1219) - An emulator and assembler for the UNIVAC-1219 computer (6 months ago)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (6 months ago)
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together (6 months ago)
-- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own. (6 months ago)
+- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own. (7 months ago)
 - [rancher/rke2](https://github.com/rancher/rke2) -  (7 months ago)
 
 #### 👯 Check out some of my recent followers
