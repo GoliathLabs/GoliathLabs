@@ -38,16 +38,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [jitsi/prosody: internal_hashed for the service accounts, password rotation](https://github.com/freifunkMUC/ffmuc-salt-public/pull/411) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [Ruby 3.4.11](https://github.com/GoliathLabs/lastsignal/pull/2) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (today)
+- [Build on the official php:8.2-fpm-alpine image](https://github.com/GoliathLabs/strichliste-docker/pull/51) on [GoliathLabs/strichliste-docker](https://github.com/GoliathLabs/strichliste-docker) (today)
+- [openwrt: backport ca-certificates eMudhra blacklist from openwrt main [gluon-next]](https://github.com/freifunkMUC/site-ffm/pull/959) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (today)
+- [Log nginx and php-fpm to stdout/stderr](https://github.com/GoliathLabs/strichliste-docker/pull/50) on [GoliathLabs/strichliste-docker](https://github.com/GoliathLabs/strichliste-docker) (today)
 - [Talos v1.14.4 on GB10 with the official Sidero Labs extensions](https://github.com/freifunkMUC/talos-dgx-spark/pull/1) on [freifunkMUC/talos-dgx-spark](https://github.com/freifunkMUC/talos-dgx-spark) (today)
 - [jitsi/prosody: XMPP passwords via stdin, not in the command line](https://github.com/freifunkMUC/ffmuc-salt-public/pull/410) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [stacks: etherpad 3.3.9, mariadb 11.8.9-noble digest](https://github.com/freifunkMUC/ffmuc-salt-public/pull/409) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [nebula: restart once on package or config change](https://github.com/freifunkMUC/ffmuc-salt-public/pull/408) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [Install ca-certificates in the image](https://github.com/freifunkMUC/autodiscover-email-settings/pull/76) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
-- [Install ca-certificates in the image](https://github.com/freifunkMUC/wg-access-server/pull/1375) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [Alpine 3.22.6](https://github.com/GoliathLabs/strichliste-docker/pull/49) on [GoliathLabs/strichliste-docker](https://github.com/GoliathLabs/strichliste-docker) (1 day ago)
-- [ca-certificates: follow NSS 3.131.1 (eMudhra) [gluon-v2021.1.x]](https://github.com/freifunkMUC/site-ffm/pull/958) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 day ago)
-- [ca-certificates: follow NSS 3.131.1 (eMudhra) [gluon-v2023.2.x]](https://github.com/freifunkMUC/site-ffm/pull/957) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 day ago)
-- [ca-certificates: follow NSS 3.131.1 (eMudhra) [gluon-v2025.1.x]](https://github.com/freifunkMUC/site-ffm/pull/956) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 day ago)
 
 #### 📓 Gists I wrote
 
