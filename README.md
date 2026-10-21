@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update PHP to 8.3.36](https://github.com/Nico640/docker-unms/pull/141) on [Nico640/docker-unms](https://github.com/Nico640/docker-unms) (today)
 - [jitsi/prosody: internal_hashed for the service accounts, password rotation](https://github.com/freifunkMUC/ffmuc-salt-public/pull/411) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Ruby 3.4.11](https://github.com/GoliathLabs/lastsignal/pull/2) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (today)
 - [Build on the official php:8.2-fpm-alpine image](https://github.com/GoliathLabs/strichliste-docker/pull/51) on [GoliathLabs/strichliste-docker](https://github.com/GoliathLabs/strichliste-docker) (today)
@@ -47,7 +48,6 @@
 - [jitsi/prosody: XMPP passwords via stdin, not in the command line](https://github.com/freifunkMUC/ffmuc-salt-public/pull/410) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [stacks: etherpad 3.3.9, mariadb 11.8.9-noble digest](https://github.com/freifunkMUC/ffmuc-salt-public/pull/409) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [nebula: restart once on package or config change](https://github.com/freifunkMUC/ffmuc-salt-public/pull/408) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [Install ca-certificates in the image](https://github.com/freifunkMUC/autodiscover-email-settings/pull/76) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
 
 #### 📓 Gists I wrote
 
