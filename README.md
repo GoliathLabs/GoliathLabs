@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.69](https://github.com/Nico640/docker-unms/releases/tag/3.1.69), today) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.10.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.10.1), 4 days ago) - Freifunk München specific Gluon configuration
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.3.0](https://github.com/freifunkMUC/wgkex/releases/tag/v0.3.0), 5 days ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) ([v0.2.0](https://github.com/freifunkMUC/unified_respondd/releases/tag/v0.2.0), 3 weeks ago) - 
-- [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.65](https://github.com/Nico640/docker-unms/releases/tag/3.1.65), 1 month ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.2.0), 1 month ago) - Helm Charts for wg-access-server
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.3), 2 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.1), 8 months ago) - 
@@ -39,6 +39,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[gluon-next] ci: build in the official gluon-build container](https://github.com/freifunkMUC/site-ffm/pull/967) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (today)
+- [Dockerfile: node 26.12.1](https://github.com/freifunkMUC/autodiscover-email-settings/pull/77) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
 - [Update PHP to 8.3.36](https://github.com/Nico640/docker-unms/pull/141) on [Nico640/docker-unms](https://github.com/Nico640/docker-unms) (1 day ago)
 - [jitsi/prosody: internal_hashed for the service accounts, password rotation](https://github.com/freifunkMUC/ffmuc-salt-public/pull/411) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [Ruby 3.4.11](https://github.com/GoliathLabs/lastsignal/pull/2) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (1 day ago)
@@ -47,8 +49,6 @@
 - [Log nginx and php-fpm to stdout/stderr](https://github.com/GoliathLabs/strichliste-docker/pull/50) on [GoliathLabs/strichliste-docker](https://github.com/GoliathLabs/strichliste-docker) (1 day ago)
 - [Talos v1.14.4 on GB10 with the official Sidero Labs extensions](https://github.com/freifunkMUC/talos-dgx-spark/pull/1) on [freifunkMUC/talos-dgx-spark](https://github.com/freifunkMUC/talos-dgx-spark) (1 day ago)
 - [jitsi/prosody: XMPP passwords via stdin, not in the command line](https://github.com/freifunkMUC/ffmuc-salt-public/pull/410) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [stacks: etherpad 3.3.9, mariadb 11.8.9-noble digest](https://github.com/freifunkMUC/ffmuc-salt-public/pull/409) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
-- [nebula: restart once on package or config change](https://github.com/freifunkMUC/ffmuc-salt-public/pull/408) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
 
 #### 📓 Gists I wrote
 
