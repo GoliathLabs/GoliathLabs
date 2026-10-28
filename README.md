@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (1 day ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (4 days ago)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (4 days ago)
-- [freifunkMUC/yanic-deb](https://github.com/freifunkMUC/yanic-deb) - Builds a simple deb package for yanic (https://github.com/FreifunkBremen/yanic) (4 days ago)
-- [Nico640/docker-unms](https://github.com/Nico640/docker-unms) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi). (5 days ago)
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (6 days ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 weeks ago)
+- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (2 days ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (5 days ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (5 days ago)
+- [freifunkMUC/yanic-deb](https://github.com/freifunkMUC/yanic-deb) - Builds a simple deb package for yanic (https://github.com/FreifunkBremen/yanic) (5 days ago)
+- [Nico640/docker-unms](https://github.com/Nico640/docker-unms) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi). (6 days ago)
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 week ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 weeks ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (4 weeks ago)
 - [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (4 weeks ago)
 - [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) -  (4 weeks ago)
@@ -28,27 +28,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.69](https://github.com/Nico640/docker-unms/releases/tag/3.1.69), 5 days ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
+- [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.69](https://github.com/Nico640/docker-unms/releases/tag/3.1.69), 6 days ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.10.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.10.1), 1 week ago) - Freifunk München specific Gluon configuration
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.3.0](https://github.com/freifunkMUC/wgkex/releases/tag/v0.3.0), 1 week ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) ([v0.2.0](https://github.com/freifunkMUC/unified_respondd/releases/tag/v0.2.0), 4 weeks ago) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.2.0), 1 month ago) - Helm Charts for wg-access-server
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.3), 2 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.1), 8 months ago) - 
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.1), 9 months ago) - 
 - [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) ([v1.3.0](https://github.com/stlehmann/Flask-MQTT/releases/tag/v1.3.0), 9 months ago) - Flask Extension for the MQTT protocol
 
 #### 🔨 My recent Pull Requests
 
-- [jitsi/asterisk: keep retrying the PJSIP trunk registration after provider outages](https://github.com/freifunkMUC/ffmuc-salt-public/pull/415) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (4 days ago)
-- [Bump Node to 26.12.1 (image and CI)](https://github.com/freifunkMUC/mastodon-paywall/pull/234) on [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) (5 days ago)
-- [[gluon-next] ci: build in the official gluon-build container](https://github.com/freifunkMUC/site-ffm/pull/967) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (5 days ago)
-- [Dockerfile: node 26.12.1](https://github.com/freifunkMUC/autodiscover-email-settings/pull/77) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (5 days ago)
-- [Update PHP to 8.3.36](https://github.com/Nico640/docker-unms/pull/141) on [Nico640/docker-unms](https://github.com/Nico640/docker-unms) (6 days ago)
-- [jitsi/prosody: internal_hashed for the service accounts, password rotation](https://github.com/freifunkMUC/ffmuc-salt-public/pull/411) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (6 days ago)
-- [Ruby 3.4.11](https://github.com/GoliathLabs/lastsignal/pull/2) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (6 days ago)
-- [Build on the official php:8.2-fpm-alpine image](https://github.com/GoliathLabs/strichliste-docker/pull/51) on [GoliathLabs/strichliste-docker](https://github.com/GoliathLabs/strichliste-docker) (6 days ago)
-- [openwrt: backport ca-certificates eMudhra blacklist from openwrt main [gluon-next]](https://github.com/freifunkMUC/site-ffm/pull/959) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (6 days ago)
-- [Log nginx and php-fpm to stdout/stderr](https://github.com/GoliathLabs/strichliste-docker/pull/50) on [GoliathLabs/strichliste-docker](https://github.com/GoliathLabs/strichliste-docker) (6 days ago)
+- [jitsi/asterisk: keep retrying the PJSIP trunk registration after provider outages](https://github.com/freifunkMUC/ffmuc-salt-public/pull/415) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (5 days ago)
+- [Bump Node to 26.12.1 (image and CI)](https://github.com/freifunkMUC/mastodon-paywall/pull/234) on [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) (6 days ago)
+- [[gluon-next] ci: build in the official gluon-build container](https://github.com/freifunkMUC/site-ffm/pull/967) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (6 days ago)
+- [Dockerfile: node 26.12.1](https://github.com/freifunkMUC/autodiscover-email-settings/pull/77) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (6 days ago)
+- [Update PHP to 8.3.36](https://github.com/Nico640/docker-unms/pull/141) on [Nico640/docker-unms](https://github.com/Nico640/docker-unms) (1 week ago)
+- [jitsi/prosody: internal_hashed for the service accounts, password rotation](https://github.com/freifunkMUC/ffmuc-salt-public/pull/411) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
+- [Ruby 3.4.11](https://github.com/GoliathLabs/lastsignal/pull/2) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (1 week ago)
+- [Build on the official php:8.2-fpm-alpine image](https://github.com/GoliathLabs/strichliste-docker/pull/51) on [GoliathLabs/strichliste-docker](https://github.com/GoliathLabs/strichliste-docker) (1 week ago)
+- [openwrt: backport ca-certificates eMudhra blacklist from openwrt main [gluon-next]](https://github.com/freifunkMUC/site-ffm/pull/959) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 week ago)
+- [Log nginx and php-fpm to stdout/stderr](https://github.com/GoliathLabs/strichliste-docker/pull/50) on [GoliathLabs/strichliste-docker](https://github.com/GoliathLabs/strichliste-docker) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -61,7 +61,7 @@
 
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (1 week ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 week ago)
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (2 weeks ago)
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (3 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (4 weeks ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 months ago)
 - [TheScienceElf/UNIVAC-1219](https://github.com/TheScienceElf/UNIVAC-1219) - An emulator and assembler for the UNIVAC-1219 computer (6 months ago)
