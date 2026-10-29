@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (3 days ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (6 days ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (6 days ago)
 - [freifunkMUC/yanic-deb](https://github.com/freifunkMUC/yanic-deb) - Builds a simple deb package for yanic (https://github.com/FreifunkBremen/yanic) (6 days ago)
 - [Nico640/docker-unms](https://github.com/Nico640/docker-unms) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi). (1 week ago)
