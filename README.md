@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
-- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (3 days ago)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (6 days ago)
-- [freifunkMUC/yanic-deb](https://github.com/freifunkMUC/yanic-deb) - Builds a simple deb package for yanic (https://github.com/FreifunkBremen/yanic) (6 days ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (4 days ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
+- [freifunkMUC/yanic-deb](https://github.com/freifunkMUC/yanic-deb) - Builds a simple deb package for yanic (https://github.com/FreifunkBremen/yanic) (1 week ago)
 - [Nico640/docker-unms](https://github.com/Nico640/docker-unms) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi). (1 week ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 week ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 weeks ago)
@@ -39,7 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [jitsi/asterisk: keep retrying the PJSIP trunk registration after provider outages](https://github.com/freifunkMUC/ffmuc-salt-public/pull/415) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (6 days ago)
+- [jitsi/asterisk: keep retrying the PJSIP trunk registration after provider outages](https://github.com/freifunkMUC/ffmuc-salt-public/pull/415) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
 - [Bump Node to 26.12.1 (image and CI)](https://github.com/freifunkMUC/mastodon-paywall/pull/234) on [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) (1 week ago)
 - [[gluon-next] ci: build in the official gluon-build container](https://github.com/freifunkMUC/site-ffm/pull/967) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 week ago)
 - [Dockerfile: node 26.12.1](https://github.com/freifunkMUC/autodiscover-email-settings/pull/77) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 week ago)
