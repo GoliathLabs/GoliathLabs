@@ -4,6 +4,7 @@
 
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (today)
 - [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (1 week ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
 - [freifunkMUC/yanic-deb](https://github.com/freifunkMUC/yanic-deb) - Builds a simple deb package for yanic (https://github.com/FreifunkBremen/yanic) (1 week ago)
@@ -11,7 +12,6 @@
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 week ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (1 month ago)
 - [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (1 month ago)
-- [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) -  (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -39,16 +39,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [renovate: stacks, actions and pinned versions in Salt, replaces Dependabot](https://github.com/freifunkMUC/ffmuc-salt-public/pull/489) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [Add blog post: chat moves from Mattermost to Matrix](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/618) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
-- [mastodon: SCRAM instead of trust for network connections to Postgres](https://github.com/freifunkMUC/ffmuc-salt-public/pull/486) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [diun: read-only Docker socket proxy instead of the raw socket](https://github.com/freifunkMUC/ffmuc-salt-public/pull/485) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [stacks: mastodon TRUSTED_PROXY_IP literal instead of a Komodo variable](https://github.com/freifunkMUC/ffmuc-salt-public/pull/484) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [mattermost: update to 12.0.1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/483) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [zammad: fix literal \n in webhook notifications (zammad#6449)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/482) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [jitsi/asterisk: keep retrying the PJSIP trunk registration after provider outages](https://github.com/freifunkMUC/ffmuc-salt-public/pull/415) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 week ago)
-- [Bump Node to 26.12.1 (image and CI)](https://github.com/freifunkMUC/mastodon-paywall/pull/234) on [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) (1 week ago)
-- [[gluon-next] ci: build in the official gluon-build container](https://github.com/freifunkMUC/site-ffm/pull/967) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 week ago)
+- [oauth2-proxy on docker07 for internal UIs (Keycloak noc)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/509) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [unified-respondd: venv, pinned package, unit and config from pillar](https://github.com/freifunkMUC/ffmuc-salt-public/pull/508) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [traefik(docker05): config from Git, socket proxy, HTTPS redirect, access log, TLS defaults](https://github.com/freifunkMUC/ffmuc-salt-public/pull/507) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [stacks: nextcloud on docker05 to 35.0.2](https://github.com/freifunkMUC/ffmuc-salt-public/pull/498) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [mastodon: db healthcheck with the stack's database user](https://github.com/freifunkMUC/ffmuc-salt-public/pull/497) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [keycloak: login theme ffmuc-internal for realm noc](https://github.com/freifunkMUC/ffmuc-salt-public/pull/491) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [chore(deps): setup-node v7.1.0, group Dependabot updates](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web/pull/6) on [freifunkMUC/protoc-gen-grpc-ts-web](https://github.com/freifunkMUC/protoc-gen-grpc-ts-web) (today)
+- [chore(deps): group Dependabot minor and patch updates](https://github.com/freifunkMUC/wg-access-server-chart/pull/50) on [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) (today)
+- [chore(deps): group Dependabot minor and patch updates](https://github.com/freifunkMUC/wg-embed/pull/62) on [freifunkMUC/wg-embed](https://github.com/freifunkMUC/wg-embed) (today)
+- [chore(deps): group Dependabot minor and patch updates](https://github.com/freifunkMUC/wg-access-server/pull/1395) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 
 #### 📓 Gists I wrote
 
