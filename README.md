@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 day ago)
 - [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (1 day ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 day ago)
@@ -39,16 +39,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs(storage): MySQL list columns become text in v1.3.0](https://github.com/freifunkMUC/wg-access-server/pull/1411) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [docker: live-restore on every Docker host](https://github.com/freifunkMUC/ffmuc-salt-public/pull/560) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [ci: pre-release tags do not move latest](https://github.com/freifunkMUC/wg-access-server/pull/1410) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [feat(mail01): stacks for the mail server, Traefik, CrowdSec and error-pages](https://github.com/freifunkMUC/ffmuc-salt-public/pull/559) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [fix(storage): text columns for lists so MySQL can store them](https://github.com/freifunkMUC/wg-access-server/pull/1409) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [traefik: dashboards on docker04-07 behind Keycloak noc instead of basic auth](https://github.com/freifunkMUC/ffmuc-salt-public/pull/558) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [renovate: EMQX below 5.9, ClickHouse LTS only, CI Python as Salt's onedir](https://github.com/freifunkMUC/ffmuc-salt-public/pull/543) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [renovate: look up lscr.io images at ghcr.io and order the -lsN tags](https://github.com/freifunkMUC/ffmuc-salt-public/pull/533) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [ci: black action pinned with the real tag name (Renovate lookup failure)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/532) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [stacks: etherpad 3.3.13 on docker04 (GHSA-qq7c-m9pc-7q7v)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/527) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [stacks: traefik v3.7.17 on docker04-07 (GHSA-xv5x-242w-7hf7)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/526) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [icinga2: README, switching the Jitsi hosts to the agent](https://github.com/freifunkMUC/ffmuc-salt-public/pull/524) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [icinga2: agent on the Jitsi hosts, master address from the meet overlay](https://github.com/freifunkMUC/ffmuc-salt-public/pull/523) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [nebula-meet: icinga-vie01 joins nebula-meet, 5665/tcp from the Jitsi groups](https://github.com/freifunkMUC/ffmuc-salt-public/pull/522) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [feat(ui): account menu with an avatar, one settings page and a theme button](https://github.com/freifunkMUC/wg-access-server/pull/1408) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [feat(auth): optional maximum lifetime for API tokens](https://github.com/freifunkMUC/wg-access-server/pull/1407) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
-- [feat(ui): show in the admin user list whose access was revoked](https://github.com/freifunkMUC/wg-access-server/pull/1406) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (1 day ago)
 
 #### 📓 Gists I wrote
 
