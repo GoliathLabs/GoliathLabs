@@ -3,7 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD) (today)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (today)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 days ago)
 - [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (2 days ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 days ago)
@@ -11,11 +12,11 @@
 - [freifunkMUC/yanic-deb](https://github.com/freifunkMUC/yanic-deb) - Builds a simple deb package for yanic (https://github.com/FreifunkBremen/yanic) (1 week ago)
 - [Nico640/docker-unms](https://github.com/Nico640/docker-unms) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi). (1 week ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (2 weeks ago)
-- [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (1 month ago)
 
 #### 🌱 My latest projects
 
 - [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD)
+- [GoliathLabs/inventree-mbom](https://github.com/GoliathLabs/inventree-mbom) - Manufacturing BOM for InvenTree – labor/machine cost tracking, process templates, pricing integration
 - [GoliathLabs/libretiny](https://github.com/GoliathLabs/libretiny) - PlatformIO development platform for IoT modules
 - [GoliathLabs/ltchiptool](https://github.com/GoliathLabs/ltchiptool) - Universal, easy-to-use GUI flashing/dumping tool for BK7231, RTL8710B and RTL8720C.
 - [GoliathLabs/terraform-provider-omada](https://github.com/GoliathLabs/terraform-provider-omada) - 
@@ -25,7 +26,6 @@
 - [GoliathLabs/Flask-MQTT](https://github.com/GoliathLabs/Flask-MQTT) - Flask Extension for the MQTT protocol
 - [GoliathLabs/docker-openldap](https://github.com/GoliathLabs/docker-openldap) - OpenLDAP container image 🐳🌴
 - [GoliathLabs/roundcube-plugin-identity-from-directory](https://github.com/GoliathLabs/roundcube-plugin-identity-from-directory) - Roundcube plugin to populate and maintain user identities automatically on each login, based on corresponding LDAP or Active Directory user data.
-- [GoliathLabs/excalidraw-backend](https://github.com/GoliathLabs/excalidraw-backend) - Excalidraw collaboration backend for Jitsi
 
 #### 🔭 Latest releases I've contributed to
 
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [graylog: 7.2.2 for server and Data Node](https://github.com/freifunkMUC/ffmuc-salt-public/pull/585) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [nebula: package hashes for 1.12.0-1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/582) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [mail01: add .vip to the Rspamd sender TLD list](https://github.com/freifunkMUC/ffmuc-salt-public/pull/581) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [mail01: webmail in Freifunk München colours and logo](https://github.com/freifunkMUC/ffmuc-salt-public/pull/580) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [vaultwarden: run as non-root without capabilities](https://github.com/freifunkMUC/ffmuc-salt-public/pull/574) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [Support InvenTree 1.7, where PartPricing moved to the pricing app](https://github.com/0neShot/inventree-mbom/pull/2) on [0neShot/inventree-mbom](https://github.com/0neShot/inventree-mbom) (today)
+- [traefik: drop unused dashboard basic-auth variables from the stacks](https://github.com/freifunkMUC/ffmuc-salt-public/pull/571) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [[boards] Add Petlibro PLWF116](https://github.com/Bl00d-B0b/libretiny/pull/2) on [Bl00d-B0b/libretiny](https://github.com/Bl00d-B0b/libretiny) (today)
 - [[ambd] Write the OTA slot signature after the last block](https://github.com/Bl00d-B0b/libretiny/pull/1) on [Bl00d-B0b/libretiny](https://github.com/Bl00d-B0b/libretiny) (today)
 - [[ambd] Skip stray NAKs from the flash loader](https://github.com/Bl00d-B0b/ltchiptool/pull/1) on [Bl00d-B0b/ltchiptool](https://github.com/Bl00d-B0b/ltchiptool) (today)
-- [nginx: listen on loopback behind HAProxy, five vhosts to HAProxy](https://github.com/freifunkMUC/ffmuc-salt-public/pull/569) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [nginx: remove vhosts that HAProxy routes to its own backends](https://github.com/freifunkMUC/ffmuc-salt-public/pull/568) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [matomo: code from the image at every deploy](https://github.com/freifunkMUC/ffmuc-salt-public/pull/567) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [renovate: keep bgpalerter on node <23](https://github.com/freifunkMUC/ffmuc-salt-public/pull/566) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [mattermost: enable email batching](https://github.com/freifunkMUC/ffmuc-salt-public/pull/565) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [mail01: rspamd tuning (resolver, Bayes, From rules)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/564) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [haproxy: answer non-GET requests on meet_backend with 405](https://github.com/freifunkMUC/ffmuc-salt-public/pull/561) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 
 #### 📓 Gists I wrote
 
