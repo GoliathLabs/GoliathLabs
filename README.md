@@ -2,19 +2,22 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 day ago)
-- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (1 day ago)
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 day ago)
+- [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD) (today)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 days ago)
+- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (2 days ago)
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 days ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
 - [freifunkMUC/yanic-deb](https://github.com/freifunkMUC/yanic-deb) - Builds a simple deb package for yanic (https://github.com/FreifunkBremen/yanic) (1 week ago)
 - [Nico640/docker-unms](https://github.com/Nico640/docker-unms) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi). (1 week ago)
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 week ago)
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (2 weeks ago)
 - [freifunkMUC/omada_respondd](https://github.com/freifunkMUC/omada_respondd) - Respondd for omada (1 month ago)
-- [freifunkMUC/uisp_respondd](https://github.com/freifunkMUC/uisp_respondd) - Respondd for UISP - Airfiber to meshviewer (1 month ago)
 
 #### 🌱 My latest projects
 
+- [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD)
+- [GoliathLabs/libretiny](https://github.com/GoliathLabs/libretiny) - PlatformIO development platform for IoT modules
+- [GoliathLabs/ltchiptool](https://github.com/GoliathLabs/ltchiptool) - Universal, easy-to-use GUI flashing/dumping tool for BK7231, RTL8710B and RTL8720C.
 - [GoliathLabs/terraform-provider-omada](https://github.com/GoliathLabs/terraform-provider-omada) - 
 - [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) - A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when you're gone or unresponsive.
 - [GoliathLabs/PasswordPusher](https://github.com/GoliathLabs/PasswordPusher) - 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
@@ -23,12 +26,10 @@
 - [GoliathLabs/docker-openldap](https://github.com/GoliathLabs/docker-openldap) - OpenLDAP container image 🐳🌴
 - [GoliathLabs/roundcube-plugin-identity-from-directory](https://github.com/GoliathLabs/roundcube-plugin-identity-from-directory) - Roundcube plugin to populate and maintain user identities automatically on each login, based on corresponding LDAP or Active Directory user data.
 - [GoliathLabs/excalidraw-backend](https://github.com/GoliathLabs/excalidraw-backend) - Excalidraw collaboration backend for Jitsi
-- [GoliathLabs/zigbee-herdsman-converters](https://github.com/GoliathLabs/zigbee-herdsman-converters) - Collection of device converters to be used with zigbee-herdsman
-- [GoliathLabs/zigbee2mqtt.io](https://github.com/GoliathLabs/zigbee2mqtt.io) - 📘 Zigbee2mqtt documentation
 
 #### 🔭 Latest releases I've contributed to
 
-- [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.70](https://github.com/Nico640/docker-unms/releases/tag/3.1.70), 1 day ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
+- [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.70](https://github.com/Nico640/docker-unms/releases/tag/3.1.70), 2 days ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.10.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.10.1), 2 weeks ago) - Freifunk München specific Gluon configuration
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.3.0](https://github.com/freifunkMUC/wgkex/releases/tag/v0.3.0), 2 weeks ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) ([v0.2.0](https://github.com/freifunkMUC/unified_respondd/releases/tag/v0.2.0), 1 month ago) - 
@@ -39,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [renovate: keep bgpalerter on node <23](https://github.com/freifunkMUC/ffmuc-salt-public/pull/566) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [mattermost: enable email batching](https://github.com/freifunkMUC/ffmuc-salt-public/pull/565) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [mail01: rspamd tuning (resolver, Bayes, From rules)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/564) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [haproxy: answer non-GET requests on meet_backend with 405](https://github.com/freifunkMUC/ffmuc-salt-public/pull/561) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [docs(storage): MySQL list columns become text in v1.3.0](https://github.com/freifunkMUC/wg-access-server/pull/1411) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [docker: live-restore on every Docker host](https://github.com/freifunkMUC/ffmuc-salt-public/pull/560) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [ci: pre-release tags do not move latest](https://github.com/freifunkMUC/wg-access-server/pull/1410) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [feat(mail01): stacks for the mail server, Traefik, CrowdSec and error-pages](https://github.com/freifunkMUC/ffmuc-salt-public/pull/559) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [fix(storage): text columns for lists so MySQL can store them](https://github.com/freifunkMUC/wg-access-server/pull/1409) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [traefik: dashboards on docker04-07 behind Keycloak noc instead of basic auth](https://github.com/freifunkMUC/ffmuc-salt-public/pull/558) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [[boards] Add Petlibro PLWF116](https://github.com/Bl00d-B0b/libretiny/pull/2) on [Bl00d-B0b/libretiny](https://github.com/Bl00d-B0b/libretiny) (today)
+- [[ambd] Write the OTA slot signature after the last block](https://github.com/Bl00d-B0b/libretiny/pull/1) on [Bl00d-B0b/libretiny](https://github.com/Bl00d-B0b/libretiny) (today)
+- [[ambd] Skip stray NAKs from the flash loader](https://github.com/Bl00d-B0b/ltchiptool/pull/1) on [Bl00d-B0b/ltchiptool](https://github.com/Bl00d-B0b/ltchiptool) (today)
+- [nginx: listen on loopback behind HAProxy, five vhosts to HAProxy](https://github.com/freifunkMUC/ffmuc-salt-public/pull/569) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [nginx: remove vhosts that HAProxy routes to its own backends](https://github.com/freifunkMUC/ffmuc-salt-public/pull/568) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [matomo: code from the image at every deploy](https://github.com/freifunkMUC/ffmuc-salt-public/pull/567) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [renovate: keep bgpalerter on node <23](https://github.com/freifunkMUC/ffmuc-salt-public/pull/566) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [mattermost: enable email batching](https://github.com/freifunkMUC/ffmuc-salt-public/pull/565) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [mail01: rspamd tuning (resolver, Bayes, From rules)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/564) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [haproxy: answer non-GET requests on meet_backend with 405](https://github.com/freifunkMUC/ffmuc-salt-public/pull/561) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -61,7 +62,7 @@
 
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (2 weeks ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (2 weeks ago)
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (3 weeks ago)
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (4 weeks ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 months ago)
 - [TheScienceElf/UNIVAC-1219](https://github.com/TheScienceElf/UNIVAC-1219) - An emulator and assembler for the UNIVAC-1219 computer (6 months ago)
