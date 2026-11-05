@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: pass user to render_to_png in print_labels](https://github.com/wolflu05/inventree-dymo-plugin/pull/14) on [wolflu05/inventree-dymo-plugin](https://github.com/wolflu05/inventree-dymo-plugin) (today)
-- [uisp: back to upstream docker-unms 3.1.70](https://github.com/freifunkMUC/ffmuc-salt-public/pull/595) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [renovate: enable fork processing, Go 1.26.10](https://github.com/freifunkMUC/talos-backup/pull/1) on [freifunkMUC/talos-backup](https://github.com/freifunkMUC/talos-backup) (today)
-- [zammad: Postgres 17, Elasticsearch 9, Redis 8, Zammad 7.2.2-0038](https://github.com/freifunkMUC/ffmuc-salt-public/pull/593) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [dns-auth: per-node PTR only inside the reverse zone](https://github.com/freifunkMUC/ffmuc-salt-public/pull/592) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [zammad: HOLD_DAYS 3](https://github.com/freifunkMUC/ffmuc-salt-public/pull/591) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [icinga2: meet-https connects to meet.ffmuc.net](https://github.com/freifunkMUC/ffmuc-salt-public/pull/590) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [zammad: favicon, app icon, hardening](https://github.com/freifunkMUC/ffmuc-salt-public/pull/588) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [renovate: group Graylog server and Data Node](https://github.com/freifunkMUC/ffmuc-salt-public/pull/585) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [nebula: package hashes for 1.12.0-1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/582) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [haproxy: allow ffmuc.net to read the status page API](https://github.com/freifunkMUC/ffmuc-salt-public/pull/596) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [Add optional OIDC login](https://github.com/traggo/server/pull/265) on [traggo/server](https://github.com/traggo/server) (today)
+- [auth: harden the session cookie](https://github.com/traggo/server/pull/264) on [traggo/server](https://github.com/traggo/server) (today)
+- [Update Go dependencies](https://github.com/traggo/server/pull/263) on [traggo/server](https://github.com/traggo/server) (today)
+- [Pin vulnerable transitive packages, vitest 4](https://github.com/traggo/server/pull/262) on [traggo/server](https://github.com/traggo/server) (today)
+- [Replace unmaintained small dependencies](https://github.com/traggo/server/pull/261) on [traggo/server](https://github.com/traggo/server) (today)
+- [FullCalendar 6](https://github.com/traggo/server/pull/260) on [traggo/server](https://github.com/traggo/server) (today)
+- [Restore former lint rules on ESLint](https://github.com/traggo/server/pull/259) on [traggo/server](https://github.com/traggo/server) (today)
+- [MUI 5 and React 18](https://github.com/traggo/server/pull/258) on [traggo/server](https://github.com/traggo/server) (today)
+- [Apollo Client 3 and graphql-code-generator](https://github.com/traggo/server/pull/257) on [traggo/server](https://github.com/traggo/server) (today)
 
 #### 📓 Gists I wrote
 
