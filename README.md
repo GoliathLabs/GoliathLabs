@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD) (1 day ago)
 - [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (1 day ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 days ago)
 - [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (3 days ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (3 days ago)
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [graylog: 7.2.2 for server and Data Node](https://github.com/freifunkMUC/ffmuc-salt-public/pull/585) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [fix: pass user to render_to_png in print_labels](https://github.com/wolflu05/inventree-dymo-plugin/pull/14) on [wolflu05/inventree-dymo-plugin](https://github.com/wolflu05/inventree-dymo-plugin) (today)
+- [uisp: back to upstream docker-unms 3.1.70](https://github.com/freifunkMUC/ffmuc-salt-public/pull/595) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [renovate: enable fork processing, Go 1.26.10](https://github.com/freifunkMUC/talos-backup/pull/1) on [freifunkMUC/talos-backup](https://github.com/freifunkMUC/talos-backup) (today)
+- [zammad: Postgres 17, Elasticsearch 9, Redis 8, Zammad 7.2.2-0038](https://github.com/freifunkMUC/ffmuc-salt-public/pull/593) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [dns-auth: per-node PTR only inside the reverse zone](https://github.com/freifunkMUC/ffmuc-salt-public/pull/592) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [zammad: HOLD_DAYS 3](https://github.com/freifunkMUC/ffmuc-salt-public/pull/591) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [icinga2: meet-https connects to meet.ffmuc.net](https://github.com/freifunkMUC/ffmuc-salt-public/pull/590) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [zammad: favicon, app icon, hardening](https://github.com/freifunkMUC/ffmuc-salt-public/pull/588) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [renovate: group Graylog server and Data Node](https://github.com/freifunkMUC/ffmuc-salt-public/pull/585) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [nebula: package hashes for 1.12.0-1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/582) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [mail01: add .vip to the Rspamd sender TLD list](https://github.com/freifunkMUC/ffmuc-salt-public/pull/581) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [mail01: webmail in Freifunk München colours and logo](https://github.com/freifunkMUC/ffmuc-salt-public/pull/580) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [vaultwarden: run as non-root without capabilities](https://github.com/freifunkMUC/ffmuc-salt-public/pull/574) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [Support InvenTree 1.7, where PartPricing moved to the pricing app](https://github.com/0neShot/inventree-mbom/pull/2) on [0neShot/inventree-mbom](https://github.com/0neShot/inventree-mbom) (1 day ago)
-- [traefik: drop unused dashboard basic-auth variables from the stacks](https://github.com/freifunkMUC/ffmuc-salt-public/pull/571) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [[boards] Add Petlibro PLWF116](https://github.com/Bl00d-B0b/libretiny/pull/2) on [Bl00d-B0b/libretiny](https://github.com/Bl00d-B0b/libretiny) (1 day ago)
-- [[ambd] Write the OTA slot signature after the last block](https://github.com/Bl00d-B0b/libretiny/pull/1) on [Bl00d-B0b/libretiny](https://github.com/Bl00d-B0b/libretiny) (1 day ago)
-- [[ambd] Skip stray NAKs from the flash loader](https://github.com/Bl00d-B0b/ltchiptool/pull/1) on [Bl00d-B0b/ltchiptool](https://github.com/Bl00d-B0b/ltchiptool) (1 day ago)
 
 #### 📓 Gists I wrote
 
