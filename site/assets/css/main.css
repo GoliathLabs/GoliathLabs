@@ -81,3 +81,10 @@ a:focus-visible {
   color: var(--muted);
   border-bottom-color: var(--muted);
 }
+
+footer {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 0 1rem 2rem;
+  font-size: 0.85rem;
+}
