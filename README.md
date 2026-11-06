@@ -29,27 +29,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.0](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.0), today) - 
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.4.0](https://github.com/freifunkMUC/wgkex/releases/tag/v0.4.0), today) - Project for easy key exchange between Wireguard Clients and Servers
 - [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.70](https://github.com/Nico640/docker-unms/releases/tag/3.1.70), 4 days ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.10.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.10.1), 2 weeks ago) - Freifunk München specific Gluon configuration
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.3.0](https://github.com/freifunkMUC/wgkex/releases/tag/v0.3.0), 2 weeks ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) ([v0.2.0](https://github.com/freifunkMUC/unified_respondd/releases/tag/v0.2.0), 1 month ago) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.2.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.2.0), 1 month ago) - Helm Charts for wg-access-server
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.3), 2 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([0.2.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/0.2.1), 9 months ago) - 
 - [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) ([v1.3.0](https://github.com/stlehmann/Flask-MQTT/releases/tag/v1.3.0), 9 months ago) - Flask Extension for the MQTT protocol
 
 #### 🔨 My recent Pull Requests
 
+- [mail01: traefik-crowdsec-bouncer v1.0.1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/640) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [nginx: drop transitional retired_domains list](https://github.com/freifunkMUC/ffmuc-salt-public/pull/633) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [stacks: own images on release tags (wgkex v0.4.0, mastodon-paywall v0.3.0, autodiscover 2.0.3)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/630) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [chore: release chart 1.3.0 for wg-access-server v1.3.0](https://github.com/freifunkMUC/wg-access-server-chart/pull/51) on [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) (today)
 - [deps: golang.org/x/net v0.60.0](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/144) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (today)
 - [matomo: MariaDB 12.3.3 LTS](https://github.com/freifunkMUC/ffmuc-salt-public/pull/629) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [mattermost: PostgreSQL 18 on a new data directory](https://github.com/freifunkMUC/ffmuc-salt-public/pull/628) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [peeringmanager: PostgreSQL 18 on a new data directory](https://github.com/freifunkMUC/ffmuc-salt-public/pull/627) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [netbox: PostgreSQL 18 on a new data directory](https://github.com/freifunkMUC/ffmuc-salt-public/pull/626) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [keycloak: PostgreSQL 18 on a new data directory](https://github.com/freifunkMUC/ffmuc-salt-public/pull/625) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [graylog: MongoDB 8.0](https://github.com/freifunkMUC/ffmuc-salt-public/pull/624) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [nextcloud: MariaDB 12.3.3 LTS](https://github.com/freifunkMUC/ffmuc-salt-public/pull/623) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [akvorado: Valkey tag 9.1.3 (same digest)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/618) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [peeringmanager: Valkey 9.1.3](https://github.com/freifunkMUC/ffmuc-salt-public/pull/617) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 
 #### 📓 Gists I wrote
 
