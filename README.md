@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docker07: harden speedtest, read-only root for vaultwarden](https://github.com/freifunkMUC/ffmuc-salt-public/pull/653) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [haproxy: render packetyeeter SPOE config in one state, stop the highstate flapping](https://github.com/freifunkMUC/ffmuc-salt-public/pull/652) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Serve libsodium locally](https://github.com/GoliathLabs/lastsignal/pull/3) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (today)
 - [federated-map: run as a Komodo stack on docker07](https://github.com/freifunkMUC/ffmuc-salt-public/pull/651) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Container runs as non-root on current Go, image workflow and Dependabot](https://github.com/freifunkMUC/freifunk-map-modern/pull/20) on [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) (today)
@@ -48,8 +50,6 @@
 - [privacy: update and shorten the policy](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/622) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
 - [web: legal links on vpn, vms and HedgeDoc](https://github.com/freifunkMUC/ffmuc-salt-public/pull/650) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Make the node contact field optional, off by default](https://github.com/freifunkMUC/freifunk-map-modern/pull/19) on [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) (today)
-- [yanic: keep node contact details out of the public files](https://github.com/freifunkMUC/ffmuc-salt-public/pull/649) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [impressum: fix regulation number and stray tag, drop the closed EU dispute platform](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/621) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
 
 #### 📓 Gists I wrote
 
