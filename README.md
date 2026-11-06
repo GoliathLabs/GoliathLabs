@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
-- [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD) (1 day ago)
-- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (1 day ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 days ago)
-- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (3 days ago)
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (3 days ago)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
-- [freifunkMUC/yanic-deb](https://github.com/freifunkMUC/yanic-deb) - Builds a simple deb package for yanic (https://github.com/FreifunkBremen/yanic) (1 week ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD) (2 days ago)
+- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (2 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (4 days ago)
+- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (4 days ago)
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (4 days ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 weeks ago)
+- [freifunkMUC/yanic-deb](https://github.com/freifunkMUC/yanic-deb) - Builds a simple deb package for yanic (https://github.com/FreifunkBremen/yanic) (2 weeks ago)
 - [Nico640/docker-unms](https://github.com/Nico640/docker-unms) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi). (2 weeks ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (2 weeks ago)
 
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.70](https://github.com/Nico640/docker-unms/releases/tag/3.1.70), 3 days ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
+- [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.70](https://github.com/Nico640/docker-unms/releases/tag/3.1.70), 4 days ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.10.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.10.1), 2 weeks ago) - Freifunk München specific Gluon configuration
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.3.0](https://github.com/freifunkMUC/wgkex/releases/tag/v0.3.0), 2 weeks ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) ([v0.2.0](https://github.com/freifunkMUC/unified_respondd/releases/tag/v0.2.0), 1 month ago) - 
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [haproxy: allow ffmuc.net to read the status page API](https://github.com/freifunkMUC/ffmuc-salt-public/pull/596) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [Add optional OIDC login](https://github.com/traggo/server/pull/265) on [traggo/server](https://github.com/traggo/server) (today)
-- [auth: harden the session cookie](https://github.com/traggo/server/pull/264) on [traggo/server](https://github.com/traggo/server) (today)
-- [Update Go dependencies](https://github.com/traggo/server/pull/263) on [traggo/server](https://github.com/traggo/server) (today)
-- [Pin vulnerable transitive packages, vitest 4](https://github.com/traggo/server/pull/262) on [traggo/server](https://github.com/traggo/server) (today)
-- [Replace unmaintained small dependencies](https://github.com/traggo/server/pull/261) on [traggo/server](https://github.com/traggo/server) (today)
-- [FullCalendar 6](https://github.com/traggo/server/pull/260) on [traggo/server](https://github.com/traggo/server) (today)
-- [Restore former lint rules on ESLint](https://github.com/traggo/server/pull/259) on [traggo/server](https://github.com/traggo/server) (today)
-- [MUI 5 and React 18](https://github.com/traggo/server/pull/258) on [traggo/server](https://github.com/traggo/server) (today)
-- [Apollo Client 3 and graphql-code-generator](https://github.com/traggo/server/pull/257) on [traggo/server](https://github.com/traggo/server) (today)
+- [mattermost: PostgreSQL 18 on a new data directory](https://github.com/freifunkMUC/ffmuc-salt-public/pull/628) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [peeringmanager: PostgreSQL 18 on a new data directory](https://github.com/freifunkMUC/ffmuc-salt-public/pull/627) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [netbox: PostgreSQL 18 on a new data directory](https://github.com/freifunkMUC/ffmuc-salt-public/pull/626) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [keycloak: PostgreSQL 18 on a new data directory](https://github.com/freifunkMUC/ffmuc-salt-public/pull/625) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [graylog: MongoDB 8.0](https://github.com/freifunkMUC/ffmuc-salt-public/pull/624) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [nextcloud: MariaDB 12.3.3 LTS](https://github.com/freifunkMUC/ffmuc-salt-public/pull/623) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [akvorado: Valkey tag 9.1.3 (same digest)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/618) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [peeringmanager: Valkey 9.1.3](https://github.com/freifunkMUC/ffmuc-salt-public/pull/617) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [netbox-parker: Valkey 9.1.3](https://github.com/freifunkMUC/ffmuc-salt-public/pull/616) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [netbox: Valkey 9.1.3](https://github.com/freifunkMUC/ffmuc-salt-public/pull/615) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 
 #### 📓 Gists I wrote
 
@@ -62,7 +62,7 @@
 
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (3 weeks ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (3 weeks ago)
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (4 weeks ago)
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (1 month ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 months ago)
 - [TheScienceElf/UNIVAC-1219](https://github.com/TheScienceElf/UNIVAC-1219) - An emulator and assembler for the UNIVAC-1219 computer (6 months ago)
