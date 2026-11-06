@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD) (2 days ago)
 - [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (2 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (4 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [deps: golang.org/x/net v0.60.0](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/144) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (today)
+- [matomo: MariaDB 12.3.3 LTS](https://github.com/freifunkMUC/ffmuc-salt-public/pull/629) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [mattermost: PostgreSQL 18 on a new data directory](https://github.com/freifunkMUC/ffmuc-salt-public/pull/628) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [peeringmanager: PostgreSQL 18 on a new data directory](https://github.com/freifunkMUC/ffmuc-salt-public/pull/627) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [netbox: PostgreSQL 18 on a new data directory](https://github.com/freifunkMUC/ffmuc-salt-public/pull/626) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
@@ -48,8 +50,6 @@
 - [nextcloud: MariaDB 12.3.3 LTS](https://github.com/freifunkMUC/ffmuc-salt-public/pull/623) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [akvorado: Valkey tag 9.1.3 (same digest)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/618) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [peeringmanager: Valkey 9.1.3](https://github.com/freifunkMUC/ffmuc-salt-public/pull/617) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [netbox-parker: Valkey 9.1.3](https://github.com/freifunkMUC/ffmuc-salt-public/pull/616) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [netbox: Valkey 9.1.3](https://github.com/freifunkMUC/ffmuc-salt-public/pull/615) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 
 #### 📓 Gists I wrote
 
