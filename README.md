@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Uniform operator name and slogan in site config](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/620) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
+- [Uniform operator name Freie Netze München e.V. on public pages](https://github.com/freifunkMUC/ffmuc-salt-public/pull/648) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [mail01: docker-mailserver 17.0.0, DKIM signing by Rspamd](https://github.com/freifunkMUC/ffmuc-salt-public/pull/647) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [mail01: mail.ext.ffmuc.net in the certificate](https://github.com/freifunkMUC/ffmuc-salt-public/pull/646) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [network status: live badge and link to status.ffmuc.net](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/619) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
@@ -48,8 +50,6 @@
 - [mail01: traefik-crowdsec-bouncer v1.0.1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/640) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [nginx: drop transitional retired_domains list](https://github.com/freifunkMUC/ffmuc-salt-public/pull/633) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [stacks: own images on release tags (wgkex v0.4.0, mastodon-paywall v0.3.0, autodiscover 2.0.3)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/630) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [chore: release chart 1.3.0 for wg-access-server v1.3.0](https://github.com/freifunkMUC/wg-access-server-chart/pull/51) on [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) (today)
-- [deps: golang.org/x/net v0.60.0](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/144) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (today)
 
 #### 📓 Gists I wrote
 
