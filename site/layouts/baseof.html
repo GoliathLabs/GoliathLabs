@@ -17,5 +17,6 @@
       {{- block "main" . }}{{ end }}
     </main>
     <footer><a href="{{ "impressum/" | relURL }}">Impressum</a></footer>
+    <img class="stats" src="https://analytics.morphnet.work/matomo.php?idsite=3&amp;rec=1&amp;url={{ .Permalink | urlquery }}&amp;action_name={{ .Title | urlquery }}" alt="" width="1" height="1">
   </body>
 </html>
