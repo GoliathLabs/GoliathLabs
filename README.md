@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
-- [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (today)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (today)
-- [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD) (2 days ago)
-- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (2 days ago)
-- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (4 days ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (1 day ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 day ago)
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 day ago)
+- [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD) (3 days ago)
+- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (3 days ago)
+- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (5 days ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 weeks ago)
 - [freifunkMUC/yanic-deb](https://github.com/freifunkMUC/yanic-deb) - Builds a simple deb package for yanic (https://github.com/FreifunkBremen/yanic) (2 weeks ago)
 - [Nico640/docker-unms](https://github.com/Nico640/docker-unms) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi). (2 weeks ago)
@@ -29,10 +29,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.3.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.3.0), today) - Helm Charts for wg-access-server
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.0](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.0), today) - 
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.4.0](https://github.com/freifunkMUC/wgkex/releases/tag/v0.4.0), today) - Project for easy key exchange between Wireguard Clients and Servers
-- [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.70](https://github.com/Nico640/docker-unms/releases/tag/3.1.70), 4 days ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.3.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.3.0), 1 day ago) - Helm Charts for wg-access-server
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.0](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.0), 1 day ago) - 
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.4.0](https://github.com/freifunkMUC/wgkex/releases/tag/v0.4.0), 1 day ago) - Project for easy key exchange between Wireguard Clients and Servers
+- [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.70](https://github.com/Nico640/docker-unms/releases/tag/3.1.70), 5 days ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.10.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.10.1), 2 weeks ago) - Freifunk München specific Gluon configuration
 - [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) ([v0.2.0](https://github.com/freifunkMUC/unified_respondd/releases/tag/v0.2.0), 1 month ago) - 
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.3), 2 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docker07: harden speedtest, read-only root for vaultwarden](https://github.com/freifunkMUC/ffmuc-salt-public/pull/653) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [haproxy: render packetyeeter SPOE config in one state, stop the highstate flapping](https://github.com/freifunkMUC/ffmuc-salt-public/pull/652) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [Serve libsodium locally](https://github.com/GoliathLabs/lastsignal/pull/3) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (today)
-- [federated-map: run as a Komodo stack on docker07](https://github.com/freifunkMUC/ffmuc-salt-public/pull/651) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [Container runs as non-root on current Go, image workflow and Dependabot](https://github.com/freifunkMUC/freifunk-map-modern/pull/20) on [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) (today)
-- [impressum: add version date line](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/624) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
-- [head: drop unused font preconnect hints](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/623) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
-- [privacy: update and shorten the policy](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/622) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
-- [web: legal links on vpn, vms and HedgeDoc](https://github.com/freifunkMUC/ffmuc-salt-public/pull/650) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [Make the node contact field optional, off by default](https://github.com/freifunkMUC/freifunk-map-modern/pull/19) on [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) (today)
+- [docker07: harden speedtest, read-only root for vaultwarden](https://github.com/freifunkMUC/ffmuc-salt-public/pull/653) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [haproxy: render packetyeeter SPOE config in one state, stop the highstate flapping](https://github.com/freifunkMUC/ffmuc-salt-public/pull/652) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [Serve libsodium locally](https://github.com/GoliathLabs/lastsignal/pull/3) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (1 day ago)
+- [federated-map: run as a Komodo stack on docker07](https://github.com/freifunkMUC/ffmuc-salt-public/pull/651) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [Container runs as non-root on current Go, image workflow and Dependabot](https://github.com/freifunkMUC/freifunk-map-modern/pull/20) on [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) (1 day ago)
+- [impressum: add version date line](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/624) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 day ago)
+- [head: drop unused font preconnect hints](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/623) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 day ago)
+- [privacy: update and shorten the policy](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/622) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 day ago)
+- [web: legal links on vpn, vms and HedgeDoc](https://github.com/freifunkMUC/ffmuc-salt-public/pull/650) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [Make the node contact field optional, off by default](https://github.com/freifunkMUC/freifunk-map-modern/pull/19) on [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) (1 day ago)
 
 #### 📓 Gists I wrote
 
