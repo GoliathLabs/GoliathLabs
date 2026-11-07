@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (1 day ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 day ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 day ago)
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docker07: harden speedtest, read-only root for vaultwarden](https://github.com/freifunkMUC/ffmuc-salt-public/pull/653) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [haproxy: render packetyeeter SPOE config in one state, stop the highstate flapping](https://github.com/freifunkMUC/ffmuc-salt-public/pull/652) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [Serve libsodium locally](https://github.com/GoliathLabs/lastsignal/pull/3) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (1 day ago)
-- [federated-map: run as a Komodo stack on docker07](https://github.com/freifunkMUC/ffmuc-salt-public/pull/651) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [Container runs as non-root on current Go, image workflow and Dependabot](https://github.com/freifunkMUC/freifunk-map-modern/pull/20) on [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) (1 day ago)
-- [impressum: add version date line](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/624) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 day ago)
-- [head: drop unused font preconnect hints](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/623) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 day ago)
-- [privacy: update and shorten the policy](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/622) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 day ago)
-- [web: legal links on vpn, vms and HedgeDoc](https://github.com/freifunkMUC/ffmuc-salt-public/pull/650) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [Make the node contact field optional, off by default](https://github.com/freifunkMUC/freifunk-map-modern/pull/19) on [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) (1 day ago)
+- [icinga2: check kea-dhcp4 on the guardians](https://github.com/freifunkMUC/ffmuc-salt-public/pull/687) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [traefik docker07: baseline, peeringmanager and flow redirect and header labels](https://github.com/freifunkMUC/ffmuc-salt-public/pull/686) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [traefik docker06: baseline (socket proxy, config in Git, global HTTPS redirect)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/685) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [traefik docker04: baseline (socket proxy, config in Git, global HTTPS redirect)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/684) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [tuwunel: create the account at the first SSO login for the POC](https://github.com/freifunkMUC/ffmuc-salt-public/pull/683) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [haproxy, nebula: route matrix.ffmuc.net and element.ffmuc.net to docker07](https://github.com/freifunkMUC/ffmuc-salt-public/pull/682) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [renovate: major updates per stack, cap OpenSearch for graylog and mastodon](https://github.com/freifunkMUC/ffmuc-salt-public/pull/681) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [roundcube: build the skin with Node 26](https://github.com/freifunkMUC/ffmuc-salt-public/pull/680) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [hedgedoc: MariaDB 12.3](https://github.com/freifunkMUC/ffmuc-salt-public/pull/679) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [etherpad: MariaDB 12.3](https://github.com/freifunkMUC/ffmuc-salt-public/pull/678) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 
 #### 📓 Gists I wrote
 
