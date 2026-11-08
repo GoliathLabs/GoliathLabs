@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 day ago)
 - [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (2 days ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 days ago)
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [salt-minion: drop the reconnect drop-in again (no gain measured)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/695) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [haproxy: iterate the same-site peers in sorted order](https://github.com/freifunkMUC/ffmuc-salt-public/pull/694) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [salt-minion: reconnect after every Nebula start](https://github.com/freifunkMUC/ffmuc-salt-public/pull/693) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [komodo: weekly Mastodon media cleanup as a scheduled Procedure](https://github.com/freifunkMUC/ffmuc-salt-public/pull/692) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [ci: install jinja2 for the dhcp-server tests, black the guardian files](https://github.com/freifunkMUC/ffmuc-salt-public/pull/691) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [icinga2: check kea-dhcp4 on the guardians](https://github.com/freifunkMUC/ffmuc-salt-public/pull/687) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [traefik docker07: baseline, peeringmanager and flow redirect and header labels](https://github.com/freifunkMUC/ffmuc-salt-public/pull/686) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [traefik docker06: baseline (socket proxy, config in Git, global HTTPS redirect)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/685) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [traefik docker04: baseline (socket proxy, config in Git, global HTTPS redirect)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/684) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [tuwunel: create the account at the first SSO login for the POC](https://github.com/freifunkMUC/ffmuc-salt-public/pull/683) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [haproxy, nebula: route matrix.ffmuc.net and element.ffmuc.net to docker07](https://github.com/freifunkMUC/ffmuc-salt-public/pull/682) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [renovate: major updates per stack, cap OpenSearch for graylog and mastodon](https://github.com/freifunkMUC/ffmuc-salt-public/pull/681) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [roundcube: build the skin with Node 26](https://github.com/freifunkMUC/ffmuc-salt-public/pull/680) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [hedgedoc: MariaDB 12.3](https://github.com/freifunkMUC/ffmuc-salt-public/pull/679) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [etherpad: MariaDB 12.3](https://github.com/freifunkMUC/ffmuc-salt-public/pull/678) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 
 #### 📓 Gists I wrote
 
