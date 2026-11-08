@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [logrotate: keep the Traefik access log 7 days](https://github.com/freifunkMUC/ffmuc-salt-public/pull/696) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [salt-minion: drop the reconnect drop-in again (no gain measured)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/695) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [haproxy: iterate the same-site peers in sorted order](https://github.com/freifunkMUC/ffmuc-salt-public/pull/694) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [salt-minion: reconnect after every Nebula start](https://github.com/freifunkMUC/ffmuc-salt-public/pull/693) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
@@ -49,7 +50,6 @@
 - [traefik docker07: baseline, peeringmanager and flow redirect and header labels](https://github.com/freifunkMUC/ffmuc-salt-public/pull/686) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [traefik docker06: baseline (socket proxy, config in Git, global HTTPS redirect)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/685) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [traefik docker04: baseline (socket proxy, config in Git, global HTTPS redirect)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/684) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [tuwunel: create the account at the first SSO login for the POC](https://github.com/freifunkMUC/ffmuc-salt-public/pull/683) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -60,6 +60,7 @@
 
 #### ⭐ Recent Stars
 
+- [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer (today)
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (3 weeks ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (3 weeks ago)
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (1 month ago)
@@ -69,15 +70,14 @@
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (6 months ago)
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together (6 months ago)
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own. (7 months ago)
-- [rancher/rke2](https://github.com/rancher/rke2) -  (7 months ago)
 
 #### 👯 Check out some of my recent followers
 
+- [0vm](https://github.com/0vm)
 - [boldotter921](https://github.com/boldotter921)
 - [iv461](https://github.com/iv461)
 - [tiann317](https://github.com/tiann317)
 - [EricWilsonNet](https://github.com/EricWilsonNet)
-- [ff-mgk](https://github.com/ff-mgk)
 
 #### 💬 Feedback
 
