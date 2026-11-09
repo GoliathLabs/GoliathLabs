@@ -17,8 +17,12 @@ on:
   workflow_dispatch:
   # The site shows a list from the README, which changes without a push
   # that would start this (the hourly commit carries "[skip ci]"). Once a
-  # night is current enough; a night without a change builds nothing.
+  # night is current enough. A night builds only if the content changed, the
+  # published image has pending Alpine package upgrades, or its base image
+  # is not the one site/Dockerfile pins; otherwise the published digest stays.
   schedule:
+    # Not at minute 0: GitHub delays or drops scheduled runs at the start of
+    # the hour.
     - cron: "37 3 * * *"
 
 concurrency:
@@ -36,14 +40,26 @@ jobs:
 
     permissions:
       contents: read
+      packages: read
 
     outputs:
       tag: ${{ steps.hash.outputs.tag }}
       build: ${{ steps.hash.outputs.build }}
+      no_cache: ${{ steps.hash.outputs.no_cache }}
+      base_name: ${{ steps.hash.outputs.base_name }}
+      base_digest: ${{ steps.hash.outputs.base_digest }}
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Log in to GHCR
+        if: github.event_name == 'schedule'
+        uses: docker/login-action@8aa5831fb8d48d8f76594c7ddde61ae58019f550 # v4.8.0
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Hash the content
         id: hash
@@ -51,13 +67,51 @@ jobs:
           list=$(awk 'tolower($0) ~ /^####.*currently working on/ {f=1; next} /^####/ {f=0} f' README.md |
             sed -E 's/[[:space:]]+\([^()]*\)[[:space:]]*$//' | grep '^- ' || true)
           hash=$( { git ls-files -s site .github/workflows/site.yml; printf '%s\n' "$list"; } | sha256sum | cut -c1-16)
-          echo "tag=content-$hash" >> "$GITHUB_OUTPUT"
-          if [ "$GITHUB_EVENT_NAME" = schedule ] &&
-            docker manifest inspect "ghcr.io/goliathlabs/website:content-$hash" > /dev/null 2>&1; then
-            echo "build=false" >> "$GITHUB_OUTPUT"
-          else
-            echo "build=true" >> "$GITHUB_OUTPUT"
+          image="ghcr.io/goliathlabs/website"
+          tag="content-$hash"
+
+          # The base the last stage of site/Dockerfile builds on: name and
+          # digest as pinned there.
+          from=$(sed -n 's/^FROM \([^ ]*\)\( .*\)\{0,1\}$/\1/p' site/Dockerfile | tail -n1)
+          base_name="${from%@*}"
+          base_digest="${from#*@}"
+          case "$base_digest" in sha256:*) ;; *) echo "Last FROM in site/Dockerfile is not pinned by digest" >&2; exit 1 ;; esac
+
+          build=true no_cache=false
+          if [ "$GITHUB_EVENT_NAME" = schedule ]; then
+            if ! out=$(docker manifest inspect "$image:$tag" 2>&1); then
+              if ! grep -qiE 'no such manifest|not found|manifest unknown' <<< "$out"; then
+                echo "Cannot probe $image:$tag: $out" >&2
+                exit 1
+              fi
+              echo "Content changed"
+            else
+              # Nothing new in the content: only a stale image is a reason.
+              # A failing "apk update" or "docker run" must not look like
+              # "nothing pending".
+              build=false
+              docker pull --quiet --platform linux/amd64 "$image:$tag" > /dev/null || exit 1
+              upgrade=$(docker run --rm --platform linux/amd64 --user 0 --entrypoint sh "$image:$tag" \
+                -c 'apk update >/dev/null && apk upgrade --simulate') || exit 1
+              pending=$(grep -c ' Upgrading ' <<< "$upgrade" || true)
+              built_from=$(docker inspect --format '{{ index .Config.Labels "org.opencontainers.image.base.digest" }}' "$image:$tag")
+              echo "Pending upgrades: $pending"
+              echo "Base digest: published ${built_from:-none}, pinned $base_digest"
+              if [ "$pending" -gt 0 ] || [ "$built_from" != "$base_digest" ]; then
+                build=true no_cache=true
+              else
+                echo "up to date"
+              fi
+            fi
           fi
+
+          {
+            echo "tag=$tag"
+            echo "build=$build"
+            echo "no_cache=$no_cache"
+            echo "base_name=$base_name"
+            echo "base_digest=$base_digest"
+          } >> "$GITHUB_OUTPUT"
 
   image:
     needs: content
@@ -98,6 +152,9 @@ jobs:
             type=raw,value=${{ needs.content.outputs.tag }},enable={{is_default_branch}}
             type=raw,value=v{{date 'YYYYMMDD-HHmm' tz='Europe/Berlin'}},enable={{is_default_branch}}
             type=sha
+          labels: |
+            org.opencontainers.image.base.name=${{ needs.content.outputs.base_name }}
+            org.opencontainers.image.base.digest=${{ needs.content.outputs.base_digest }}
 
       # A pull request only proves that the site still builds.
       - name: Build and push
@@ -106,6 +163,9 @@ jobs:
           context: site
           platforms: linux/amd64
           push: ${{ github.event_name != 'pull_request' }}
+          # A rebuild for pending upgrades must not reuse the cached
+          # "apk upgrade" layer.
+          no-cache: ${{ needs.content.outputs.no_cache == 'true' }}
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
           cache-from: type=gha
