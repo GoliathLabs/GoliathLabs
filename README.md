@@ -3,15 +3,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
+- [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (today)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (today)
+- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (today)
+- [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) -  (today)
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (today)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 days ago)
-- [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (3 days ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (3 days ago)
 - [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD) (5 days ago)
 - [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (5 days ago)
-- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (1 week ago)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 weeks ago)
-- [freifunkMUC/yanic-deb](https://github.com/freifunkMUC/yanic-deb) - Builds a simple deb package for yanic (https://github.com/FreifunkBremen/yanic) (2 weeks ago)
-- [Nico640/docker-unms](https://github.com/Nico640/docker-unms) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi). (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [matomo: mount the LoginOIDC plugin on docker04](https://github.com/freifunkMUC/ffmuc-salt-public/pull/704) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [traefik: noc-auth options, drop redundant http routers, akvorado 301](https://github.com/freifunkMUC/ffmuc-salt-public/pull/703) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [matomo: harden nginx, healthchecks, memory limits, capabilities (docker04)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/701) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [nginx: cookieless Matomo for the wiki](https://github.com/freifunkMUC/ffmuc-salt-public/pull/700) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [Add cookieless Matomo statistics](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/625) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
-- [traefik: drop allowEncodedHash on docker04, note 7-day access log retention](https://github.com/freifunkMUC/ffmuc-salt-public/pull/699) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [logrotate: keep the Traefik access log 7 days](https://github.com/freifunkMUC/ffmuc-salt-public/pull/696) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [salt-minion: drop the reconnect drop-in again (no gain measured)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/695) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [haproxy: iterate the same-site peers in sorted order](https://github.com/freifunkMUC/ffmuc-salt-public/pull/694) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [salt-minion: reconnect after every Nebula start](https://github.com/freifunkMUC/ffmuc-salt-public/pull/693) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [deps: fix HIGH findings in the image (x/crypto, go-jose, Go 1.26)](https://github.com/GoliathLabs/server/pull/2) on [GoliathLabs/server](https://github.com/GoliathLabs/server) (today)
+- [ci: daily rebuild of the fork image when the golang base changed](https://github.com/GoliathLabs/server/pull/1) on [GoliathLabs/server](https://github.com/GoliathLabs/server) (today)
+- [mastodon-paywall: listen on 0.0.0.0 so the healthcheck reaches it](https://github.com/freifunkMUC/ffmuc-salt-public/pull/719) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [stacks: healthchecks for mail01 (traefik, unbound, autodiscover, roundcubedb)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/718) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [Update click in requirements_lock.txt to 8.5.1](https://github.com/freifunkMUC/wgkex/pull/318) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (today)
+- [Update website dependencies within semver ranges](https://github.com/freifunkMUC/wg-access-server/pull/1412) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Update ruff to 0.17.4](https://github.com/freifunkMUC/unified_respondd/pull/112) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
+- [Update Go modules and bump go directive to 1.27.3](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/145) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (today)
+- [Update npm dependencies within semver ranges](https://github.com/freifunkMUC/mastodon-paywall/pull/243) on [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) (today)
+- [Bump go directive to 1.27.3 to match the build image](https://github.com/freifunkMUC/freifunk-map-modern/pull/26) on [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) (today)
 
 #### 📓 Gists I wrote
 
