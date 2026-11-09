@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 days ago)
 - [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (3 days ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (3 days ago)
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [matomo: mount the LoginOIDC plugin on docker04](https://github.com/freifunkMUC/ffmuc-salt-public/pull/704) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [traefik: noc-auth options, drop redundant http routers, akvorado 301](https://github.com/freifunkMUC/ffmuc-salt-public/pull/703) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [matomo: harden nginx, healthchecks, memory limits, capabilities (docker04)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/701) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [nginx: cookieless Matomo for the wiki](https://github.com/freifunkMUC/ffmuc-salt-public/pull/700) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [Add cookieless Matomo statistics](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/625) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
+- [traefik: drop allowEncodedHash on docker04, note 7-day access log retention](https://github.com/freifunkMUC/ffmuc-salt-public/pull/699) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [logrotate: keep the Traefik access log 7 days](https://github.com/freifunkMUC/ffmuc-salt-public/pull/696) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [salt-minion: drop the reconnect drop-in again (no gain measured)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/695) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [haproxy: iterate the same-site peers in sorted order](https://github.com/freifunkMUC/ffmuc-salt-public/pull/694) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [salt-minion: reconnect after every Nebula start](https://github.com/freifunkMUC/ffmuc-salt-public/pull/693) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [komodo: weekly Mastodon media cleanup as a scheduled Procedure](https://github.com/freifunkMUC/ffmuc-salt-public/pull/692) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [ci: install jinja2 for the dhcp-server tests, black the guardian files](https://github.com/freifunkMUC/ffmuc-salt-public/pull/691) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [icinga2: check kea-dhcp4 on the guardians](https://github.com/freifunkMUC/ffmuc-salt-public/pull/687) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
-- [traefik docker07: baseline, peeringmanager and flow redirect and header labels](https://github.com/freifunkMUC/ffmuc-salt-public/pull/686) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
-- [traefik docker06: baseline (socket proxy, config in Git, global HTTPS redirect)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/685) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
-- [traefik docker04: baseline (socket proxy, config in Git, global HTTPS redirect)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/684) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -73,11 +73,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [0vm](https://github.com/0vm)
 - [boldotter921](https://github.com/boldotter921)
 - [iv461](https://github.com/iv461)
 - [tiann317](https://github.com/tiann317)
 - [EricWilsonNet](https://github.com/EricWilsonNet)
+- [ff-mgk](https://github.com/ff-mgk)
 
 #### 💬 Feedback
 
