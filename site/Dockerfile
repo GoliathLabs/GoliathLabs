@@ -18,8 +18,10 @@ FROM docker.io/nginxinc/nginx-unprivileged:1.30.6-alpine-slim@sha256:5d8bb9437d7
 
 # The base only carries ca-certificates-bundle, which still holds roots Mozilla
 # has removed; the ca-certificates package regenerates the store without them.
+# The upgrade brings in fixes published after the base was built (the nightly
+# run in .github/workflows/site.yml rebuilds when there are any).
 USER root
-RUN apk add --no-cache ca-certificates
+RUN apk upgrade --no-cache && apk add --no-cache ca-certificates
 USER 101
 
 COPY nginx.conf /etc/nginx/conf.d/default.conf
