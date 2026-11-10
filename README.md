@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [dnsdist: send only zones hosted on bind to the auth pool](https://github.com/freifunkMUC/ffmuc-salt-public/pull/756) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [ci: drop self-referencing created label from metadata-action](https://github.com/freifunkMUC/mastodon-paywall/pull/245) on [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) (today)
+- [ci: pass head_ref through env in bazelversion, drop self-referencing created label](https://github.com/freifunkMUC/wgkex/pull/320) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (today)
+- [top: apply haproxy on webfrontend03-06 in the highstate](https://github.com/freifunkMUC/ffmuc-salt-public/pull/752) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Attest build provenance of published images](https://github.com/freifunkMUC/talos-dgx-spark/pull/2) on [freifunkMUC/talos-dgx-spark](https://github.com/freifunkMUC/talos-dgx-spark) (today)
 - [Attest build provenance of published images](https://github.com/freifunkMUC/autodiscover-email-settings/pull/92) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
 - [Attest build provenance of published images](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/147) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (today)
 - [Attest build provenance of published images](https://github.com/freifunkMUC/wg-access-server/pull/1413) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
 - [Attest build provenance of published images](https://github.com/StarkStrom-Infrastructure/strichliste/pull/2) on [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) (today)
 - [Attest build provenance of published images](https://github.com/freifunkMUC/openldap-docker/pull/13) on [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) (today)
-- [Attest build provenance of published images](https://github.com/microscaler/talos-dgx-spark/pull/1) on [microscaler/talos-dgx-spark](https://github.com/microscaler/talos-dgx-spark) (today)
-- [Attest build provenance of published images](https://github.com/freifunkMUC/freifunk-map-modern/pull/27) on [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) (today)
-- [ci: attest build provenance of published images](https://github.com/GoliathLabs/server/pull/3) on [GoliathLabs/server](https://github.com/GoliathLabs/server) (today)
-- [ci: attest build provenance of published images](https://github.com/GoliathLabs/lastsignal/pull/6) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (today)
 
 #### 📓 Gists I wrote
 
