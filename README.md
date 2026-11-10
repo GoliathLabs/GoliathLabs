@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (today)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
+- [freifunkMUC/tools](https://github.com/freifunkMUC/tools) - Tools to find clients etc (today)
+- [freifunkMUC/yanic-deb](https://github.com/freifunkMUC/yanic-deb) - Builds a simple deb package for yanic (https://github.com/FreifunkBremen/yanic) (today)
 - [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (1 day ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 day ago)
 - [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (1 day ago)
 - [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) -  (1 day ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 day ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 days ago)
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (4 days ago)
-- [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD) (6 days ago)
-- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [komodo: auto-apply procedures (schedule disabled)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/728) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [top: run wgkex in the gateway highstate](https://github.com/freifunkMUC/ffmuc-salt-public/pull/727) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [mail01: autodiscover healthcheck on the generated config](https://github.com/freifunkMUC/ffmuc-salt-public/pull/725) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [ci: rebuild master and the latest release daily, publish only on package or base image updates](https://github.com/freifunkMUC/autodiscover-email-settings/pull/89) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
-- [ci: rebuild main daily, publish only if the base images changed](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/146) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (1 day ago)
-- [wgkex: pin the workers to the release tag, one Renovate group with the broker image](https://github.com/freifunkMUC/ffmuc-salt-public/pull/724) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [ci: daily watch for new OpenLDAP releases and open trixie CVEs](https://github.com/freifunkMUC/openldap-docker/pull/10) on [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) (1 day ago)
-- [deps: fix HIGH findings in the image (x/crypto, go-jose, Go 1.26)](https://github.com/GoliathLabs/server/pull/2) on [GoliathLabs/server](https://github.com/GoliathLabs/server) (1 day ago)
-- [ci: daily rebuild of the fork image when the golang base changed](https://github.com/GoliathLabs/server/pull/1) on [GoliathLabs/server](https://github.com/GoliathLabs/server) (1 day ago)
-- [mastodon-paywall: listen on 0.0.0.0 so the healthcheck reaches it](https://github.com/freifunkMUC/ffmuc-salt-public/pull/719) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [yanic: 2.1.1+batmanv4, no_owner switchable](https://github.com/freifunkMUC/ffmuc-salt-public/pull/749) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [icinga2: check Zammad search index](https://github.com/freifunkMUC/ffmuc-salt-public/pull/748) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [Update to yanic 2.1.1+batmanv4](https://github.com/freifunkMUC/yanic-deb/pull/6) on [freifunkMUC/yanic-deb](https://github.com/freifunkMUC/yanic-deb) (today)
+- [create-geo-feed: write fresh, per-prefix overrides](https://github.com/freifunkMUC/tools/pull/3) on [freifunkMUC/tools](https://github.com/freifunkMUC/tools) (today)
+- [Geofeed: 141.98.138.0/24 and two IPv6 more-specifics in Vienna](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/627) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
+- [keycloak: KC_PROXY_HEADERS=xforwarded instead of the removed KC_PROXY](https://github.com/freifunkMUC/ffmuc-salt-public/pull/747) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [keycloak: full URL as hostname](https://github.com/freifunkMUC/ffmuc-salt-public/pull/746) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [tuwunel: federation off for the POC](https://github.com/freifunkMUC/ffmuc-salt-public/pull/745) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [Fix names, locations and counts for Freising, Ebersberg, Augsburg, Donau-Ries](https://github.com/freifunkMUC/freifunk.net-API/pull/46) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (today)
+- [fix(output/filter): apply filters in a deterministic order (v2.1.1+batmanv3)](https://github.com/freifunkMUC/yanic/pull/1) on [freifunkMUC/yanic](https://github.com/freifunkMUC/yanic) (today)
 
 #### 📓 Gists I wrote
 
