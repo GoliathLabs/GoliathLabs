@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
-- [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (today)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (today)
-- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (today)
-- [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) -  (today)
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (today)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 days ago)
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (3 days ago)
-- [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD) (5 days ago)
-- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (5 days ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (1 day ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 day ago)
+- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (1 day ago)
+- [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) -  (1 day ago)
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 day ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 days ago)
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (4 days ago)
+- [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD) (6 days ago)
+- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.3.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.3.0), 3 days ago) - Helm Charts for wg-access-server
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.0](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.0), 3 days ago) - 
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.4.0](https://github.com/freifunkMUC/wgkex/releases/tag/v0.4.0), 3 days ago) - Project for easy key exchange between Wireguard Clients and Servers
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.3.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.3.0), 4 days ago) - Helm Charts for wg-access-server
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.0](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.0), 4 days ago) - 
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.4.0](https://github.com/freifunkMUC/wgkex/releases/tag/v0.4.0), 4 days ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.70](https://github.com/Nico640/docker-unms/releases/tag/3.1.70), 1 week ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.10.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.10.1), 3 weeks ago) - Freifunk München specific Gluon configuration
 - [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) ([v0.2.0](https://github.com/freifunkMUC/unified_respondd/releases/tag/v0.2.0), 1 month ago) - 
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [deps: fix HIGH findings in the image (x/crypto, go-jose, Go 1.26)](https://github.com/GoliathLabs/server/pull/2) on [GoliathLabs/server](https://github.com/GoliathLabs/server) (today)
-- [ci: daily rebuild of the fork image when the golang base changed](https://github.com/GoliathLabs/server/pull/1) on [GoliathLabs/server](https://github.com/GoliathLabs/server) (today)
-- [mastodon-paywall: listen on 0.0.0.0 so the healthcheck reaches it](https://github.com/freifunkMUC/ffmuc-salt-public/pull/719) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [stacks: healthchecks for mail01 (traefik, unbound, autodiscover, roundcubedb)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/718) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [Update click in requirements_lock.txt to 8.5.1](https://github.com/freifunkMUC/wgkex/pull/318) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (today)
-- [Update website dependencies within semver ranges](https://github.com/freifunkMUC/wg-access-server/pull/1412) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [Update ruff to 0.17.4](https://github.com/freifunkMUC/unified_respondd/pull/112) on [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) (today)
-- [Update Go modules and bump go directive to 1.27.3](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/145) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (today)
-- [Update npm dependencies within semver ranges](https://github.com/freifunkMUC/mastodon-paywall/pull/243) on [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) (today)
-- [Bump go directive to 1.27.3 to match the build image](https://github.com/freifunkMUC/freifunk-map-modern/pull/26) on [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) (today)
+- [komodo: auto-apply procedures (schedule disabled)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/728) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [top: run wgkex in the gateway highstate](https://github.com/freifunkMUC/ffmuc-salt-public/pull/727) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [mail01: autodiscover healthcheck on the generated config](https://github.com/freifunkMUC/ffmuc-salt-public/pull/725) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [ci: rebuild master and the latest release daily, publish only on package or base image updates](https://github.com/freifunkMUC/autodiscover-email-settings/pull/89) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
+- [ci: rebuild main daily, publish only if the base images changed](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/146) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (1 day ago)
+- [wgkex: pin the workers to the release tag, one Renovate group with the broker image](https://github.com/freifunkMUC/ffmuc-salt-public/pull/724) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [ci: daily watch for new OpenLDAP releases and open trixie CVEs](https://github.com/freifunkMUC/openldap-docker/pull/10) on [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) (1 day ago)
+- [deps: fix HIGH findings in the image (x/crypto, go-jose, Go 1.26)](https://github.com/GoliathLabs/server/pull/2) on [GoliathLabs/server](https://github.com/GoliathLabs/server) (1 day ago)
+- [ci: daily rebuild of the fork image when the golang base changed](https://github.com/GoliathLabs/server/pull/1) on [GoliathLabs/server](https://github.com/GoliathLabs/server) (1 day ago)
+- [mastodon-paywall: listen on 0.0.0.0 so the healthcheck reaches it](https://github.com/freifunkMUC/ffmuc-salt-public/pull/719) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -60,7 +60,7 @@
 
 #### ⭐ Recent Stars
 
-- [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer (1 day ago)
+- [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer (2 days ago)
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (3 weeks ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (3 weeks ago)
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (1 month ago)
