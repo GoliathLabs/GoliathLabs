@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (today)
+- [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (today)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
+- [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (today)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (today)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (today)
+- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (today)
+- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (today)
 - [freifunkMUC/tools](https://github.com/freifunkMUC/tools) - Tools to find clients etc (today)
-- [freifunkMUC/yanic-deb](https://github.com/freifunkMUC/yanic-deb) - Builds a simple deb package for yanic (https://github.com/FreifunkBremen/yanic) (today)
-- [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (1 day ago)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 day ago)
-- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (1 day ago)
-- [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) -  (1 day ago)
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -24,8 +24,8 @@
 - [GoliathLabs/PasswordPusher](https://github.com/GoliathLabs/PasswordPusher) - 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
 - [GoliathLabs/snmp-to-influx-python](https://github.com/GoliathLabs/snmp-to-influx-python) - 
 - [GoliathLabs/Flask-MQTT](https://github.com/GoliathLabs/Flask-MQTT) - Flask Extension for the MQTT protocol
-- [GoliathLabs/docker-openldap](https://github.com/GoliathLabs/docker-openldap) - OpenLDAP container image 🐳🌴
 - [GoliathLabs/roundcube-plugin-identity-from-directory](https://github.com/GoliathLabs/roundcube-plugin-identity-from-directory) - Roundcube plugin to populate and maintain user identities automatically on each login, based on corresponding LDAP or Active Directory user data.
+- [GoliathLabs/excalidraw-backend](https://github.com/GoliathLabs/excalidraw-backend) - Excalidraw collaboration backend for Jitsi
 
 #### 🔭 Latest releases I've contributed to
 
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [yanic: 2.1.1+batmanv4, no_owner switchable](https://github.com/freifunkMUC/ffmuc-salt-public/pull/749) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [icinga2: check Zammad search index](https://github.com/freifunkMUC/ffmuc-salt-public/pull/748) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [Update to yanic 2.1.1+batmanv4](https://github.com/freifunkMUC/yanic-deb/pull/6) on [freifunkMUC/yanic-deb](https://github.com/freifunkMUC/yanic-deb) (today)
-- [create-geo-feed: write fresh, per-prefix overrides](https://github.com/freifunkMUC/tools/pull/3) on [freifunkMUC/tools](https://github.com/freifunkMUC/tools) (today)
-- [Geofeed: 141.98.138.0/24 and two IPv6 more-specifics in Vienna](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/627) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
-- [keycloak: KC_PROXY_HEADERS=xforwarded instead of the removed KC_PROXY](https://github.com/freifunkMUC/ffmuc-salt-public/pull/747) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [keycloak: full URL as hostname](https://github.com/freifunkMUC/ffmuc-salt-public/pull/746) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [tuwunel: federation off for the POC](https://github.com/freifunkMUC/ffmuc-salt-public/pull/745) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [Fix names, locations and counts for Freising, Ebersberg, Augsburg, Donau-Ries](https://github.com/freifunkMUC/freifunk.net-API/pull/46) on [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) (today)
-- [fix(output/filter): apply filters in a deterministic order (v2.1.1+batmanv3)](https://github.com/freifunkMUC/yanic/pull/1) on [freifunkMUC/yanic](https://github.com/freifunkMUC/yanic) (today)
+- [Attest build provenance of published images](https://github.com/freifunkMUC/talos-dgx-spark/pull/2) on [freifunkMUC/talos-dgx-spark](https://github.com/freifunkMUC/talos-dgx-spark) (today)
+- [Attest build provenance of published images](https://github.com/freifunkMUC/autodiscover-email-settings/pull/92) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
+- [Attest build provenance of published images](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/147) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (today)
+- [Attest build provenance of published images](https://github.com/freifunkMUC/wg-access-server/pull/1413) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
+- [Attest build provenance of published images](https://github.com/StarkStrom-Infrastructure/strichliste/pull/2) on [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) (today)
+- [Attest build provenance of published images](https://github.com/freifunkMUC/openldap-docker/pull/13) on [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) (today)
+- [Attest build provenance of published images](https://github.com/microscaler/talos-dgx-spark/pull/1) on [microscaler/talos-dgx-spark](https://github.com/microscaler/talos-dgx-spark) (today)
+- [Attest build provenance of published images](https://github.com/freifunkMUC/freifunk-map-modern/pull/27) on [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) (today)
+- [ci: attest build provenance of published images](https://github.com/GoliathLabs/server/pull/3) on [GoliathLabs/server](https://github.com/GoliathLabs/server) (today)
+- [ci: attest build provenance of published images](https://github.com/GoliathLabs/lastsignal/pull/6) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (today)
 
 #### 📓 Gists I wrote
 
@@ -60,6 +60,7 @@
 
 #### ⭐ Recent Stars
 
+- [aligundogdu/matrixmigrate](https://github.com/aligundogdu/matrixmigrate) - A CLI tool for migrating from Mattermost to Matrix Synapse with multi-step, resumable migration support. (today)
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer (2 days ago)
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (3 weeks ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (3 weeks ago)
@@ -69,7 +70,6 @@
 - [TheScienceElf/UNIVAC-1219](https://github.com/TheScienceElf/UNIVAC-1219) - An emulator and assembler for the UNIVAC-1219 computer (6 months ago)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (6 months ago)
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together (6 months ago)
-- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own. (7 months ago)
 
 #### 👯 Check out some of my recent followers
 
