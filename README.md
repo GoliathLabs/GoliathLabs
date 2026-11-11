@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (today)
-- [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (today)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
-- [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (today)
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (today)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (today)
-- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (today)
-- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (today)
-- [freifunkMUC/tools](https://github.com/freifunkMUC/tools) - Tools to find clients etc (today)
+- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (1 day ago)
+- [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (1 day ago)
+- [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (1 day ago)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 day ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 day ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 day ago)
+- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (1 day ago)
+- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (1 day ago)
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.3.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.3.0), 4 days ago) - Helm Charts for wg-access-server
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.0](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.0), 4 days ago) - 
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.4.0](https://github.com/freifunkMUC/wgkex/releases/tag/v0.4.0), 4 days ago) - Project for easy key exchange between Wireguard Clients and Servers
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.3.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.3.0), 5 days ago) - Helm Charts for wg-access-server
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.0](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.0), 5 days ago) - 
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.4.0](https://github.com/freifunkMUC/wgkex/releases/tag/v0.4.0), 5 days ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.70](https://github.com/Nico640/docker-unms/releases/tag/3.1.70), 1 week ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.10.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.10.1), 3 weeks ago) - Freifunk München specific Gluon configuration
 - [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) ([v0.2.0](https://github.com/freifunkMUC/unified_respondd/releases/tag/v0.2.0), 1 month ago) - 
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [dnsdist: send only zones hosted on bind to the auth pool](https://github.com/freifunkMUC/ffmuc-salt-public/pull/756) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [ci: drop self-referencing created label from metadata-action](https://github.com/freifunkMUC/mastodon-paywall/pull/245) on [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) (today)
-- [ci: pass head_ref through env in bazelversion, drop self-referencing created label](https://github.com/freifunkMUC/wgkex/pull/320) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (today)
-- [top: apply haproxy on webfrontend03-06 in the highstate](https://github.com/freifunkMUC/ffmuc-salt-public/pull/752) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [Attest build provenance of published images](https://github.com/freifunkMUC/talos-dgx-spark/pull/2) on [freifunkMUC/talos-dgx-spark](https://github.com/freifunkMUC/talos-dgx-spark) (today)
-- [Attest build provenance of published images](https://github.com/freifunkMUC/autodiscover-email-settings/pull/92) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
-- [Attest build provenance of published images](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/147) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (today)
-- [Attest build provenance of published images](https://github.com/freifunkMUC/wg-access-server/pull/1413) on [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) (today)
-- [Attest build provenance of published images](https://github.com/StarkStrom-Infrastructure/strichliste/pull/2) on [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) (today)
-- [Attest build provenance of published images](https://github.com/freifunkMUC/openldap-docker/pull/13) on [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) (today)
+- [graylog: set the JVM heap to 3 GB](https://github.com/freifunkMUC/ffmuc-salt-public/pull/783) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [mail01: harden autodiscover, roundcube, roundcubedb, mta-sts](https://github.com/freifunkMUC/ffmuc-salt-public/pull/782) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [docker07: harden diun, meet-reserve](https://github.com/freifunkMUC/ffmuc-salt-public/pull/781) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [docker06: harden diun, graylog opensearch, mastodon es, meet-reserve](https://github.com/freifunkMUC/ffmuc-salt-public/pull/780) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [docker05: harden diun, nextcloud, unifi, meet-reserve](https://github.com/freifunkMUC/ffmuc-salt-public/pull/779) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [docker04: harden cfssl, diun, hedgedoc, netbox, openldap, wgkex](https://github.com/freifunkMUC/ffmuc-salt-public/pull/778) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [nextcloud: keep the Redis password out of the process list](https://github.com/freifunkMUC/ffmuc-salt-public/pull/777) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [stacks: pg_isready healthchecks check the configured database](https://github.com/freifunkMUC/ffmuc-salt-public/pull/776) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [docker07: harden keycloak and peeringmanager databases](https://github.com/freifunkMUC/ffmuc-salt-public/pull/775) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [docker06: harden mastodon and graylog databases](https://github.com/freifunkMUC/ffmuc-salt-public/pull/774) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 
 #### 📓 Gists I wrote
 
@@ -60,13 +60,13 @@
 
 #### ⭐ Recent Stars
 
-- [aligundogdu/matrixmigrate](https://github.com/aligundogdu/matrixmigrate) - A CLI tool for migrating from Mattermost to Matrix Synapse with multi-step, resumable migration support. (today)
-- [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer (2 days ago)
+- [aligundogdu/matrixmigrate](https://github.com/aligundogdu/matrixmigrate) - A CLI tool for migrating from Mattermost to Matrix Synapse with multi-step, resumable migration support. (1 day ago)
+- [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer (3 days ago)
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (3 weeks ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (3 weeks ago)
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (1 month ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 months ago)
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (3 months ago)
 - [TheScienceElf/UNIVAC-1219](https://github.com/TheScienceElf/UNIVAC-1219) - An emulator and assembler for the UNIVAC-1219 computer (6 months ago)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (6 months ago)
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together (6 months ago)
