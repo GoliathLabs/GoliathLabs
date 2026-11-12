@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (today)
 - [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (2 days ago)
 - [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (2 days ago)
 - [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (2 days ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (2 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 days ago)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 days ago)
 - [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (2 days ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (2 days ago)
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (2 days ago)
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.1), today) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.3.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.3.0), 6 days ago) - Helm Charts for wg-access-server
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.0](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.0), 6 days ago) - 
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.4.0](https://github.com/freifunkMUC/wgkex/releases/tag/v0.4.0), 6 days ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.70](https://github.com/Nico640/docker-unms/releases/tag/3.1.70), 1 week ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.10.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.10.1), 3 weeks ago) - Freifunk München specific Gluon configuration
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump autodiscover-email-settings to 2.0.4 and mastodon-paywall to v0.3.1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/801) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [Bump node to 26.13.1 and 22.23.5 (security release 2026-11-11)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/797) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [Bump node to 26.13.1 (security release 2026-11-11)](https://github.com/freifunkMUC/mastodon-paywall/pull/246) on [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) (today)
+- [Bump node to 26.13.1 (security release 2026-11-11)](https://github.com/freifunkMUC/autodiscover-email-settings/pull/93) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (today)
 - [graylog: set the JVM heap to 3 GB](https://github.com/freifunkMUC/ffmuc-salt-public/pull/783) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [mail01: harden autodiscover, roundcube, roundcubedb, mta-sts](https://github.com/freifunkMUC/ffmuc-salt-public/pull/782) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [docker07: harden diun, meet-reserve](https://github.com/freifunkMUC/ffmuc-salt-public/pull/781) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [docker06: harden diun, graylog opensearch, mastodon es, meet-reserve](https://github.com/freifunkMUC/ffmuc-salt-public/pull/780) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [docker05: harden diun, nextcloud, unifi, meet-reserve](https://github.com/freifunkMUC/ffmuc-salt-public/pull/779) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [docker04: harden cfssl, diun, hedgedoc, netbox, openldap, wgkex](https://github.com/freifunkMUC/ffmuc-salt-public/pull/778) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [nextcloud: keep the Redis password out of the process list](https://github.com/freifunkMUC/ffmuc-salt-public/pull/777) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [stacks: pg_isready healthchecks check the configured database](https://github.com/freifunkMUC/ffmuc-salt-public/pull/776) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [docker07: harden keycloak and peeringmanager databases](https://github.com/freifunkMUC/ffmuc-salt-public/pull/775) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [docker06: harden mastodon and graylog databases](https://github.com/freifunkMUC/ffmuc-salt-public/pull/774) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 
 #### 📓 Gists I wrote
 
