@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 day ago)
 - [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (3 days ago)
 - [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (3 days ago)
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[v2026.1.x] EdgeRouter X images as -ka](https://github.com/freifunkMUC/site-ffm/pull/996) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (today)
+- [keycloak: ALTCHA for self-registration in realm chat](https://github.com/freifunkMUC/ffmuc-salt-public/pull/829) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [fix(keycloak): cache-bust theme CSS with ?v=](https://github.com/freifunkMUC/ffmuc-salt-public/pull/824) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [keycloak: move hedgedoc and vaultwarden to realm ffmuc (merge in maintenance window)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/823) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [keycloak: calmer chat login background](https://github.com/freifunkMUC/ffmuc-salt-public/pull/820) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [tuwunel: SSO issuer realm chat](https://github.com/freifunkMUC/ffmuc-salt-public/pull/819) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [keycloak: login themes for the member, chat and noc realms](https://github.com/freifunkMUC/ffmuc-salt-public/pull/818) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [Bump autodiscover-email-settings to 2.0.4 and mastodon-paywall to v0.3.1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/801) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [Bump node to 26.13.1 and 22.23.5 (security release 2026-11-11)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/797) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [Bump node to 26.13.1 (security release 2026-11-11)](https://github.com/freifunkMUC/mastodon-paywall/pull/246) on [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) (1 day ago)
-- [Bump node to 26.13.1 (security release 2026-11-11)](https://github.com/freifunkMUC/autodiscover-email-settings/pull/93) on [freifunkMUC/autodiscover-email-settings](https://github.com/freifunkMUC/autodiscover-email-settings) (1 day ago)
-- [graylog: set the JVM heap to 3 GB](https://github.com/freifunkMUC/ffmuc-salt-public/pull/783) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
-- [mail01: harden autodiscover, roundcube, roundcubedb, mta-sts](https://github.com/freifunkMUC/ffmuc-salt-public/pull/782) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
-- [docker07: harden diun, meet-reserve](https://github.com/freifunkMUC/ffmuc-salt-public/pull/781) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
 
 #### 📓 Gists I wrote
 
