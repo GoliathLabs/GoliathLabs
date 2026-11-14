@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 day ago)
-- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (3 days ago)
-- [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (3 days ago)
-- [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (3 days ago)
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (3 days ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 days ago)
-- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (3 days ago)
-- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (3 days ago)
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (3 days ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 days ago)
+- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (4 days ago)
+- [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (4 days ago)
+- [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (4 days ago)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (4 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (4 days ago)
+- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (4 days ago)
+- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (4 days ago)
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) - Freifunk München specific Gluon configuration (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.1), 1 day ago) - 
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.1), 2 days ago) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.3.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.3.0), 1 week ago) - Helm Charts for wg-access-server
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.4.0](https://github.com/freifunkMUC/wgkex/releases/tag/v0.4.0), 1 week ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.70](https://github.com/Nico640/docker-unms/releases/tag/3.1.70), 1 week ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[v2026.1.x] EdgeRouter X images as -ka](https://github.com/freifunkMUC/site-ffm/pull/996) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (today)
-- [keycloak: ALTCHA for self-registration in realm chat](https://github.com/freifunkMUC/ffmuc-salt-public/pull/829) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [fix(keycloak): cache-bust theme CSS with ?v=](https://github.com/freifunkMUC/ffmuc-salt-public/pull/824) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [keycloak: move hedgedoc and vaultwarden to realm ffmuc (merge in maintenance window)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/823) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [keycloak: calmer chat login background](https://github.com/freifunkMUC/ffmuc-salt-public/pull/820) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [tuwunel: SSO issuer realm chat](https://github.com/freifunkMUC/ffmuc-salt-public/pull/819) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [keycloak: login themes for the member, chat and noc realms](https://github.com/freifunkMUC/ffmuc-salt-public/pull/818) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [Bump autodiscover-email-settings to 2.0.4 and mastodon-paywall to v0.3.1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/801) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [Bump node to 26.13.1 and 22.23.5 (security release 2026-11-11)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/797) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [Bump node to 26.13.1 (security release 2026-11-11)](https://github.com/freifunkMUC/mastodon-paywall/pull/246) on [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) (1 day ago)
+- [[v2026.1.x] EdgeRouter X images as -ka](https://github.com/freifunkMUC/site-ffm/pull/996) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 day ago)
+- [keycloak: ALTCHA for self-registration in realm chat](https://github.com/freifunkMUC/ffmuc-salt-public/pull/829) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [fix(keycloak): cache-bust theme CSS with ?v=](https://github.com/freifunkMUC/ffmuc-salt-public/pull/824) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [keycloak: move hedgedoc and vaultwarden to realm ffmuc (merge in maintenance window)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/823) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [keycloak: calmer chat login background](https://github.com/freifunkMUC/ffmuc-salt-public/pull/820) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
+- [tuwunel: SSO issuer realm chat](https://github.com/freifunkMUC/ffmuc-salt-public/pull/819) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
+- [keycloak: login themes for the member, chat and noc realms](https://github.com/freifunkMUC/ffmuc-salt-public/pull/818) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
+- [Bump autodiscover-email-settings to 2.0.4 and mastodon-paywall to v0.3.1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/801) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
+- [Bump node to 26.13.1 and 22.23.5 (security release 2026-11-11)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/797) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
+- [Bump node to 26.13.1 (security release 2026-11-11)](https://github.com/freifunkMUC/mastodon-paywall/pull/246) on [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -60,10 +60,10 @@
 
 #### ⭐ Recent Stars
 
-- [aligundogdu/matrixmigrate](https://github.com/aligundogdu/matrixmigrate) - A CLI tool for migrating from Mattermost to Matrix Synapse with multi-step, resumable migration support. (3 days ago)
-- [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer (5 days ago)
-- [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (4 weeks ago)
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (4 weeks ago)
+- [aligundogdu/matrixmigrate](https://github.com/aligundogdu/matrixmigrate) - A CLI tool for migrating from Mattermost to Matrix Synapse with multi-step, resumable migration support. (4 days ago)
+- [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer (6 days ago)
+- [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (1 month ago)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 month ago)
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (1 month ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (3 months ago)
