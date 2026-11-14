@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 days ago)
 - [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (4 days ago)
 - [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (4 days ago)
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[v2026.1.x] EdgeRouter X images as -ka](https://github.com/freifunkMUC/site-ffm/pull/996) on [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) (1 day ago)
-- [keycloak: ALTCHA for self-registration in realm chat](https://github.com/freifunkMUC/ffmuc-salt-public/pull/829) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [fix(keycloak): cache-bust theme CSS with ?v=](https://github.com/freifunkMUC/ffmuc-salt-public/pull/824) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [keycloak: move hedgedoc and vaultwarden to realm ffmuc (merge in maintenance window)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/823) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [keycloak: calmer chat login background](https://github.com/freifunkMUC/ffmuc-salt-public/pull/820) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
-- [tuwunel: SSO issuer realm chat](https://github.com/freifunkMUC/ffmuc-salt-public/pull/819) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
-- [keycloak: login themes for the member, chat and noc realms](https://github.com/freifunkMUC/ffmuc-salt-public/pull/818) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
-- [Bump autodiscover-email-settings to 2.0.4 and mastodon-paywall to v0.3.1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/801) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
-- [Bump node to 26.13.1 and 22.23.5 (security release 2026-11-11)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/797) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
-- [Bump node to 26.13.1 (security release 2026-11-11)](https://github.com/freifunkMUC/mastodon-paywall/pull/246) on [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) (2 days ago)
+- [zammad: trust only the four webfrontends and the compose network](https://github.com/freifunkMUC/ffmuc-salt-public/pull/856) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [dokuwiki: mod_remoteip for the webfrontends](https://github.com/freifunkMUC/ffmuc-salt-public/pull/855) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [nginx: ffmuc.net vhost uses the global real_ip_header](https://github.com/freifunkMUC/ffmuc-salt-public/pull/854) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [traefik: trust forwarded headers only from the webfrontends](https://github.com/freifunkMUC/ffmuc-salt-public/pull/853) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [grafana: drop LDAP wildcard Viewer mapping](https://github.com/freifunkMUC/ffmuc-salt-public/pull/852) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [graylog: trust the reverse proxy for X-Forwarded-For](https://github.com/freifunkMUC/ffmuc-salt-public/pull/851) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [ssh: lock users listed in ssh_removed_users](https://github.com/freifunkMUC/ffmuc-salt-public/pull/842) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [iptables: stop fail2ban before the netfilter reload, start it after](https://github.com/freifunkMUC/ffmuc-salt-public/pull/841) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [komodo: enable auto-apply-nightly schedule](https://github.com/freifunkMUC/ffmuc-salt-public/pull/840) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [mail01: request one certificate with mail.ext.ffmuc.net for the mail ports](https://github.com/freifunkMUC/ffmuc-salt-public/pull/839) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 
 #### 📓 Gists I wrote
 
