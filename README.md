@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [pdns-recursor: per-host serve_stale_extensions and network_timeout from the config context](https://github.com/freifunkMUC/ffmuc-salt-public/pull/864) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [openldap-group-member: schema check without LDIF line wrapping](https://github.com/freifunkMUC/ffmuc-salt-public/pull/863) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [docker-user-firewall: match DNAT with --ctstate](https://github.com/freifunkMUC/ffmuc-salt-public/pull/862) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [openldap-group-member: root timer on docker04 mirrors memberUid into member (memberOf)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/861) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
@@ -49,7 +50,6 @@
 - [docker04-07: DOCKER-USER filter for published ports, docker04 Nebula inbound for LDAPS/NetBox/LAM limited](https://github.com/freifunkMUC/ffmuc-salt-public/pull/857) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [zammad: trust only the four webfrontends and the compose network](https://github.com/freifunkMUC/ffmuc-salt-public/pull/856) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [dokuwiki: mod_remoteip for the webfrontends](https://github.com/freifunkMUC/ffmuc-salt-public/pull/855) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [nginx: ffmuc.net vhost uses the global real_ip_header](https://github.com/freifunkMUC/ffmuc-salt-public/pull/854) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 
 #### 📓 Gists I wrote
 
