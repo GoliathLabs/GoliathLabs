@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (today)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (3 days ago)
-- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (5 days ago)
 - [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (5 days ago)
 - [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (5 days ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (5 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [hedgedoc: larger MariaDB buffer pool, scrape metrics every 60s](https://github.com/freifunkMUC/ffmuc-salt-public/pull/889) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [nginx, haproxy: drop server_name aliases without DNS record](https://github.com/freifunkMUC/ffmuc-salt-public/pull/886) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [docker04 uptime-kuma: serve the admin UI at kuma.ov.ffmuc.net via Traefik](https://github.com/freifunkMUC/ffmuc-salt-public/pull/885) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [worker: republish retained data and status periodically](https://github.com/freifunkMUC/wgkex/pull/321) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (today)
@@ -49,7 +50,6 @@
 - [docker-user-firewall: match DNAT with --ctstate](https://github.com/freifunkMUC/ffmuc-salt-public/pull/862) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [openldap-group-member: root timer on docker04 mirrors memberUid into member (memberOf)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/861) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [mattermost: close open sign-up](https://github.com/freifunkMUC/ffmuc-salt-public/pull/860) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [netbox, netbox-parker: CORS only for their own origin](https://github.com/freifunkMUC/ffmuc-salt-public/pull/859) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 
 #### 📓 Gists I wrote
 
