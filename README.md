@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [icinga2: restart instead of reload when the host certificate changes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/908) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [icinga2: drop deprecated ApiListener cert_path/key_path/ca_path](https://github.com/freifunkMUC/ffmuc-salt-public/pull/907) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [telegraf: verify the InfluxDB certificate against the FFMUC CA bundle (opt-in)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/906) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [nebula: key.sls follow-ups to #896](https://github.com/freifunkMUC/ffmuc-salt-public/pull/905) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [grafana, influxdb: restart when the host certificate changes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/904) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [certs: switching back to cfssl replaces an x509-issued certificate](https://github.com/freifunkMUC/ffmuc-salt-public/pull/903) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [wireguard: require python3-netifaces without depending on respondd](https://github.com/freifunkMUC/ffmuc-salt-public/pull/902) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [icinga2: include certs for the v2 CA bundle requisite](https://github.com/freifunkMUC/ffmuc-salt-public/pull/901) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [telegraf: x509_cert input for the host certificate and the internal CA](https://github.com/freifunkMUC/ffmuc-salt-public/pull/900) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [nebula: never show the host key in state output](https://github.com/freifunkMUC/ffmuc-salt-public/pull/899) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [certs: never show the private key in state output](https://github.com/freifunkMUC/ffmuc-salt-public/pull/898) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [certs: optional x509_v2 issuance with host-generated keys](https://github.com/freifunkMUC/ffmuc-salt-public/pull/897) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [nebula: CA bundle, cert versions and optional host-generated keys](https://github.com/freifunkMUC/ffmuc-salt-public/pull/896) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [cfssl: restrict Traefik router to the overlay and the minion endpoints, drop host port](https://github.com/freifunkMUC/ffmuc-salt-public/pull/895) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [zammad: no read_only for PostgreSQL](https://github.com/freifunkMUC/ffmuc-salt-public/pull/894) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [telegraf: zpool health and capacity from zpool list](https://github.com/freifunkMUC/ffmuc-salt-public/pull/893) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [netbox pillar: timeout, retry, fail the render on API errors](https://github.com/freifunkMUC/ffmuc-salt-public/pull/892) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [Harden database containers: read-only root, remaining caps and healthchecks](https://github.com/freifunkMUC/ffmuc-salt-public/pull/891) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 
 #### 📓 Gists I wrote
 
