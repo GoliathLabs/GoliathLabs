@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.5.2](https://github.com/freifunkMUC/wgkex/releases/tag/v0.5.2), 1 day ago) - Project for easy key exchange between Wireguard Clients and Servers
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.6.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.6.1), today) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.1), 5 days ago) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.3.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.3.0), 1 week ago) - Helm Charts for wg-access-server
 - [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.70](https://github.com/Nico640/docker-unms/releases/tag/3.1.70), 2 weeks ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [nextcloud: set REDIS_HOST_PASSWORD for the PHP session handler](https://github.com/freifunkMUC/ffmuc-salt-public/pull/955) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [nextcloud: raise MariaDB buffer pool to 512M](https://github.com/freifunkMUC/ffmuc-salt-public/pull/954) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [sysctl: ping_group_range 0 65535 in containers](https://github.com/freifunkMUC/ffmuc-salt-public/pull/953) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [docker05/nextcloud: fix Redis password variable name](https://github.com/freifunkMUC/ffmuc-salt-public/pull/952) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [docker05/nextcloud: Redis locking and cache, phone region](https://github.com/freifunkMUC/ffmuc-salt-public/pull/951) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [icinga2: do not apply the ntpd check to Jitsi hosts](https://github.com/freifunkMUC/ffmuc-salt-public/pull/950) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [nextcloud: MariaDB log file 256M, tmp tables 64M](https://github.com/freifunkMUC/ffmuc-salt-public/pull/949) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [wgkex: broker config in git](https://github.com/freifunkMUC/ffmuc-salt-public/pull/948) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [bgpalerter: render config.yml from a template with the webhook from pillar](https://github.com/freifunkMUC/ffmuc-salt-public/pull/947) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [stacks: track host configs, mail01 traefik dynamic_conf from git](https://github.com/freifunkMUC/ffmuc-salt-public/pull/946) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [dns-auth: take the meet hosts for in.meet from the mine](https://github.com/freifunkMUC/ffmuc-salt-public/pull/970) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [jitsi/nginx: reach the bridges via in.meet.ffmuc.net](https://github.com/freifunkMUC/ffmuc-salt-public/pull/966) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [dnsdist: route in.meet.ffmuc.net to the auth pool](https://github.com/freifunkMUC/ffmuc-salt-public/pull/965) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [dns-auth: serve in.meet.ffmuc.net, drop the Cloudflare ext sync](https://github.com/freifunkMUC/ffmuc-salt-public/pull/963) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [broker tests: evict stubbed broker modules from the package after use](https://github.com/freifunkMUC/wgkex/pull/332) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (today)
+- [worker: use paho CallbackAPIVersion.VERSION2](https://github.com/freifunkMUC/wgkex/pull/331) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (today)
+- [traefik: drop the apk fallback from the DNS-01 hook](https://github.com/freifunkMUC/ffmuc-salt-public/pull/961) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [worker tests: patch pyroute2 inside netlink instead of sys.modules](https://github.com/freifunkMUC/wgkex/pull/330) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (today)
+- [deps: allow paho-mqtt 2.2, bump CI actions](https://github.com/freifunkMUC/wgkex/pull/329) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (today)
+- [fix: use paho-mqtt callback API version 2](https://github.com/stlehmann/Flask-MQTT/pull/225) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (today)
 
 #### 📓 Gists I wrote
 
