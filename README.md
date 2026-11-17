@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ffdon: take the eol and deprecated device lists from config.json at deploy time](https://github.com/freifunkMUC/meshviewer/pull/187) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (today)
+- [nginx, certs: map.freifunk-donau-ries.de as second name for the Donau-Ries Meshviewer](https://github.com/freifunkMUC/ffmuc-salt-public/pull/981) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [nginx, certs: map.ffdon.net, Donau-Ries Meshviewer on the shared front end](https://github.com/freifunkMUC/ffmuc-salt-public/pull/978) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [dns-auth: take the meet hosts for in.meet from the mine](https://github.com/freifunkMUC/ffmuc-salt-public/pull/970) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [jitsi/nginx: reach the bridges via in.meet.ffmuc.net](https://github.com/freifunkMUC/ffmuc-salt-public/pull/966) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [dnsdist: route in.meet.ffmuc.net to the auth pool](https://github.com/freifunkMUC/ffmuc-salt-public/pull/965) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
@@ -47,9 +50,6 @@
 - [broker tests: evict stubbed broker modules from the package after use](https://github.com/freifunkMUC/wgkex/pull/332) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (today)
 - [worker: use paho CallbackAPIVersion.VERSION2](https://github.com/freifunkMUC/wgkex/pull/331) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (today)
 - [traefik: drop the apk fallback from the DNS-01 hook](https://github.com/freifunkMUC/ffmuc-salt-public/pull/961) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [worker tests: patch pyroute2 inside netlink instead of sys.modules](https://github.com/freifunkMUC/wgkex/pull/330) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (today)
-- [deps: allow paho-mqtt 2.2, bump CI actions](https://github.com/freifunkMUC/wgkex/pull/329) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (today)
-- [fix: use paho-mqtt callback API version 2](https://github.com/stlehmann/Flask-MQTT/pull/225) on [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) (today)
 
 #### 📓 Gists I wrote
 
@@ -60,6 +60,7 @@
 
 #### ⭐ Recent Stars
 
+- [nphil/kibble](https://github.com/nphil/kibble) - Local control for Petkit YumShare Dual cat feeders — on-device agent + Home Assistant integration (today)
 - [aligundogdu/matrixmigrate](https://github.com/aligundogdu/matrixmigrate) - A CLI tool for migrating from Mattermost to Matrix Synapse with multi-step, resumable migration support. (1 week ago)
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer (1 week ago)
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (1 month ago)
@@ -69,7 +70,6 @@
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (3 months ago)
 - [TheScienceElf/UNIVAC-1219](https://github.com/TheScienceElf/UNIVAC-1219) - An emulator and assembler for the UNIVAC-1219 computer (6 months ago)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (7 months ago)
-- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together (7 months ago)
 
 #### 👯 Check out some of my recent followers
 
