@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (today)
+- [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD) (today)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (today)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (4 days ago)
-- [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (6 days ago)
-- [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (6 days ago)
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (6 days ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (6 days ago)
-- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (6 days ago)
-- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (6 days ago)
+- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (1 day ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (5 days ago)
+- [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (1 week ago)
+- [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (1 week ago)
+- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 week ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
+- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -29,27 +29,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.5.2](https://github.com/freifunkMUC/wgkex/releases/tag/v0.5.2), today) - Project for easy key exchange between Wireguard Clients and Servers
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.1), 4 days ago) - 
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.5.2](https://github.com/freifunkMUC/wgkex/releases/tag/v0.5.2), 1 day ago) - Project for easy key exchange between Wireguard Clients and Servers
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.1), 5 days ago) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.3.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.3.0), 1 week ago) - Helm Charts for wg-access-server
 - [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.70](https://github.com/Nico640/docker-unms/releases/tag/3.1.70), 2 weeks ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.10.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.10.1), 4 weeks ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.10.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.10.1), 1 month ago) - Freifunk München specific Gluon configuration
 - [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) ([v0.2.0](https://github.com/freifunkMUC/unified_respondd/releases/tag/v0.2.0), 1 month ago) - 
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.3), 3 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) ([v1.3.0](https://github.com/stlehmann/Flask-MQTT/releases/tag/v1.3.0), 9 months ago) - Flask Extension for the MQTT protocol
 
 #### 🔨 My recent Pull Requests
 
-- [wgkex: v0.5.2 for workers and brokers](https://github.com/freifunkMUC/ffmuc-salt-public/pull/921) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [wgkex: EMQX requires a login and per-user ACL (EMQX auth, step 2/2)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/919) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [wgkex: MQTT credentials for workers and brokers (EMQX auth, step 1/2)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/918) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [config: override single keys with WGKEX__ environment variables](https://github.com/freifunkMUC/wgkex/pull/324) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (today)
-- [mail01 crowdsec: add postfix and dovecot collections](https://github.com/freifunkMUC/ffmuc-salt-public/pull/916) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [mail01 traefik: socket proxy, v3 router rules, drop defaultRuleSyntax v2](https://github.com/freifunkMUC/ffmuc-salt-public/pull/915) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [mail01 crowdsec: bouncer stream mode, WAL, mail relay whitelist](https://github.com/freifunkMUC/ffmuc-salt-public/pull/914) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [wgkex: update to v0.5.1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/913) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [wgkex: update to v0.5.0](https://github.com/freifunkMUC/ffmuc-salt-public/pull/911) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [icinga2: restart instead of reload when the host certificate changes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/908) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [nextcloud: set REDIS_HOST_PASSWORD for the PHP session handler](https://github.com/freifunkMUC/ffmuc-salt-public/pull/955) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [nextcloud: raise MariaDB buffer pool to 512M](https://github.com/freifunkMUC/ffmuc-salt-public/pull/954) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [sysctl: ping_group_range 0 65535 in containers](https://github.com/freifunkMUC/ffmuc-salt-public/pull/953) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [docker05/nextcloud: fix Redis password variable name](https://github.com/freifunkMUC/ffmuc-salt-public/pull/952) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [docker05/nextcloud: Redis locking and cache, phone region](https://github.com/freifunkMUC/ffmuc-salt-public/pull/951) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [icinga2: do not apply the ntpd check to Jitsi hosts](https://github.com/freifunkMUC/ffmuc-salt-public/pull/950) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [nextcloud: MariaDB log file 256M, tmp tables 64M](https://github.com/freifunkMUC/ffmuc-salt-public/pull/949) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [wgkex: broker config in git](https://github.com/freifunkMUC/ffmuc-salt-public/pull/948) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [bgpalerter: render config.yml from a template with the webhook from pillar](https://github.com/freifunkMUC/ffmuc-salt-public/pull/947) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [stacks: track host configs, mail01 traefik dynamic_conf from git](https://github.com/freifunkMUC/ffmuc-salt-public/pull/946) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 
 #### 📓 Gists I wrote
 
@@ -60,7 +60,7 @@
 
 #### ⭐ Recent Stars
 
-- [aligundogdu/matrixmigrate](https://github.com/aligundogdu/matrixmigrate) - A CLI tool for migrating from Mattermost to Matrix Synapse with multi-step, resumable migration support. (6 days ago)
+- [aligundogdu/matrixmigrate](https://github.com/aligundogdu/matrixmigrate) - A CLI tool for migrating from Mattermost to Matrix Synapse with multi-step, resumable migration support. (1 week ago)
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer (1 week ago)
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (1 month ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 month ago)
