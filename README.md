@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.6.1](https://github.com/freifunkMUC/wgkex/releases/tag/v0.6.1), 1 day ago) - Project for easy key exchange between Wireguard Clients and Servers
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.6.4](https://github.com/freifunkMUC/wgkex/releases/tag/v0.6.4), today) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.1), 6 days ago) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.3.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.3.0), 1 week ago) - Helm Charts for wg-access-server
 - [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.70](https://github.com/Nico640/docker-unms/releases/tag/3.1.70), 2 weeks ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
