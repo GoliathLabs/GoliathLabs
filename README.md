@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: provenance mode=max and SBOM attached to the published image](https://github.com/freifunkMUC/openldap-docker/pull/14) on [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) (today)
+- [ci: BuildKit provenance mode=max and SBOM for the image](https://github.com/GoliathLabs/server/pull/4) on [GoliathLabs/server](https://github.com/GoliathLabs/server) (today)
+- [ci: BuildKit provenance mode=max and SBOM for the image](https://github.com/GoliathLabs/lastsignal/pull/7) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (today)
+- [web: build all components from pinned revisions with a consistent Django 5.2](https://github.com/maxking/docker-mailman/pull/799) on [maxking/docker-mailman](https://github.com/maxking/docker-mailman) (today)
+- [core: pin SQLAlchemy below 2.1](https://github.com/maxking/docker-mailman/pull/798) on [maxking/docker-mailman](https://github.com/maxking/docker-mailman) (today)
 - [nebula: prefer internal IPv6 prefix, accept own nebula port on guardian over IPv6](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1024) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [rustic: retry forget once when a snapshot vanishes during listing](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1023) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [icinga2: checks for Matrix, Element and the Tuwunel backup](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1022) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [trivy: weekly image scan of running containers on docker hosts](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1016) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [rustic: raise guardian MemoryMax to 1500M](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1015) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [jitsi/prosody: limit smacks_h cleanup to the prosody data dirs](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1011) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [jitsi/prosody: hourly cleanup of stale smacks_h records](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1010) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [states: hide diffs of files that carry secrets](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1009) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [rustic: hide rustic.toml diff in state output](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1007) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [rustic: exclude Docker image, container and build data from backups](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1006) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 
 #### 📓 Gists I wrote
 
