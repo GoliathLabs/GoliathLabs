@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD) (1 day ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 day ago)
 - [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (2 days ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (6 days ago)
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.6.4](https://github.com/freifunkMUC/wgkex/releases/tag/v0.6.4), today) - Project for easy key exchange between Wireguard Clients and Servers
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.6.5](https://github.com/freifunkMUC/wgkex/releases/tag/v0.6.5), today) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.1), 6 days ago) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.3.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.3.0), 1 week ago) - Helm Charts for wg-access-server
 - [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.70](https://github.com/Nico640/docker-unms/releases/tag/3.1.70), 2 weeks ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ffdon: take the eol and deprecated device lists from config.json at deploy time](https://github.com/freifunkMUC/meshviewer/pull/187) on [freifunkMUC/meshviewer](https://github.com/freifunkMUC/meshviewer) (1 day ago)
-- [nginx, certs: map.freifunk-donau-ries.de as second name for the Donau-Ries Meshviewer](https://github.com/freifunkMUC/ffmuc-salt-public/pull/981) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [nginx, certs: map.ffdon.net, Donau-Ries Meshviewer on the shared front end](https://github.com/freifunkMUC/ffmuc-salt-public/pull/978) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [dns-auth: take the meet hosts for in.meet from the mine](https://github.com/freifunkMUC/ffmuc-salt-public/pull/970) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [jitsi/nginx: reach the bridges via in.meet.ffmuc.net](https://github.com/freifunkMUC/ffmuc-salt-public/pull/966) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [dnsdist: route in.meet.ffmuc.net to the auth pool](https://github.com/freifunkMUC/ffmuc-salt-public/pull/965) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [dns-auth: serve in.meet.ffmuc.net, drop the Cloudflare ext sync](https://github.com/freifunkMUC/ffmuc-salt-public/pull/963) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [broker tests: evict stubbed broker modules from the package after use](https://github.com/freifunkMUC/wgkex/pull/332) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 day ago)
-- [worker: use paho CallbackAPIVersion.VERSION2](https://github.com/freifunkMUC/wgkex/pull/331) on [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) (1 day ago)
-- [traefik: drop the apk fallback from the DNS-01 hook](https://github.com/freifunkMUC/ffmuc-salt-public/pull/961) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [nebula: prefer internal IPv6 prefix, accept own nebula port on guardian over IPv6](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1024) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [rustic: retry forget once when a snapshot vanishes during listing](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1023) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [icinga2: checks for Matrix, Element and the Tuwunel backup](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1022) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [trivy: weekly image scan of running containers on docker hosts](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1016) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [rustic: raise guardian MemoryMax to 1500M](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1015) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [jitsi/prosody: limit smacks_h cleanup to the prosody data dirs](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1011) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [jitsi/prosody: hourly cleanup of stale smacks_h records](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1010) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [states: hide diffs of files that carry secrets](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1009) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [rustic: hide rustic.toml diff in state output](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1007) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [rustic: exclude Docker image, container and build data from backups](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1006) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 
 #### 📓 Gists I wrote
 
