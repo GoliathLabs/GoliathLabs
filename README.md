@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [awlx/packetyeeter](https://github.com/awlx/packetyeeter) - PacketYeeter: eBPF-based DDoS protection and traffic filtering for Linux (XDP + TC) (today)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (1 day ago)
 - [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD) (2 days ago)
@@ -11,7 +12,6 @@
 - [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (1 week ago)
 - [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (1 week ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 week ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -29,27 +29,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.11.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.11.1), today) - Freifunk München specific Gluon configuration
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.6.5](https://github.com/freifunkMUC/wgkex/releases/tag/v0.6.5), 1 day ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.1), 1 week ago) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.3.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.3.0), 1 week ago) - Helm Charts for wg-access-server
 - [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.70](https://github.com/Nico640/docker-unms/releases/tag/3.1.70), 2 weeks ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.10.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.10.1), 1 month ago) - Freifunk München specific Gluon configuration
+- [awlx/packetyeeter](https://github.com/awlx/packetyeeter) ([v0.2.0](https://github.com/awlx/packetyeeter/releases/tag/v0.2.0), 1 month ago) - PacketYeeter: eBPF-based DDoS protection and traffic filtering for Linux (XDP + TC)
 - [freifunkMUC/unified_respondd](https://github.com/freifunkMUC/unified_respondd) ([v0.2.0](https://github.com/freifunkMUC/unified_respondd/releases/tag/v0.2.0), 1 month ago) - 
 - [freifunk-gluon/gluon](https://github.com/freifunk-gluon/gluon) ([v2025.1.3](https://github.com/freifunk-gluon/gluon/releases/tag/v2025.1.3), 3 months ago) - a modular framework for creating OpenWrt-based firmwares for wireless mesh nodes
 - [stlehmann/Flask-MQTT](https://github.com/stlehmann/Flask-MQTT) ([v1.3.0](https://github.com/stlehmann/Flask-MQTT/releases/tag/v1.3.0), 9 months ago) - Flask Extension for the MQTT protocol
 
 #### 🔨 My recent Pull Requests
 
+- [telegraf: drop the trailing colon of the short file.absent declaration](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1041) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [talos: update to v1.14.6](https://github.com/freifunkMUC/talos-dgx-spark/pull/3) on [freifunkMUC/talos-dgx-spark](https://github.com/freifunkMUC/talos-dgx-spark) (today)
+- [rustic: cap the weekly prune so it ends before the nightly backups](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1040) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [haproxy: manage neutral 503 maintenance page](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1039) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [rustic: use the official v0.12.0 release on x86_64 hosts](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1038) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [icinga2: skip sip-registration check while Jitsi dial-in is disabled](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1034) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [jitsi: drop the base64 intrinsics stop-gap on fixed JDKs](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1033) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [examples: fix JA4 SNI flag with integer boolean fetches](https://github.com/awlx/packetyeeter/pull/147) on [awlx/packetyeeter](https://github.com/awlx/packetyeeter) (today)
 - [ci: fail closed on the pending check, publish apk-only rebuilds only when fresher](https://github.com/StarkStrom-Infrastructure/docker-mailman/pull/1) on [StarkStrom-Infrastructure/docker-mailman](https://github.com/StarkStrom-Infrastructure/docker-mailman) (today)
 - [ci: provenance and SBOM, rebuild daily only when needed](https://github.com/StarkStrom-Infrastructure/strichliste/pull/6) on [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) (today)
-- [ci: build with provenance and SBOM](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/148) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (today)
-- [haproxy: pin haproxy-awslc 3.4.8](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1032) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [ffmuc: akvorado valkey 9.1.4, keep versions.yml valkey on 9.0](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1031) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [haproxy: update to 3.4.8, revert meet_backend 405 workaround](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1030) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [cryptpad, dokuwiki: host config files from git](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1028) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 
 #### 📓 Gists I wrote
 
