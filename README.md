@@ -3,19 +3,20 @@
 #### 👷 Check out what I'm currently working on
 
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
-- [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD) (1 day ago)
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (1 day ago)
-- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (2 days ago)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (6 days ago)
+- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (1 day ago)
+- [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD) (2 days ago)
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (2 days ago)
+- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (3 days ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
 - [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (1 week ago)
 - [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (1 week ago)
 - [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 week ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 week ago)
-- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (1 week ago)
 
 #### 🌱 My latest projects
 
 - [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD)
+- [GoliathLabs/packetyeeter](https://github.com/GoliathLabs/packetyeeter) - PacketYeeter: eBPF-based DDoS protection and traffic filtering for Linux (XDP + TC)
 - [GoliathLabs/inventree-mbom](https://github.com/GoliathLabs/inventree-mbom) - Manufacturing BOM for InvenTree – labor/machine cost tracking, process templates, pricing integration
 - [GoliathLabs/libretiny](https://github.com/GoliathLabs/libretiny) - PlatformIO development platform for IoT modules
 - [GoliathLabs/ltchiptool](https://github.com/GoliathLabs/ltchiptool) - Universal, easy-to-use GUI flashing/dumping tool for BK7231, RTL8710B and RTL8720C.
@@ -25,12 +26,11 @@
 - [GoliathLabs/snmp-to-influx-python](https://github.com/GoliathLabs/snmp-to-influx-python) - 
 - [GoliathLabs/Flask-MQTT](https://github.com/GoliathLabs/Flask-MQTT) - Flask Extension for the MQTT protocol
 - [GoliathLabs/roundcube-plugin-identity-from-directory](https://github.com/GoliathLabs/roundcube-plugin-identity-from-directory) - Roundcube plugin to populate and maintain user identities automatically on each login, based on corresponding LDAP or Active Directory user data.
-- [GoliathLabs/excalidraw-backend](https://github.com/GoliathLabs/excalidraw-backend) - Excalidraw collaboration backend for Jitsi
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.6.5](https://github.com/freifunkMUC/wgkex/releases/tag/v0.6.5), today) - Project for easy key exchange between Wireguard Clients and Servers
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.1), 6 days ago) - 
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.6.5](https://github.com/freifunkMUC/wgkex/releases/tag/v0.6.5), 1 day ago) - Project for easy key exchange between Wireguard Clients and Servers
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.1), 1 week ago) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.3.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.3.0), 1 week ago) - Helm Charts for wg-access-server
 - [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.70](https://github.com/Nico640/docker-unms/releases/tag/3.1.70), 2 weeks ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
 - [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.10.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.10.1), 1 month ago) - Freifunk München specific Gluon configuration
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: provenance mode=max and SBOM attached to the published image](https://github.com/freifunkMUC/openldap-docker/pull/14) on [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) (today)
-- [ci: BuildKit provenance mode=max and SBOM for the image](https://github.com/GoliathLabs/server/pull/4) on [GoliathLabs/server](https://github.com/GoliathLabs/server) (today)
-- [ci: BuildKit provenance mode=max and SBOM for the image](https://github.com/GoliathLabs/lastsignal/pull/7) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (today)
-- [web: build all components from pinned revisions with a consistent Django 5.2](https://github.com/maxking/docker-mailman/pull/799) on [maxking/docker-mailman](https://github.com/maxking/docker-mailman) (today)
-- [core: pin SQLAlchemy below 2.1](https://github.com/maxking/docker-mailman/pull/798) on [maxking/docker-mailman](https://github.com/maxking/docker-mailman) (today)
-- [nebula: prefer internal IPv6 prefix, accept own nebula port on guardian over IPv6](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1024) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [rustic: retry forget once when a snapshot vanishes during listing](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1023) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [icinga2: checks for Matrix, Element and the Tuwunel backup](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1022) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [trivy: weekly image scan of running containers on docker hosts](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1016) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [rustic: raise guardian MemoryMax to 1500M](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1015) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [icinga2: skip sip-registration check while Jitsi dial-in is disabled](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1034) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [jitsi: drop the base64 intrinsics stop-gap on fixed JDKs](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1033) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [examples: fix JA4 SNI flag with integer boolean fetches](https://github.com/awlx/packetyeeter/pull/147) on [awlx/packetyeeter](https://github.com/awlx/packetyeeter) (today)
+- [ci: fail closed on the pending check, publish apk-only rebuilds only when fresher](https://github.com/StarkStrom-Infrastructure/docker-mailman/pull/1) on [StarkStrom-Infrastructure/docker-mailman](https://github.com/StarkStrom-Infrastructure/docker-mailman) (today)
+- [ci: provenance and SBOM, rebuild daily only when needed](https://github.com/StarkStrom-Infrastructure/strichliste/pull/6) on [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) (today)
+- [ci: build with provenance and SBOM](https://github.com/freifunkMUC/traefik-crowdsec-bouncer/pull/148) on [freifunkMUC/traefik-crowdsec-bouncer](https://github.com/freifunkMUC/traefik-crowdsec-bouncer) (today)
+- [haproxy: pin haproxy-awslc 3.4.8](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1032) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [ffmuc: akvorado valkey 9.1.4, keep versions.yml valkey on 9.0](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1031) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [haproxy: update to 3.4.8, revert meet_backend 405 workaround](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1030) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [cryptpad, dokuwiki: host config files from git](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1028) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -60,7 +60,7 @@
 
 #### ⭐ Recent Stars
 
-- [nphil/kibble](https://github.com/nphil/kibble) - Local control for Petkit YumShare Dual cat feeders — on-device agent + Home Assistant integration (1 day ago)
+- [nphil/kibble](https://github.com/nphil/kibble) - Local control for Petkit YumShare Dual cat feeders — on-device agent + Home Assistant integration (2 days ago)
 - [aligundogdu/matrixmigrate](https://github.com/aligundogdu/matrixmigrate) - A CLI tool for migrating from Mattermost to Matrix Synapse with multi-step, resumable migration support. (1 week ago)
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer (1 week ago)
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (1 month ago)
@@ -68,7 +68,7 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (1 month ago)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 month ago)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (3 months ago)
-- [TheScienceElf/UNIVAC-1219](https://github.com/TheScienceElf/UNIVAC-1219) - An emulator and assembler for the UNIVAC-1219 computer (6 months ago)
+- [TheScienceElf/UNIVAC-1219](https://github.com/TheScienceElf/UNIVAC-1219) - An emulator and assembler for the UNIVAC-1219 computer (7 months ago)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (7 months ago)
 
 #### 👯 Check out some of my recent followers
