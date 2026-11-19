@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (today)
 - [awlx/packetyeeter](https://github.com/awlx/packetyeeter) - PacketYeeter: eBPF-based DDoS protection and traffic filtering for Linux (XDP + TC) (today)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (1 day ago)
 - [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD) (2 days ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (2 days ago)
-- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (3 days ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
 - [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (1 week ago)
 - [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (1 week ago)
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [nextcloud: trust only the HAProxy webfrontends for X-Forwarded-For](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1069) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [mailqueue: add mailhealth check for mail01](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1068) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [graylog: raise opensearch memory limit to 40g for page cache](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1066) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [rustic: Icinga WARNING when the backup logs "not found in index"](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1065) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [rustic: pause the prune timer](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1064) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [ci: use Ruby 3.4 in build and deploy workflows](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/632) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
 - [telegraf: drop the trailing colon of the short file.absent declaration](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1041) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [talos: update to v1.14.6](https://github.com/freifunkMUC/talos-dgx-spark/pull/3) on [freifunkMUC/talos-dgx-spark](https://github.com/freifunkMUC/talos-dgx-spark) (today)
 - [rustic: cap the weekly prune so it ends before the nightly backups](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1040) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [haproxy: manage neutral 503 maintenance page](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1039) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [rustic: use the official v0.12.0 release on x86_64 hosts](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1038) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [icinga2: skip sip-registration check while Jitsi dial-in is disabled](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1034) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [jitsi: drop the base64 intrinsics stop-gap on fixed JDKs](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1033) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [examples: fix JA4 SNI flag with integer boolean fetches](https://github.com/awlx/packetyeeter/pull/147) on [awlx/packetyeeter](https://github.com/awlx/packetyeeter) (today)
-- [ci: fail closed on the pending check, publish apk-only rebuilds only when fresher](https://github.com/StarkStrom-Infrastructure/docker-mailman/pull/1) on [StarkStrom-Infrastructure/docker-mailman](https://github.com/StarkStrom-Infrastructure/docker-mailman) (today)
-- [ci: provenance and SBOM, rebuild daily only when needed](https://github.com/StarkStrom-Infrastructure/strichliste/pull/6) on [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) (today)
 
 #### 📓 Gists I wrote
 
