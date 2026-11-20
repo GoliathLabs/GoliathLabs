@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (1 day ago)
 - [awlx/packetyeeter](https://github.com/awlx/packetyeeter) - PacketYeeter: eBPF-based DDoS protection and traffic filtering for Linux (XDP + TC) (1 day ago)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
 - [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (2 days ago)
 - [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD) (3 days ago)
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (3 days ago)
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [nextcloud: trust only the HAProxy webfrontends for X-Forwarded-For](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1069) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [mailqueue: add mailhealth check for mail01](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1068) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [graylog: raise opensearch memory limit to 40g for page cache](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1066) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [rustic: Icinga WARNING when the backup logs "not found in index"](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1065) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [rustic: pause the prune timer](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1064) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [ci: use Ruby 3.4 in build and deploy workflows](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/632) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 day ago)
-- [telegraf: drop the trailing colon of the short file.absent declaration](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1041) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [talos: update to v1.14.6](https://github.com/freifunkMUC/talos-dgx-spark/pull/3) on [freifunkMUC/talos-dgx-spark](https://github.com/freifunkMUC/talos-dgx-spark) (1 day ago)
-- [rustic: cap the weekly prune so it ends before the nightly backups](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1040) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [haproxy: manage neutral 503 maintenance page](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1039) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [wazuh: lower ssh brute force with non-existent users below Mattermost](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1091) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [wazuh: document the RBAC rule for OIDC users](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1090) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [wazuh: enable multiple auth for basic + OIDC login](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1089) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [wazuh: reach the manager from the Jitsi hosts over nebula-meet](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1088) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [iptables: INPUT filter for the Jitsi hosts (jvb, jicofo, call)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1087) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [wazuh: reduce alert noise (nginx resets, monitoring sudo, haproxy journal, 404 scans)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1086) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [wazuh: dashboard login by OIDC (Keycloak noc), drop noc-auth](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1085) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [wazuh-agent: agent state and Nebula 1514/1515](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1081) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [wazuh: README creates indexer/data](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1080) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [wazuh: alerts to Mattermost instead of Matrix](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1079) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 
 #### 📓 Gists I wrote
 
