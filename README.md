@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
-- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (2 days ago)
-- [awlx/packetyeeter](https://github.com/awlx/packetyeeter) - PacketYeeter: eBPF-based DDoS protection and traffic filtering for Linux (XDP + TC) (2 days ago)
-- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (3 days ago)
-- [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD) (4 days ago)
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (4 days ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (3 days ago)
+- [awlx/packetyeeter](https://github.com/awlx/packetyeeter) - PacketYeeter: eBPF-based DDoS protection and traffic filtering for Linux (XDP + TC) (3 days ago)
+- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (4 days ago)
+- [GoliathLabs/petlibro-plwf116-esphome](https://github.com/GoliathLabs/petlibro-plwf116-esphome) - ESPHome for the Petlibro PLWF116 cordless water fountain (RTL8721DM / AmebaD) (5 days ago)
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) - Project for easy key exchange between Wireguard Clients and Servers (5 days ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
 - [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (1 week ago)
 - [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (1 week ago)
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.11.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.11.1), 2 days ago) - Freifunk München specific Gluon configuration
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.6.5](https://github.com/freifunkMUC/wgkex/releases/tag/v0.6.5), 3 days ago) - Project for easy key exchange between Wireguard Clients and Servers
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.11.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.11.1), 3 days ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.6.5](https://github.com/freifunkMUC/wgkex/releases/tag/v0.6.5), 4 days ago) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.1), 1 week ago) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.3.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.3.0), 2 weeks ago) - Helm Charts for wg-access-server
 - [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.70](https://github.com/Nico640/docker-unms/releases/tag/3.1.70), 2 weeks ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [influxdb: disable query and HTTP request logging](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1101) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [icinga2: wazuh manager and agent check](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1098) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [wazuh: lower ssh brute force with non-existent users below Mattermost](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1091) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [wazuh: document the RBAC rule for OIDC users](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1090) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [wazuh: enable multiple auth for basic + OIDC login](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1089) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [wazuh: reach the manager from the Jitsi hosts over nebula-meet](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1088) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [iptables: INPUT filter for the Jitsi hosts (jvb, jicofo, call)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1087) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [wazuh: reduce alert noise (nginx resets, monitoring sudo, haproxy journal, 404 scans)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1086) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [wazuh: dashboard login by OIDC (Keycloak noc), drop noc-auth](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1085) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [wazuh-agent: agent state and Nebula 1514/1515](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1081) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [influxdb: disable query and HTTP request logging](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1101) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [icinga2: wazuh manager and agent check](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1098) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [wazuh: lower ssh brute force with non-existent users below Mattermost](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1091) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
+- [wazuh: document the RBAC rule for OIDC users](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1090) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
+- [wazuh: enable multiple auth for basic + OIDC login](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1089) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
+- [wazuh: reach the manager from the Jitsi hosts over nebula-meet](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1088) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
+- [iptables: INPUT filter for the Jitsi hosts (jvb, jicofo, call)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1087) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
+- [wazuh: reduce alert noise (nginx resets, monitoring sudo, haproxy journal, 404 scans)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1086) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
+- [wazuh: dashboard login by OIDC (Keycloak noc), drop noc-auth](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1085) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
+- [wazuh-agent: agent state and Nebula 1514/1515](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1081) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
 
 #### 📓 Gists I wrote
 
@@ -61,9 +61,9 @@
 
 #### ⭐ Recent Stars
 
-- [nphil/kibble](https://github.com/nphil/kibble) - Local control for Petkit YumShare Dual cat feeders — on-device agent + Home Assistant integration (4 days ago)
+- [nphil/kibble](https://github.com/nphil/kibble) - Local control for Petkit YumShare Dual cat feeders — on-device agent + Home Assistant integration (5 days ago)
 - [aligundogdu/matrixmigrate](https://github.com/aligundogdu/matrixmigrate) - A CLI tool for migrating from Mattermost to Matrix Synapse with multi-step, resumable migration support. (1 week ago)
-- [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer (1 week ago)
+- [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer (2 weeks ago)
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (1 month ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 month ago)
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (1 month ago)
