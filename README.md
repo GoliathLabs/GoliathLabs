@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (3 days ago)
 - [awlx/packetyeeter](https://github.com/awlx/packetyeeter) - PacketYeeter: eBPF-based DDoS protection and traffic filtering for Linux (XDP + TC) (3 days ago)
 - [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (4 days ago)
@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [wazuh: one grouped Mattermost message per 5 minutes (custom-digest)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1135) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [trivy: warn only on new fixable CRITICAL (image, CVE) pairs](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1134) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [influxdb: disable query and HTTP request logging](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1101) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [icinga2: wazuh manager and agent check](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1098) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [wazuh: lower ssh brute force with non-existent users below Mattermost](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1091) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
@@ -49,8 +51,6 @@
 - [wazuh: reach the manager from the Jitsi hosts over nebula-meet](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1088) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
 - [iptables: INPUT filter for the Jitsi hosts (jvb, jicofo, call)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1087) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
 - [wazuh: reduce alert noise (nginx resets, monitoring sudo, haproxy journal, 404 scans)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1086) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
-- [wazuh: dashboard login by OIDC (Keycloak noc), drop noc-auth](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1085) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
-- [wazuh-agent: agent state and Nebula 1514/1515](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1081) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
 
 #### 📓 Gists I wrote
 
