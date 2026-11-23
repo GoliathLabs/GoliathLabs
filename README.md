@@ -2,7 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
 - [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (4 days ago)
 - [awlx/packetyeeter](https://github.com/awlx/packetyeeter) - PacketYeeter: eBPF-based DDoS protection and traffic filtering for Linux (XDP + TC) (4 days ago)
 - [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (5 days ago)
@@ -11,7 +12,6 @@
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 week ago)
 - [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (1 week ago)
 - [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (1 week ago)
-- [freifunkMUC/freifunk.net-API](https://github.com/freifunkMUC/freifunk.net-API) - Freifunk.net API JSON File (siehe api.freifunk.net) (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [config: set baseurl explicitly so CSS loads again](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/636) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
+- [conferencemapper: run the freifunkMUC image as non-root](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1140) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [docker04 conferencemapper: harden compose](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1139) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [Rebuild the image weekly and pin the base images by digest](https://github.com/krombel/conferencemapper/pull/151) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (today)
+- [Image CI: digest-pinned, non-root, daily rebuild, smoke test](https://github.com/freifunkMUC/conferencemapper/pull/1) on [freifunkMUC/conferencemapper](https://github.com/freifunkMUC/conferencemapper) (today)
+- [Bump addressable and net-ssh for security advisories](https://github.com/giovantenne/lastsignal/pull/114) on [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) (today)
 - [Bump Rails 8.1.4.1, rack, net-ssh, msgpack, addressable](https://github.com/GoliathLabs/lastsignal/pull/8) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (today)
 - [wazuh: verify digest webhook TLS with certifi bundle](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1138) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [rustic: treat exit 3 (unreadable source file) as success](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1137) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [wazuh: one grouped Mattermost message per 5 minutes (custom-digest)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1135) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [trivy: warn only on new fixable CRITICAL (image, CVE) pairs](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1134) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [influxdb: disable query and HTTP request logging](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1101) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
-- [icinga2: wazuh manager and agent check](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1098) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
-- [wazuh: lower ssh brute force with non-existent users below Mattermost](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1091) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 days ago)
-- [wazuh: document the RBAC rule for OIDC users](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1090) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 days ago)
-- [wazuh: enable multiple auth for basic + OIDC login](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1089) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 days ago)
 
 #### 📓 Gists I wrote
 
