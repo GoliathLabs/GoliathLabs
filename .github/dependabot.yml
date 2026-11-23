@@ -16,7 +16,6 @@ updates:
     reviewers: [GoliathLabs]
     assignees: [GoliathLabs]
     ignore:
-      # nginx stays on its stable branch (even minor versions); the move to
-      # the next one is made by hand.
+      # nginx follows mainline (odd minor versions); a major is made by hand.
       - dependency-name: nginxinc/nginx-unprivileged
-        update-types: ["version-update:semver-minor", "version-update:semver-major"]
+        update-types: ["version-update:semver-major"]
