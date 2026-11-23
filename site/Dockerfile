@@ -13,8 +13,8 @@ RUN hugo build --gc --minify --panicOnWarning --baseURL "$HUGO_BASEURL"
 FROM scratch AS static
 COPY --from=build /project/public /
 
-# The stable branch of nginx: even minor versions.
-FROM docker.io/nginxinc/nginx-unprivileged:1.30.6-alpine-slim@sha256:5d8bb9437d74a600ec5dbf90c035451c724dc33eac8d3a71078f6f8612c345f6
+# The mainline branch of nginx (odd minor versions): it gets fixes first.
+FROM docker.io/nginxinc/nginx-unprivileged:1.31.7-alpine-slim@sha256:a8cb0f33d51fa107c96fd2bd3a71aaf564ec131e9d2bdf8700944f0ed8b170d7
 
 # The base only carries ca-certificates-bundle, which still holds roots Mozilla
 # has removed; the ca-certificates package regenerates the store without them.
