@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (today)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
-- [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (today)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (today)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (today)
-- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (today)
-- [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) - A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when you're gone or unresponsive. (today)
-- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (4 days ago)
-- [awlx/packetyeeter](https://github.com/awlx/packetyeeter) - PacketYeeter: eBPF-based DDoS protection and traffic filtering for Linux (XDP + TC) (4 days ago)
-- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (5 days ago)
+- [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (1 day ago)
+- [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (1 day ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 day ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 day ago)
+- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (1 day ago)
+- [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) - A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when you're gone or unresponsive. (1 day ago)
+- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (5 days ago)
+- [awlx/packetyeeter](https://github.com/awlx/packetyeeter) - PacketYeeter: eBPF-based DDoS protection and traffic filtering for Linux (XDP + TC) (5 days ago)
+- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.6.6](https://github.com/freifunkMUC/wgkex/releases/tag/v0.6.6), 1 day ago) - Project for easy key exchange between Wireguard Clients and Servers
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.11.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.11.1), 4 days ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.6.6](https://github.com/freifunkMUC/wgkex/releases/tag/v0.6.6), 2 days ago) - Project for easy key exchange between Wireguard Clients and Servers
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.11.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.11.1), 5 days ago) - Freifunk München specific Gluon configuration
 - [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) ([v1.1.1](https://github.com/giovantenne/lastsignal/releases/tag/v1.1.1), 1 week ago) - A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when you're gone or unresponsive.
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.1), 1 week ago) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.3.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.3.0), 2 weeks ago) - Helm Charts for wg-access-server
@@ -42,16 +42,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Link the privacy policy in mails to recipients](https://github.com/GoliathLabs/lastsignal/pull/21) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (today)
-- [stacks: OpenWISP controller lab on docker07 (phase 1, draft)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1143) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [config: set baseurl explicitly so CSS loads again](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/636) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (today)
-- [conferencemapper: run the freifunkMUC image as non-root](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1140) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [docker04 conferencemapper: harden compose](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1139) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [Rebuild the image weekly and pin the base images by digest](https://github.com/krombel/conferencemapper/pull/151) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (today)
-- [Image CI: digest-pinned, non-root, daily rebuild, smoke test](https://github.com/freifunkMUC/conferencemapper/pull/1) on [freifunkMUC/conferencemapper](https://github.com/freifunkMUC/conferencemapper) (today)
-- [Bump addressable and net-ssh for security advisories](https://github.com/giovantenne/lastsignal/pull/114) on [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) (today)
-- [Bump Rails 8.1.4.1, rack, net-ssh, msgpack, addressable](https://github.com/GoliathLabs/lastsignal/pull/8) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (today)
-- [wazuh: verify digest webhook TLS with certifi bundle](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1138) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [openwisp: break-glass name answers again](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1146) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [openwisp: publish openwisp.ffmuc.net and openwisp-api.ffmuc.net via HAProxy](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1145) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [Link the privacy policy in mails to recipients](https://github.com/GoliathLabs/lastsignal/pull/21) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (1 day ago)
+- [stacks: OpenWISP controller lab on docker07 (phase 1, draft)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1143) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [config: set baseurl explicitly so CSS loads again](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/636) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 day ago)
+- [conferencemapper: run the freifunkMUC image as non-root](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1140) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [docker04 conferencemapper: harden compose](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1139) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [Rebuild the image weekly and pin the base images by digest](https://github.com/krombel/conferencemapper/pull/151) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (1 day ago)
+- [Image CI: digest-pinned, non-root, daily rebuild, smoke test](https://github.com/freifunkMUC/conferencemapper/pull/1) on [freifunkMUC/conferencemapper](https://github.com/freifunkMUC/conferencemapper) (1 day ago)
+- [Bump addressable and net-ssh for security advisories](https://github.com/giovantenne/lastsignal/pull/114) on [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) (1 day ago)
 
 #### 📓 Gists I wrote
 
@@ -62,8 +62,8 @@
 
 #### ⭐ Recent Stars
 
-- [nphil/kibble](https://github.com/nphil/kibble) - Local control for Petkit YumShare Dual cat feeders — on-device agent + Home Assistant integration (6 days ago)
-- [aligundogdu/matrixmigrate](https://github.com/aligundogdu/matrixmigrate) - A CLI tool for migrating from Mattermost to Matrix Synapse with multi-step, resumable migration support. (1 week ago)
+- [nphil/kibble](https://github.com/nphil/kibble) - Local control for Petkit YumShare Dual cat feeders — on-device agent + Home Assistant integration (1 week ago)
+- [aligundogdu/matrixmigrate](https://github.com/aligundogdu/matrixmigrate) - A CLI tool for migrating from Mattermost to Matrix Synapse with multi-step, resumable migration support. (2 weeks ago)
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer (2 weeks ago)
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (1 month ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 month ago)
