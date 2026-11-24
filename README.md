@@ -42,16 +42,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [unifi: stop publishing ports that are unreachable through anycast](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1175) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [uisp: drop the copied UniFi inform upstream, bind 8099 to localhost](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1174) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [nginx, nebula: forward Omada 6 ports 29815–29817](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1173) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [firewall: route same-site webfrontend and Icinga traffic to docker hosts over Nebula](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1172) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [openwisp: make members of the group openwisp staff](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1171) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [openwisp: Keycloak realm chat, group check in the app](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1165) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [haproxy: send the public OpenWISP admin login to Keycloak](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1164) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [openwisp: break-glass name answers again](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1146) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [openwisp: publish openwisp.ffmuc.net and openwisp-api.ffmuc.net via HAProxy](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1145) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Link the privacy policy in mails to recipients](https://github.com/GoliathLabs/lastsignal/pull/21) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (1 day ago)
-- [stacks: OpenWISP controller lab on docker07 (phase 1, draft)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1143) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [config: set baseurl explicitly so CSS loads again](https://github.com/freifunkMUC/freifunkmuc.github.io/pull/636) on [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) (1 day ago)
-- [conferencemapper: run the freifunkMUC image as non-root](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1140) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [docker04 conferencemapper: harden compose](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1139) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [Rebuild the image weekly and pin the base images by digest](https://github.com/krombel/conferencemapper/pull/151) on [krombel/conferencemapper](https://github.com/krombel/conferencemapper) (1 day ago)
-- [Image CI: digest-pinned, non-root, daily rebuild, smoke test](https://github.com/freifunkMUC/conferencemapper/pull/1) on [freifunkMUC/conferencemapper](https://github.com/freifunkMUC/conferencemapper) (1 day ago)
-- [Bump addressable and net-ssh for security advisories](https://github.com/giovantenne/lastsignal/pull/114) on [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) (1 day ago)
 
 #### 📓 Gists I wrote
 
