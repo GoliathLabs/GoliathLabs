@@ -1,6 +1,6 @@
 # The site as an image: Hugo renders it, nginx serves the result as a
 # non-root user on port 8080.
-FROM ghcr.io/gohugoio/hugo:v0.170.0@sha256:90663d477d1fe08c85643d5752bbf1f4e6391e83f95f85e9942b702649d16cb2 AS build
+FROM ghcr.io/gohugoio/hugo:v0.170.1@sha256:4cc9f383086c0fba180efcf7132cf2f025969c462fedf5fcd2bf921915416797 AS build
 
 # The address the site is built for. The default is the real site; the
 # copy on GitHub Pages sets its own (.github/workflows/site.yml).
