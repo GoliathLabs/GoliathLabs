@@ -3,15 +3,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
+- [freifunkMUC/gluon-signing-issueops](https://github.com/freifunkMUC/gluon-signing-issueops) - Automated Gluon Firmware Manifest signing via GitHub issues - clone and see README for setup (today)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (today)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (today)
 - [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (2 days ago)
 - [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (2 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 days ago)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 days ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (2 days ago)
 - [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) - A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when you're gone or unresponsive. (2 days ago)
 - [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (6 days ago)
-- [awlx/packetyeeter](https://github.com/awlx/packetyeeter) - PacketYeeter: eBPF-based DDoS protection and traffic filtering for Linux (XDP + TC) (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -42,16 +42,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [nginx: no PayPal requests on page load (spende, mitglieder)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1209) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [wazuh: delete manager alert and archive files after 90 days](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1208) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [Optional privacy policy link in recipient mails](https://github.com/giovantenne/lastsignal/pull/120) on [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) (today)
+- [Bump Ruby to 3.4.13](https://github.com/giovantenne/lastsignal/pull/119) on [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) (today)
+- [Serve libsodium from vendor/javascript instead of jsDelivr](https://github.com/giovantenne/lastsignal/pull/118) on [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) (today)
+- [Sync with upstream 2026-11-25, Ruby 3.4.13](https://github.com/GoliathLabs/lastsignal/pull/22) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (today)
+- [trivy: fixed weekday and hour per host for the weekly scan](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1207) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [zammad: 7.3.0-0001](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1206) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [jitsi: mask rpcbind and set postfix to loopback-only on the Meet hosts](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1205) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [haproxy: limit anonymous Grafana API access on stats.ffmuc.net](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1204) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [apt.ffmuc.net: drop armhf filebeat, old yanic builds and dead systemd-packages](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1202) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [salt-master: ignore CA private keys in the fileserver](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1200) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [wg-access-server: update to v1.3.1](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1198) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [nebula: reload instead of restart on ca/cert/key change](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1197) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [unattended-upgrades: pillar-overridable blacklist, optional reboot](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1196) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [grafana: optional Keycloak OIDC login, secret from the config context](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1195) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [rustic: weekly check of a 1 % data subset, pillar-gated](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1194) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 
 #### 📓 Gists I wrote
 
