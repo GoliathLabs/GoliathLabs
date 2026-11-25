@@ -6,11 +6,11 @@
 - [freifunkMUC/gluon-signing-issueops](https://github.com/freifunkMUC/gluon-signing-issueops) - Automated Gluon Firmware Manifest signing via GitHub issues - clone and see README for setup (today)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (today)
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (today)
+- [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) - A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when you're gone or unresponsive. (today)
 - [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (2 days ago)
 - [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (2 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 days ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (2 days ago)
-- [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) - A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when you're gone or unresponsive. (2 days ago)
 - [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (6 days ago)
 
 #### 🌱 My latest projects
@@ -29,10 +29,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) ([v1.1.2](https://github.com/giovantenne/lastsignal/releases/tag/v1.1.2), today) - A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when you're gone or unresponsive.
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.11.2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.11.2), today) - Freifunk München specific Gluon configuration
 - [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.6.7](https://github.com/freifunkMUC/wgkex/releases/tag/v0.6.7), today) - Project for easy key exchange between Wireguard Clients and Servers
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.3.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.3.1), today) - Helm Charts for wg-access-server
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.11.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.11.1), 6 days ago) - Freifunk München specific Gluon configuration
-- [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) ([v1.1.1](https://github.com/giovantenne/lastsignal/releases/tag/v1.1.1), 1 week ago) - A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when you're gone or unresponsive.
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.1), 1 week ago) - 
 - [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.70](https://github.com/Nico640/docker-unms/releases/tag/3.1.70), 3 weeks ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
 - [awlx/packetyeeter](https://github.com/awlx/packetyeeter) ([v0.2.0](https://github.com/awlx/packetyeeter/releases/tag/v0.2.0), 1 month ago) - PacketYeeter: eBPF-based DDoS protection and traffic filtering for Linux (XDP + TC)
@@ -42,16 +42,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [dnsdist: keep the old config while the DNSCrypt pillar is missing](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1215) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [mail01: drop SpamAssassin, longer fail2ban bans](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1214) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [docker04/openldap: keep the LAM config in a volume](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1213) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [dnsdist: identical DNSCrypt resolver certs on all webfrontends](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1212) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [Retention: 7 days for Meet/web logs, 180 days for Etherpad pads, shorter Mastodon IP/session retention](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1210) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [nginx: no PayPal requests on page load (spende, mitglieder)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1209) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [wazuh: delete manager alert and archive files after 90 days](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1208) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [Optional privacy policy link in recipient mails](https://github.com/giovantenne/lastsignal/pull/120) on [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) (today)
 - [Bump Ruby to 3.4.13](https://github.com/giovantenne/lastsignal/pull/119) on [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) (today)
 - [Serve libsodium from vendor/javascript instead of jsDelivr](https://github.com/giovantenne/lastsignal/pull/118) on [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) (today)
-- [Sync with upstream 2026-11-25, Ruby 3.4.13](https://github.com/GoliathLabs/lastsignal/pull/22) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (today)
-- [trivy: fixed weekday and hour per host for the weekly scan](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1207) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [zammad: 7.3.0-0001](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1206) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [jitsi: mask rpcbind and set postfix to loopback-only on the Meet hosts](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1205) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [haproxy: limit anonymous Grafana API access on stats.ffmuc.net](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1204) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 
 #### 📓 Gists I wrote
 
