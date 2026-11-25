@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
-- [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (1 day ago)
-- [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (1 day ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (1 day ago)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 day ago)
-- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (1 day ago)
-- [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) - A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when you're gone or unresponsive. (1 day ago)
-- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (5 days ago)
-- [awlx/packetyeeter](https://github.com/awlx/packetyeeter) - PacketYeeter: eBPF-based DDoS protection and traffic filtering for Linux (XDP + TC) (5 days ago)
-- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (6 days ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (2 days ago)
+- [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (2 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (2 days ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 days ago)
+- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (2 days ago)
+- [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) - A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when you're gone or unresponsive. (2 days ago)
+- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (6 days ago)
+- [awlx/packetyeeter](https://github.com/awlx/packetyeeter) - PacketYeeter: eBPF-based DDoS protection and traffic filtering for Linux (XDP + TC) (6 days ago)
+- [freifunkMUC/openldap-docker](https://github.com/freifunkMUC/openldap-docker) - Container image of OpenLDAP (slapd) as Debian ships it, without startup scripts (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.6.6](https://github.com/freifunkMUC/wgkex/releases/tag/v0.6.6), 2 days ago) - Project for easy key exchange between Wireguard Clients and Servers
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.11.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.11.1), 5 days ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.6.6](https://github.com/freifunkMUC/wgkex/releases/tag/v0.6.6), 3 days ago) - Project for easy key exchange between Wireguard Clients and Servers
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.11.1](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.11.1), 6 days ago) - Freifunk München specific Gluon configuration
 - [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) ([v1.1.1](https://github.com/giovantenne/lastsignal/releases/tag/v1.1.1), 1 week ago) - A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when you're gone or unresponsive.
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.1), 1 week ago) - 
 - [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.3.0](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.3.0), 2 weeks ago) - Helm Charts for wg-access-server
@@ -42,16 +42,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [unifi: stop publishing ports that are unreachable through anycast](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1175) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [uisp: drop the copied UniFi inform upstream, bind 8099 to localhost](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1174) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [nginx, nebula: forward Omada 6 ports 29815–29817](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1173) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [firewall: route same-site webfrontend and Icinga traffic to docker hosts over Nebula](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1172) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [openwisp: make members of the group openwisp staff](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1171) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [openwisp: Keycloak realm chat, group check in the app](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1165) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [haproxy: send the public OpenWISP admin login to Keycloak](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1164) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [openwisp: break-glass name answers again](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1146) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [openwisp: publish openwisp.ffmuc.net and openwisp-api.ffmuc.net via HAProxy](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1145) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [Link the privacy policy in mails to recipients](https://github.com/GoliathLabs/lastsignal/pull/21) on [GoliathLabs/lastsignal](https://github.com/GoliathLabs/lastsignal) (1 day ago)
+- [nebula-meet: reload instead of restart on CA bundle, cert or key change](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1183) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [icinga2: announce downtimes per host only, not per service](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1182) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [jitsi: block private interfaces for ICE host candidates on JVBs](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1180) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [icinga2: render external_address_6 as plain address instead of a list string](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1179) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [haproxy: set tune.lua.bool-sample-conversion explicitly](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1178) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [rustic: prune weekly with --keep-delete 72h, 12h timeout and check, pillar-gated](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1177) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [haproxy, nebula: forward the UniFi guest portal ports 8880 and 8843](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1176) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [unifi: stop publishing ports that are unreachable through anycast](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1175) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [uisp: drop the copied UniFi inform upstream, bind 8099 to localhost](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1174) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [nginx, nebula: forward Omada 6 ports 29815–29817](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1173) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 
 #### 📓 Gists I wrote
 
