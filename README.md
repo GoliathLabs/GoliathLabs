@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [freifunkMUC/emqx-docker](https://github.com/freifunkMUC/emqx-docker) - Container image of EMQX 5.8.9 (Apache-2.0) with current Debian security updates (today)
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
 - [freifunkMUC/gluon-signing-issueops](https://github.com/freifunkMUC/gluon-signing-issueops) - Automated Gluon Firmware Manifest signing via GitHub issues - clone and see README for setup (1 day ago)
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 day ago)
@@ -11,7 +12,6 @@
 - [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (3 days ago)
 - [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 days ago)
 - [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (3 days ago)
-- [StarkStrom-Infrastructure/strichliste](https://github.com/StarkStrom-Infrastructure/strichliste) - Container image of strichliste-backend, built from upstream releases (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -42,6 +42,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [wgkex: EMQX 5.8.9 from freifunkMUC/emqx-docker (Debian security updates)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1229) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [trivy: ignore linux-libc-dev (kernel headers)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1228) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [wazuh-agent: raise client_buffer queue_size to 20000](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1227) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [openwisp: personal organization per user at login](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1218) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [dokuwiki: weekly sync of meeting minutes from Etherpad](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1217) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [vaultwarden: icons via DuckDuckGo; openwisp: Site domain note](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1216) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
@@ -49,9 +52,6 @@
 - [mail01: drop SpamAssassin, longer fail2ban bans](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1214) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [docker04/openldap: keep the LAM config in a volume](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1213) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [dnsdist: identical DNSCrypt resolver certs on all webfrontends](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1212) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [Retention: 7 days for Meet/web logs, 180 days for Etherpad pads, shorter Mastodon IP/session retention](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1210) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [nginx: no PayPal requests on page load (spende, mitglieder)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1209) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [wazuh: delete manager alert and archive files after 90 days](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1208) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 
 #### 📓 Gists I wrote
 
