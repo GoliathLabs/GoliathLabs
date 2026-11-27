@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [freifunkMUC/emqx-docker](https://github.com/freifunkMUC/emqx-docker) - Container image of EMQX 5.8.9 (Apache-2.0) with current Debian security updates (today)
-- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (today)
-- [freifunkMUC/gluon-signing-issueops](https://github.com/freifunkMUC/gluon-signing-issueops) - Automated Gluon Firmware Manifest signing via GitHub issues - clone and see README for setup (1 day ago)
-- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (1 day ago)
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (1 day ago)
-- [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) - A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when you're gone or unresponsive. (1 day ago)
-- [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (3 days ago)
-- [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (3 days ago)
-- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (3 days ago)
-- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (3 days ago)
+- [freifunkMUC/emqx-docker](https://github.com/freifunkMUC/emqx-docker) - Container image of EMQX 5.8.9 (Apache-2.0) with current Debian security updates (1 day ago)
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states (1 day ago)
+- [freifunkMUC/gluon-signing-issueops](https://github.com/freifunkMUC/gluon-signing-issueops) - Automated Gluon Firmware Manifest signing via GitHub issues - clone and see README for setup (2 days ago)
+- [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) -  (2 days ago)
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) - Helm Charts for wg-access-server (2 days ago)
+- [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) - A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when you're gone or unresponsive. (2 days ago)
+- [freifunkMUC/cs-firewall-bouncer-docker](https://github.com/freifunkMUC/cs-firewall-bouncer-docker) - CrowdSec firewall bouncer (nftables) as a distroless container image (4 days ago)
+- [freifunkMUC/freifunk-map-modern](https://github.com/freifunkMUC/freifunk-map-modern) - A golang Map (4 days ago)
+- [freifunkMUC/freifunkmuc.github.io](https://github.com/freifunkMUC/freifunkmuc.github.io) - Website von Freifunk Muenchen (4 days ago)
+- [freifunkMUC/proxyguard-docker](https://github.com/freifunkMUC/proxyguard-docker) - Container images for ProxyGuard (https://codeberg.org/eduVPN/proxyguard) (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,10 +29,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) ([v1.1.2](https://github.com/giovantenne/lastsignal/releases/tag/v1.1.2), 1 day ago) - A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when you're gone or unresponsive.
-- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.11.2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.11.2), 1 day ago) - Freifunk München specific Gluon configuration
-- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.6.7](https://github.com/freifunkMUC/wgkex/releases/tag/v0.6.7), 1 day ago) - Project for easy key exchange between Wireguard Clients and Servers
-- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.3.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.3.1), 1 day ago) - Helm Charts for wg-access-server
+- [giovantenne/lastsignal](https://github.com/giovantenne/lastsignal) ([v1.1.2](https://github.com/giovantenne/lastsignal/releases/tag/v1.1.2), 2 days ago) - A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones — when you're gone or unresponsive.
+- [freifunkMUC/site-ffm](https://github.com/freifunkMUC/site-ffm) ([v2026.11.2](https://github.com/freifunkMUC/site-ffm/releases/tag/v2026.11.2), 2 days ago) - Freifunk München specific Gluon configuration
+- [freifunkMUC/wgkex](https://github.com/freifunkMUC/wgkex) ([v0.6.7](https://github.com/freifunkMUC/wgkex/releases/tag/v0.6.7), 2 days ago) - Project for easy key exchange between Wireguard Clients and Servers
+- [freifunkMUC/wg-access-server-chart](https://github.com/freifunkMUC/wg-access-server-chart) ([wg-access-server-1.3.1](https://github.com/freifunkMUC/wg-access-server-chart/releases/tag/wg-access-server-1.3.1), 2 days ago) - Helm Charts for wg-access-server
 - [freifunkMUC/mastodon-paywall](https://github.com/freifunkMUC/mastodon-paywall) ([v0.3.1](https://github.com/freifunkMUC/mastodon-paywall/releases/tag/v0.3.1), 2 weeks ago) - 
 - [Nico640/docker-unms](https://github.com/Nico640/docker-unms) ([3.1.70](https://github.com/Nico640/docker-unms/releases/tag/3.1.70), 3 weeks ago) - All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).
 - [awlx/packetyeeter](https://github.com/awlx/packetyeeter) ([v0.2.0](https://github.com/awlx/packetyeeter/releases/tag/v0.2.0), 1 month ago) - PacketYeeter: eBPF-based DDoS protection and traffic filtering for Linux (XDP + TC)
@@ -42,16 +42,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [wgkex: EMQX 5.8.9 from freifunkMUC/emqx-docker (Debian security updates)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1229) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [trivy: ignore linux-libc-dev (kernel headers)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1228) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [wazuh-agent: raise client_buffer queue_size to 20000](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1227) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
-- [openwisp: personal organization per user at login](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1218) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [dokuwiki: weekly sync of meeting minutes from Etherpad](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1217) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [vaultwarden: icons via DuckDuckGo; openwisp: Site domain note](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1216) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [dnsdist: keep the old config while the DNSCrypt pillar is missing](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1215) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [mail01: drop SpamAssassin, longer fail2ban bans](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1214) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [docker04/openldap: keep the LAM config in a volume](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1213) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
-- [dnsdist: identical DNSCrypt resolver certs on all webfrontends](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1212) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [wgkex: EMQX 5.8.9 from freifunkMUC/emqx-docker (Debian security updates)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1229) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [trivy: ignore linux-libc-dev (kernel headers)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1228) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [wazuh-agent: raise client_buffer queue_size to 20000](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1227) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
+- [openwisp: personal organization per user at login](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1218) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
+- [dokuwiki: weekly sync of meeting minutes from Etherpad](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1217) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
+- [vaultwarden: icons via DuckDuckGo; openwisp: Site domain note](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1216) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
+- [dnsdist: keep the old config while the DNSCrypt pillar is missing](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1215) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
+- [mail01: drop SpamAssassin, longer fail2ban bans](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1214) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
+- [docker04/openldap: keep the LAM config in a volume](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1213) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
+- [dnsdist: identical DNSCrypt resolver certs on all webfrontends](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1212) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
 
 #### 📓 Gists I wrote
 
