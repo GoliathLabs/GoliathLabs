@@ -42,6 +42,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [unifi-os-server: drop qemu-guest-agent, ff_base manages it](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1254) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
+- [unifi-os-server: state for UniFi OS Server on unifi-os](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1253) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [wazuh-agent: rootcheck ignores buildx buildkit cache volumes](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1252) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (today)
 - [mail01: drop default_process_limit 500, Dovecot default 100](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1235) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [mail01: dovecot-tempfail jail, user+IP limit 20, incremental fail2ban bans](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1234) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
@@ -50,8 +52,6 @@
 - [fastd: purge leftover package and unit on the gateways](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1232) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (1 day ago)
 - [wgkex: EMQX 5.8.9 from freifunkMUC/emqx-docker (Debian security updates)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1229) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
 - [trivy: ignore linux-libc-dev (kernel headers)](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1228) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
-- [wazuh-agent: raise client_buffer queue_size to 20000](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1227) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (2 days ago)
-- [openwisp: personal organization per user at login](https://github.com/freifunkMUC/ffmuc-salt-public/pull/1218) on [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) (3 days ago)
 
 #### 📓 Gists I wrote
 
